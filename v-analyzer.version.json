@@ -1,0 +1,104 @@
+{
+  "0.0.3-beta.1": [
+    {
+      "Url": "https://github.com/v-analyzer/v-analyzer/releases/download/0.0.3-beta.1/v-analyzer-darwin-arm64.zip",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/v-analyzer/v-analyzer/releases/download/0.0.3-beta.1/v-analyzer-darwin-x86_64.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/v-analyzer/v-analyzer/releases/download/0.0.3-beta.1/v-analyzer-linux-x86_64.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/v-analyzer/v-analyzer/releases/download/0.0.3-beta.1/v-analyzer-windows-x86_64.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "nightly": [
+    {
+      "Url": "https://github.com/v-analyzer/v-analyzer/releases/download/nightly/v-analyzer-darwin-arm64.zip",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/v-analyzer/v-analyzer/releases/download/nightly/v-analyzer-darwin-x86_64.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/v-analyzer/v-analyzer/releases/download/nightly/v-analyzer-linux-x86_64.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/v-analyzer/v-analyzer/releases/download/nightly/v-analyzer-windows-x86_64.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.0.1-beta.1": [
+    {
+      "Url": "https://github.com/v-analyzer/v-analyzer/releases/download/v0.0.1-beta.1/v-analyzer-darwin-arm64.zip",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/v-analyzer/v-analyzer/releases/download/v0.0.1-beta.1/v-analyzer-darwin-x86_64.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/v-analyzer/v-analyzer/releases/download/v0.0.1-beta.1/v-analyzer-linux-x86_64.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/v-analyzer/v-analyzer/releases/download/v0.0.1-beta.1/v-analyzer-windows-x86_64.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ]
+}
