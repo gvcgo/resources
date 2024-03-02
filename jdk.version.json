@@ -1,0 +1,298 @@
+{
+  "11": [
+    {
+      "Url": "https://d6.injdk.cn/oraclejdk/11/jdk-11.0.21_windows-x64_bin.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": "LTS,injdk.cn"
+    },
+    {
+      "Url": "https://d6.injdk.cn/oraclejdk/11/jdk-11.0.21_macos-x64_bin.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": "LTS,injdk.cn"
+    },
+    {
+      "Url": "https://d6.injdk.cn/oraclejdk/11/jdk-11.0.21_macos-aarch64_bin.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": "LTS,injdk.cn"
+    },
+    {
+      "Url": "https://d6.injdk.cn/oraclejdk/11/jdk-11.0.21_linux-x64_bin.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": "LTS,injdk.cn"
+    },
+    {
+      "Url": "https://d6.injdk.cn/oraclejdk/11/jdk-11.0.21_linux-aarch64_bin.tar.gz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": "LTS,injdk.cn"
+    }
+  ],
+  "17": [
+    {
+      "Url": "https://d6.injdk.cn/oraclejdk/17/jdk-17_windows-x64_bin.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": "LTS,injdk.cn"
+    },
+    {
+      "Url": "https://d6.injdk.cn/oraclejdk/17/jdk-17_macos-x64_bin.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": "LTS,injdk.cn"
+    },
+    {
+      "Url": "https://d6.injdk.cn/oraclejdk/17/jdk-17_macos-aarch64_bin.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": "LTS,injdk.cn"
+    },
+    {
+      "Url": "https://d6.injdk.cn/oraclejdk/17/jdk-17_linux-x64_bin.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": "LTS,injdk.cn"
+    },
+    {
+      "Url": "https://d6.injdk.cn/oraclejdk/17/jdk-17_linux-aarch64_bin.tar.gz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": "LTS,injdk.cn"
+    },
+    {
+      "Url": "https://download.oracle.com/java/17/latest/jdk-17_linux-x64_bin.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "e4fb2df9a32a876afb0a6e17f54c594c2780e18badfa2e8fc99bc2656b0a57b1",
+      "SumType": "sha256",
+      "Extra": "oracle.com"
+    },
+    {
+      "Url": "https://download.oracle.com/java/17/latest/jdk-17_macos-aarch64_bin.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "d5bec93922815e9337040678ddf3f40e50b63c2b588cf63574fa1f2010206042",
+      "SumType": "sha256",
+      "Extra": "oracle.com"
+    },
+    {
+      "Url": "https://download.oracle.com/java/17/latest/jdk-17_macos-x64_bin.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "7b68b833f392aa543ba538f94c60fd477581fef96a9c1ae059fa4158e9ce75ff",
+      "SumType": "sha256",
+      "Extra": "oracle.com"
+    },
+    {
+      "Url": "https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "c98d85c8417703b0f72ddc5757ed66f3478ea7107b0e6d2a98cadbc73a45d77b",
+      "SumType": "sha256",
+      "Extra": "oracle.com"
+    },
+    {
+      "Url": "https://download.oracle.com/java/17/latest/jdk-17_linux-x64_bin.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "e4fb2df9a32a876afb0a6e17f54c594c2780e18badfa2e8fc99bc2656b0a57b1",
+      "SumType": "sha256",
+      "Extra": "oracle.com"
+    },
+    {
+      "Url": "https://download.oracle.com/java/17/latest/jdk-17_macos-aarch64_bin.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "d5bec93922815e9337040678ddf3f40e50b63c2b588cf63574fa1f2010206042",
+      "SumType": "sha256",
+      "Extra": "oracle.com"
+    },
+    {
+      "Url": "https://download.oracle.com/java/17/latest/jdk-17_macos-x64_bin.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "7b68b833f392aa543ba538f94c60fd477581fef96a9c1ae059fa4158e9ce75ff",
+      "SumType": "sha256",
+      "Extra": "oracle.com"
+    },
+    {
+      "Url": "https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "c98d85c8417703b0f72ddc5757ed66f3478ea7107b0e6d2a98cadbc73a45d77b",
+      "SumType": "sha256",
+      "Extra": "oracle.com"
+    }
+  ],
+  "21": [
+    {
+      "Url": "https://d6.injdk.cn/oraclejdk/21/jdk-21_windows-x64_bin.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ",injdk.cn"
+    },
+    {
+      "Url": "https://d6.injdk.cn/oraclejdk/21/jdk-21_macos-x64_bin.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ",injdk.cn"
+    },
+    {
+      "Url": "https://d6.injdk.cn/oraclejdk/21/jdk-21_macos-aarch64_bin.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ",injdk.cn"
+    },
+    {
+      "Url": "https://d6.injdk.cn/oraclejdk/21/jdk-21_linux-x64_bin.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ",injdk.cn"
+    },
+    {
+      "Url": "https://d6.injdk.cn/oraclejdk/21/jdk-21_linux-aarch64_bin.tar.gz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ",injdk.cn"
+    },
+    {
+      "Url": "https://download.oracle.com/java/21/latest/jdk-21_linux-x64_bin.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "9f1f4a7f25ef6a73255657c40a6d7714f2d269cf15fb2ff1dc9c0c8b56623a6f",
+      "SumType": "sha256",
+      "Extra": "oracle.com"
+    },
+    {
+      "Url": "https://download.oracle.com/java/21/latest/jdk-21_macos-aarch64_bin.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "4b94951f03efe44cb6656e43f1098db3ce254a00412f9d22dff18a8328a7efdd",
+      "SumType": "sha256",
+      "Extra": "oracle.com"
+    },
+    {
+      "Url": "https://download.oracle.com/java/21/latest/jdk-21_macos-x64_bin.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "197a923b1f7ea2b224fafdfb9c3ef5fc8eb197d9817d7631d96da02b619f5975",
+      "SumType": "sha256",
+      "Extra": "oracle.com"
+    },
+    {
+      "Url": "https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "776afe55020560f175d8099710d8ac07c4d40772c694385c3dd765117cbd0ac3",
+      "SumType": "sha256",
+      "Extra": "oracle.com"
+    },
+    {
+      "Url": "https://download.oracle.com/java/21/latest/jdk-21_linux-x64_bin.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "9f1f4a7f25ef6a73255657c40a6d7714f2d269cf15fb2ff1dc9c0c8b56623a6f",
+      "SumType": "sha256",
+      "Extra": "oracle.com"
+    },
+    {
+      "Url": "https://download.oracle.com/java/21/latest/jdk-21_macos-aarch64_bin.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "4b94951f03efe44cb6656e43f1098db3ce254a00412f9d22dff18a8328a7efdd",
+      "SumType": "sha256",
+      "Extra": "oracle.com"
+    },
+    {
+      "Url": "https://download.oracle.com/java/21/latest/jdk-21_macos-x64_bin.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "197a923b1f7ea2b224fafdfb9c3ef5fc8eb197d9817d7631d96da02b619f5975",
+      "SumType": "sha256",
+      "Extra": "oracle.com"
+    },
+    {
+      "Url": "https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "776afe55020560f175d8099710d8ac07c4d40772c694385c3dd765117cbd0ac3",
+      "SumType": "sha256",
+      "Extra": "oracle.com"
+    }
+  ],
+  "8": [
+    {
+      "Url": "https://d6.injdk.cn/oraclejdk/8/jdk-8u381-macosx-aarch64.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": "LTS,injdk.cn"
+    },
+    {
+      "Url": "https://d6.injdk.cn/oraclejdk/8/jdk-8u381-linux-i586.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": "LTS,injdk.cn"
+    },
+    {
+      "Url": "https://d6.injdk.cn/oraclejdk/8/jdk-8u381-linux-x64.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": "LTS,injdk.cn"
+    },
+    {
+      "Url": "https://d6.injdk.cn/oraclejdk/8/jdk-8u381-linux-aarch64.tar.gz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": "LTS,injdk.cn"
+    },
+    {
+      "Url": "https://d6.injdk.cn/oraclejdk/8/jdk-8u381-linux-arm32-vfp-hflt.tar.gz",
+      "Arch": "arm",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": "LTS,injdk.cn"
+    }
+  ]
+}
