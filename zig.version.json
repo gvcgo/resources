@@ -1,0 +1,874 @@
+{
+  "0.1.1": [
+    {
+      "Url": "https://ziglang.org/download/0.1.1/zig-win64-0.1.1.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "0.10.0": [
+    {
+      "Url": "https://ziglang.org/download/0.10.0/zig-windows-x86_64-0.10.0.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.10.0/zig-windows-aarch64-0.10.0.zip",
+      "Arch": "arm64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.10.0/zig-macos-aarch64-0.10.0.tar.xz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.10.0/zig-macos-x86_64-0.10.0.tar.xz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.10.0/zig-linux-x86_64-0.10.0.tar.xz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.10.0/zig-linux-i386-0.10.0.tar.xz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.10.0/zig-linux-aarch64-0.10.0.tar.xz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.10.0/zig-freebsd-x86_64-0.10.0.tar.xz",
+      "Arch": "amd64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "0.10.1": [
+    {
+      "Url": "https://ziglang.org/download/0.10.1/zig-windows-x86_64-0.10.1.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.10.1/zig-windows-aarch64-0.10.1.zip",
+      "Arch": "arm64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.10.1/zig-macos-aarch64-0.10.1.tar.xz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.10.1/zig-macos-x86_64-0.10.1.tar.xz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.10.1/zig-linux-x86_64-0.10.1.tar.xz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.10.1/zig-linux-i386-0.10.1.tar.xz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.10.1/zig-linux-aarch64-0.10.1.tar.xz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "0.11.0": [
+    {
+      "Url": "https://ziglang.org/download/0.11.0/zig-windows-x86_64-0.11.0.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.11.0/zig-windows-x86-0.11.0.zip",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.11.0/zig-windows-aarch64-0.11.0.zip",
+      "Arch": "arm64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.11.0/zig-macos-aarch64-0.11.0.tar.xz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.11.0/zig-macos-x86_64-0.11.0.tar.xz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.11.0/zig-linux-x86_64-0.11.0.tar.xz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.11.0/zig-linux-x86-0.11.0.tar.xz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.11.0/zig-linux-aarch64-0.11.0.tar.xz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.11.0/zig-linux-powerpc64le-0.11.0.tar.xz",
+      "Arch": "ppc64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.11.0/zig-freebsd-x86_64-0.11.0.tar.xz",
+      "Arch": "amd64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "0.2.0": [
+    {
+      "Url": "https://ziglang.org/download/0.2.0/zig-win64-0.2.0.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.2.0/zig-linux-x86_64-0.2.0.tar.xz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "0.3.0": [
+    {
+      "Url": "https://ziglang.org/download/0.3.0/zig-windows-x86_64-0.3.0.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.3.0/zig-macos-x86_64-0.3.0.tar.xz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.3.0/zig-linux-x86_64-0.3.0.tar.xz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "0.4.0": [
+    {
+      "Url": "https://ziglang.org/download/0.4.0/zig-windows-x86_64-0.4.0.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.4.0/zig-macos-x86_64-0.4.0.tar.xz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.4.0/zig-linux-x86_64-0.4.0.tar.xz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.4.0/zig-freebsd-x86_64-0.4.0.tar.xz",
+      "Arch": "amd64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "0.5.0": [
+    {
+      "Url": "https://ziglang.org/download/0.5.0/zig-windows-x86_64-0.5.0.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.5.0/zig-macos-x86_64-0.5.0.tar.xz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.5.0/zig-linux-x86_64-0.5.0.tar.xz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.5.0/zig-freebsd-x86_64-0.5.0.tar.xz",
+      "Arch": "amd64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "0.6.0": [
+    {
+      "Url": "https://ziglang.org/download/0.6.0/zig-windows-x86_64-0.6.0.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.6.0/zig-windows-i386-0.6.0.zip",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.6.0/zig-macos-x86_64-0.6.0.tar.xz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.6.0/zig-linux-x86_64-0.6.0.tar.xz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.6.0/zig-linux-i386-0.6.0.tar.xz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.6.0/zig-linux-aarch64-0.6.0.tar.xz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.6.0/zig-linux-armv6kz-0.6.0.tar.xz",
+      "Arch": "arm",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.6.0/zig-freebsd-x86_64-0.6.0.tar.xz",
+      "Arch": "amd64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "0.7.0": [
+    {
+      "Url": "https://ziglang.org/download/0.7.0/zig-windows-x86_64-0.7.0.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.7.0/zig-windows-i386-0.7.0.zip",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.7.0/zig-macos-aarch64-0.7.0.tar.xz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.7.0/zig-macos-x86_64-0.7.0.tar.xz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.7.0/zig-linux-x86_64-0.7.0.tar.xz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.7.0/zig-linux-i386-0.7.0.tar.xz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.7.0/zig-linux-aarch64-0.7.0.tar.xz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.7.0/zig-freebsd-x86_64-0.7.0.tar.xz",
+      "Arch": "amd64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "0.7.1": [
+    {
+      "Url": "https://ziglang.org/download/0.7.1/zig-windows-x86_64-0.7.1.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.7.1/zig-windows-i386-0.7.1.zip",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.7.1/zig-macos-x86_64-0.7.1.tar.xz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.7.1/zig-linux-x86_64-0.7.1.tar.xz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.7.1/zig-linux-i386-0.7.1.tar.xz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.7.1/zig-linux-aarch64-0.7.1.tar.xz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.7.1/zig-freebsd-x86_64-0.7.1.tar.xz",
+      "Arch": "amd64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "0.8.0": [
+    {
+      "Url": "https://ziglang.org/download/0.8.0/zig-windows-x86_64-0.8.0.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.8.0/zig-windows-i386-0.8.0.zip",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.8.0/zig-macos-aarch64-0.8.0.tar.xz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.8.0/zig-macos-x86_64-0.8.0.tar.xz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.8.0/zig-linux-x86_64-0.8.0.tar.xz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.8.0/zig-linux-i386-0.8.0.tar.xz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.8.0/zig-linux-aarch64-0.8.0.tar.xz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.8.0/zig-freebsd-x86_64-0.8.0.tar.xz",
+      "Arch": "amd64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "0.8.1": [
+    {
+      "Url": "https://ziglang.org/download/0.8.1/zig-windows-x86_64-0.8.1.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.8.1/zig-windows-i386-0.8.1.zip",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.8.1/zig-macos-aarch64-0.8.1.tar.xz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.8.1/zig-macos-x86_64-0.8.1.tar.xz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.8.1/zig-linux-x86_64-0.8.1.tar.xz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.8.1/zig-linux-i386-0.8.1.tar.xz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.8.1/zig-linux-aarch64-0.8.1.tar.xz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.8.1/zig-freebsd-x86_64-0.8.1.tar.xz",
+      "Arch": "amd64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "0.9.0": [
+    {
+      "Url": "https://ziglang.org/download/0.9.0/zig-windows-x86_64-0.9.0.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.9.0/zig-windows-i386-0.9.0.zip",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.9.0/zig-windows-aarch64-0.9.0.zip",
+      "Arch": "arm64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.9.0/zig-macos-aarch64-0.9.0.tar.xz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.9.0/zig-macos-x86_64-0.9.0.tar.xz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.9.0/zig-linux-x86_64-0.9.0.tar.xz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.9.0/zig-linux-i386-0.9.0.tar.xz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.9.0/zig-linux-aarch64-0.9.0.tar.xz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.9.0/zig-freebsd-x86_64-0.9.0.tar.xz",
+      "Arch": "amd64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "0.9.1": [
+    {
+      "Url": "https://ziglang.org/download/0.9.1/zig-windows-x86_64-0.9.1.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.9.1/zig-windows-i386-0.9.1.zip",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.9.1/zig-windows-aarch64-0.9.1.zip",
+      "Arch": "arm64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.9.1/zig-macos-aarch64-0.9.1.tar.xz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.9.1/zig-macos-x86_64-0.9.1.tar.xz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.9.1/zig-linux-x86_64-0.9.1.tar.xz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.9.1/zig-linux-i386-0.9.1.tar.xz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.9.1/zig-linux-aarch64-0.9.1.tar.xz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/download/0.9.1/zig-freebsd-x86_64-0.9.1.tar.xz",
+      "Arch": "amd64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "master": [
+    {
+      "Url": "https://ziglang.org/builds/zig-windows-x86_64-0.12.0-dev.3125+a7a5f4cf4.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/builds/zig-windows-x86-0.12.0-dev.3125+a7a5f4cf4.zip",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/builds/zig-windows-aarch64-0.12.0-dev.3125+a7a5f4cf4.zip",
+      "Arch": "arm64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/builds/zig-macos-aarch64-0.12.0-dev.3125+a7a5f4cf4.tar.xz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/builds/zig-macos-x86_64-0.12.0-dev.3125+a7a5f4cf4.tar.xz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/builds/zig-linux-x86_64-0.12.0-dev.3125+a7a5f4cf4.tar.xz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/builds/zig-linux-x86-0.12.0-dev.3125+a7a5f4cf4.tar.xz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/builds/zig-linux-aarch64-0.12.0-dev.3125+a7a5f4cf4.tar.xz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://ziglang.org/builds/zig-linux-powerpc64le-0.12.0-dev.3125+a7a5f4cf4.tar.xz",
+      "Arch": "ppc64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ]
+}
