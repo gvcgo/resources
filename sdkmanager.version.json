@@ -1,0 +1,28 @@
+{
+  "11076708": [
+    {
+      "Url": "https://dl.google.com/android/repository/commandlinetools-win-11076708_latest.zip",
+      "Arch": "all",
+      "Os": "windows",
+      "Sum": "4d6931209eebb1bfb7c7e8b240a6a3cb3ab24479ea294f3539429574b1eec862",
+      "SumType": "sha256",
+      "Extra": "v11076708"
+    },
+    {
+      "Url": "https://dl.google.com/android/repository/commandlinetools-mac-11076708_latest.zip",
+      "Arch": "all",
+      "Os": "darwin",
+      "Sum": "7bc5c72ba0275c80a8f19684fb92793b83a6b5c94d4d179fc5988930282d7e64",
+      "SumType": "sha256",
+      "Extra": "v11076708"
+    },
+    {
+      "Url": "https://dl.google.com/android/repository/commandlinetools-linux-11076708_latest.zip",
+      "Arch": "all",
+      "Os": "linux",
+      "Sum": "2d2d50857e4eb553af5a6dc3ad507a17adf43d115264b1afc116f95c92e5e258",
+      "SumType": "sha256",
+      "Extra": "v11076708"
+    }
+  ]
+}
