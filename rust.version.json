@@ -1,0 +1,20 @@
+{
+  "latest": [
+    {
+      "Url": "https://static.rust-lang.org/rustup/rustup-init.sh",
+      "Arch": "all",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": "latest"
+    },
+    {
+      "Url": "https://static.rust-lang.org/rustup/dist/i686-pc-windows-gnu/rustup-init.exe",
+      "Arch": "all",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": "latest"
+    }
+  ]
+}
