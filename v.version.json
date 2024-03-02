@@ -1,0 +1,878 @@
+{
+  "0.4.1": [
+    {
+      "Url": "https://github.com/vlang/v/releases/download/0.4.1/v_linux.zip",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/0.4.1/v_macos.zip",
+      "Arch": "",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/0.4.1/v_windows.zip",
+      "Arch": "",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "0.4.2": [
+    {
+      "Url": "https://github.com/vlang/v/releases/download/0.4.2/v_linux.zip",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/0.4.2/v_macos.zip",
+      "Arch": "",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/0.4.2/v_windows.zip",
+      "Arch": "",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "0.4.3": [
+    {
+      "Url": "https://github.com/vlang/v/releases/download/0.4.3/v_linux.zip",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/0.4.3/v_macos_arm64.zip",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/0.4.3/v_macos_x86_64.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/0.4.3/v_windows.zip",
+      "Arch": "",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "0.4.4": [
+    {
+      "Url": "https://github.com/vlang/v/releases/download/0.4.4/v_linux.zip",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/0.4.4/v_macos_arm64.zip",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/0.4.4/v_macos_x86_64.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/0.4.4/v_windows.zip",
+      "Arch": "",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "weekly.2023.31": [
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2023.31/v_linux.zip",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2023.31/v_macos.zip",
+      "Arch": "",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2023.31/v_windows.zip",
+      "Arch": "",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "weekly.2023.32": [
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2023.32/v_linux.zip",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2023.32/v_macos.zip",
+      "Arch": "",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2023.32/v_windows.zip",
+      "Arch": "",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "weekly.2023.32.2": [
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2023.32.2/v_linux.zip",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2023.32.2/v_macos.zip",
+      "Arch": "",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2023.32.2/v_windows.zip",
+      "Arch": "",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "weekly.2023.33": [
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2023.33/v_linux.zip",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2023.33/v_macos.zip",
+      "Arch": "",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2023.33/v_windows.zip",
+      "Arch": "",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "weekly.2023.35": [
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2023.35/v_linux.zip",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2023.35/v_macos.zip",
+      "Arch": "",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2023.35/v_windows.zip",
+      "Arch": "",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "weekly.2023.37": [
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2023.37/v_linux.zip",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2023.37/v_macos.zip",
+      "Arch": "",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2023.37/v_windows.zip",
+      "Arch": "",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "weekly.2023.38": [
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2023.38/v_linux.zip",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2023.38/v_macos.zip",
+      "Arch": "",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2023.38/v_windows.zip",
+      "Arch": "",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "weekly.2023.39": [
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2023.39/v_linux.zip",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2023.39/v_macos.zip",
+      "Arch": "",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2023.39/v_windows.zip",
+      "Arch": "",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "weekly.2023.40.1": [
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2023.40.1/v_linux.zip",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2023.40.1/v_macos.zip",
+      "Arch": "",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2023.40.1/v_windows.zip",
+      "Arch": "",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "weekly.2023.41": [
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2023.41/v_linux.zip",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2023.41/v_macos.zip",
+      "Arch": "",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2023.41/v_windows.zip",
+      "Arch": "",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "weekly.2023.42": [
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2023.42/v_linux.zip",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2023.42/v_macos.zip",
+      "Arch": "",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2023.42/v_windows.zip",
+      "Arch": "",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "weekly.2023.43": [
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2023.43/v_linux.zip",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2023.43/v_macos.zip",
+      "Arch": "",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2023.43/v_windows.zip",
+      "Arch": "",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "weekly.2023.44": [
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2023.44/v_linux.zip",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2023.44/v_macos.zip",
+      "Arch": "",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2023.44/v_windows.zip",
+      "Arch": "",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "weekly.2023.45": [
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2023.45/v_linux.zip",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "weekly.2023.48": [
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2023.48/v_linux.zip",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2023.48/v_macos_arm64.zip",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2023.48/v_macos_x86_64.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2023.48/v_windows.zip",
+      "Arch": "",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "weekly.2023.50": [
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2023.50/v_linux.zip",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2023.50/v_macos_arm64.zip",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2023.50/v_macos_x86_64.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2023.50/v_windows.zip",
+      "Arch": "",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "weekly.2023.51": [
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2023.51/v_linux.zip",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2023.51/v_macos_arm64.zip",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2023.51/v_macos_x86_64.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2023.51/v_windows.zip",
+      "Arch": "",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "weekly.2023.52": [
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2023.52/v_linux.zip",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2023.52/v_macos_arm64.zip",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2023.52/v_macos_x86_64.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2023.52/v_windows.zip",
+      "Arch": "",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "weekly.2024.01.test2": [
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2024.01.test2/v_linux.zip",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2024.01.test2/v_macos_arm64.zip",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2024.01.test2/v_macos_x86_64.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2024.01.test2/v_windows.zip",
+      "Arch": "",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "weekly.2024.03": [
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2024.03/v_linux.zip",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2024.03/v_macos_arm64.zip",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2024.03/v_macos_x86_64.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2024.03/v_windows.zip",
+      "Arch": "",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "weekly.2024.04": [
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2024.04/v_linux.zip",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2024.04/v_macos_arm64.zip",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2024.04/v_macos_x86_64.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2024.04/v_windows.zip",
+      "Arch": "",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "weekly.2024.05": [
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2024.05/v_linux.zip",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2024.05/v_macos_arm64.zip",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2024.05/v_macos_x86_64.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2024.05/v_windows.zip",
+      "Arch": "",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "weekly.2024.06": [
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2024.06/v_linux.zip",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2024.06/v_macos_arm64.zip",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2024.06/v_macos_x86_64.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2024.06/v_windows.zip",
+      "Arch": "",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "weekly.2024.07": [
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2024.07/v_linux.zip",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2024.07/v_macos_arm64.zip",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2024.07/v_macos_x86_64.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2024.07/v_windows.zip",
+      "Arch": "",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "weekly.2024.08": [
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2024.08/v_linux.zip",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2024.08/v_macos_arm64.zip",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2024.08/v_macos_x86_64.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2024.08/v_windows.zip",
+      "Arch": "",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "weekly.2024.09": [
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2024.09/v_linux.zip",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2024.09/v_macos_arm64.zip",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2024.09/v_macos_x86_64.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/vlang/v/releases/download/weekly.2024.09/v_windows.zip",
+      "Arch": "",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ]
+}
