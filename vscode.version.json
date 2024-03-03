@@ -2,7 +2,7 @@
   "1.87.0": [
     {
       "Url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/019f4d1419fbc8219a181fab7892ebccf7ee29a2/VSCode-win32-x64-1.87.0.zip",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "9ccef061383f0e03fba0606be021a50a5d4f175cfb515474b5968a55b88913e0",
       "SumType": "sha256",
@@ -26,7 +26,7 @@
     },
     {
       "Url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/019f4d1419fbc8219a181fab7892ebccf7ee29a2/vscode_cli_win32_arm64_cli.zip",
-      "Arch": "arm64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "da5661bbc7787eb88e21a9bcb0c1ea4a3cca8828e8b2c08dd66397764df5960c",
       "SumType": "sha256",
