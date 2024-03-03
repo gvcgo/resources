@@ -2,7 +2,7 @@
   "v2.35.6.windows.1": [
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.35.6.windows.1/MinGit-2.35.6.windows.1-32-bit.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -10,7 +10,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.35.6.windows.1/MinGit-2.35.6.windows.1-64-bit.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -68,7 +68,7 @@
   "v2.35.7.windows.1": [
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.35.7.windows.1/MinGit-2.35.7.windows.1-32-bit.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -76,7 +76,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.35.7.windows.1/MinGit-2.35.7.windows.1-64-bit.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -134,7 +134,7 @@
   "v2.39.0.windows.2": [
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.39.0.windows.2/Git-2.39.0.2-32-bit.exe",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -142,7 +142,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.39.0.windows.2/Git-2.39.0.2-32-bit.tar.bz2",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -150,7 +150,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.39.0.windows.2/Git-2.39.0.2-64-bit.exe",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -158,7 +158,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.39.0.windows.2/Git-2.39.0.2-64-bit.tar.bz2",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -166,7 +166,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.39.0.windows.2/MinGit-2.39.0.2-32-bit.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -174,7 +174,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.39.0.windows.2/MinGit-2.39.0.2-64-bit.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -182,7 +182,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.39.0.windows.2/MinGit-2.39.0.2-busybox-32-bit.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -190,7 +190,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.39.0.windows.2/MinGit-2.39.0.2-busybox-64-bit.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -198,7 +198,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.39.0.windows.2/pdbs-for-git-32-bit-2.39.0.2.e7d4c50480-1.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -206,7 +206,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.39.0.windows.2/pdbs-for-git-64-bit-2.39.0.2.e7d4c50480-1.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -214,7 +214,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.39.0.windows.2/PortableGit-2.39.0.2-32-bit.7z.exe",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -222,7 +222,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.39.0.windows.2/PortableGit-2.39.0.2-64-bit.7z.exe",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -232,7 +232,7 @@
   "v2.39.1.windows.1": [
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.39.1.windows.1/Git-2.39.1-32-bit.exe",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -240,7 +240,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.39.1.windows.1/Git-2.39.1-32-bit.tar.bz2",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -248,7 +248,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.39.1.windows.1/Git-2.39.1-64-bit.exe",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -256,7 +256,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.39.1.windows.1/Git-2.39.1-64-bit.tar.bz2",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -264,7 +264,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.39.1.windows.1/MinGit-2.39.1-32-bit.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -272,7 +272,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.39.1.windows.1/MinGit-2.39.1-64-bit.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -280,7 +280,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.39.1.windows.1/MinGit-2.39.1-busybox-32-bit.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -288,7 +288,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.39.1.windows.1/MinGit-2.39.1-busybox-64-bit.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -296,7 +296,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.39.1.windows.1/pdbs-for-git-32-bit-2.39.1.1.b03dafd9c2-1.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -304,7 +304,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.39.1.windows.1/pdbs-for-git-64-bit-2.39.1.1.b03dafd9c2-1.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -312,7 +312,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.39.1.windows.1/PortableGit-2.39.1-32-bit.7z.exe",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -320,7 +320,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.39.1.windows.1/PortableGit-2.39.1-64-bit.7z.exe",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -330,7 +330,7 @@
   "v2.39.2.windows.1": [
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.39.2.windows.1/Git-2.39.2-32-bit.exe",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -338,7 +338,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.39.2.windows.1/Git-2.39.2-32-bit.tar.bz2",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -346,7 +346,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.39.2.windows.1/Git-2.39.2-64-bit.exe",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -354,7 +354,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.39.2.windows.1/Git-2.39.2-64-bit.tar.bz2",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -362,7 +362,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.39.2.windows.1/MinGit-2.39.2-32-bit.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -370,7 +370,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.39.2.windows.1/MinGit-2.39.2-64-bit.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -378,7 +378,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.39.2.windows.1/MinGit-2.39.2-busybox-32-bit.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -386,7 +386,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.39.2.windows.1/MinGit-2.39.2-busybox-64-bit.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -394,7 +394,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.39.2.windows.1/pdbs-for-git-32-bit-2.39.2.1.a82fa99b36-1.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -402,7 +402,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.39.2.windows.1/pdbs-for-git-64-bit-2.39.2.1.a82fa99b36-1.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -410,7 +410,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.39.2.windows.1/PortableGit-2.39.2-32-bit.7z.exe",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -418,7 +418,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.39.2.windows.1/PortableGit-2.39.2-64-bit.7z.exe",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -428,7 +428,7 @@
   "v2.39.3.windows.1": [
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.39.3.windows.1/MinGit-2.39.3.windows.1-32-bit.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -436,7 +436,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.39.3.windows.1/MinGit-2.39.3.windows.1-64-bit.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -494,7 +494,7 @@
   "v2.40.0-rc0.windows.1": [
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.40.0-rc0.windows.1/Git-2.40.0-rc0-32-bit.exe",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -502,7 +502,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.40.0-rc0.windows.1/Git-2.40.0-rc0-32-bit.tar.bz2",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -510,7 +510,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.40.0-rc0.windows.1/Git-2.40.0-rc0-64-bit.exe",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -518,7 +518,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.40.0-rc0.windows.1/Git-2.40.0-rc0-64-bit.tar.bz2",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -526,7 +526,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.40.0-rc0.windows.1/MinGit-2.40.0-rc0-32-bit.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -534,7 +534,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.40.0-rc0.windows.1/MinGit-2.40.0-rc0-64-bit.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -542,7 +542,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.40.0-rc0.windows.1/MinGit-2.40.0-rc0-busybox-32-bit.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -550,7 +550,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.40.0-rc0.windows.1/MinGit-2.40.0-rc0-busybox-64-bit.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -558,7 +558,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.40.0-rc0.windows.1/pdbs-for-git-32-bit-2.40.0.rc0.windows.1-1.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -566,7 +566,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.40.0-rc0.windows.1/pdbs-for-git-64-bit-2.40.0.rc0.windows.1-1.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -574,7 +574,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.40.0-rc0.windows.1/PortableGit-2.40.0-rc0-32-bit.7z.exe",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -582,7 +582,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.40.0-rc0.windows.1/PortableGit-2.40.0-rc0-64-bit.7z.exe",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -592,7 +592,7 @@
   "v2.40.0-rc1.windows.1": [
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.40.0-rc1.windows.1/Git-2.40.0-rc1-32-bit.exe",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -600,7 +600,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.40.0-rc1.windows.1/Git-2.40.0-rc1-32-bit.tar.bz2",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -608,7 +608,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.40.0-rc1.windows.1/Git-2.40.0-rc1-64-bit.exe",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -616,7 +616,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.40.0-rc1.windows.1/Git-2.40.0-rc1-64-bit.tar.bz2",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -624,7 +624,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.40.0-rc1.windows.1/MinGit-2.40.0-rc1-32-bit.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -632,7 +632,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.40.0-rc1.windows.1/MinGit-2.40.0-rc1-64-bit.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -640,7 +640,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.40.0-rc1.windows.1/MinGit-2.40.0-rc1-busybox-32-bit.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -648,7 +648,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.40.0-rc1.windows.1/MinGit-2.40.0-rc1-busybox-64-bit.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -656,7 +656,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.40.0-rc1.windows.1/pdbs-for-git-32-bit-2.40.0.rc1.windows.1-1.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -664,7 +664,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.40.0-rc1.windows.1/pdbs-for-git-64-bit-2.40.0.rc1.windows.1-1.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -672,7 +672,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.40.0-rc1.windows.1/PortableGit-2.40.0-rc1-32-bit.7z.exe",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -680,7 +680,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.40.0-rc1.windows.1/PortableGit-2.40.0-rc1-64-bit.7z.exe",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -690,7 +690,7 @@
   "v2.40.0-rc2.windows.1": [
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.40.0-rc2.windows.1/Git-2.40.0-rc2-32-bit.exe",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -698,7 +698,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.40.0-rc2.windows.1/Git-2.40.0-rc2-32-bit.tar.bz2",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -706,7 +706,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.40.0-rc2.windows.1/Git-2.40.0-rc2-64-bit.exe",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -714,7 +714,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.40.0-rc2.windows.1/Git-2.40.0-rc2-64-bit.tar.bz2",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -722,7 +722,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.40.0-rc2.windows.1/MinGit-2.40.0-rc2-32-bit.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -730,7 +730,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.40.0-rc2.windows.1/MinGit-2.40.0-rc2-64-bit.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -738,7 +738,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.40.0-rc2.windows.1/MinGit-2.40.0-rc2-busybox-32-bit.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -746,7 +746,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.40.0-rc2.windows.1/MinGit-2.40.0-rc2-busybox-64-bit.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -754,7 +754,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.40.0-rc2.windows.1/pdbs-for-git-32-bit-2.40.0.rc2.windows.1-1.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -762,7 +762,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.40.0-rc2.windows.1/pdbs-for-git-64-bit-2.40.0.rc2.windows.1-1.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -770,7 +770,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.40.0-rc2.windows.1/PortableGit-2.40.0-rc2-32-bit.7z.exe",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -778,7 +778,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.40.0-rc2.windows.1/PortableGit-2.40.0-rc2-64-bit.7z.exe",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -788,7 +788,7 @@
   "v2.40.0.windows.1": [
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.40.0.windows.1/Git-2.40.0-32-bit.exe",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -796,7 +796,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.40.0.windows.1/Git-2.40.0-32-bit.tar.bz2",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -804,7 +804,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.40.0.windows.1/Git-2.40.0-64-bit.exe",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -812,7 +812,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.40.0.windows.1/Git-2.40.0-64-bit.tar.bz2",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -820,7 +820,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.40.0.windows.1/MinGit-2.40.0-32-bit.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -828,7 +828,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.40.0.windows.1/MinGit-2.40.0-64-bit.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -836,7 +836,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.40.0.windows.1/MinGit-2.40.0-busybox-32-bit.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -844,7 +844,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.40.0.windows.1/MinGit-2.40.0-busybox-64-bit.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -852,7 +852,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.40.0.windows.1/pdbs-for-git-32-bit-2.40.0.1.1d90ca2906-1.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -860,7 +860,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.40.0.windows.1/pdbs-for-git-64-bit-2.40.0.1.1d90ca2906-1.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -868,7 +868,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.40.0.windows.1/PortableGit-2.40.0-32-bit.7z.exe",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -876,7 +876,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.40.0.windows.1/PortableGit-2.40.0-64-bit.7z.exe",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -886,7 +886,7 @@
   "v2.40.1.windows.1": [
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.40.1.windows.1/Git-2.40.1-32-bit.exe",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -894,7 +894,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.40.1.windows.1/Git-2.40.1-32-bit.tar.bz2",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -902,7 +902,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.40.1.windows.1/Git-2.40.1-64-bit.exe",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -910,7 +910,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.40.1.windows.1/Git-2.40.1-64-bit.tar.bz2",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -918,7 +918,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.40.1.windows.1/MinGit-2.40.1-32-bit.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -926,7 +926,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.40.1.windows.1/MinGit-2.40.1-64-bit.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -934,7 +934,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.40.1.windows.1/MinGit-2.40.1-busybox-32-bit.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -942,7 +942,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.40.1.windows.1/MinGit-2.40.1-busybox-64-bit.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -950,7 +950,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.40.1.windows.1/pdbs-for-git-32-bit-2.40.1.1.ceee26d5ca-1.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -958,7 +958,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.40.1.windows.1/pdbs-for-git-64-bit-2.40.1.1.ceee26d5ca-1.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -966,7 +966,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.40.1.windows.1/PortableGit-2.40.1-32-bit.7z.exe",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -974,7 +974,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.40.1.windows.1/PortableGit-2.40.1-64-bit.7z.exe",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -984,7 +984,7 @@
   "v2.41.0-rc0.windows.1": [
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0-rc0.windows.1/Git-2.41.0-rc0-32-bit.exe",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -992,7 +992,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0-rc0.windows.1/Git-2.41.0-rc0-32-bit.tar.bz2",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1000,7 +1000,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0-rc0.windows.1/Git-2.41.0-rc0-64-bit.exe",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1008,7 +1008,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0-rc0.windows.1/Git-2.41.0-rc0-64-bit.tar.bz2",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1016,7 +1016,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0-rc0.windows.1/MinGit-2.41.0-rc0-32-bit.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1024,7 +1024,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0-rc0.windows.1/MinGit-2.41.0-rc0-64-bit.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1032,7 +1032,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0-rc0.windows.1/MinGit-2.41.0-rc0-busybox-32-bit.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1040,7 +1040,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0-rc0.windows.1/MinGit-2.41.0-rc0-busybox-64-bit.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1048,7 +1048,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0-rc0.windows.1/pdbs-for-git-32-bit-2.41.0.rc0.windows.1-1.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1056,7 +1056,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0-rc0.windows.1/pdbs-for-git-64-bit-2.41.0.rc0.windows.1-1.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1064,7 +1064,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0-rc0.windows.1/PortableGit-2.41.0-rc0-32-bit.7z.exe",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1072,7 +1072,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0-rc0.windows.1/PortableGit-2.41.0-rc0-64-bit.7z.exe",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1082,7 +1082,7 @@
   "v2.41.0-rc1.windows.1": [
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0-rc1.windows.1/Git-2.41.0-rc1-32-bit.exe",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1090,7 +1090,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0-rc1.windows.1/Git-2.41.0-rc1-32-bit.tar.bz2",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1098,7 +1098,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0-rc1.windows.1/Git-2.41.0-rc1-64-bit.exe",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1106,7 +1106,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0-rc1.windows.1/Git-2.41.0-rc1-64-bit.tar.bz2",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1114,7 +1114,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0-rc1.windows.1/MinGit-2.41.0-rc1-32-bit.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1122,7 +1122,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0-rc1.windows.1/MinGit-2.41.0-rc1-64-bit.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1130,7 +1130,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0-rc1.windows.1/MinGit-2.41.0-rc1-busybox-32-bit.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1138,7 +1138,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0-rc1.windows.1/MinGit-2.41.0-rc1-busybox-64-bit.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1146,7 +1146,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0-rc1.windows.1/pdbs-for-git-32-bit-2.41.0.rc1.windows.1-1.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1154,7 +1154,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0-rc1.windows.1/pdbs-for-git-64-bit-2.41.0.rc1.windows.1-1.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1162,7 +1162,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0-rc1.windows.1/PortableGit-2.41.0-rc1-32-bit.7z.exe",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1170,7 +1170,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0-rc1.windows.1/PortableGit-2.41.0-rc1-64-bit.7z.exe",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1180,7 +1180,7 @@
   "v2.41.0-rc2.windows.1": [
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0-rc2.windows.1/Git-2.41.0-rc2-32-bit.exe",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1188,7 +1188,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0-rc2.windows.1/Git-2.41.0-rc2-32-bit.tar.bz2",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1196,7 +1196,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0-rc2.windows.1/Git-2.41.0-rc2-64-bit.exe",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1204,7 +1204,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0-rc2.windows.1/Git-2.41.0-rc2-64-bit.tar.bz2",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1212,7 +1212,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0-rc2.windows.1/MinGit-2.41.0-rc2-32-bit.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1220,7 +1220,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0-rc2.windows.1/MinGit-2.41.0-rc2-64-bit.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1228,7 +1228,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0-rc2.windows.1/MinGit-2.41.0-rc2-busybox-32-bit.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1236,7 +1236,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0-rc2.windows.1/MinGit-2.41.0-rc2-busybox-64-bit.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1244,7 +1244,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0-rc2.windows.1/pdbs-for-git-32-bit-2.41.0.rc2.windows.1-1.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1252,7 +1252,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0-rc2.windows.1/pdbs-for-git-64-bit-2.41.0.rc2.windows.1-1.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1260,7 +1260,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0-rc2.windows.1/PortableGit-2.41.0-rc2-32-bit.7z.exe",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1268,7 +1268,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0-rc2.windows.1/PortableGit-2.41.0-rc2-64-bit.7z.exe",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1278,7 +1278,7 @@
   "v2.41.0.windows.1": [
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0.windows.1/Git-2.41.0-32-bit.exe",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1286,7 +1286,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0.windows.1/Git-2.41.0-32-bit.tar.bz2",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1294,7 +1294,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0.windows.1/Git-2.41.0-64-bit.exe",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1302,7 +1302,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0.windows.1/Git-2.41.0-64-bit.tar.bz2",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1310,7 +1310,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0.windows.1/MinGit-2.41.0-32-bit.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1318,7 +1318,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0.windows.1/MinGit-2.41.0-64-bit.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1326,7 +1326,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0.windows.1/MinGit-2.41.0-busybox-32-bit.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1334,7 +1334,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0.windows.1/MinGit-2.41.0-busybox-64-bit.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1342,7 +1342,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0.windows.1/pdbs-for-git-32-bit-2.41.0.1.ff94e79c47-1.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1350,7 +1350,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0.windows.1/pdbs-for-git-64-bit-2.41.0.1.ff94e79c47-1.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1358,7 +1358,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0.windows.1/PortableGit-2.41.0-32-bit.7z.exe",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1366,7 +1366,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0.windows.1/PortableGit-2.41.0-64-bit.7z.exe",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1376,7 +1376,7 @@
   "v2.41.0.windows.2": [
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0.windows.2/Git-2.41.0.2-32-bit.exe",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1384,7 +1384,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0.windows.2/Git-2.41.0.2-32-bit.tar.bz2",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1392,7 +1392,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0.windows.2/Git-2.41.0.2-64-bit.exe",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1400,7 +1400,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0.windows.2/Git-2.41.0.2-64-bit.tar.bz2",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1408,7 +1408,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0.windows.2/MinGit-2.41.0.2-32-bit.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1416,7 +1416,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0.windows.2/MinGit-2.41.0.2-64-bit.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1424,7 +1424,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0.windows.2/MinGit-2.41.0.2-busybox-32-bit.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1432,7 +1432,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0.windows.2/MinGit-2.41.0.2-busybox-64-bit.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1440,7 +1440,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0.windows.2/pdbs-for-git-32-bit-2.41.0.2.330483e35c-1.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1448,7 +1448,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0.windows.2/pdbs-for-git-64-bit-2.41.0.2.330483e35c-1.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1456,7 +1456,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0.windows.2/PortableGit-2.41.0.2-32-bit.7z.exe",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1464,7 +1464,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0.windows.2/PortableGit-2.41.0.2-64-bit.7z.exe",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1474,7 +1474,7 @@
   "v2.41.0.windows.3": [
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0.windows.3/Git-2.41.0.3-32-bit.exe",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1482,7 +1482,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0.windows.3/Git-2.41.0.3-32-bit.tar.bz2",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1490,7 +1490,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0.windows.3/Git-2.41.0.3-64-bit.exe",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1498,7 +1498,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0.windows.3/Git-2.41.0.3-64-bit.tar.bz2",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1506,7 +1506,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0.windows.3/MinGit-2.41.0.3-32-bit.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1514,7 +1514,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0.windows.3/MinGit-2.41.0.3-64-bit.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1522,7 +1522,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0.windows.3/MinGit-2.41.0.3-busybox-32-bit.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1530,7 +1530,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0.windows.3/MinGit-2.41.0.3-busybox-64-bit.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1538,7 +1538,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0.windows.3/pdbs-for-git-32-bit-2.41.0.3.4a1821dfb0-1.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1546,7 +1546,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0.windows.3/pdbs-for-git-64-bit-2.41.0.3.4a1821dfb0-1.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1554,7 +1554,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0.windows.3/PortableGit-2.41.0.3-32-bit.7z.exe",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1562,7 +1562,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0.windows.3/PortableGit-2.41.0.3-64-bit.7z.exe",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1572,7 +1572,7 @@
   "v2.42.0-rc0.windows.1": [
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.42.0-rc0.windows.1/Git-2.42.0-rc0-32-bit.exe",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1580,7 +1580,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.42.0-rc0.windows.1/Git-2.42.0-rc0-32-bit.tar.bz2",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1588,7 +1588,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.42.0-rc0.windows.1/Git-2.42.0-rc0-64-bit.exe",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1596,7 +1596,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.42.0-rc0.windows.1/Git-2.42.0-rc0-64-bit.tar.bz2",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1604,7 +1604,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.42.0-rc0.windows.1/MinGit-2.42.0-rc0-32-bit.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1612,7 +1612,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.42.0-rc0.windows.1/MinGit-2.42.0-rc0-64-bit.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1620,7 +1620,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.42.0-rc0.windows.1/MinGit-2.42.0-rc0-busybox-32-bit.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1628,7 +1628,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.42.0-rc0.windows.1/MinGit-2.42.0-rc0-busybox-64-bit.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1636,7 +1636,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.42.0-rc0.windows.1/pdbs-for-git-32-bit-2.42.0.rc0.windows.1-1.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1644,7 +1644,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.42.0-rc0.windows.1/pdbs-for-git-64-bit-2.42.0.rc0.windows.1-1.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1652,7 +1652,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.42.0-rc0.windows.1/PortableGit-2.42.0-rc0-32-bit.7z.exe",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1660,7 +1660,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.42.0-rc0.windows.1/PortableGit-2.42.0-rc0-64-bit.7z.exe",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1670,7 +1670,7 @@
   "v2.42.0-rc1.windows.1": [
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.42.0-rc1.windows.1/Git-2.42.0-rc1-32-bit.exe",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1678,7 +1678,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.42.0-rc1.windows.1/Git-2.42.0-rc1-32-bit.tar.bz2",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1686,7 +1686,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.42.0-rc1.windows.1/Git-2.42.0-rc1-64-bit.exe",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1694,7 +1694,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.42.0-rc1.windows.1/Git-2.42.0-rc1-64-bit.tar.bz2",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1702,7 +1702,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.42.0-rc1.windows.1/MinGit-2.42.0-rc1-32-bit.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1710,7 +1710,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.42.0-rc1.windows.1/MinGit-2.42.0-rc1-64-bit.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1718,7 +1718,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.42.0-rc1.windows.1/MinGit-2.42.0-rc1-busybox-32-bit.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1726,7 +1726,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.42.0-rc1.windows.1/MinGit-2.42.0-rc1-busybox-64-bit.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1734,7 +1734,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.42.0-rc1.windows.1/pdbs-for-git-32-bit-2.42.0.rc1.windows.1-1.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1742,7 +1742,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.42.0-rc1.windows.1/pdbs-for-git-64-bit-2.42.0.rc1.windows.1-1.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1750,7 +1750,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.42.0-rc1.windows.1/PortableGit-2.42.0-rc1-32-bit.7z.exe",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1758,7 +1758,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.42.0-rc1.windows.1/PortableGit-2.42.0-rc1-64-bit.7z.exe",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1768,7 +1768,7 @@
   "v2.42.0-rc2.windows.1": [
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.42.0-rc2.windows.1/Git-2.42.0-rc2-32-bit.exe",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1776,7 +1776,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.42.0-rc2.windows.1/Git-2.42.0-rc2-32-bit.tar.bz2",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1784,7 +1784,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.42.0-rc2.windows.1/Git-2.42.0-rc2-64-bit.exe",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1792,7 +1792,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.42.0-rc2.windows.1/Git-2.42.0-rc2-64-bit.tar.bz2",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1800,7 +1800,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.42.0-rc2.windows.1/MinGit-2.42.0-rc2-32-bit.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1808,7 +1808,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.42.0-rc2.windows.1/MinGit-2.42.0-rc2-64-bit.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1816,7 +1816,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.42.0-rc2.windows.1/MinGit-2.42.0-rc2-busybox-32-bit.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1824,7 +1824,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.42.0-rc2.windows.1/MinGit-2.42.0-rc2-busybox-64-bit.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1832,7 +1832,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.42.0-rc2.windows.1/pdbs-for-git-32-bit-2.42.0.rc2.windows.1-1.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1840,7 +1840,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.42.0-rc2.windows.1/pdbs-for-git-64-bit-2.42.0.rc2.windows.1-1.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1848,7 +1848,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.42.0-rc2.windows.1/PortableGit-2.42.0-rc2-32-bit.7z.exe",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1856,7 +1856,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.42.0-rc2.windows.1/PortableGit-2.42.0-rc2-64-bit.7z.exe",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1866,7 +1866,7 @@
   "v2.42.0.windows.1": [
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.42.0.windows.1/Git-2.42.0-32-bit.exe",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1874,7 +1874,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.42.0.windows.1/Git-2.42.0-32-bit.tar.bz2",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1882,7 +1882,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.42.0.windows.1/Git-2.42.0-64-bit.exe",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1890,7 +1890,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.42.0.windows.1/Git-2.42.0-64-bit.tar.bz2",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1898,7 +1898,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.42.0.windows.1/MinGit-2.42.0-32-bit.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1906,7 +1906,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.42.0.windows.1/MinGit-2.42.0-64-bit.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1914,7 +1914,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.42.0.windows.1/MinGit-2.42.0-busybox-32-bit.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1922,7 +1922,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.42.0.windows.1/MinGit-2.42.0-busybox-64-bit.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1930,7 +1930,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.42.0.windows.1/pdbs-for-git-32-bit-2.42.0.1.a2e49ec355-1.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1938,7 +1938,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.42.0.windows.1/pdbs-for-git-64-bit-2.42.0.1.a2e49ec355-1.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1946,7 +1946,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.42.0.windows.1/PortableGit-2.42.0-32-bit.7z.exe",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1954,7 +1954,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.42.0.windows.1/PortableGit-2.42.0-64-bit.7z.exe",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1964,7 +1964,7 @@
   "v2.42.0.windows.2": [
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.42.0.windows.2/Git-2.42.0.2-32-bit.exe",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1972,7 +1972,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.42.0.windows.2/Git-2.42.0.2-32-bit.tar.bz2",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1980,7 +1980,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.42.0.windows.2/Git-2.42.0.2-64-bit.exe",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1988,7 +1988,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.42.0.windows.2/Git-2.42.0.2-64-bit.tar.bz2",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1996,7 +1996,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.42.0.windows.2/MinGit-2.42.0.2-32-bit.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2004,7 +2004,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.42.0.windows.2/MinGit-2.42.0.2-64-bit.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2012,7 +2012,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.42.0.windows.2/MinGit-2.42.0.2-busybox-32-bit.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2020,7 +2020,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.42.0.windows.2/MinGit-2.42.0.2-busybox-64-bit.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2028,7 +2028,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.42.0.windows.2/pdbs-for-git-32-bit-2.42.0.2.2f819d1670-1.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2036,7 +2036,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.42.0.windows.2/pdbs-for-git-64-bit-2.42.0.2.2f819d1670-1.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2044,7 +2044,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.42.0.windows.2/PortableGit-2.42.0.2-32-bit.7z.exe",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2052,7 +2052,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.42.0.windows.2/PortableGit-2.42.0.2-64-bit.7z.exe",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2062,7 +2062,7 @@
   "v2.43.0-rc0.windows.1": [
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.43.0-rc0.windows.1/Git-2.43.0-rc0-32-bit.exe",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2070,7 +2070,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.43.0-rc0.windows.1/Git-2.43.0-rc0-32-bit.tar.bz2",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2078,7 +2078,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.43.0-rc0.windows.1/Git-2.43.0-rc0-64-bit.exe",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2086,7 +2086,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.43.0-rc0.windows.1/Git-2.43.0-rc0-64-bit.tar.bz2",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2094,7 +2094,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.43.0-rc0.windows.1/MinGit-2.43.0-rc0-32-bit.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2102,7 +2102,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.43.0-rc0.windows.1/MinGit-2.43.0-rc0-64-bit.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2110,7 +2110,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.43.0-rc0.windows.1/MinGit-2.43.0-rc0-busybox-32-bit.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2118,7 +2118,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.43.0-rc0.windows.1/MinGit-2.43.0-rc0-busybox-64-bit.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2126,7 +2126,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.43.0-rc0.windows.1/pdbs-for-git-32-bit-2.43.0.rc0.windows.1-2.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2134,7 +2134,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.43.0-rc0.windows.1/pdbs-for-git-64-bit-2.43.0.rc0.windows.1-2.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2142,7 +2142,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.43.0-rc0.windows.1/PortableGit-2.43.0-rc0-32-bit.7z.exe",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2150,7 +2150,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.43.0-rc0.windows.1/PortableGit-2.43.0-rc0-64-bit.7z.exe",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2160,7 +2160,7 @@
   "v2.43.0-rc1.windows.1": [
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.43.0-rc1.windows.1/Git-2.43.0-rc1-32-bit.exe",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2168,7 +2168,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.43.0-rc1.windows.1/Git-2.43.0-rc1-32-bit.tar.bz2",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2176,7 +2176,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.43.0-rc1.windows.1/Git-2.43.0-rc1-64-bit.exe",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2184,7 +2184,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.43.0-rc1.windows.1/Git-2.43.0-rc1-64-bit.tar.bz2",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2192,7 +2192,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.43.0-rc1.windows.1/MinGit-2.43.0-rc1-32-bit.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2200,7 +2200,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.43.0-rc1.windows.1/MinGit-2.43.0-rc1-64-bit.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2208,7 +2208,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.43.0-rc1.windows.1/MinGit-2.43.0-rc1-busybox-32-bit.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2216,7 +2216,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.43.0-rc1.windows.1/MinGit-2.43.0-rc1-busybox-64-bit.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2224,7 +2224,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.43.0-rc1.windows.1/pdbs-for-git-32-bit-2.43.0.rc1.windows.1-2.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2232,7 +2232,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.43.0-rc1.windows.1/pdbs-for-git-64-bit-2.43.0.rc1.windows.1-2.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2240,7 +2240,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.43.0-rc1.windows.1/PortableGit-2.43.0-rc1-32-bit.7z.exe",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2248,7 +2248,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.43.0-rc1.windows.1/PortableGit-2.43.0-rc1-64-bit.7z.exe",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2258,7 +2258,7 @@
   "v2.43.0-rc2.windows.1": [
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.43.0-rc2.windows.1/Git-2.43.0-rc2-32-bit.exe",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2266,7 +2266,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.43.0-rc2.windows.1/Git-2.43.0-rc2-32-bit.tar.bz2",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2274,7 +2274,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.43.0-rc2.windows.1/Git-2.43.0-rc2-64-bit.exe",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2282,7 +2282,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.43.0-rc2.windows.1/Git-2.43.0-rc2-64-bit.tar.bz2",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2290,7 +2290,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.43.0-rc2.windows.1/MinGit-2.43.0-rc2-32-bit.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2298,7 +2298,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.43.0-rc2.windows.1/MinGit-2.43.0-rc2-64-bit.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2306,7 +2306,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.43.0-rc2.windows.1/MinGit-2.43.0-rc2-busybox-32-bit.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2314,7 +2314,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.43.0-rc2.windows.1/MinGit-2.43.0-rc2-busybox-64-bit.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2322,7 +2322,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.43.0-rc2.windows.1/pdbs-for-git-32-bit-2.43.0.rc2.windows.1-2.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2330,7 +2330,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.43.0-rc2.windows.1/pdbs-for-git-64-bit-2.43.0.rc2.windows.1-2.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2338,7 +2338,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.43.0-rc2.windows.1/PortableGit-2.43.0-rc2-32-bit.7z.exe",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2346,7 +2346,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.43.0-rc2.windows.1/PortableGit-2.43.0-rc2-64-bit.7z.exe",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2356,7 +2356,7 @@
   "v2.43.0.windows.1": [
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.43.0.windows.1/Git-2.43.0-32-bit.exe",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2364,7 +2364,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.43.0.windows.1/Git-2.43.0-32-bit.tar.bz2",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2372,7 +2372,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.43.0.windows.1/Git-2.43.0-64-bit.exe",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2380,7 +2380,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.43.0.windows.1/Git-2.43.0-64-bit.tar.bz2",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2388,7 +2388,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.43.0.windows.1/MinGit-2.43.0-32-bit.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2396,7 +2396,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.43.0.windows.1/MinGit-2.43.0-64-bit.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2404,7 +2404,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.43.0.windows.1/MinGit-2.43.0-busybox-32-bit.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2412,7 +2412,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.43.0.windows.1/MinGit-2.43.0-busybox-64-bit.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2420,7 +2420,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.43.0.windows.1/pdbs-for-git-32-bit-2.43.0.1.4b968f3ea3-1.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2428,7 +2428,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.43.0.windows.1/pdbs-for-git-64-bit-2.43.0.1.4b968f3ea3-1.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2436,7 +2436,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.43.0.windows.1/PortableGit-2.43.0-32-bit.7z.exe",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2444,7 +2444,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.43.0.windows.1/PortableGit-2.43.0-64-bit.7z.exe",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2454,7 +2454,7 @@
   "v2.44.0-rc0.windows.1": [
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.44.0-rc0.windows.1/Git-2.44.0-rc0-32-bit.exe",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2462,7 +2462,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.44.0-rc0.windows.1/Git-2.44.0-rc0-32-bit.tar.bz2",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2470,7 +2470,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.44.0-rc0.windows.1/Git-2.44.0-rc0-64-bit.exe",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2478,7 +2478,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.44.0-rc0.windows.1/Git-2.44.0-rc0-64-bit.tar.bz2",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2486,7 +2486,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.44.0-rc0.windows.1/MinGit-2.44.0-rc0-32-bit.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2494,7 +2494,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.44.0-rc0.windows.1/MinGit-2.44.0-rc0-64-bit.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2502,7 +2502,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.44.0-rc0.windows.1/MinGit-2.44.0-rc0-busybox-32-bit.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2510,7 +2510,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.44.0-rc0.windows.1/MinGit-2.44.0-rc0-busybox-64-bit.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2518,7 +2518,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.44.0-rc0.windows.1/pdbs-for-git-32-bit-2.44.0.rc0.windows.1-1.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2526,7 +2526,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.44.0-rc0.windows.1/pdbs-for-git-64-bit-2.44.0.rc0.windows.1-1.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2534,7 +2534,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.44.0-rc0.windows.1/PortableGit-2.44.0-rc0-32-bit.7z.exe",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2542,7 +2542,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.44.0-rc0.windows.1/PortableGit-2.44.0-rc0-64-bit.7z.exe",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2552,7 +2552,7 @@
   "v2.44.0-rc1.windows.1": [
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.44.0-rc1.windows.1/Git-2.44.0-rc1-32-bit.exe",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2560,7 +2560,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.44.0-rc1.windows.1/Git-2.44.0-rc1-32-bit.tar.bz2",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2568,7 +2568,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.44.0-rc1.windows.1/Git-2.44.0-rc1-64-bit.exe",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2576,7 +2576,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.44.0-rc1.windows.1/Git-2.44.0-rc1-64-bit.tar.bz2",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2584,7 +2584,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.44.0-rc1.windows.1/MinGit-2.44.0-rc1-32-bit.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2592,7 +2592,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.44.0-rc1.windows.1/MinGit-2.44.0-rc1-64-bit.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2600,7 +2600,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.44.0-rc1.windows.1/MinGit-2.44.0-rc1-busybox-32-bit.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2608,7 +2608,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.44.0-rc1.windows.1/MinGit-2.44.0-rc1-busybox-64-bit.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2616,7 +2616,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.44.0-rc1.windows.1/pdbs-for-git-32-bit-2.44.0.rc1.windows.1-1.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2624,7 +2624,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.44.0-rc1.windows.1/pdbs-for-git-64-bit-2.44.0.rc1.windows.1-1.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2632,7 +2632,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.44.0-rc1.windows.1/PortableGit-2.44.0-rc1-32-bit.7z.exe",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2640,7 +2640,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.44.0-rc1.windows.1/PortableGit-2.44.0-rc1-64-bit.7z.exe",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2650,7 +2650,7 @@
   "v2.44.0-rc2.windows.1": [
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.44.0-rc2.windows.1/Git-2.44.0-rc2-32-bit.exe",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2658,7 +2658,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.44.0-rc2.windows.1/Git-2.44.0-rc2-32-bit.tar.bz2",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2666,7 +2666,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.44.0-rc2.windows.1/Git-2.44.0-rc2-64-bit.exe",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2674,7 +2674,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.44.0-rc2.windows.1/Git-2.44.0-rc2-64-bit.tar.bz2",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2682,7 +2682,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.44.0-rc2.windows.1/MinGit-2.44.0-rc2-32-bit.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2690,7 +2690,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.44.0-rc2.windows.1/MinGit-2.44.0-rc2-64-bit.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2698,7 +2698,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.44.0-rc2.windows.1/MinGit-2.44.0-rc2-busybox-32-bit.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2706,7 +2706,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.44.0-rc2.windows.1/MinGit-2.44.0-rc2-busybox-64-bit.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2714,7 +2714,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.44.0-rc2.windows.1/pdbs-for-git-32-bit-2.44.0.rc2.windows.1-1.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2722,7 +2722,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.44.0-rc2.windows.1/pdbs-for-git-64-bit-2.44.0.rc2.windows.1-1.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2730,7 +2730,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.44.0-rc2.windows.1/PortableGit-2.44.0-rc2-32-bit.7z.exe",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2738,7 +2738,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.44.0-rc2.windows.1/PortableGit-2.44.0-rc2-64-bit.7z.exe",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2748,7 +2748,7 @@
   "v2.44.0.windows.1": [
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.44.0.windows.1/Git-2.44.0-32-bit.exe",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2756,7 +2756,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.44.0.windows.1/Git-2.44.0-32-bit.tar.bz2",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2764,7 +2764,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.44.0.windows.1/Git-2.44.0-64-bit.exe",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2772,7 +2772,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.44.0.windows.1/Git-2.44.0-64-bit.tar.bz2",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2780,7 +2780,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.44.0.windows.1/MinGit-2.44.0-32-bit.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2788,7 +2788,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.44.0.windows.1/MinGit-2.44.0-64-bit.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2796,7 +2796,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.44.0.windows.1/MinGit-2.44.0-busybox-32-bit.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2804,7 +2804,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.44.0.windows.1/MinGit-2.44.0-busybox-64-bit.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2812,7 +2812,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.44.0.windows.1/pdbs-for-git-32-bit-2.44.0.1.ad0bbfffa5-1.zip",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2820,7 +2820,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.44.0.windows.1/pdbs-for-git-64-bit-2.44.0.1.ad0bbfffa5-1.zip",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2828,7 +2828,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.44.0.windows.1/PortableGit-2.44.0-32-bit.7z.exe",
-      "Arch": "386",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -2836,7 +2836,7 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.44.0.windows.1/PortableGit-2.44.0-64-bit.7z.exe",
-      "Arch": "amd64",
+      "Arch": "",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
