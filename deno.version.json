@@ -973,46 +973,6 @@
       "Sum": "",
       "SumType": "",
       "Extra": ""
-    },
-    {
-      "Url": "https://github.com/denoland/deno/releases/download/v1.40.5/denort-aarch64-apple-darwin.zip",
-      "Arch": "arm64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/denoland/deno/releases/download/v1.40.5/denort-aarch64-unknown-linux-gnu.zip",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/denoland/deno/releases/download/v1.40.5/denort-x86_64-apple-darwin.zip",
-      "Arch": "amd64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/denoland/deno/releases/download/v1.40.5/denort-x86_64-pc-windows-msvc.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/denoland/deno/releases/download/v1.40.5/denort-x86_64-unknown-linux-gnu.zip",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
     }
   ],
   "v1.41.0": [
@@ -1055,46 +1015,6 @@
       "Sum": "",
       "SumType": "",
       "Extra": ""
-    },
-    {
-      "Url": "https://github.com/denoland/deno/releases/download/v1.41.0/denort-aarch64-apple-darwin.zip",
-      "Arch": "arm64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/denoland/deno/releases/download/v1.41.0/denort-aarch64-unknown-linux-gnu.zip",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/denoland/deno/releases/download/v1.41.0/denort-x86_64-apple-darwin.zip",
-      "Arch": "amd64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/denoland/deno/releases/download/v1.41.0/denort-x86_64-pc-windows-msvc.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/denoland/deno/releases/download/v1.41.0/denort-x86_64-unknown-linux-gnu.zip",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
     }
   ],
   "v1.41.1": [
@@ -1132,46 +1052,6 @@
     },
     {
       "Url": "https://github.com/denoland/deno/releases/download/v1.41.1/deno-x86_64-unknown-linux-gnu.zip",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/denoland/deno/releases/download/v1.41.1/denort-aarch64-apple-darwin.zip",
-      "Arch": "arm64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/denoland/deno/releases/download/v1.41.1/denort-aarch64-unknown-linux-gnu.zip",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/denoland/deno/releases/download/v1.41.1/denort-x86_64-apple-darwin.zip",
-      "Arch": "amd64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/denoland/deno/releases/download/v1.41.1/denort-x86_64-pc-windows-msvc.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/denoland/deno/releases/download/v1.41.1/denort-x86_64-unknown-linux-gnu.zip",
       "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
