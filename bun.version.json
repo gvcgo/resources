@@ -1,8 +1,40 @@
 {
   "1.0.1": [
     {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.1/bun-darwin-aarch64-profile.zip",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.1/bun-darwin-aarch64.zip",
       "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.1/bun-darwin-x64-baseline-profile.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.1/bun-darwin-x64-baseline.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.1/bun-darwin-x64-profile.zip",
+      "Arch": "amd64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -17,8 +49,40 @@
       "Extra": ""
     },
     {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.1/bun-linux-aarch64-profile.zip",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.1/bun-linux-aarch64.zip",
       "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.1/bun-linux-x64-baseline-profile.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.1/bun-linux-x64-baseline.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.1/bun-linux-x64-profile.zip",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -35,8 +99,40 @@
   ],
   "1.0.10": [
     {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.10/bun-darwin-aarch64-profile.zip",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.10/bun-darwin-aarch64.zip",
       "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.10/bun-darwin-x64-baseline-profile.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.10/bun-darwin-x64-baseline.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.10/bun-darwin-x64-profile.zip",
+      "Arch": "amd64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -51,8 +147,40 @@
       "Extra": ""
     },
     {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.10/bun-linux-aarch64-profile.zip",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.10/bun-linux-aarch64.zip",
       "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.10/bun-linux-x64-baseline-profile.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.10/bun-linux-x64-baseline.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.10/bun-linux-x64-profile.zip",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -69,8 +197,40 @@
   ],
   "1.0.11": [
     {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.11/bun-darwin-aarch64-profile.zip",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.11/bun-darwin-aarch64.zip",
       "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.11/bun-darwin-x64-baseline-profile.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.11/bun-darwin-x64-baseline.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.11/bun-darwin-x64-profile.zip",
+      "Arch": "amd64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -85,8 +245,40 @@
       "Extra": ""
     },
     {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.11/bun-linux-aarch64-profile.zip",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.11/bun-linux-aarch64.zip",
       "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.11/bun-linux-x64-baseline-profile.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.11/bun-linux-x64-baseline.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.11/bun-linux-x64-profile.zip",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -103,8 +295,40 @@
   ],
   "1.0.12": [
     {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.12/bun-darwin-aarch64-profile.zip",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.12/bun-darwin-aarch64.zip",
       "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.12/bun-darwin-x64-baseline-profile.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.12/bun-darwin-x64-baseline.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.12/bun-darwin-x64-profile.zip",
+      "Arch": "amd64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -119,8 +343,40 @@
       "Extra": ""
     },
     {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.12/bun-linux-aarch64-profile.zip",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.12/bun-linux-aarch64.zip",
       "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.12/bun-linux-x64-baseline-profile.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.12/bun-linux-x64-baseline.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.12/bun-linux-x64-profile.zip",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -137,8 +393,40 @@
   ],
   "1.0.13": [
     {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.13/bun-darwin-aarch64-profile.zip",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.13/bun-darwin-aarch64.zip",
       "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.13/bun-darwin-x64-baseline-profile.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.13/bun-darwin-x64-baseline.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.13/bun-darwin-x64-profile.zip",
+      "Arch": "amd64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -153,8 +441,40 @@
       "Extra": ""
     },
     {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.13/bun-linux-aarch64-profile.zip",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.13/bun-linux-aarch64.zip",
       "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.13/bun-linux-x64-baseline-profile.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.13/bun-linux-x64-baseline.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.13/bun-linux-x64-profile.zip",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -171,8 +491,40 @@
   ],
   "1.0.14": [
     {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.14/bun-darwin-aarch64-profile.zip",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.14/bun-darwin-aarch64.zip",
       "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.14/bun-darwin-x64-baseline-profile.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.14/bun-darwin-x64-baseline.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.14/bun-darwin-x64-profile.zip",
+      "Arch": "amd64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -187,8 +539,40 @@
       "Extra": ""
     },
     {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.14/bun-linux-aarch64-profile.zip",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.14/bun-linux-aarch64.zip",
       "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.14/bun-linux-x64-baseline-profile.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.14/bun-linux-x64-baseline.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.14/bun-linux-x64-profile.zip",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -205,8 +589,40 @@
   ],
   "1.0.15": [
     {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.15/bun-darwin-aarch64-profile.zip",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.15/bun-darwin-aarch64.zip",
       "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.15/bun-darwin-x64-baseline-profile.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.15/bun-darwin-x64-baseline.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.15/bun-darwin-x64-profile.zip",
+      "Arch": "amd64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -221,8 +637,40 @@
       "Extra": ""
     },
     {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.15/bun-linux-aarch64-profile.zip",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.15/bun-linux-aarch64.zip",
       "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.15/bun-linux-x64-baseline-profile.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.15/bun-linux-x64-baseline.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.15/bun-linux-x64-profile.zip",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -239,8 +687,40 @@
   ],
   "1.0.16": [
     {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.16/bun-darwin-aarch64-profile.zip",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.16/bun-darwin-aarch64.zip",
       "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.16/bun-darwin-x64-baseline-profile.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.16/bun-darwin-x64-baseline.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.16/bun-darwin-x64-profile.zip",
+      "Arch": "amd64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -255,8 +735,40 @@
       "Extra": ""
     },
     {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.16/bun-linux-aarch64-profile.zip",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.16/bun-linux-aarch64.zip",
       "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.16/bun-linux-x64-baseline-profile.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.16/bun-linux-x64-baseline.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.16/bun-linux-x64-profile.zip",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -273,8 +785,40 @@
   ],
   "1.0.17": [
     {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.17/bun-darwin-aarch64-profile.zip",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.17/bun-darwin-aarch64.zip",
       "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.17/bun-darwin-x64-baseline-profile.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.17/bun-darwin-x64-baseline.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.17/bun-darwin-x64-profile.zip",
+      "Arch": "amd64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -289,8 +833,40 @@
       "Extra": ""
     },
     {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.17/bun-linux-aarch64-profile.zip",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.17/bun-linux-aarch64.zip",
       "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.17/bun-linux-x64-baseline-profile.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.17/bun-linux-x64-baseline.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.17/bun-linux-x64-profile.zip",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -307,8 +883,40 @@
   ],
   "1.0.18": [
     {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.18/bun-darwin-aarch64-profile.zip",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.18/bun-darwin-aarch64.zip",
       "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.18/bun-darwin-x64-baseline-profile.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.18/bun-darwin-x64-baseline.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.18/bun-darwin-x64-profile.zip",
+      "Arch": "amd64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -323,8 +931,40 @@
       "Extra": ""
     },
     {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.18/bun-linux-aarch64-profile.zip",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.18/bun-linux-aarch64.zip",
       "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.18/bun-linux-x64-baseline-profile.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.18/bun-linux-x64-baseline.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.18/bun-linux-x64-profile.zip",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -341,8 +981,40 @@
   ],
   "1.0.19": [
     {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.19/bun-darwin-aarch64-profile.zip",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.19/bun-darwin-aarch64.zip",
       "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.19/bun-darwin-x64-baseline-profile.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.19/bun-darwin-x64-baseline.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.19/bun-darwin-x64-profile.zip",
+      "Arch": "amd64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -357,8 +1029,40 @@
       "Extra": ""
     },
     {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.19/bun-linux-aarch64-profile.zip",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.19/bun-linux-aarch64.zip",
       "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.19/bun-linux-x64-baseline-profile.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.19/bun-linux-x64-baseline.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.19/bun-linux-x64-profile.zip",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -375,8 +1079,40 @@
   ],
   "1.0.2": [
     {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.2/bun-darwin-aarch64-profile.zip",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.2/bun-darwin-aarch64.zip",
       "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.2/bun-darwin-x64-baseline-profile.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.2/bun-darwin-x64-baseline.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.2/bun-darwin-x64-profile.zip",
+      "Arch": "amd64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -391,8 +1127,40 @@
       "Extra": ""
     },
     {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.2/bun-linux-aarch64-profile.zip",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.2/bun-linux-aarch64.zip",
       "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.2/bun-linux-x64-baseline-profile.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.2/bun-linux-x64-baseline.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.2/bun-linux-x64-profile.zip",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -409,8 +1177,40 @@
   ],
   "1.0.20": [
     {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.20/bun-darwin-aarch64-profile.zip",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.20/bun-darwin-aarch64.zip",
       "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.20/bun-darwin-x64-baseline-profile.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.20/bun-darwin-x64-baseline.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.20/bun-darwin-x64-profile.zip",
+      "Arch": "amd64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -425,8 +1225,40 @@
       "Extra": ""
     },
     {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.20/bun-linux-aarch64-profile.zip",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.20/bun-linux-aarch64.zip",
       "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.20/bun-linux-x64-baseline-profile.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.20/bun-linux-x64-baseline.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.20/bun-linux-x64-profile.zip",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -443,8 +1275,40 @@
   ],
   "1.0.21": [
     {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.21/bun-darwin-aarch64-profile.zip",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.21/bun-darwin-aarch64.zip",
       "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.21/bun-darwin-x64-baseline-profile.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.21/bun-darwin-x64-baseline.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.21/bun-darwin-x64-profile.zip",
+      "Arch": "amd64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -459,8 +1323,40 @@
       "Extra": ""
     },
     {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.21/bun-linux-aarch64-profile.zip",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.21/bun-linux-aarch64.zip",
       "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.21/bun-linux-x64-baseline-profile.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.21/bun-linux-x64-baseline.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.21/bun-linux-x64-profile.zip",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -477,8 +1373,40 @@
   ],
   "1.0.22": [
     {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.22/bun-darwin-aarch64-profile.zip",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.22/bun-darwin-aarch64.zip",
       "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.22/bun-darwin-x64-baseline-profile.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.22/bun-darwin-x64-baseline.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.22/bun-darwin-x64-profile.zip",
+      "Arch": "amd64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -493,8 +1421,40 @@
       "Extra": ""
     },
     {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.22/bun-linux-aarch64-profile.zip",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.22/bun-linux-aarch64.zip",
       "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.22/bun-linux-x64-baseline-profile.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.22/bun-linux-x64-baseline.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.22/bun-linux-x64-profile.zip",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -511,8 +1471,40 @@
   ],
   "1.0.23": [
     {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.23/bun-darwin-aarch64-profile.zip",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.23/bun-darwin-aarch64.zip",
       "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.23/bun-darwin-x64-baseline-profile.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.23/bun-darwin-x64-baseline.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.23/bun-darwin-x64-profile.zip",
+      "Arch": "amd64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -527,8 +1519,40 @@
       "Extra": ""
     },
     {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.23/bun-linux-aarch64-profile.zip",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.23/bun-linux-aarch64.zip",
       "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.23/bun-linux-x64-baseline-profile.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.23/bun-linux-x64-baseline.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.23/bun-linux-x64-profile.zip",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -545,8 +1569,40 @@
   ],
   "1.0.24": [
     {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.24/bun-darwin-aarch64-profile.zip",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.24/bun-darwin-aarch64.zip",
       "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.24/bun-darwin-x64-baseline-profile.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.24/bun-darwin-x64-baseline.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.24/bun-darwin-x64-profile.zip",
+      "Arch": "amd64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -561,8 +1617,40 @@
       "Extra": ""
     },
     {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.24/bun-linux-aarch64-profile.zip",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.24/bun-linux-aarch64.zip",
       "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.24/bun-linux-x64-baseline-profile.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.24/bun-linux-x64-baseline.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.24/bun-linux-x64-profile.zip",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -579,8 +1667,40 @@
   ],
   "1.0.25": [
     {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.25/bun-darwin-aarch64-profile.zip",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.25/bun-darwin-aarch64.zip",
       "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.25/bun-darwin-x64-baseline-profile.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.25/bun-darwin-x64-baseline.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.25/bun-darwin-x64-profile.zip",
+      "Arch": "amd64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -595,8 +1715,40 @@
       "Extra": ""
     },
     {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.25/bun-linux-aarch64-profile.zip",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.25/bun-linux-aarch64.zip",
       "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.25/bun-linux-x64-baseline-profile.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.25/bun-linux-x64-baseline.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.25/bun-linux-x64-profile.zip",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -613,8 +1765,40 @@
   ],
   "1.0.26": [
     {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.26/bun-darwin-aarch64-profile.zip",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.26/bun-darwin-aarch64.zip",
       "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.26/bun-darwin-x64-baseline-profile.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.26/bun-darwin-x64-baseline.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.26/bun-darwin-x64-profile.zip",
+      "Arch": "amd64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -629,8 +1813,40 @@
       "Extra": ""
     },
     {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.26/bun-linux-aarch64-profile.zip",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.26/bun-linux-aarch64.zip",
       "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.26/bun-linux-x64-baseline-profile.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.26/bun-linux-x64-baseline.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.26/bun-linux-x64-profile.zip",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -647,8 +1863,40 @@
   ],
   "1.0.27": [
     {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.27/bun-darwin-aarch64-profile.zip",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.27/bun-darwin-aarch64.zip",
       "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.27/bun-darwin-x64-baseline-profile.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.27/bun-darwin-x64-baseline.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.27/bun-darwin-x64-profile.zip",
+      "Arch": "amd64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -663,8 +1911,40 @@
       "Extra": ""
     },
     {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.27/bun-linux-aarch64-profile.zip",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.27/bun-linux-aarch64.zip",
       "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.27/bun-linux-x64-baseline-profile.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.27/bun-linux-x64-baseline.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.27/bun-linux-x64-profile.zip",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -681,8 +1961,40 @@
   ],
   "1.0.28": [
     {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.28/bun-darwin-aarch64-profile.zip",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.28/bun-darwin-aarch64.zip",
       "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.28/bun-darwin-x64-baseline-profile.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.28/bun-darwin-x64-baseline.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.28/bun-darwin-x64-profile.zip",
+      "Arch": "amd64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -697,8 +2009,40 @@
       "Extra": ""
     },
     {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.28/bun-linux-aarch64-profile.zip",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.28/bun-linux-aarch64.zip",
       "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.28/bun-linux-x64-baseline-profile.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.28/bun-linux-x64-baseline.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.28/bun-linux-x64-profile.zip",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -715,8 +2059,40 @@
   ],
   "1.0.29": [
     {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.29/bun-darwin-aarch64-profile.zip",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.29/bun-darwin-aarch64.zip",
       "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.29/bun-darwin-x64-baseline-profile.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.29/bun-darwin-x64-baseline.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.29/bun-darwin-x64-profile.zip",
+      "Arch": "amd64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -731,8 +2107,40 @@
       "Extra": ""
     },
     {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.29/bun-linux-aarch64-profile.zip",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.29/bun-linux-aarch64.zip",
       "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.29/bun-linux-x64-baseline-profile.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.29/bun-linux-x64-baseline.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.29/bun-linux-x64-profile.zip",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -749,8 +2157,40 @@
   ],
   "1.0.3": [
     {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.3/bun-darwin-aarch64-profile.zip",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.3/bun-darwin-aarch64.zip",
       "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.3/bun-darwin-x64-baseline-profile.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.3/bun-darwin-x64-baseline.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.3/bun-darwin-x64-profile.zip",
+      "Arch": "amd64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -765,8 +2205,40 @@
       "Extra": ""
     },
     {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.3/bun-linux-aarch64-profile.zip",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.3/bun-linux-aarch64.zip",
       "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.3/bun-linux-x64-baseline-profile.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.3/bun-linux-x64-baseline.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.3/bun-linux-x64-profile.zip",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -783,8 +2255,40 @@
   ],
   "1.0.30": [
     {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.30/bun-darwin-aarch64-profile.zip",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.30/bun-darwin-aarch64.zip",
       "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.30/bun-darwin-x64-baseline-profile.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.30/bun-darwin-x64-baseline.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.30/bun-darwin-x64-profile.zip",
+      "Arch": "amd64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -799,8 +2303,40 @@
       "Extra": ""
     },
     {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.30/bun-linux-aarch64-profile.zip",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.30/bun-linux-aarch64.zip",
       "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.30/bun-linux-x64-baseline-profile.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.30/bun-linux-x64-baseline.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.30/bun-linux-x64-profile.zip",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -817,8 +2353,40 @@
   ],
   "1.0.4": [
     {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.4/bun-darwin-aarch64-profile.zip",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.4/bun-darwin-aarch64.zip",
       "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.4/bun-darwin-x64-baseline-profile.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.4/bun-darwin-x64-baseline.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.4/bun-darwin-x64-profile.zip",
+      "Arch": "amd64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -833,8 +2401,40 @@
       "Extra": ""
     },
     {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.4/bun-linux-aarch64-profile.zip",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.4/bun-linux-aarch64.zip",
       "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.4/bun-linux-x64-baseline-profile.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.4/bun-linux-x64-baseline.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.4/bun-linux-x64-profile.zip",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -851,8 +2451,40 @@
   ],
   "1.0.5": [
     {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.5/bun-darwin-aarch64-profile.zip",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.5/bun-darwin-aarch64.zip",
       "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.5/bun-darwin-x64-baseline-profile.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.5/bun-darwin-x64-baseline.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.5/bun-darwin-x64-profile.zip",
+      "Arch": "amd64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -867,8 +2499,40 @@
       "Extra": ""
     },
     {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.5/bun-linux-aarch64-profile.zip",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.5/bun-linux-aarch64.zip",
       "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.5/bun-linux-x64-baseline-profile.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.5/bun-linux-x64-baseline.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.5/bun-linux-x64-profile.zip",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -885,8 +2549,40 @@
   ],
   "1.0.6": [
     {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.6/bun-darwin-aarch64-profile.zip",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.6/bun-darwin-aarch64.zip",
       "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.6/bun-darwin-x64-baseline-profile.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.6/bun-darwin-x64-baseline.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.6/bun-darwin-x64-profile.zip",
+      "Arch": "amd64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -901,8 +2597,40 @@
       "Extra": ""
     },
     {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.6/bun-linux-aarch64-profile.zip",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.6/bun-linux-aarch64.zip",
       "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.6/bun-linux-x64-baseline-profile.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.6/bun-linux-x64-baseline.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.6/bun-linux-x64-profile.zip",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -919,8 +2647,40 @@
   ],
   "1.0.7": [
     {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.7/bun-darwin-aarch64-profile.zip",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.7/bun-darwin-aarch64.zip",
       "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.7/bun-darwin-x64-baseline-profile.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.7/bun-darwin-x64-baseline.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.7/bun-darwin-x64-profile.zip",
+      "Arch": "amd64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -935,8 +2695,40 @@
       "Extra": ""
     },
     {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.7/bun-linux-aarch64-profile.zip",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.7/bun-linux-aarch64.zip",
       "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.7/bun-linux-x64-baseline-profile.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.7/bun-linux-x64-baseline.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.7/bun-linux-x64-profile.zip",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -953,8 +2745,40 @@
   ],
   "1.0.8": [
     {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.8/bun-darwin-aarch64-profile.zip",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.8/bun-darwin-aarch64.zip",
       "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.8/bun-darwin-x64-baseline-profile.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.8/bun-darwin-x64-baseline.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.8/bun-darwin-x64-profile.zip",
+      "Arch": "amd64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -969,8 +2793,40 @@
       "Extra": ""
     },
     {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.8/bun-linux-aarch64-profile.zip",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.8/bun-linux-aarch64.zip",
       "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.8/bun-linux-x64-baseline-profile.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.8/bun-linux-x64-baseline.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.8/bun-linux-x64-profile.zip",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -987,8 +2843,40 @@
   ],
   "1.0.9": [
     {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.9/bun-darwin-aarch64-profile.zip",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.9/bun-darwin-aarch64.zip",
       "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.9/bun-darwin-x64-baseline-profile.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.9/bun-darwin-x64-baseline.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.9/bun-darwin-x64-profile.zip",
+      "Arch": "amd64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -1003,8 +2891,40 @@
       "Extra": ""
     },
     {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.9/bun-linux-aarch64-profile.zip",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.9/bun-linux-aarch64.zip",
       "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.9/bun-linux-x64-baseline-profile.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.9/bun-linux-x64-baseline.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.9/bun-linux-x64-profile.zip",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
