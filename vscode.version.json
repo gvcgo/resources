@@ -10,7 +10,7 @@
     },
     {
       "Url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/019f4d1419fbc8219a181fab7892ebccf7ee29a2/vscode_cli_win32_x64_cli.zip",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "81d597bac90ef85f881ae8932f53d1f3f2c8688de73ae504bc2f8ac8ab1d65c2",
       "SumType": "sha256",
@@ -26,7 +26,7 @@
     },
     {
       "Url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/019f4d1419fbc8219a181fab7892ebccf7ee29a2/vscode_cli_win32_arm64_cli.zip",
-      "Arch": "arm64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "da5661bbc7787eb88e21a9bcb0c1ea4a3cca8828e8b2c08dd66397764df5960c",
       "SumType": "sha256",
