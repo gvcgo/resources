@@ -74,7 +74,7 @@
     },
     {
       "Url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.22%2B7/OpenJDK11U-testimage_ppc64le_linux_hotspot_11.0.22_7.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "75edf53e757b7e7c348fd0431f543355827978dae03500c6e567cefab6620d7a",
       "SumType": "sha256",
@@ -169,30 +169,6 @@
       "Extra": "jdk-11.0.22+7$eclipse"
     },
     {
-      "Url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.22%2B7/OpenJDK11U-debugimage_x64_alpine-linux_hotspot_11.0.22_7.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "1152acd224be6880edc59b0dd4b748ef951e47d7cac3af3c056a1bb4bb6bd058",
-      "SumType": "sha256",
-      "Extra": "jdk-11.0.22+7$eclipse"
-    },
-    {
-      "Url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.22%2B7/OpenJDK11U-testimage_x64_alpine-linux_hotspot_11.0.22_7.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "ffadbba8223d95acd7ad72044e12bd94561a7f9838426bfb3ac6a0f0c3443a8d",
-      "SumType": "sha256",
-      "Extra": "jdk-11.0.22+7$eclipse"
-    },
-    {
-      "Url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.22%2B7/OpenJDK11U-jre_x64_alpine-linux_hotspot_11.0.22_7.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "cbadab09243a084c3dc8c7e546c0f17941758f9df9c22b227144ce4247ad94f3",
-      "SumType": "sha256",
-      "Extra": "jdk-11.0.22+7$eclipse"
-    },
-    {
       "Url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.21%2B9/OpenJDK11U-jdk-sources_11.0.21_9.tar.gz",
       "Arch": "amd64",
       "Os": "linux",
@@ -229,14 +205,6 @@
       "Arch": "amd64",
       "Os": "linux",
       "Sum": "a7c653652957cf79ad295a0228483b8c02648db728ed58ef3bc1a648c4f9130b",
-      "SumType": "sha256",
-      "Extra": "jdk-11.0.22+7$eclipse"
-    },
-    {
-      "Url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.22%2B7/OpenJDK11U-static-libs-musl_x64_alpine-linux_hotspot_11.0.22_7.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "96d2652c280f1ffdc73bed3e520065468dbc7123854d112bd3fbd9894e5c1716",
       "SumType": "sha256",
       "Extra": "jdk-11.0.22+7$eclipse"
     },
@@ -309,14 +277,6 @@
       "Arch": "amd64",
       "Os": "windows",
       "Sum": "33408c91041eda487adcb35f839f7653da0ebfea2be8e1b024cba998f9783854",
-      "SumType": "sha256",
-      "Extra": "jdk-11.0.22+7$eclipse"
-    },
-    {
-      "Url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.22%2B7/OpenJDK11U-sbom_x64_alpine-linux_hotspot_11.0.22_7.json",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "5e509fb9d3e7db0503b70588c88b22588a300a1f2aa0ec09ad89fb51448e4585",
       "SumType": "sha256",
       "Extra": "jdk-11.0.22+7$eclipse"
     },
@@ -428,7 +388,7 @@
     },
     {
       "Url": "https://github.com/adoptium/temurin16-binaries/releases/download/jdk-16.0.2%2B7/OpenJDK16U-debugimage_ppc64le_linux_hotspot_16.0.2_7.tar.gz",
-      "Arch": "ppc64",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "cc650156b06ca38be8e2654b2a3669d5bd7ff3ad1b9151051bbd4bd965df92ef",
       "SumType": "sha256",
@@ -447,22 +407,6 @@
       "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "d15e8931f760e723bc0a681946a6331dd9a281ce21a8fa144602e8cfdaf92a6d",
-      "SumType": "sha256",
-      "Extra": "jdk-16.0.2+7$eclipse"
-    },
-    {
-      "Url": "https://github.com/adoptium/temurin16-binaries/releases/download/jdk-16.0.2%2B7/OpenJDK16U-debugimage_x64_alpine-linux_hotspot_16.0.2_7.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "d4a3520512bfa43a81cc854f8c752161b5b99a8dc8f6a388dec046586bf9c7cd",
-      "SumType": "sha256",
-      "Extra": "jdk-16.0.2+7$eclipse"
-    },
-    {
-      "Url": "https://github.com/adoptium/temurin16-binaries/releases/download/jdk-16.0.2%2B7/OpenJDK16U-testimage_x64_alpine-linux_hotspot_16.0.2_7.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "d0dd83ede71cacee4e56e846a9e399125a45125bdaecff7898d597f605954dbe",
       "SumType": "sha256",
       "Extra": "jdk-16.0.2+7$eclipse"
     }
@@ -581,22 +525,6 @@
       "Extra": "jdk-17.0.10+7$eclipse"
     },
     {
-      "Url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.10%2B7/OpenJDK17U-debugimage_x64_alpine-linux_hotspot_17.0.10_7.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "5000ccc681c5245aff4f940df8c708c3521d05efb419060566c7a914d5ca9e09",
-      "SumType": "sha256",
-      "Extra": "jdk-17.0.10+7$eclipse"
-    },
-    {
-      "Url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.10%2B7/OpenJDK17U-testimage_x64_alpine-linux_hotspot_17.0.10_7.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "1255c52ab6d8fdc1e713249ec2a070b9aa63aaa07e08b2eebb724d3f53fa2c4e",
-      "SumType": "sha256",
-      "Extra": "jdk-17.0.10+7$eclipse"
-    },
-    {
       "Url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.10%2B7/OpenJDK17U-jdk-sources_17.0.10_7.tar.gz",
       "Arch": "amd64",
       "Os": "linux",
@@ -645,14 +573,6 @@
       "Extra": "jdk-17.0.10+7$eclipse"
     },
     {
-      "Url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.10%2B7/OpenJDK17U-static-libs-musl_x64_alpine-linux_hotspot_17.0.10_7.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "f4fe6c56e4e6af307bdfa7a790cffe8aafe26026290692d02d7f58085ffe4bf5",
-      "SumType": "sha256",
-      "Extra": "jdk-17.0.10+7$eclipse"
-    },
-    {
       "Url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.10%2B7/OpenJDK17U-static-libs_x64_mac_hotspot_17.0.10_7.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -678,7 +598,7 @@
     },
     {
       "Url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.10%2B7/OpenJDK17U-jre_ppc64le_linux_hotspot_17.0.10_7.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "4e18b60dba540b5c431ff03f74a1c73b22d83151f93b8768241d264d1a53582d",
       "SumType": "sha256",
@@ -689,14 +609,6 @@
       "Arch": "s390x",
       "Os": "linux",
       "Sum": "c1b2fd232fc55e814479d7585d7ec45bae952a2f4137084f1d99f958c6880a49",
-      "SumType": "sha256",
-      "Extra": "jdk-17.0.10+7$eclipse"
-    },
-    {
-      "Url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.10%2B7/OpenJDK17U-jre_x64_alpine-linux_hotspot_17.0.10_7.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "822f43f3de715b8eccad3fab8715cdfda02ec343f004fa56107e73433d2d6fa3",
       "SumType": "sha256",
       "Extra": "jdk-17.0.10+7$eclipse"
     },
@@ -758,17 +670,9 @@
     },
     {
       "Url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.10%2B7/OpenJDK17U-sbom_ppc64le_linux_hotspot_17.0.10_7.json",
-      "Arch": "ppc64",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "e3835b8d73cc981e657f6dee5321d2b1b20326479bc8a8d65d8953cc735c2dfd",
-      "SumType": "sha256",
-      "Extra": "jdk-17.0.10+7$eclipse"
-    },
-    {
-      "Url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.10%2B7/OpenJDK17U-sbom_x64_alpine-linux_hotspot_17.0.10_7.json",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "a3d9701a6860047f567ffda209d952796b9d37208ae52518689dce155cb75de6",
       "SumType": "sha256",
       "Extra": "jdk-17.0.10+7$eclipse"
     },
@@ -864,7 +768,7 @@
     },
     {
       "Url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-static-libs-glibc_ppc64le_linux_hotspot_18.0.2.1_1.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "03dd4272d1c80e9775420269dc917e5256407323a79430a93187164a9d8b651c",
       "SumType": "sha256",
@@ -915,22 +819,6 @@
       "Arch": "amd64",
       "Os": "windows",
       "Sum": "380b6c14772e0f1b3326a56737d6606f6247cca763f09c23e86d552221abdc9a",
-      "SumType": "sha256",
-      "Extra": "jdk-18.0.2.1+1$eclipse"
-    },
-    {
-      "Url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-debugimage_x64_alpine-linux_hotspot_18.0.2.1_1.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "20c49fcda66f86b8adb0a329ac4a6af3b231ef599282c3e466ee9305a14484ce",
-      "SumType": "sha256",
-      "Extra": "jdk-18.0.2.1+1$eclipse"
-    },
-    {
-      "Url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-static-libs-musl_x64_alpine-linux_hotspot_18.0.2.1_1.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "3d2450c21a0c2c469415deef9948a79f8d3e9389ef584880d78a4f0181a2f099",
       "SumType": "sha256",
       "Extra": "jdk-18.0.2.1+1$eclipse"
     },
@@ -1015,14 +903,6 @@
       "Extra": "jdk-18.0.2.1+1$eclipse"
     },
     {
-      "Url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jre_x64_alpine-linux_hotspot_18.0.2.1_1.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "ad23309a82e690f769037b1e6417022f588702d214da533289f116bba0f61f4e",
-      "SumType": "sha256",
-      "Extra": "jdk-18.0.2.1+1$eclipse"
-    },
-    {
       "Url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jre_s390x_linux_hotspot_18.0.2.1_1.tar.gz",
       "Arch": "s390x",
       "Os": "linux",
@@ -1048,7 +928,7 @@
     },
     {
       "Url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-sbom_ppc64le_linux_hotspot_18.0.2.1_1.json",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "962bac8f8aea7a9704babd9d2652e1f0f391f73aa34a6a994a9e9dd2937deb26",
       "SumType": "sha256",
@@ -1059,14 +939,6 @@
       "Arch": "amd64",
       "Os": "windows",
       "Sum": "33b8aafe090012cc1250cbacbdd911b7f147ae518d1dbea39551ce1a788099c5",
-      "SumType": "sha256",
-      "Extra": "jdk-18.0.2.1+1$eclipse"
-    },
-    {
-      "Url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-sbom_x64_alpine-linux_hotspot_18.0.2.1_1.json",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "bc48fecf6c1292237d0ce0447e3a9d91751f07a6babd93b84cecc25faab77432",
       "SumType": "sha256",
       "Extra": "jdk-18.0.2.1+1$eclipse"
     },
@@ -1273,38 +1145,6 @@
       "Extra": "jdk-19.0.2+7$eclipse"
     },
     {
-      "Url": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.2%2B7/OpenJDK19U-debugimage_x64_alpine-linux_hotspot_19.0.2_7.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "4325666c1d6002811ea282b6bc8d94869cd5c2f18be167b6d714c02c9cbc084f",
-      "SumType": "sha256",
-      "Extra": "jdk-19.0.2+7$eclipse"
-    },
-    {
-      "Url": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.2%2B7/OpenJDK19U-jre_x64_alpine-linux_hotspot_19.0.2_7.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "6c0ce0ead2e7ce3e0f06b9578447499c8bd0509306c95fcd81dbecb634228933",
-      "SumType": "sha256",
-      "Extra": "jdk-19.0.2+7$eclipse"
-    },
-    {
-      "Url": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.2%2B7/OpenJDK19U-sbom_x64_alpine-linux_hotspot_19.0.2_7.json",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "609bde4a2ff5db14dc8cd1aa83d189e1cd268c3514e93ab780504d4fd09f2e99",
-      "SumType": "sha256",
-      "Extra": "jdk-19.0.2+7$eclipse"
-    },
-    {
-      "Url": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.2%2B7/OpenJDK19U-static-libs-musl_x64_alpine-linux_hotspot_19.0.2_7.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "af18fe7201523ebf08510491c24495164ed671cb4c6bda9965ce302d167cc4c9",
-      "SumType": "sha256",
-      "Extra": "jdk-19.0.2+7$eclipse"
-    },
-    {
       "Url": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.2%2B7/OpenJDK19U-debugimage_ppc64le_linux_hotspot_19.0.2_7.tar.gz",
       "Arch": "ppc64le",
       "Os": "linux",
@@ -1314,7 +1154,7 @@
     },
     {
       "Url": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.2%2B7/OpenJDK19U-jre_ppc64le_linux_hotspot_19.0.2_7.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "a30203431c7c21602227d39368c5af6e7abd19000d6da5562de7f3f5c57cbad5",
       "SumType": "sha256",
@@ -1322,7 +1162,7 @@
     },
     {
       "Url": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.2%2B7/OpenJDK19U-sbom_ppc64le_linux_hotspot_19.0.2_7.json",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "1654ee93f41ea154ee797dd852dd3eb6d5d40d92f26f2691d0b5aa7ecb16aa18",
       "SumType": "sha256",
@@ -1394,7 +1234,7 @@
     },
     {
       "Url": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.2%2B7/OpenJDK19U-testimage_ppc64le_linux_hotspot_19.0.2_7.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "b587f3be6efd278c6ae72ef7e5a2dc7a942687b1d5c915a8b86fe2f6019f534b",
       "SumType": "sha256",
@@ -1405,14 +1245,6 @@
       "Arch": "s390x",
       "Os": "linux",
       "Sum": "f656c37176b8eb1b4c9a8dc4955c7f1b751c1e8bea4b7186ed39731cde30d0fb",
-      "SumType": "sha256",
-      "Extra": "jdk-19.0.2+7$eclipse"
-    },
-    {
-      "Url": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.2%2B7/OpenJDK19U-testimage_x64_alpine-linux_hotspot_19.0.2_7.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "c9f3aa823d52492dd8da598db754cb531e8c39a877b0e2c007922718d6f43861",
       "SumType": "sha256",
       "Extra": "jdk-19.0.2+7$eclipse"
     },
@@ -1612,7 +1444,7 @@
     },
     {
       "Url": "https://github.com/adoptium/temurin20-binaries/releases/download/jdk-20%2B36/OpenJDK20U-static-libs-glibc_ppc64le_linux_hotspot_20_36.tar.gz",
-      "Arch": "ppc64",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "833cd33da023a08ac5f9ba71af46e08488a829a96ff37a4fcf36e34a2895ff86",
       "SumType": "sha256",
@@ -1636,7 +1468,7 @@
     },
     {
       "Url": "https://github.com/adoptium/temurin20-binaries/releases/download/jdk-20%2B36/OpenJDK20U-testimage_ppc64le_linux_hotspot_20_36.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "8371f4407c06853f71a90178df34247e93ade28df67d13c2715f72165a838412",
       "SumType": "sha256",
@@ -1687,46 +1519,6 @@
       "Arch": "arm64",
       "Os": "darwin",
       "Sum": "46b964871bbb75f06b7066c83ab18c83e711aa0bdbd1c66f885b89d01ca3ac5b",
-      "SumType": "sha256",
-      "Extra": "jdk-20.0.2+9$eclipse"
-    },
-    {
-      "Url": "https://github.com/adoptium/temurin20-binaries/releases/download/jdk-20.0.2%2B9/OpenJDK20U-jre_x64_alpine-linux_hotspot_20.0.2_9.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "53b34747a3c042a4cccb2b8b78fba3330b105bc523f0861237baa9143dc39115",
-      "SumType": "sha256",
-      "Extra": "jdk-20.0.2+9$eclipse"
-    },
-    {
-      "Url": "https://github.com/adoptium/temurin20-binaries/releases/download/jdk-20.0.2%2B9/OpenJDK20U-sbom_x64_alpine-linux_hotspot_20.0.2_9.json",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "96427fde70a71cef7a42019bc3495fa9210818d4273727e4d578f8eab3489819",
-      "SumType": "sha256",
-      "Extra": "jdk-20.0.2+9$eclipse"
-    },
-    {
-      "Url": "https://github.com/adoptium/temurin20-binaries/releases/download/jdk-20.0.2%2B9/OpenJDK20U-debugimage_x64_alpine-linux_hotspot_20.0.2_9.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "720117bbf5c18026c1d32888d030157a6aaa03a60043e301c9b77748941ff9d4",
-      "SumType": "sha256",
-      "Extra": "jdk-20.0.2+9$eclipse"
-    },
-    {
-      "Url": "https://github.com/adoptium/temurin20-binaries/releases/download/jdk-20.0.2%2B9/OpenJDK20U-testimage_x64_alpine-linux_hotspot_20.0.2_9.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "491d92f4db3df7e8cec3ee0dc33961b178e696da79adc3139b570bba51a1a4b5",
-      "SumType": "sha256",
-      "Extra": "jdk-20.0.2+9$eclipse"
-    },
-    {
-      "Url": "https://github.com/adoptium/temurin20-binaries/releases/download/jdk-20.0.2%2B9/OpenJDK20U-static-libs-musl_x64_alpine-linux_hotspot_20.0.2_9.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "1e4b7c4fd80cfbd4f314ee208b64351b21aeb3baaccc0d9461bc967744bfb12f",
       "SumType": "sha256",
       "Extra": "jdk-20.0.2+9$eclipse"
     }
@@ -1821,46 +1613,6 @@
       "Extra": "jdk-21.0.2+13$eclipse"
     },
     {
-      "Url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.2%2B13/OpenJDK21U-static-libs-musl_x64_alpine-linux_hotspot_21.0.2_13.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "bb1aa4d3deb67d647b379b113ed7eda13f4146272601c2562f219e584ecfd628",
-      "SumType": "sha256",
-      "Extra": "jdk-21.0.2+13$eclipse"
-    },
-    {
-      "Url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.2%2B13/OpenJDK21U-testimage_x64_alpine-linux_hotspot_21.0.2_13.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "16c4cf375bd8b07046ad50d684d28566bb5bb9023ffd86b5d9614a001fba2197",
-      "SumType": "sha256",
-      "Extra": "jdk-21.0.2+13$eclipse"
-    },
-    {
-      "Url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.2%2B13/OpenJDK21U-sbom_x64_alpine-linux_hotspot_21.0.2_13.json",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "6e7a35c714c3f71b9929c46c7fd1986a522ef0c7e1a715653de058c933857cb7",
-      "SumType": "sha256",
-      "Extra": "jdk-21.0.2+13$eclipse"
-    },
-    {
-      "Url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.2%2B13/OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.2_13.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "7077b9e42b40f1ed8d59a71ae59a57d5d55de2685cc5efd70a0405618da616d7",
-      "SumType": "sha256",
-      "Extra": "jdk-21.0.2+13$eclipse"
-    },
-    {
-      "Url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.2%2B13/OpenJDK21U-debugimage_x64_alpine-linux_hotspot_21.0.2_13.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "e025b8c11956106fb1594a287e7e6cdefc812e6859a2bb8a59f7f414545e910c",
-      "SumType": "sha256",
-      "Extra": "jdk-21.0.2+13$eclipse"
-    },
-    {
       "Url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.2%2B13/OpenJDK21U-static-libs_x64_mac_hotspot_21.0.2_13.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -1941,46 +1693,6 @@
       "Extra": "jdk-21.0.2+13$eclipse"
     },
     {
-      "Url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.2%2B13/OpenJDK21U-testimage_aarch64_alpine-linux_hotspot_21.0.2_13.tar.gz",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "0762686ff55ade36a387ff60cef528a2bdd99eab2365a01d9ff34dd3976978b3",
-      "SumType": "sha256",
-      "Extra": "jdk-21.0.2+13$eclipse"
-    },
-    {
-      "Url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.2%2B13/OpenJDK21U-static-libs-musl_aarch64_alpine-linux_hotspot_21.0.2_13.tar.gz",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "1ef95e26ef705bb2ccf08e199a64b730725b4e1d4f5fce79daf8e69c588039d4",
-      "SumType": "sha256",
-      "Extra": "jdk-21.0.2+13$eclipse"
-    },
-    {
-      "Url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.2%2B13/OpenJDK21U-jre_aarch64_alpine-linux_hotspot_21.0.2_13.tar.gz",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "e961c43fa418a74d5349d519d4f05b70f2017b13420812946be88349729c8ff3",
-      "SumType": "sha256",
-      "Extra": "jdk-21.0.2+13$eclipse"
-    },
-    {
-      "Url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.2%2B13/OpenJDK21U-sbom_aarch64_alpine-linux_hotspot_21.0.2_13.json",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "95d55559df4eb9285cced3e7f694502454b9bc03db999a2497e1243131e7a8a9",
-      "SumType": "sha256",
-      "Extra": "jdk-21.0.2+13$eclipse"
-    },
-    {
-      "Url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.2%2B13/OpenJDK21U-debugimage_aarch64_alpine-linux_hotspot_21.0.2_13.tar.gz",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "a9c0ba5ae1e8812efa17ee73faaa529f3be653778e448706fff54cc6b757a693",
-      "SumType": "sha256",
-      "Extra": "jdk-21.0.2+13$eclipse"
-    },
-    {
       "Url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.2%2B13/OpenJDK21U-static-libs_aarch64_mac_hotspot_21.0.2_13.tar.gz",
       "Arch": "arm64",
       "Os": "darwin",
@@ -2022,7 +1734,7 @@
     },
     {
       "Url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.2%2B13/OpenJDK21U-static-libs-glibc_ppc64le_linux_hotspot_21.0.2_13.tar.gz",
-      "Arch": "ppc64",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "e59bf800d732834aa51ebd5d052f3e505ecfc877bd33989654a798ccde822d91",
       "SumType": "sha256",
@@ -2030,7 +1742,7 @@
     },
     {
       "Url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.2%2B13/OpenJDK21U-testimage_ppc64le_linux_hotspot_21.0.2_13.tar.gz",
-      "Arch": "ppc64",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "271dc5707fa0df05cd37b37846bf1ecaa5d537572f0eea27c9636bb5de152142",
       "SumType": "sha256",
@@ -2038,7 +1750,7 @@
     },
     {
       "Url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.2%2B13/OpenJDK21U-sbom_ppc64le_linux_hotspot_21.0.2_13.json",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "dd0d93a0bc5d419b1f4639c5ca24f3bc8b2872877038c3a03ed5e337214edf1c",
       "SumType": "sha256",
@@ -2046,7 +1758,7 @@
     },
     {
       "Url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.2%2B13/OpenJDK21U-debugimage_ppc64le_linux_hotspot_21.0.2_13.tar.gz",
-      "Arch": "ppc64",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "9cd76531e8675f9add6621ab8176d6bcd35e45e646787dbdf748a48804a9b1a2",
       "SumType": "sha256",
@@ -2054,7 +1766,7 @@
     },
     {
       "Url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.2%2B13/OpenJDK21U-jre_ppc64le_linux_hotspot_21.0.2_13.tar.gz",
-      "Arch": "ppc64",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "caaf48e50787b80b810dc08ee91bd4ffe0d0696bd14906a92f05bf8c14aabb22",
       "SumType": "sha256",
@@ -2255,22 +1967,6 @@
       "Extra": "jdk8u402-b06$eclipse"
     },
     {
-      "Url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u402-b06/OpenJDK8U-debugimage_x64_alpine-linux_hotspot_8u402b06.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "9c16a5ddb3828fc26c6d21a9878ed903a1a7558e5320fae9b34b347ae62f3afc",
-      "SumType": "sha256",
-      "Extra": "jdk8u402-b06$eclipse"
-    },
-    {
-      "Url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u402-b06/OpenJDK8U-jre_x64_alpine-linux_hotspot_8u402b06.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "abc7861abda181ffe4527997ef8267e701385f11b82d91bc3a56077be228b0e0",
-      "SumType": "sha256",
-      "Extra": "jdk8u402-b06$eclipse"
-    },
-    {
       "Url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u402-b06/OpenJDK8U-sbom_x64_linux_hotspot_8u402b06.json",
       "Arch": "amd64",
       "Os": "linux",
@@ -2291,14 +1987,6 @@
       "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "9d29022ac03009b573f65d8484e57f270a6e936fdd7ccca701297ffec2b9a9bc",
-      "SumType": "sha256",
-      "Extra": "jdk8u402-b06$eclipse"
-    },
-    {
-      "Url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u402-b06/OpenJDK8U-sbom_x64_alpine-linux_hotspot_8u402b06.json",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "6477a69b7c58be49af4ab3e3ba319f6e6e6d8eec553a5ecd744d11c48c153450",
       "SumType": "sha256",
       "Extra": "jdk8u402-b06$eclipse"
     },
