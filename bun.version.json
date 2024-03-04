@@ -1,5 +1,5 @@
 {
-  "bun-v1.0.0": [
+  "1.0.0": [
     {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.0/bun-darwin-aarch64-profile.zip",
       "Arch": "arm64",
@@ -97,7 +97,7 @@
       "Extra": ""
     }
   ],
-  "bun-v1.0.1": [
+  "1.0.1": [
     {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.1/bun-darwin-aarch64-profile.zip",
       "Arch": "arm64",
@@ -195,7 +195,7 @@
       "Extra": ""
     }
   ],
-  "bun-v1.0.10": [
+  "1.0.10": [
     {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.10/bun-darwin-aarch64-profile.zip",
       "Arch": "arm64",
@@ -293,7 +293,7 @@
       "Extra": ""
     }
   ],
-  "bun-v1.0.11": [
+  "1.0.11": [
     {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.11/bun-darwin-aarch64-profile.zip",
       "Arch": "arm64",
@@ -391,7 +391,7 @@
       "Extra": ""
     }
   ],
-  "bun-v1.0.12": [
+  "1.0.12": [
     {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.12/bun-darwin-aarch64-profile.zip",
       "Arch": "arm64",
@@ -489,7 +489,7 @@
       "Extra": ""
     }
   ],
-  "bun-v1.0.13": [
+  "1.0.13": [
     {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.13/bun-darwin-aarch64-profile.zip",
       "Arch": "arm64",
@@ -587,7 +587,7 @@
       "Extra": ""
     }
   ],
-  "bun-v1.0.14": [
+  "1.0.14": [
     {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.14/bun-darwin-aarch64-profile.zip",
       "Arch": "arm64",
@@ -685,7 +685,7 @@
       "Extra": ""
     }
   ],
-  "bun-v1.0.15": [
+  "1.0.15": [
     {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.15/bun-darwin-aarch64-profile.zip",
       "Arch": "arm64",
@@ -783,7 +783,7 @@
       "Extra": ""
     }
   ],
-  "bun-v1.0.16": [
+  "1.0.16": [
     {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.16/bun-darwin-aarch64-profile.zip",
       "Arch": "arm64",
@@ -881,7 +881,7 @@
       "Extra": ""
     }
   ],
-  "bun-v1.0.17": [
+  "1.0.17": [
     {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.17/bun-darwin-aarch64-profile.zip",
       "Arch": "arm64",
@@ -979,7 +979,7 @@
       "Extra": ""
     }
   ],
-  "bun-v1.0.18": [
+  "1.0.18": [
     {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.18/bun-darwin-aarch64-profile.zip",
       "Arch": "arm64",
@@ -1077,7 +1077,7 @@
       "Extra": ""
     }
   ],
-  "bun-v1.0.19": [
+  "1.0.19": [
     {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.19/bun-darwin-aarch64-profile.zip",
       "Arch": "arm64",
@@ -1175,7 +1175,7 @@
       "Extra": ""
     }
   ],
-  "bun-v1.0.2": [
+  "1.0.2": [
     {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.2/bun-darwin-aarch64-profile.zip",
       "Arch": "arm64",
@@ -1273,7 +1273,7 @@
       "Extra": ""
     }
   ],
-  "bun-v1.0.20": [
+  "1.0.20": [
     {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.20/bun-darwin-aarch64-profile.zip",
       "Arch": "arm64",
@@ -1371,7 +1371,7 @@
       "Extra": ""
     }
   ],
-  "bun-v1.0.21": [
+  "1.0.21": [
     {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.21/bun-darwin-aarch64-profile.zip",
       "Arch": "arm64",
@@ -1469,7 +1469,7 @@
       "Extra": ""
     }
   ],
-  "bun-v1.0.22": [
+  "1.0.22": [
     {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.22/bun-darwin-aarch64-profile.zip",
       "Arch": "arm64",
@@ -1567,7 +1567,7 @@
       "Extra": ""
     }
   ],
-  "bun-v1.0.23": [
+  "1.0.23": [
     {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.23/bun-darwin-aarch64-profile.zip",
       "Arch": "arm64",
@@ -1665,7 +1665,7 @@
       "Extra": ""
     }
   ],
-  "bun-v1.0.24": [
+  "1.0.24": [
     {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.24/bun-darwin-aarch64-profile.zip",
       "Arch": "arm64",
@@ -1763,7 +1763,7 @@
       "Extra": ""
     }
   ],
-  "bun-v1.0.25": [
+  "1.0.25": [
     {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.25/bun-darwin-aarch64-profile.zip",
       "Arch": "arm64",
@@ -1861,7 +1861,7 @@
       "Extra": ""
     }
   ],
-  "bun-v1.0.26": [
+  "1.0.26": [
     {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.26/bun-darwin-aarch64-profile.zip",
       "Arch": "arm64",
@@ -1959,7 +1959,7 @@
       "Extra": ""
     }
   ],
-  "bun-v1.0.27": [
+  "1.0.27": [
     {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.27/bun-darwin-aarch64-profile.zip",
       "Arch": "arm64",
@@ -2057,7 +2057,7 @@
       "Extra": ""
     }
   ],
-  "bun-v1.0.28": [
+  "1.0.28": [
     {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.28/bun-darwin-aarch64-profile.zip",
       "Arch": "arm64",
@@ -2155,7 +2155,7 @@
       "Extra": ""
     }
   ],
-  "bun-v1.0.29": [
+  "1.0.29": [
     {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.29/bun-darwin-aarch64-profile.zip",
       "Arch": "arm64",
@@ -2253,7 +2253,7 @@
       "Extra": ""
     }
   ],
-  "bun-v1.0.3": [
+  "1.0.3": [
     {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.3/bun-darwin-aarch64-profile.zip",
       "Arch": "arm64",
@@ -2351,7 +2351,7 @@
       "Extra": ""
     }
   ],
-  "bun-v1.0.4": [
+  "1.0.4": [
     {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.4/bun-darwin-aarch64-profile.zip",
       "Arch": "arm64",
@@ -2449,7 +2449,7 @@
       "Extra": ""
     }
   ],
-  "bun-v1.0.5": [
+  "1.0.5": [
     {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.5/bun-darwin-aarch64-profile.zip",
       "Arch": "arm64",
@@ -2547,7 +2547,7 @@
       "Extra": ""
     }
   ],
-  "bun-v1.0.6": [
+  "1.0.6": [
     {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.6/bun-darwin-aarch64-profile.zip",
       "Arch": "arm64",
@@ -2645,7 +2645,7 @@
       "Extra": ""
     }
   ],
-  "bun-v1.0.7": [
+  "1.0.7": [
     {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.7/bun-darwin-aarch64-profile.zip",
       "Arch": "arm64",
@@ -2743,7 +2743,7 @@
       "Extra": ""
     }
   ],
-  "bun-v1.0.8": [
+  "1.0.8": [
     {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.8/bun-darwin-aarch64-profile.zip",
       "Arch": "arm64",
@@ -2841,7 +2841,7 @@
       "Extra": ""
     }
   ],
-  "bun-v1.0.9": [
+  "1.0.9": [
     {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.9/bun-darwin-aarch64-profile.zip",
       "Arch": "arm64",
@@ -2938,5 +2938,35 @@
       "SumType": "",
       "Extra": ""
     }
-  ]
+  ],
+  "bun-v1.0.0": [],
+  "bun-v1.0.1": [],
+  "bun-v1.0.10": [],
+  "bun-v1.0.11": [],
+  "bun-v1.0.12": [],
+  "bun-v1.0.13": [],
+  "bun-v1.0.14": [],
+  "bun-v1.0.15": [],
+  "bun-v1.0.16": [],
+  "bun-v1.0.17": [],
+  "bun-v1.0.18": [],
+  "bun-v1.0.19": [],
+  "bun-v1.0.2": [],
+  "bun-v1.0.20": [],
+  "bun-v1.0.21": [],
+  "bun-v1.0.22": [],
+  "bun-v1.0.23": [],
+  "bun-v1.0.24": [],
+  "bun-v1.0.25": [],
+  "bun-v1.0.26": [],
+  "bun-v1.0.27": [],
+  "bun-v1.0.28": [],
+  "bun-v1.0.29": [],
+  "bun-v1.0.3": [],
+  "bun-v1.0.4": [],
+  "bun-v1.0.5": [],
+  "bun-v1.0.6": [],
+  "bun-v1.0.7": [],
+  "bun-v1.0.8": [],
+  "bun-v1.0.9": []
 }
