@@ -50,7 +50,7 @@
     },
     {
       "Url": "https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-ppc64le.sh",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "1a2eda0a9a52a4bd058abbe9de5bb2bc751fcd7904c4755deffdf938d6f4436e",
       "SumType": "sha256",
@@ -98,7 +98,7 @@
     },
     {
       "Url": "https://repo.anaconda.com/miniconda/Miniconda2-latest-Linux-ppc64le.sh",
-      "Arch": "ppc64",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "23473678afb15a6ed87045ce6490463420aed9c249607fb389a788e95335bb28",
       "SumType": "sha256",
