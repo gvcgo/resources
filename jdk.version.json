@@ -34,7 +34,7 @@
     },
     {
       "Url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.22%2B7/OpenJDK11U-jdk_ppc64le_linux_hotspot_11.0.22_7.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "95a1c215e434c302e43c8039f322b954ee539ca22412cd09b4dd77523aaa861a",
       "SumType": "sha256",
@@ -192,7 +192,7 @@
     },
     {
       "Url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jdk_ppc64le_linux_hotspot_18.0.2.1_1.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "030261a2189a8f773fda543a85ab9beb4c430bf81ca5be37cf6cb970b5ccbb03",
       "SumType": "sha256",
@@ -390,7 +390,7 @@
     },
     {
       "Url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.2%2B13/OpenJDK21U-jdk_ppc64le_linux_hotspot_21.0.2_13.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "d08de863499d8851811c893e8915828f2cd8eb67ed9e29432a6b4e222d80a12f",
       "SumType": "sha256",
