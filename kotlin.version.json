@@ -1,14 +1,6 @@
 {
   "v1.7.20": [
     {
-      "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.7.20/kotlin-compiler-1.7.20.zip",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.7.20/kotlin-native-macos-x86_64-1.7.20.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -67,14 +59,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.7.20-RC/kotlin-compiler-1.7.20-RC.zip",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.7.20-RC/kotlin-native-macos-aarch64-1.7.20-RC.tar.gz",
       "Arch": "arm64",
       "Os": "darwin",
@@ -84,14 +68,6 @@
     }
   ],
   "v1.7.21": [
-    {
-      "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.7.21/kotlin-compiler-1.7.21.zip",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
     {
       "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.7.21/kotlin-native-linux-x86_64-1.7.21.tar.gz",
       "Arch": "amd64",
@@ -157,14 +133,6 @@
       "Sum": "",
       "SumType": "",
       "Extra": ""
-    },
-    {
-      "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.7.22/kotlin-compiler-1.7.22.zip",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
     }
   ],
   "v1.8.0": [
@@ -188,14 +156,6 @@
       "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.8.0/kotlin-native-windows-x86_64-1.8.0.zip",
       "Arch": "amd64",
       "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.8.0/kotlin-compiler-1.8.0.zip",
-      "Arch": "",
-      "Os": "",
       "Sum": "",
       "SumType": "",
       "Extra": ""
@@ -241,14 +201,6 @@
       "Sum": "",
       "SumType": "",
       "Extra": ""
-    },
-    {
-      "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.8.0-Beta/kotlin-compiler-1.8.0-Beta.zip",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
     }
   ],
   "v1.8.0-RC": [
@@ -280,14 +232,6 @@
       "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.8.0-RC/kotlin-native-windows-x86_64-1.8.0-RC.zip",
       "Arch": "amd64",
       "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.8.0-RC/kotlin-compiler-1.8.0-RC.zip",
-      "Arch": "",
-      "Os": "",
       "Sum": "",
       "SumType": "",
       "Extra": ""
@@ -325,25 +269,9 @@
       "Sum": "",
       "SumType": "",
       "Extra": ""
-    },
-    {
-      "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.8.0-RC2/kotlin-compiler-1.8.0-RC2.zip",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
     }
   ],
   "v1.8.10": [
-    {
-      "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.8.10/kotlin-compiler-1.8.10.zip",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
     {
       "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.8.10/kotlin-native-linux-x86_64-1.8.10.tar.gz",
       "Arch": "amd64",
@@ -409,25 +337,9 @@
       "Sum": "",
       "SumType": "",
       "Extra": ""
-    },
-    {
-      "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.8.20/kotlin-compiler-1.8.20.zip",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
     }
   ],
   "v1.8.20-Beta": [
-    {
-      "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.8.20-Beta/kotlin-compiler-1.8.20-Beta.zip",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
     {
       "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.8.20-Beta/kotlin-native-linux-x86_64-1.8.20-Beta.tar.gz",
       "Arch": "amd64",
@@ -493,25 +405,9 @@
       "Sum": "",
       "SumType": "",
       "Extra": ""
-    },
-    {
-      "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.8.20-RC/kotlin-compiler-1.8.20-RC.zip",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
     }
   ],
   "v1.8.20-RC2": [
-    {
-      "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.8.20-RC2/kotlin-compiler-1.8.20-RC2.zip",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
     {
       "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.8.20-RC2/kotlin-native-linux-x86_64-1.8.20-RC2.tar.gz",
       "Arch": "amd64",
@@ -546,14 +442,6 @@
     }
   ],
   "v1.8.21": [
-    {
-      "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.8.21/kotlin-compiler-1.8.21.zip",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
     {
       "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.8.21/kotlin-native-linux-x86_64-1.8.21.tar.gz",
       "Arch": "amd64",
@@ -619,25 +507,9 @@
       "Sum": "",
       "SumType": "",
       "Extra": ""
-    },
-    {
-      "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.8.22/kotlin-compiler-1.8.22.zip",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
     }
   ],
   "v1.9.0": [
-    {
-      "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.9.0/kotlin-compiler-1.9.0.zip",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
     {
       "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.9.0/kotlin-native-windows-x86_64-1.9.0.zip",
       "Arch": "amd64",
@@ -673,14 +545,6 @@
   ],
   "v1.9.0-Beta": [
     {
-      "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.9.0-Beta/kotlin-compiler-1.9.0-Beta.zip",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.9.0-Beta/kotlin-native-linux-x86_64-1.9.0-Beta.tar.gz",
       "Arch": "amd64",
       "Os": "linux",
@@ -714,14 +578,6 @@
     }
   ],
   "v1.9.0-RC": [
-    {
-      "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.9.0-RC/kotlin-compiler-1.9.0-RC.zip",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
     {
       "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.9.0-RC/kotlin-native-linux-x86_64-1.9.0-RC.tar.gz",
       "Arch": "amd64",
@@ -757,14 +613,6 @@
   ],
   "v1.9.10": [
     {
-      "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.9.10/kotlin-compiler-1.9.10.zip",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.9.10/kotlin-native-linux-x86_64-1.9.10.tar.gz",
       "Arch": "amd64",
       "Os": "linux",
@@ -798,14 +646,6 @@
     }
   ],
   "v1.9.20": [
-    {
-      "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.9.20/kotlin-compiler-1.9.20.zip",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
     {
       "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.9.20/kotlin-native-linux-x86_64-1.9.20.tar.gz",
       "Arch": "amd64",
@@ -841,14 +681,6 @@
   ],
   "v1.9.20-Beta": [
     {
-      "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.9.20-Beta/kotlin-compiler-1.9.20-Beta.zip",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.9.20-Beta/kotlin-native-linux-x86_64-1.9.20-Beta.tar.gz",
       "Arch": "amd64",
       "Os": "linux",
@@ -882,14 +714,6 @@
     }
   ],
   "v1.9.20-Beta2": [
-    {
-      "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.9.20-Beta2/kotlin-compiler-1.9.20-Beta2.zip",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
     {
       "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.9.20-Beta2/kotlin-native-linux-x86_64-1.9.20-Beta2.tar.gz",
       "Arch": "amd64",
@@ -925,14 +749,6 @@
   ],
   "v1.9.20-RC": [
     {
-      "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.9.20-RC/kotlin-compiler-1.9.20-RC.zip",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.9.20-RC/kotlin-native-windows-x86_64-1.9.20-RC.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -966,14 +782,6 @@
     }
   ],
   "v1.9.20-RC2": [
-    {
-      "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.9.20-RC2/kotlin-compiler-1.9.20-RC2.zip",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
     {
       "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.9.20-RC2/kotlin-native-linux-x86_64-1.9.20-RC2.tar.gz",
       "Arch": "amd64",
@@ -1009,14 +817,6 @@
   ],
   "v1.9.21": [
     {
-      "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.9.21/kotlin-compiler-1.9.21.zip",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.9.21/kotlin-native-linux-x86_64-1.9.21.tar.gz",
       "Arch": "amd64",
       "Os": "linux",
@@ -1050,14 +850,6 @@
     }
   ],
   "v1.9.22": [
-    {
-      "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.9.22/kotlin-compiler-1.9.22.zip",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
     {
       "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.9.22/kotlin-native-windows-x86_64-1.9.22.zip",
       "Arch": "amd64",
@@ -1093,14 +885,6 @@
   ],
   "v2.0.0-Beta1": [
     {
-      "Url": "https://github.com/JetBrains/kotlin/releases/download/v2.0.0-Beta1/kotlin-compiler-2.0.0-Beta1.zip",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/JetBrains/kotlin/releases/download/v2.0.0-Beta1/kotlin-native-windows-x86_64-2.0.0-Beta1.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -1134,14 +918,6 @@
     }
   ],
   "v2.0.0-Beta2": [
-    {
-      "Url": "https://github.com/JetBrains/kotlin/releases/download/v2.0.0-Beta2/kotlin-compiler-2.0.0-Beta2.zip",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
     {
       "Url": "https://github.com/JetBrains/kotlin/releases/download/v2.0.0-Beta2/kotlin-native-linux-x86_64-2.0.0-Beta2.tar.gz",
       "Arch": "amd64",
@@ -1177,14 +953,6 @@
   ],
   "v2.0.0-Beta3": [
     {
-      "Url": "https://github.com/JetBrains/kotlin/releases/download/v2.0.0-Beta3/kotlin-compiler-2.0.0-Beta3.zip",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/JetBrains/kotlin/releases/download/v2.0.0-Beta3/kotlin-native-prebuilt-linux-x86_64-2.0.0-Beta3.tar.gz",
       "Arch": "amd64",
       "Os": "linux",
@@ -1218,14 +986,6 @@
     }
   ],
   "v2.0.0-Beta4": [
-    {
-      "Url": "https://github.com/JetBrains/kotlin/releases/download/v2.0.0-Beta4/kotlin-compiler-2.0.0-Beta4.zip",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
     {
       "Url": "https://github.com/JetBrains/kotlin/releases/download/v2.0.0-Beta4/kotlin-native-prebuilt-linux-x86_64-2.0.0-Beta4.tar.gz",
       "Arch": "amd64",
