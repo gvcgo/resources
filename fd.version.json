@@ -53,6 +53,14 @@
       "Extra": ""
     },
     {
+      "Url": "https://github.com/sharkdp/fd/releases/download/v5.0.0/fd-v5.0.0-i686-unknown-linux-musl.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/sharkdp/fd/releases/download/v5.0.0/fd-v5.0.0-x86_64-apple-darwin.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -75,6 +83,14 @@
       "Sum": "",
       "SumType": "",
       "Extra": ""
+    },
+    {
+      "Url": "https://github.com/sharkdp/fd/releases/download/v5.0.0/fd-v5.0.0-x86_64-unknown-linux-musl.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
     }
   ],
   "v6.0.0": [
@@ -88,6 +104,14 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v6.0.0/fd-v6.0.0-i686-unknown-linux-gnu.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/sharkdp/fd/releases/download/v6.0.0/fd-v6.0.0-i686-unknown-linux-musl.tar.gz",
       "Arch": "386",
       "Os": "linux",
       "Sum": "",
@@ -117,6 +141,14 @@
       "Sum": "",
       "SumType": "",
       "Extra": ""
+    },
+    {
+      "Url": "https://github.com/sharkdp/fd/releases/download/v6.0.0/fd-v6.0.0-x86_64-unknown-linux-musl.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
     }
   ],
   "v6.1.0": [
@@ -130,6 +162,14 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v6.1.0/fd-v6.1.0-i686-unknown-linux-gnu.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/sharkdp/fd/releases/download/v6.1.0/fd-v6.1.0-i686-unknown-linux-musl.tar.gz",
       "Arch": "386",
       "Os": "linux",
       "Sum": "",
@@ -159,6 +199,14 @@
       "Sum": "",
       "SumType": "",
       "Extra": ""
+    },
+    {
+      "Url": "https://github.com/sharkdp/fd/releases/download/v6.1.0/fd-v6.1.0-x86_64-unknown-linux-musl.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
     }
   ],
   "v6.2.0": [
@@ -172,6 +220,14 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v6.2.0/fd-v6.2.0-i686-unknown-linux-gnu.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/sharkdp/fd/releases/download/v6.2.0/fd-v6.2.0-i686-unknown-linux-musl.tar.gz",
       "Arch": "386",
       "Os": "linux",
       "Sum": "",
@@ -201,6 +257,14 @@
       "Sum": "",
       "SumType": "",
       "Extra": ""
+    },
+    {
+      "Url": "https://github.com/sharkdp/fd/releases/download/v6.2.0/fd-v6.2.0-x86_64-unknown-linux-musl.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
     }
   ],
   "v6.3.0": [
@@ -214,6 +278,14 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v6.3.0/fd-v6.3.0-i686-unknown-linux-gnu.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/sharkdp/fd/releases/download/v6.3.0/fd-v6.3.0-i686-unknown-linux-musl.tar.gz",
       "Arch": "386",
       "Os": "linux",
       "Sum": "",
@@ -243,6 +315,14 @@
       "Sum": "",
       "SumType": "",
       "Extra": ""
+    },
+    {
+      "Url": "https://github.com/sharkdp/fd/releases/download/v6.3.0/fd-v6.3.0-x86_64-unknown-linux-musl.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
     }
   ],
   "v7.0.0": [
@@ -256,6 +336,14 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v7.0.0/fd-v7.0.0-i686-unknown-linux-gnu.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/sharkdp/fd/releases/download/v7.0.0/fd-v7.0.0-i686-unknown-linux-musl.tar.gz",
       "Arch": "386",
       "Os": "linux",
       "Sum": "",
@@ -285,6 +373,14 @@
       "Sum": "",
       "SumType": "",
       "Extra": ""
+    },
+    {
+      "Url": "https://github.com/sharkdp/fd/releases/download/v7.0.0/fd-v7.0.0-x86_64-unknown-linux-musl.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
     }
   ],
   "v7.1.0": [
@@ -298,6 +394,14 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v7.1.0/fd-v7.1.0-i686-unknown-linux-gnu.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/sharkdp/fd/releases/download/v7.1.0/fd-v7.1.0-i686-unknown-linux-musl.tar.gz",
       "Arch": "386",
       "Os": "linux",
       "Sum": "",
@@ -327,6 +431,14 @@
       "Sum": "",
       "SumType": "",
       "Extra": ""
+    },
+    {
+      "Url": "https://github.com/sharkdp/fd/releases/download/v7.1.0/fd-v7.1.0-x86_64-unknown-linux-musl.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
     }
   ],
   "v7.2.0": [
@@ -340,6 +452,14 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v7.2.0/fd-v7.2.0-i686-unknown-linux-gnu.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/sharkdp/fd/releases/download/v7.2.0/fd-v7.2.0-i686-unknown-linux-musl.tar.gz",
       "Arch": "386",
       "Os": "linux",
       "Sum": "",
@@ -369,6 +489,14 @@
       "Sum": "",
       "SumType": "",
       "Extra": ""
+    },
+    {
+      "Url": "https://github.com/sharkdp/fd/releases/download/v7.2.0/fd-v7.2.0-x86_64-unknown-linux-musl.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
     }
   ],
   "v7.3.0": [
@@ -382,6 +510,14 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v7.3.0/fd-v7.3.0-i686-unknown-linux-gnu.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/sharkdp/fd/releases/download/v7.3.0/fd-v7.3.0-i686-unknown-linux-musl.tar.gz",
       "Arch": "386",
       "Os": "linux",
       "Sum": "",
@@ -411,6 +547,14 @@
       "Sum": "",
       "SumType": "",
       "Extra": ""
+    },
+    {
+      "Url": "https://github.com/sharkdp/fd/releases/download/v7.3.0/fd-v7.3.0-x86_64-unknown-linux-musl.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
     }
   ],
   "v7.4.0": [
@@ -424,6 +568,14 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v7.4.0/fd-v7.4.0-i686-unknown-linux-gnu.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/sharkdp/fd/releases/download/v7.4.0/fd-v7.4.0-i686-unknown-linux-musl.tar.gz",
       "Arch": "386",
       "Os": "linux",
       "Sum": "",
@@ -453,6 +605,14 @@
       "Sum": "",
       "SumType": "",
       "Extra": ""
+    },
+    {
+      "Url": "https://github.com/sharkdp/fd/releases/download/v7.4.0/fd-v7.4.0-x86_64-unknown-linux-musl.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
     }
   ],
   "v7.5.0": [
@@ -466,6 +626,14 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v7.5.0/fd-v7.5.0-i686-unknown-linux-gnu.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/sharkdp/fd/releases/download/v7.5.0/fd-v7.5.0-i686-unknown-linux-musl.tar.gz",
       "Arch": "386",
       "Os": "linux",
       "Sum": "",
@@ -495,6 +663,14 @@
       "Sum": "",
       "SumType": "",
       "Extra": ""
+    },
+    {
+      "Url": "https://github.com/sharkdp/fd/releases/download/v7.5.0/fd-v7.5.0-x86_64-unknown-linux-musl.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
     }
   ],
   "v8.0.0": [
@@ -508,6 +684,14 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.0.0/fd-v8.0.0-i686-unknown-linux-gnu.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/sharkdp/fd/releases/download/v8.0.0/fd-v8.0.0-i686-unknown-linux-musl.tar.gz",
       "Arch": "386",
       "Os": "linux",
       "Sum": "",
@@ -537,6 +721,14 @@
       "Sum": "",
       "SumType": "",
       "Extra": ""
+    },
+    {
+      "Url": "https://github.com/sharkdp/fd/releases/download/v8.0.0/fd-v8.0.0-x86_64-unknown-linux-musl.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
     }
   ],
   "v8.1.0": [
@@ -550,6 +742,14 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.1.0/fd-v8.1.0-i686-unknown-linux-gnu.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/sharkdp/fd/releases/download/v8.1.0/fd-v8.1.0-i686-unknown-linux-musl.tar.gz",
       "Arch": "386",
       "Os": "linux",
       "Sum": "",
@@ -579,6 +779,14 @@
       "Sum": "",
       "SumType": "",
       "Extra": ""
+    },
+    {
+      "Url": "https://github.com/sharkdp/fd/releases/download/v8.1.0/fd-v8.1.0-x86_64-unknown-linux-musl.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
     }
   ],
   "v8.1.1": [
@@ -592,6 +800,14 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.1.1/fd-v8.1.1-i686-unknown-linux-gnu.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/sharkdp/fd/releases/download/v8.1.1/fd-v8.1.1-i686-unknown-linux-musl.tar.gz",
       "Arch": "386",
       "Os": "linux",
       "Sum": "",
@@ -621,6 +837,14 @@
       "Sum": "",
       "SumType": "",
       "Extra": ""
+    },
+    {
+      "Url": "https://github.com/sharkdp/fd/releases/download/v8.1.1/fd-v8.1.1-x86_64-unknown-linux-musl.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
     }
   ],
   "v8.2.0": [
@@ -634,6 +858,14 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.2.0/fd-v8.2.0-i686-unknown-linux-gnu.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/sharkdp/fd/releases/download/v8.2.0/fd-v8.2.0-i686-unknown-linux-musl.tar.gz",
       "Arch": "386",
       "Os": "linux",
       "Sum": "",
@@ -663,6 +895,14 @@
       "Sum": "",
       "SumType": "",
       "Extra": ""
+    },
+    {
+      "Url": "https://github.com/sharkdp/fd/releases/download/v8.2.0/fd-v8.2.0-x86_64-unknown-linux-musl.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
     }
   ],
   "v8.2.1": [
@@ -676,6 +916,14 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.2.1/fd-v8.2.1-i686-unknown-linux-gnu.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/sharkdp/fd/releases/download/v8.2.1/fd-v8.2.1-i686-unknown-linux-musl.tar.gz",
       "Arch": "386",
       "Os": "linux",
       "Sum": "",
@@ -700,6 +948,14 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.2.1/fd-v8.2.1-x86_64-unknown-linux-gnu.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/sharkdp/fd/releases/download/v8.2.1/fd-v8.2.1-x86_64-unknown-linux-musl.tar.gz",
       "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
@@ -733,6 +989,14 @@
       "Extra": ""
     },
     {
+      "Url": "https://github.com/sharkdp/fd/releases/download/v8.3.0/fd-v8.3.0-i686-unknown-linux-musl.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.3.0/fd-v8.3.0-x86_64-apple-darwin.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -750,6 +1014,14 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.3.0/fd-v8.3.0-x86_64-unknown-linux-gnu.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/sharkdp/fd/releases/download/v8.3.0/fd-v8.3.0-x86_64-unknown-linux-musl.tar.gz",
       "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
@@ -783,6 +1055,14 @@
       "Extra": ""
     },
     {
+      "Url": "https://github.com/sharkdp/fd/releases/download/v8.3.1/fd-v8.3.1-i686-unknown-linux-musl.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.3.1/fd-v8.3.1-x86_64-apple-darwin.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -800,6 +1080,14 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.3.1/fd-v8.3.1-x86_64-unknown-linux-gnu.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/sharkdp/fd/releases/download/v8.3.1/fd-v8.3.1-x86_64-unknown-linux-musl.tar.gz",
       "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
@@ -833,6 +1121,14 @@
       "Extra": ""
     },
     {
+      "Url": "https://github.com/sharkdp/fd/releases/download/v8.3.2/fd-v8.3.2-i686-unknown-linux-musl.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.3.2/fd-v8.3.2-x86_64-apple-darwin.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -850,6 +1146,14 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.3.2/fd-v8.3.2-x86_64-unknown-linux-gnu.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/sharkdp/fd/releases/download/v8.3.2/fd-v8.3.2-x86_64-unknown-linux-musl.tar.gz",
       "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
@@ -883,6 +1187,14 @@
       "Extra": ""
     },
     {
+      "Url": "https://github.com/sharkdp/fd/releases/download/v8.4.0/fd-v8.4.0-i686-unknown-linux-musl.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.4.0/fd-v8.4.0-x86_64-apple-darwin.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -900,6 +1212,14 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.4.0/fd-v8.4.0-x86_64-unknown-linux-gnu.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/sharkdp/fd/releases/download/v8.4.0/fd-v8.4.0-x86_64-unknown-linux-musl.tar.gz",
       "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
@@ -933,6 +1253,14 @@
       "Extra": ""
     },
     {
+      "Url": "https://github.com/sharkdp/fd/releases/download/v8.5.0/fd-v8.5.0-i686-unknown-linux-musl.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.5.0/fd-v8.5.0-x86_64-apple-darwin.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -950,6 +1278,14 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.5.0/fd-v8.5.0-x86_64-unknown-linux-gnu.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/sharkdp/fd/releases/download/v8.5.0/fd-v8.5.0-x86_64-unknown-linux-musl.tar.gz",
       "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
@@ -983,6 +1319,14 @@
       "Extra": ""
     },
     {
+      "Url": "https://github.com/sharkdp/fd/releases/download/v8.5.1/fd-v8.5.1-i686-unknown-linux-musl.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.5.1/fd-v8.5.1-x86_64-apple-darwin.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -1000,6 +1344,14 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.5.1/fd-v8.5.1-x86_64-unknown-linux-gnu.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/sharkdp/fd/releases/download/v8.5.1/fd-v8.5.1-x86_64-unknown-linux-musl.tar.gz",
       "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
@@ -1033,6 +1385,14 @@
       "Extra": ""
     },
     {
+      "Url": "https://github.com/sharkdp/fd/releases/download/v8.5.2/fd-v8.5.2-i686-unknown-linux-musl.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.5.2/fd-v8.5.2-x86_64-apple-darwin.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -1050,6 +1410,14 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.5.2/fd-v8.5.2-x86_64-unknown-linux-gnu.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/sharkdp/fd/releases/download/v8.5.2/fd-v8.5.2-x86_64-unknown-linux-musl.tar.gz",
       "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
@@ -1083,6 +1451,14 @@
       "Extra": ""
     },
     {
+      "Url": "https://github.com/sharkdp/fd/releases/download/v8.5.3/fd-v8.5.3-i686-unknown-linux-musl.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.5.3/fd-v8.5.3-x86_64-apple-darwin.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -1100,6 +1476,14 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.5.3/fd-v8.5.3-x86_64-unknown-linux-gnu.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/sharkdp/fd/releases/download/v8.5.3/fd-v8.5.3-x86_64-unknown-linux-musl.tar.gz",
       "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
@@ -1133,6 +1517,14 @@
       "Extra": ""
     },
     {
+      "Url": "https://github.com/sharkdp/fd/releases/download/v8.6.0/fd-v8.6.0-i686-unknown-linux-musl.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.6.0/fd-v8.6.0-x86_64-apple-darwin.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -1150,6 +1542,14 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.6.0/fd-v8.6.0-x86_64-unknown-linux-gnu.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/sharkdp/fd/releases/download/v8.6.0/fd-v8.6.0-x86_64-unknown-linux-musl.tar.gz",
       "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
@@ -1183,6 +1583,14 @@
       "Extra": ""
     },
     {
+      "Url": "https://github.com/sharkdp/fd/releases/download/v8.7.0/fd-v8.7.0-i686-unknown-linux-musl.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.7.0/fd-v8.7.0-x86_64-apple-darwin.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -1200,6 +1608,14 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.7.0/fd-v8.7.0-x86_64-unknown-linux-gnu.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/sharkdp/fd/releases/download/v8.7.0/fd-v8.7.0-x86_64-unknown-linux-musl.tar.gz",
       "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
@@ -1233,6 +1649,14 @@
       "Extra": ""
     },
     {
+      "Url": "https://github.com/sharkdp/fd/releases/download/v8.7.1/fd-v8.7.1-i686-unknown-linux-musl.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.7.1/fd-v8.7.1-x86_64-apple-darwin.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -1250,6 +1674,14 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v8.7.1/fd-v8.7.1-x86_64-unknown-linux-gnu.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/sharkdp/fd/releases/download/v8.7.1/fd-v8.7.1-x86_64-unknown-linux-musl.tar.gz",
       "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
@@ -1283,6 +1715,14 @@
       "Extra": ""
     },
     {
+      "Url": "https://github.com/sharkdp/fd/releases/download/v9.0.0/fd-v9.0.0-i686-unknown-linux-musl.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/sharkdp/fd/releases/download/v9.0.0/fd-v9.0.0-x86_64-apple-darwin.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -1300,6 +1740,14 @@
     },
     {
       "Url": "https://github.com/sharkdp/fd/releases/download/v9.0.0/fd-v9.0.0-x86_64-unknown-linux-gnu.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/sharkdp/fd/releases/download/v9.0.0/fd-v9.0.0-x86_64-unknown-linux-musl.tar.gz",
       "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
