@@ -109,14 +109,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/zigtools/zls/releases/download/0.11.0/zls-wasm32-wasi.tar.gz",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/zigtools/zls/releases/download/0.11.0/zls-x86-linux.tar.gz",
       "Arch": "386",
       "Os": "linux",
