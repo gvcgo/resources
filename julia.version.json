@@ -877,22 +877,6 @@
       "Extra": "stable"
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/0.7/julia-0.7.0-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "665d1cda43a0410406b6ba7ae8fa499b9a1de2eb864228c0570ad0d233b02bf7",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/0.7/julia-0.7.0-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "3c97c8a05ecfe928f02f7031b259b5d1b7f811deaea19e2871da048150a36b9f",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/freebsd/x64/0.7/julia-0.7.0-freebsd-x86_64.tar.gz",
       "Arch": "amd64",
       "Os": "freebsd",
@@ -1075,22 +1059,6 @@
       "Extra": "stable"
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.0/julia-1.0.0-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "1dc1e5c9ed19e27235333d9c37c005a271b18276195811e370262593003c2275",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.0/julia-1.0.0-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "f7952b5fd105fb6b7fa00b05ceea1d03e36e485ef97e4c13e71d5b083d455b93",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/freebsd/x64/1.0/julia-1.0.0-freebsd-x86_64.tar.gz",
       "Arch": "amd64",
       "Os": "freebsd",
@@ -1151,22 +1119,6 @@
       "Extra": "stable"
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.0/julia-1.0.1-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "dbb3e687fa94ac7a4e4cc4244e228d97f774687e885aa5fc38de323cb1657b4e",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.0/julia-1.0.1-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "a30ae072f36baee66f61e6f3b893bad33d7740e0fcdbefc8d9e74b14659fab4c",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/freebsd/x64/1.0/julia-1.0.1-freebsd-x86_64.tar.gz",
       "Arch": "amd64",
       "Os": "freebsd",
@@ -1197,22 +1149,6 @@
       "Arch": "amd64",
       "Os": "darwin",
       "Sum": "b1703eb75909dc6e7ffd6f1e3e7f168404b77926f1fe89be7f0591e87c38fee8",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.0/julia-1.0.2-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "fa24f4f94f05dff629f52a00153893a4c49465973e6c52162a61d72fff5d8adf",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.0/julia-1.0.2-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "e8a2f22826f14c1bd92e20162b77053f09d0c6e7527156b21fcf06d07f464826",
       "SumType": "sha256",
       "Extra": "stable"
     },
@@ -1259,22 +1195,6 @@
       "Extra": "stable"
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.0/julia-1.0.3-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "a14516fa6bea82c14343b1b281fbf2b4ca5fea8463fa7717a3a015efa3f869c0",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.0/julia-1.0.3-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "7b82c6559403169e44941b49cbb2ced5878b8ae7594d1cad89e02be8344c6a49",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/freebsd/x64/1.0/julia-1.0.3-freebsd-x86_64.tar.gz",
       "Arch": "amd64",
       "Os": "freebsd",
@@ -1313,22 +1233,6 @@
       "Arch": "amd64",
       "Os": "darwin",
       "Sum": "905b1b28f2068db06fbbf6d782180b8592244afb9d2ce4e1c5079cdb3c74e51b",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.0/julia-1.0.4-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "9bade9e92459738bf3a3e5fefd841623bc0008d03c6290d56e1c7fde80708567",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.0/julia-1.0.4-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "6c0a8ca4103ca081a0af14932de327b1755e45055c5dcfa56453767f17c2c825",
       "SumType": "sha256",
       "Extra": "stable"
     },
@@ -1375,22 +1279,6 @@
       "Extra": "stable"
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.0/julia-1.0.5-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "2bc6ae5994024666ebea6073fac0b41ee58c4e373043b2435ca5f277002a9ce1",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.0/julia-1.0.5-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "141747d022b096fc439228bfacb37d62513f1104b84d358aeeb63b89fb6d9271",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/freebsd/x64/1.0/julia-1.0.5-freebsd-x86_64.tar.gz",
       "Arch": "amd64",
       "Os": "freebsd",
@@ -1429,22 +1317,6 @@
       "Arch": "amd64",
       "Os": "darwin",
       "Sum": "540ada058d4cd24cb1ce68dfd731e7548b9db283f86b5b2774f161200eea6b9f",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.1/julia-1.1.0-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "1f6fdd2d577e283998d3d3b481a4d56d8a6bd29de57b322373fae5e4eb9d6d2c",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.1/julia-1.1.0-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "6093da851b639d2eddb2034bf0b17f9c512c7ad3ba5b1fde3345fccb5392dbcd",
       "SumType": "sha256",
       "Extra": "stable"
     },
@@ -1543,22 +1415,6 @@
       "Extra": "stable"
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.1/julia-1.1.1-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "4f5240ee0b3775381a659bff94e4218fc374dd6732959ce0c455d88b99139c03",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.1/julia-1.1.1-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "489bba67bb9964daadc7ed86a87d43e33d95420fe3b69e1cd6b2508ed77e893d",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/freebsd/x64/1.1/julia-1.1.1-freebsd-x86_64.tar.gz",
       "Arch": "amd64",
       "Os": "freebsd",
@@ -1601,14 +1457,6 @@
       "Extra": "stable"
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/musl/x64/1.10/julia-1.10.0-musl-x86_64.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "da8a9e0cf31eddd776276321802b9744acf5b8ce0171854b3e9d6394f656f9a2",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/mac/x64/1.10/julia-1.10.0-mac64.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -1637,22 +1485,6 @@
       "Arch": "386",
       "Os": "windows",
       "Sum": "06c221460ae7a6cb03c3640f228ba1679bd0c8ea26a5bc081953f4cf1bca5e51",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.10/julia-1.10.0-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "cd34075487d6d0ed28748e841b28b1401b740401677f0b3ce648d3fd2c47c0a3",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.10/julia-1.10.0-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "eb93096a069faeaa9f5fa45e5b5916ac881cae9daa8945089bae59ce6fa7e52d",
       "SumType": "sha256",
       "Extra": "stable"
     },
@@ -1699,14 +1531,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/musl/x64/1.10/julia-1.10.0-alpha1-musl-x86_64.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "bb535675576f3887eef199ed2b3cb46ea6e0c22fdbf6e1b001e4635781ea5d7b",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/mac/x64/1.10/julia-1.10.0-alpha1-mac64.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -1735,22 +1559,6 @@
       "Arch": "386",
       "Os": "windows",
       "Sum": "6a88d8f6f89b9e4c60614575d6cdbd5e747e83493e73710b5a73ab9436f7b833",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.10/julia-1.10.0-alpha1-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "97dbe0f5616d15390313eaa1d3bc6e06e133d0c2c12efa01aa0c02c9454e127c",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.10/julia-1.10.0-alpha1-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "054230c5f07a9fb663309ba336dd736235921d95702978827fe440a3620d0a96",
       "SumType": "sha256",
       "Extra": ""
     },
@@ -1797,14 +1605,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/musl/x64/1.10/julia-1.10.0-beta1-musl-x86_64.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "dfe4eb34da27e6bc8f036473b1765aa3e90d954a226a2c6b16c95f9081d94531",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/mac/x64/1.10/julia-1.10.0-beta1-mac64.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -1833,22 +1633,6 @@
       "Arch": "386",
       "Os": "windows",
       "Sum": "2399ed970e2857a380a91a73b8fc43da8bcfd9599e2c3443c05aee5ca80c25ed",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.10/julia-1.10.0-beta1-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "2b2ff80c145f7ce813b2e66d44498fe6c69b99947d96429225a60249c10ae28a",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.10/julia-1.10.0-beta1-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "3f0775f8eaae33f9032fb6b9e618ddf5546d994215e660cb0995ad1fbadcb889",
       "SumType": "sha256",
       "Extra": ""
     },
@@ -1895,14 +1679,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/musl/x64/1.10/julia-1.10.0-beta2-musl-x86_64.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "492a889399776970e469bc9057cad760a19525a247b6fe89dd0f3c235a5ab4df",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/mac/x64/1.10/julia-1.10.0-beta2-mac64.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -1931,22 +1707,6 @@
       "Arch": "386",
       "Os": "windows",
       "Sum": "5cfba500c8f154210788cda8dbee586395702d587587fab74bf99a824523fc95",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.10/julia-1.10.0-beta2-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "39e57d93c1e53038cec19653e3dea03aaf0930949bcda3a00198d7d67435323e",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.10/julia-1.10.0-beta2-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "ec066ccde4b3891285aa83694a8e9310a3e0b0c9821eebd64ecdc0f50c5d930a",
       "SumType": "sha256",
       "Extra": ""
     },
@@ -1993,14 +1753,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/musl/x64/1.10/julia-1.10.0-beta3-musl-x86_64.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "027debab163541e77e52df5dfefd85542d4c5c0f90a0acdb9507088cd3dcdac1",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/mac/x64/1.10/julia-1.10.0-beta3-mac64.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -2029,22 +1781,6 @@
       "Arch": "386",
       "Os": "windows",
       "Sum": "d99c4e93828201730a3f2209bff9a21d3dc003c5d0c7997179d5e818b2dc718a",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.10/julia-1.10.0-beta3-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "bb2b5f3b694f574772d798fb6f253973a1f6179482312fefa25ebc6c7ba1624c",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.10/julia-1.10.0-beta3-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "1192ad417f17182264214a0d022ce816f28a7fd7b3c7bcedb89dbc0a2c93f469",
       "SumType": "sha256",
       "Extra": ""
     },
@@ -2083,14 +1819,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/musl/x64/1.10/julia-1.10.0-rc1-musl-x86_64.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "07ca89f2a15db5e42a6e8d3325d093ddf7786ab2a4788ff9a5ad52bed40334c6",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/mac/x64/1.10/julia-1.10.0-rc1-mac64.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -2119,22 +1847,6 @@
       "Arch": "386",
       "Os": "windows",
       "Sum": "f5b363269805a71fd76b50e0ed56d390603669f5b8971d4b863c81ec38743114",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.10/julia-1.10.0-rc1-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "79227eeb8d3590f2674e9c0fdb399e0b024d4cbdca7ba7253311eae2776e6d74",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.10/julia-1.10.0-rc1-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "cc53171d990fc3a4b259284c67fade04c48aeb787cc809dfa9bfebbd7f529a20",
       "SumType": "sha256",
       "Extra": ""
     },
@@ -2181,14 +1893,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/musl/x64/1.10/julia-1.10.0-rc2-musl-x86_64.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "65aa6d1a09e1ea376f7e351c80def41c077b63c15035cb118c6ad17e7870f6fe",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/mac/x64/1.10/julia-1.10.0-rc2-mac64.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -2217,22 +1921,6 @@
       "Arch": "386",
       "Os": "windows",
       "Sum": "d6dba00826ee93d687fffefec3f715bf814dabaf775fe1e7fee0f94428eb36a3",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.10/julia-1.10.0-rc2-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "b0082318d976072c46105cf3ba1e3ede09e65aa6a3b4dca01a6e358ee822dec0",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.10/julia-1.10.0-rc2-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "df5890bca9668ba5a7e5365a9c3fad6f6e7ab31e2016cfe5c8c90f9ab5a82d3f",
       "SumType": "sha256",
       "Extra": ""
     },
@@ -2279,14 +1967,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/musl/x64/1.10/julia-1.10.0-rc3-musl-x86_64.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "3849af037d46c8c7059550f0d5f5f37786ccbdd8d064188885e2b9980bcfcfaa",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/mac/x64/1.10/julia-1.10.0-rc3-mac64.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -2315,22 +1995,6 @@
       "Arch": "386",
       "Os": "windows",
       "Sum": "c593efa0564d2228baad03184c199413b433287516c262dfd9ea40ffa8412bf0",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.10/julia-1.10.0-rc3-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "8a9263fb418c9224c02af091cdb6bc98361bacf730b72a202a99dc2166d34506",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.10/julia-1.10.0-rc3-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "b143e16da04fbb3abb2330c7b6a3c8303b7cd09f13f64dc7062c6629c41def28",
       "SumType": "sha256",
       "Extra": ""
     },
@@ -2369,14 +2033,6 @@
       "Extra": "stable"
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/musl/x64/1.10/julia-1.10.1-musl-x86_64.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "48e643c431f156e0cec440e3881f09dd78491c59de7804c73f470fba8cd64d1d",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/mac/x64/1.10/julia-1.10.1-mac64.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -2405,22 +2061,6 @@
       "Arch": "386",
       "Os": "windows",
       "Sum": "6f83ec576d6b9b7da9a871685e57430c2655bd752d782fa7b0b7b69204c1328c",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.10/julia-1.10.1-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "11266af431c70b0b2965f229531de4787c6363718753c117e064a4c2cf375f56",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.10/julia-1.10.1-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "a7fdb4e0f17b7565ad4c63858ee6ced88a5ab8603f94643a04b9ddb5caeefacb",
       "SumType": "sha256",
       "Extra": "stable"
     },
@@ -2459,14 +2099,6 @@
       "Extra": "stable"
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/musl/x64/1.10/julia-1.10.2-musl-x86_64.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "c5fe3500154e73a44cc09e4d4a40ffe4374b8914c82e5c1ccde44d36feb6f5e6",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/mac/x64/1.10/julia-1.10.2-mac64.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -2495,22 +2127,6 @@
       "Arch": "386",
       "Os": "windows",
       "Sum": "647c5cd8e9c59a6cb986666aa08f751715122807c4f91a89ba8919518ceb73a8",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.10/julia-1.10.2-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "083f272fbaac4f861d71153ad89550990e15bc3630d35ec8fb5656c3c4b4d638",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.10/julia-1.10.2-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "e21403894dbf69a1e835889c245c600d2f3385527974185d43ca8391991513e3",
       "SumType": "sha256",
       "Extra": "stable"
     },
@@ -2557,14 +2173,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/musl/x64/1.11/julia-1.11.0-alpha1-musl-x86_64.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "955a2477ece891ed55b9f84d8cc4671221562bbfc7d4f90e75713ba73d9b482d",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/mac/x64/1.11/julia-1.11.0-alpha1-mac64.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -2593,22 +2201,6 @@
       "Arch": "386",
       "Os": "windows",
       "Sum": "99053cf47241eb2abf92d78ca980202b7ad3692dacee0c5b8381c4276576e84c",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.11/julia-1.11.0-alpha1-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "07d8664f964f9bd03c32606421c0fa31e58fa7758b5c828385135b8c9ae786e7",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.11/julia-1.11.0-alpha1-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "0df292e806f576451dad75f1f2e435f53f6aa2c44d4ad5854657afbc65e309c9",
       "SumType": "sha256",
       "Extra": ""
     },
@@ -2651,22 +2243,6 @@
       "Arch": "amd64",
       "Os": "darwin",
       "Sum": "df49a5d304a8025c157e197a83908a3a7b6c46ffb7af829bc2d8ab048149b911",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.2/julia-1.2.0-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "1ea73070a714bf4bd6d281ef758068cd8bb1526f77a2aefa2efd5da844abd515",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.2/julia-1.2.0-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "404501005bc1c39efa9e0940239f7d23398fc703e7a6dec53dc024c3fc35433d",
       "SumType": "sha256",
       "Extra": "stable"
     },
@@ -2811,22 +2387,6 @@
       "Arch": "amd64",
       "Os": "darwin",
       "Sum": "bbb7d1fe1d23c7d08262956f93af9f58f2b1e56568a42ebfb11af8ed5d8f4e96",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.3/julia-1.3.0-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "dfc53fd9d5e702c3c99dbfe0970412e72e6cc13dc1b045fd564871eba93c23d5",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.3/julia-1.3.0-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "8a02df8f5493b573c76bfed77b1676274a57886aab9ec984f9cc34e466cff303",
       "SumType": "sha256",
       "Extra": "stable"
     },
@@ -3077,22 +2637,6 @@
       "Extra": "stable"
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.3/julia-1.3.1-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "4245dea55c4d4abd93b38b9683828035735f0307adf6de1190ec1d6a64e770c0",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.3/julia-1.3.1-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "d3f9813b27ecfafe1a641ef6eb3621a94d6d9b601b2f5d57ca50382b3a1a87db",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/freebsd/x64/1.3/julia-1.3.1-freebsd-x86_64.tar.gz",
       "Arch": "amd64",
       "Os": "freebsd",
@@ -3123,22 +2667,6 @@
       "Arch": "arm64",
       "Os": "linux",
       "Sum": "576481accadd441655edf963b81c28cbeaa327b423ec58a77eab103cf830a65a",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.4/julia-1.4.0-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "4b0bb1940000396ef64cf8d2c94ce0ea1d46af0faa6a709abef7eff06c3bdbe2",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.4/julia-1.4.0-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "0baeef55fef04ccfb4a8ac0381c24264592b26220e8c38e336387162a14fa608",
       "SumType": "sha256",
       "Extra": "stable"
     },
@@ -3253,22 +2781,6 @@
       "Extra": "stable"
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.4/julia-1.4.1-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "095da4dba6aad7697b46abad2d48d47cfcc6b63094ae0d9974047ca0264ee072",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.4/julia-1.4.1-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "893705a38c7a92d0732e700fe89338171e0d8dc6408b758bb2009a47bc645393",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/freebsd/x64/1.4/julia-1.4.1-freebsd-x86_64.tar.gz",
       "Arch": "amd64",
       "Os": "freebsd",
@@ -3311,22 +2823,6 @@
       "Extra": "stable"
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.4/julia-1.4.2-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "40c2252b914eac01ab4f04b758f2912f8435af214dab5714883450c3c3488c29",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.4/julia-1.4.2-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "1bfd5296fd7565968849b394445f96139f3797e2f05510fc9c145b3ed420d007",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/freebsd/x64/1.4/julia-1.4.2-freebsd-x86_64.tar.gz",
       "Arch": "amd64",
       "Os": "freebsd",
@@ -3361,14 +2857,6 @@
       "Extra": "stable"
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/musl/x64/1.5/julia-1.5.0-musl-x86_64.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "14dca86ec7b0538fddc3b0f91cdab27af4809eae609c3b661717f1d17cb22bed",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/mac/x64/1.5/julia-1.5.0-mac64.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -3389,22 +2877,6 @@
       "Arch": "386",
       "Os": "windows",
       "Sum": "db0ba950a4012b2b9a81fe3b52bb8c4e248e773e5f18639b229393912aabed86",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.5/julia-1.5.0-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "48a0203b7144e04679bec9500c927ef36dd450cfa8d2a9f4517192794eb7c9ba",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.5/julia-1.5.0-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "d0d3bbcb8fa73c1d5e4eacb9e1d4fb3992979fed4056e4051d4a4b04e211268d",
       "SumType": "sha256",
       "Extra": "stable"
     },
@@ -3443,34 +2915,10 @@
       "Extra": ""
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/musl/x64/1.5/julia-1.5.0-beta1-musl-x86_64.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "3d80ac7c709d43375767425524bcedba9f038e27a79dc4be5e8efc85760f8018",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/mac/x64/1.5/julia-1.5.0-beta1-mac64.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
       "Sum": "b4b5829aa7a344b887d34591a9945d5829bdfbb2fdbf5ba474f98375205a83df",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.5/julia-1.5.0-beta1-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "ed3ea7d3a52d32c5779c35965eda97bf49e97632b9609442e9170e8720976e29",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.5/julia-1.5.0-beta1-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "3a9e1dec206de5a6572cfe2d4f74d1aafc1912553b22fd1baac62e80e096c858",
       "SumType": "sha256",
       "Extra": ""
     },
@@ -3509,30 +2957,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/musl/x64/1.5/julia-1.5.0-rc1-musl-x86_64.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "43e3a30133aee14657cc8984cc51e8f308ac1978e4c5986f4c976b8e8747194f",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.5/julia-1.5.0-rc1-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "bda93340c6553c31da3e8961b21107fd06273fdb5dda9ce3a288ed5cb9c140c1",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.5/julia-1.5.0-rc1-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "2ca02eb27b0dc04c9642e2a0ae3cb403d0e2b9f9899cb37c2bf8509702c24236",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/freebsd/x64/1.5/julia-1.5.0-rc1-freebsd-x86_64.tar.gz",
       "Arch": "amd64",
       "Os": "freebsd",
@@ -3567,14 +2991,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/musl/x64/1.5/julia-1.5.0-rc2-musl-x86_64.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "57e0b895969c2ab2db56b10aa05df2dbd731f02fa4de43f98c4f4b6ad03cebf3",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/mac/x64/1.5/julia-1.5.0-rc2-mac64.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -3595,22 +3011,6 @@
       "Arch": "386",
       "Os": "windows",
       "Sum": "2fa46d78b9aa138994bc03a9a4ff991cc5a58ce3fdeea78e590d1070812829cf",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.5/julia-1.5.0-rc2-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "3d5c24fb38c9d5a5ae7102d1d31ac3f07cff0f5c18b70035408b3a31890e795e",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.5/julia-1.5.0-rc2-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "e18886904d2e0b65505ce22ec0614154fabbaf7d48e96629f5574ea4b0c8d4b3",
       "SumType": "sha256",
       "Extra": ""
     },
@@ -3649,14 +3049,6 @@
       "Extra": "stable"
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/musl/x64/1.5/julia-1.5.1-musl-x86_64.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "1431be884100f787f535bdf981140d6df85069dddd4e931cffaaec7b4be258e0",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/mac/x64/1.5/julia-1.5.1-mac64.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -3677,22 +3069,6 @@
       "Arch": "386",
       "Os": "windows",
       "Sum": "f6da4269450242708c2ab35133c52180a5e88ceb0857bcdc91cb84c8a4d147b0",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.5/julia-1.5.1-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "b65ce0b714aaf743c7417f2d3a2c4df834953b7bd4e13f74df7da501f2e33c32",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.5/julia-1.5.1-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "08e46f1416257d3852e5412608895583ef2ac7eaa822134f45e81c69132d32ec",
       "SumType": "sha256",
       "Extra": "stable"
     },
@@ -3731,14 +3107,6 @@
       "Extra": "stable"
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/musl/x64/1.5/julia-1.5.2-musl-x86_64.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "7a596bc156d0bc5a74c5c8abb161faac8f5be081df74f8cc3b511a4302c94467",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/mac/x64/1.5/julia-1.5.2-mac64.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -3759,22 +3127,6 @@
       "Arch": "386",
       "Os": "windows",
       "Sum": "63293f7b0cc2887f49d534578a00df5cf7d6c01715ba3302e753d760a8264221",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.5/julia-1.5.2-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "7e32faff4ce577652cf9eeec506522a19ca8478526f77502b5d3a6dc3cf2360d",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.5/julia-1.5.2-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "e28ad22eef159d7bf5c3757e54d746bc9fdd2d81c1f06094cb0c2a551f01f365",
       "SumType": "sha256",
       "Extra": "stable"
     },
@@ -3813,14 +3165,6 @@
       "Extra": "stable"
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/musl/x64/1.5/julia-1.5.3-musl-x86_64.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "2faf4ebe3b5fa1bbee853655ef7c292b457e80d3fca1af1c8d3f179286b27da6",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/mac/x64/1.5/julia-1.5.3-mac64.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -3841,22 +3185,6 @@
       "Arch": "386",
       "Os": "windows",
       "Sum": "42527f825da5dc4f9b732acc7a71287ca90f6ef02f9d0a0940ce8994dfc7a2c2",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.5/julia-1.5.3-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "2e930770ae2b21d1bb1e4b03d8801ee4543ff7b28dcd3ad84a5450e9d91a5e98",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.5/julia-1.5.3-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "703cc6835d0d1c3912bee8853b3ac0c3575f6f37448c684cc838ad60d6c22c99",
       "SumType": "sha256",
       "Extra": "stable"
     },
@@ -3903,14 +3231,6 @@
       "Extra": "stable"
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/musl/x64/1.5/julia-1.5.4-musl-x86_64.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "7bc70fde541e8f146adfbe1d083c2efbbae2690c1634b2c1947c41cd4b9b2fa3",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/mac/x64/1.5/julia-1.5.4-mac64.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -3931,22 +3251,6 @@
       "Arch": "386",
       "Os": "windows",
       "Sum": "9fc3b23e3fb115248fb8e9af295146770feac7c6a3833b5d19c89705790b040d",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.5/julia-1.5.4-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "409a2c5f1e63514aa2a23b6c915c9ce0277dee242df3ecb504cc45ba577d6e7c",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.5/julia-1.5.4-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "2909af06d3c1ff13ff67d7f0f75ad6b1efc64c78de35435985fcf458751f5840",
       "SumType": "sha256",
       "Extra": "stable"
     },
@@ -3993,14 +3297,6 @@
       "Extra": "stable"
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/musl/x64/1.6/julia-1.6.0-musl-x86_64.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "297e04c05e70da8fa575a2e2dd8151d57324b17870f6b60624e9e5629af8c939",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/mac/x64/1.6/julia-1.6.0-mac64.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -4021,22 +3317,6 @@
       "Arch": "386",
       "Os": "windows",
       "Sum": "52d864af00ea04cdda871c8a804cc66d14f96ad8488f7386e2d16644bf2d1f07",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.6/julia-1.6.0-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "1c89e1a6af69be0d0617317e4046a1ca7110d90ebeccd08cfa5fc08c3157ab3d",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.6/julia-1.6.0-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "b8d41d1cc68048992f3b2d00622ee0b626a5ba2b8ef0063359f6674a612f44e0",
       "SumType": "sha256",
       "Extra": "stable"
     },
@@ -4083,14 +3363,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/musl/x64/1.6/julia-1.6.0-beta1-musl-x86_64.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "065563a7586583950c2637c4105a8c6a3df3b28b9aacb58cd2a17b07ca317c90",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/mac/x64/1.6/julia-1.6.0-beta1-mac64.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -4111,22 +3383,6 @@
       "Arch": "386",
       "Os": "windows",
       "Sum": "aaa11d2af19ccbfd75f68d2a8859614d524acc47c48f219fe18c9f71d40477a0",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.6/julia-1.6.0-beta1-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "06d43b061832c5a86c634b40b24bca57d31fa179f9ba074f0a09b5a45e9394e2",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.6/julia-1.6.0-beta1-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "9b7195888f4afd1ede39b0ccbe4531d2a7d5c4b85bbda10f3145c739952b3c6a",
       "SumType": "sha256",
       "Extra": ""
     },
@@ -4173,14 +3429,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/musl/x64/1.6/julia-1.6.0-rc1-musl-x86_64.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "22392c450c4c0d4b9b36f06e0654d1254bda162465684252b71133cd341ec5ad",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/mac/x64/1.6/julia-1.6.0-rc1-mac64.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -4201,22 +3449,6 @@
       "Arch": "386",
       "Os": "windows",
       "Sum": "47bb830fed6c971f9387facba479a462f13f24630e37a7d14c2656625c3adbf0",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.6/julia-1.6.0-rc1-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "fa920a6af24bba519beaac5dc2621eed5407a2a5f63f8b35b4d89af13c187796",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.6/julia-1.6.0-rc1-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "43baa91ba4e65ff7acbd8c70056ed02eac568e723747d7a0fe1a68b26619f787",
       "SumType": "sha256",
       "Extra": ""
     },
@@ -4263,14 +3495,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/musl/x64/1.6/julia-1.6.0-rc2-musl-x86_64.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "8c04675221c6494ada41cb5c1abe08ff18703626b6fd7161132cd56324913f8e",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/mac/x64/1.6/julia-1.6.0-rc2-mac64.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -4291,22 +3515,6 @@
       "Arch": "386",
       "Os": "windows",
       "Sum": "777201260b9215f69638c46b99b63c2446e4a63e845b13e48af81a4bce6c849b",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.6/julia-1.6.0-rc2-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "d14d9389f8eaf01b2a30d15427f494b3e0491432478ce372a1c37ffc7e263bfc",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.6/julia-1.6.0-rc2-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "2c7a950c594ab7ba7ae5348d8469da4205b22a01baf3792d182e93fe977e2caa",
       "SumType": "sha256",
       "Extra": ""
     },
@@ -4353,14 +3561,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/musl/x64/1.6/julia-1.6.0-rc3-musl-x86_64.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "1162b8dc7fce7b321a3e8998f9cbba8b65bfdbfc3d486c8afd2044abc186f851",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/mac/x64/1.6/julia-1.6.0-rc3-mac64.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -4381,22 +3581,6 @@
       "Arch": "386",
       "Os": "windows",
       "Sum": "880915db5a4bb7d4a8b8bb9e693fa8fb6b8cb04639537d816ecca5b1bac1e392",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.6/julia-1.6.0-rc3-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "b6ab937b6eabc9d4455f7e11b284e78d2227aa59ad2d70ac6692e98822c9414d",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.6/julia-1.6.0-rc3-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "2038bbb7f438ef897ca35893d965842f9c837da47ab9aa810f98bd624090ae49",
       "SumType": "sha256",
       "Extra": ""
     },
@@ -4443,14 +3627,6 @@
       "Extra": "stable"
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/musl/x64/1.6/julia-1.6.1-musl-x86_64.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "492514c93c97e7012b8124a959a9f5569231e52b14f992e74a977fffd7b8961b",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/mac/x64/1.6/julia-1.6.1-mac64.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -4471,22 +3647,6 @@
       "Arch": "386",
       "Os": "windows",
       "Sum": "a2cad9095ba08a7c8d4442ec136ee0eb084ccf13f19e5e7aaa64f8a78837a298",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.6/julia-1.6.1-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "11ad9ea884a4e8b1397761effcbef69087aa811d8984969347273b9b8d9118df",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.6/julia-1.6.1-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "06933f3675112907c75b81ed1d844dce54ee97e49322744bcb86cd769c2a0762",
       "SumType": "sha256",
       "Extra": "stable"
     },
@@ -4533,14 +3693,6 @@
       "Extra": "stable"
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/musl/x64/1.6/julia-1.6.2-musl-x86_64.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "5ff279bc733a99a9582fd9b39eb3d18a3fa77b9d3d2733039279a250c8c5d49c",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/mac/x64/1.6/julia-1.6.2-mac64.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -4561,22 +3713,6 @@
       "Arch": "386",
       "Os": "windows",
       "Sum": "282be205fe78829e3f695e2923dfa7609b1dfa35306a89ad7426c7714f3c3d3f",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.6/julia-1.6.2-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "d5f853307bcd279e85ac39d7efb60f6b731a43e5a1f951ff807b44bc75426f3b",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.6/julia-1.6.2-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "c3376063ac58515f1f9fc42e434884dc3d3f5782a06574a9f1458f3c72256bd5",
       "SumType": "sha256",
       "Extra": "stable"
     },
@@ -4623,14 +3759,6 @@
       "Extra": "stable"
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/musl/x64/1.6/julia-1.6.3-musl-x86_64.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "dde1686a0e06a4f30b74ccf4c03df747c2ea4274b9245a18f3366a95a3d156c5",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/mac/x64/1.6/julia-1.6.3-mac64.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -4651,22 +3779,6 @@
       "Arch": "386",
       "Os": "windows",
       "Sum": "03b573672f11d1fa64519195b5abca5c636b95fda15cef98d6ca82400b6b2537",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.6/julia-1.6.3-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "a3078cb1c47a9fc5d7d54ec2efe6f2cc5360b34587a1fdff5b5ee81bb144935e",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.6/julia-1.6.3-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "9087a9386bfa72e7753cf71381114bc4fd9ed0b00662bf868234836810a00aaa",
       "SumType": "sha256",
       "Extra": "stable"
     },
@@ -4705,14 +3817,6 @@
       "Extra": "stable"
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/musl/x64/1.6/julia-1.6.4-musl-x86_64.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "63f121dffa982ff9b53c7c8a334830e17e2c9d2efa79316a548d29f7f8925e66",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/mac/x64/1.6/julia-1.6.4-mac64.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -4733,22 +3837,6 @@
       "Arch": "386",
       "Os": "windows",
       "Sum": "f90aa0e54121035e321d62e29aa4533b86aa0f062874a20a3e58c0c23f4396ff",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.6/julia-1.6.4-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "17f7e629ac4a042ab76ffccb521732146aae52e7c6ba3709a86141ed902b027c",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.6/julia-1.6.4-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "0d57d27fa79caf16fee30d79f2e1c5eca92a86e0c9f05871d2ce80c3ab524fff",
       "SumType": "sha256",
       "Extra": "stable"
     },
@@ -4787,14 +3875,6 @@
       "Extra": "stable"
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/musl/x64/1.6/julia-1.6.5-musl-x86_64.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "e38eece6f9f20c7472caf3f8f74a99ad0880921c28e1301461fa7af919880383",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/mac/x64/1.6/julia-1.6.5-mac64.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -4815,22 +3895,6 @@
       "Arch": "386",
       "Os": "windows",
       "Sum": "7d1f807f27ab5dfa054d0a79c589e86457da0ea604f1880e20477462ebcf30a9",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.6/julia-1.6.5-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "5d0c86d899f890ecb77eb5c239ee3908259a24d15273b600a593b2bf65faf5bd",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.6/julia-1.6.5-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "65e1b85e84e777444ea67b6e9a6f5c6a87c8f076e1b7351bc427d1efe1b44e18",
       "SumType": "sha256",
       "Extra": "stable"
     },
@@ -4869,14 +3933,6 @@
       "Extra": "stable"
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/musl/x64/1.6/julia-1.6.6-musl-x86_64.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "e46870ee6b6a1af18046584b9121d8fdd69c0632c9625aec5998c65040b8b701",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/mac/x64/1.6/julia-1.6.6-mac64.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -4897,22 +3953,6 @@
       "Arch": "386",
       "Os": "windows",
       "Sum": "4a1a716a1d10e3c2e4c2c88b0a99e2381123a6f919989e9981fcf9f6a8707d5f",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.6/julia-1.6.6-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "3f509fd79dd15de312c69725e877e6c5ef5dd0721b562e735804ff93b7756364",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.6/julia-1.6.6-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "6ebc3b4d450a4415dbd6afdd2813497e18254c3b507c2a87ee743195ad171ce4",
       "SumType": "sha256",
       "Extra": "stable"
     },
@@ -4951,14 +3991,6 @@
       "Extra": "stable"
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/musl/x64/1.6/julia-1.6.7-musl-x86_64.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "d71ccc5aa36cf691616a40bf6fb960fac5620ce53d2f90a95947b90dec509433",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/mac/x64/1.6/julia-1.6.7-mac64.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -4979,22 +4011,6 @@
       "Arch": "386",
       "Os": "windows",
       "Sum": "516977bb0a76fc5166a6e7f5bf56edfc57e8f6d12ef3c5b00526bdf1406f5e60",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.6/julia-1.6.7-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "91c7fd40688d1d481da68225b6c9fae0c454d38c1234527d7c4fa134a4fda902",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.6/julia-1.6.7-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "7802c4a53495e2bf256417902dee74f5bc4aa0a1c99a5438926faaaafd2bf4fb",
       "SumType": "sha256",
       "Extra": "stable"
     },
@@ -5033,14 +4049,6 @@
       "Extra": "stable"
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/musl/x64/1.7/julia-1.7.0-musl-x86_64.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "c39d9937ebdb693ce69f8695ac55bdd1c8b8557fca38d72cd6e467e05258fc8f",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/mac/x64/1.7/julia-1.7.0-mac64.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -5069,22 +4077,6 @@
       "Arch": "386",
       "Os": "windows",
       "Sum": "98a808e34edf2fe2b9599a04c67d8197f0bd11cc51d5df213dcdd576ca5ab7ce",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.7/julia-1.7.0-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "0f3d993fb9a9a81f8688c80d97566d954bb0077a394031ea08bc3c5ad32c5690",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.7/julia-1.7.0-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "a3bf57ed70810439bd4ff6892d94e69534d228d5435cb97703174dd21d48af84",
       "SumType": "sha256",
       "Extra": "stable"
     },
@@ -5155,22 +4147,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.7/julia-1.7.0-beta1-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "c5588497ee3ad3d2b90c9c4b454e91d7e5046a897a64e35a7cbba945f7aed1f4",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.7/julia-1.7.0-beta1-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "bde28153cc6a874a83f1b2c3c654df86bd2916dceb8478f1ce9bb57bdaf0f286",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/freebsd/x64/1.7/julia-1.7.0-beta1-freebsd-x86_64.tar.gz",
       "Arch": "amd64",
       "Os": "freebsd",
@@ -5233,22 +4209,6 @@
       "Arch": "386",
       "Os": "windows",
       "Sum": "f9d9a30a2ecebbe503828524e42709d1005a6ad80cd87a3a4648181e02f5f209",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.7/julia-1.7.0-beta2-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "cb28add610f31aae9caf3444dd4db1112304871efd4a6254f7796fcc54232710",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.7/julia-1.7.0-beta2-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "60b2254a43768f42e26435606d6d8940a723e323d1c1fadddf99f437605a118f",
       "SumType": "sha256",
       "Extra": ""
     },
@@ -5327,22 +4287,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.7/julia-1.7.0-beta3-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "8ee7e95e3362fb93bd39fc5b27943d29346ac5baaed93ab6203e42e18a2468da",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.7/julia-1.7.0-beta3-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "8044961ca19665b0cbfac348183ab09bce8fa5dd68b752e9b3b0edab4fdfb068",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/freebsd/x64/1.7/julia-1.7.0-beta3-freebsd-x86_64.tar.gz",
       "Arch": "amd64",
       "Os": "freebsd",
@@ -5385,14 +4329,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/musl/x64/1.7/julia-1.7.0-beta4-musl-x86_64.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "143f6b80ea812693bb55df218a03fe05d4d9cc719a0d663a1026f96e0059409d",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/mac/x64/1.7/julia-1.7.0-beta4-mac64.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -5421,22 +4357,6 @@
       "Arch": "386",
       "Os": "windows",
       "Sum": "cd31cf7c5b7aa508276f170b0caf7dbbab9ccb780f11089208e1900359a44574",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.7/julia-1.7.0-beta4-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "f8c3df166169a6b6324d9197762c44ea35d3345604d59f76a6b142f1b24dae63",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.7/julia-1.7.0-beta4-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "a74b3c3bb163e0f55ec3077703adfb5682d40e04b125b99e0570d75186d02075",
       "SumType": "sha256",
       "Extra": ""
     },
@@ -5483,14 +4403,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/musl/x64/1.7/julia-1.7.0-rc1-musl-x86_64.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "04dbf583935315333e922d9a198500bb4e2fc9f18002f7855bd1dca6232d638c",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/mac/x64/1.7/julia-1.7.0-rc1-mac64.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -5519,22 +4431,6 @@
       "Arch": "386",
       "Os": "windows",
       "Sum": "244f4da88f7b85505d56ddd9db5285a5d341851895534c63b6485c9d2ef6fdca",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.7/julia-1.7.0-rc1-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "689f19374487a1778310b5cdda8ed6c3744acfea5136d185c5bd3d45c47286c9",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.7/julia-1.7.0-rc1-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "0a46f33f9140881fd0f609d6c0cb861ca8f3a55a28f49b45a2ffea8d6fbcda55",
       "SumType": "sha256",
       "Extra": ""
     },
@@ -5581,14 +4477,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/musl/x64/1.7/julia-1.7.0-rc2-musl-x86_64.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "1b9ab5344873c364377ce0549f10c963c2f86850a1fe836c57a559b808d1005f",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/mac/x64/1.7/julia-1.7.0-rc2-mac64.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -5617,22 +4505,6 @@
       "Arch": "386",
       "Os": "windows",
       "Sum": "a8980a286ef0424e83dd5a73b85674e62c49b388825c4338a3e147e58dd2c7fe",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.7/julia-1.7.0-rc2-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "857733c1afb46530f04e21f1ce9897ac41749c771a3293c6e82512aedc17462b",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.7/julia-1.7.0-rc2-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "5e4e436bf8ad5feff028b28d672774c40a3580d8e784860bac70dbd5061507f0",
       "SumType": "sha256",
       "Extra": ""
     },
@@ -5671,14 +4543,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/musl/x64/1.7/julia-1.7.0-rc3-musl-x86_64.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "68dc3d7b17fbcceea383b48d82c63c36b899e05f5cd7537a730d7578f65c40ea",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/mac/x64/1.7/julia-1.7.0-rc3-mac64.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -5707,22 +4571,6 @@
       "Arch": "386",
       "Os": "windows",
       "Sum": "5b7e5d67cc6e39c48ded91767b6e821afe3cc208292185e782801685ab83bd30",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.7/julia-1.7.0-rc3-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "6eb652690b56a1b0e36cd709d77eb03a0604365027362be2ca93572b22a93f78",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.7/julia-1.7.0-rc3-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "fc959c8b427233fcebf258a5760267f0863c3e1829620429fafa6b759800b016",
       "SumType": "sha256",
       "Extra": ""
     },
@@ -5761,14 +4609,6 @@
       "Extra": "stable"
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/musl/x64/1.7/julia-1.7.1-musl-x86_64.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "cf94c4686dfcc4a22e6d0ec42a5f752c1c4ac55a32014851b030e62c20519fad",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/mac/x64/1.7/julia-1.7.1-mac64.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -5797,22 +4637,6 @@
       "Arch": "386",
       "Os": "windows",
       "Sum": "c50bee55fb5b86633f4049e6e5eaed1b55fe537853c445d9551647cb2a910b64",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.7/julia-1.7.1-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "ebca632bc024ade3ad498763382c907868046832fbbe6870744acb92f598e568",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.7/julia-1.7.1-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "c8b96294c8f2f6d43362c043d31315f53300b06236264251e1db27049c88a466",
       "SumType": "sha256",
       "Extra": "stable"
     },
@@ -5851,14 +4675,6 @@
       "Extra": "stable"
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/musl/x64/1.7/julia-1.7.2-musl-x86_64.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "3bd653265f387450c796157629e6aa7aa4473d0169ef516a18e7b06b0301a7e1",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/mac/x64/1.7/julia-1.7.2-mac64.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -5887,22 +4703,6 @@
       "Arch": "386",
       "Os": "windows",
       "Sum": "f53eb1654054c272fbf4c39ffa5b37f1858b1ccf8e737516e94fc521ff39e557",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.7/julia-1.7.2-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "dcc7e799d6481f2e1481206f25159a5d2102f98d2ef7cbc4cef5193c2479ca11",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.7/julia-1.7.2-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "ce9cd33444cc1cb172ad19e795e8a6aeed0a84a8635ecb27db89fc1a05f0669a",
       "SumType": "sha256",
       "Extra": "stable"
     },
@@ -5941,14 +4741,6 @@
       "Extra": "stable"
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/musl/x64/1.7/julia-1.7.3-musl-x86_64.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "e8c7d8e94228c775661a3c5a5744c12b46b5cbda177c6ba0def9ed33705e6786",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/mac/x64/1.7/julia-1.7.3-mac64.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -5969,22 +4761,6 @@
       "Arch": "386",
       "Os": "windows",
       "Sum": "89ba625a992dbbfbbab73c3851b0fca9a0dfc81b935460d9a292f53af823d3f9",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.7/julia-1.7.3-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "380bbf7d15c57b159205d4a7365a54a07d068138fb78924b4ad01185483881a4",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.7/julia-1.7.3-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "34a1bc5c1d664bcf059de6f16873a30a236995b0d723db918078fdacb3994780",
       "SumType": "sha256",
       "Extra": "stable"
     },
@@ -6023,14 +4799,6 @@
       "Extra": "stable"
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/musl/x64/1.8/julia-1.8.0-musl-x86_64.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "d60de3a1c522e30655babdda2d80cf756848983ea57ff38eca8e60108f5001b6",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/mac/x64/1.8/julia-1.8.0-mac64.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -6059,22 +4827,6 @@
       "Arch": "386",
       "Os": "windows",
       "Sum": "e5987ce8cdabdb208a25e45b842a0b0ab7bd6d5a12591d1bded4f3d03c7da0bf",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.8/julia-1.8.0-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "97a1695555a4b80f419d805a1495b553f47af7ab10f73ffc35943cf06acd32ae",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.8/julia-1.8.0-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "82384794b0d26d53933125536dd824fc8a2b45465c9a6dc0669a46a5dc55b1a6",
       "SumType": "sha256",
       "Extra": "stable"
     },
@@ -6113,14 +4865,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/musl/x64/1.8/julia-1.8.0-beta1-musl-x86_64.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "b77765be768fb180ea6f02a9f0048385551c386fdf483aa8915017ce2b08870f",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/mac/x64/1.8/julia-1.8.0-beta1-mac64.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -6149,22 +4893,6 @@
       "Arch": "386",
       "Os": "windows",
       "Sum": "73c1ad7495cfc8c382e67fa998424eeea69ea118238f1fad13b3ebe75e00b148",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.8/julia-1.8.0-beta1-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "fe51ac1b77cd3071cafbd924c473008ba172feb9ff68e31d6a91e21387b172ad",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.8/julia-1.8.0-beta1-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "1347c399ce315cb99af75961760272138207c1656a5c3c8a16faee150e98f39d",
       "SumType": "sha256",
       "Extra": ""
     },
@@ -6219,22 +4947,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.8/julia-1.8.0-beta2-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "a73c0a32d6674968be8b91a6ca969e642532a698df1163d72ae151dcd779ad07",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.8/julia-1.8.0-beta2-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "222408e60a80323fb85f36374ad4c69aad0b1e3e7dcef9e55723013a03439d46",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/freebsd/x64/1.8/julia-1.8.0-beta2-freebsd-x86_64.tar.gz",
       "Arch": "amd64",
       "Os": "freebsd",
@@ -6269,14 +4981,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/musl/x64/1.8/julia-1.8.0-beta3-musl-x86_64.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "88fcc6b603e642d4884ba63c653a4885e74a715a982d0fda30e07f9f65e13540",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/mac/x64/1.8/julia-1.8.0-beta3-mac64.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -6305,22 +5009,6 @@
       "Arch": "386",
       "Os": "windows",
       "Sum": "5b82ce2bff76970e9a2bc3d2a5d16c371b1572ef438fa3331fc060b75a5596fd",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.8/julia-1.8.0-beta3-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "3777c41e2e0421e90f0c71c96d072c73dede044071ae3912df5de674dc02568a",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.8/julia-1.8.0-beta3-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "deca42fd027ee6c16a39f522ed1be37a2de84d4fa2e5714c3709109e0eb9d440",
       "SumType": "sha256",
       "Extra": ""
     },
@@ -6359,14 +5047,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/musl/x64/1.8/julia-1.8.0-rc1-musl-x86_64.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "fb78d1547fd3a82881ccc8d3d5bb24310c59feb08473e0a05d5d44314f23b195",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/mac/x64/1.8/julia-1.8.0-rc1-mac64.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -6395,22 +5075,6 @@
       "Arch": "386",
       "Os": "windows",
       "Sum": "43aa485249cb254f2a64b38429cacd60782157176313f1c61682e024f82de740",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.8/julia-1.8.0-rc1-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "a19ee7ad6b534d5abbce9762e177ee4f3ad32af24d5147d6ef2e62d8da8096f7",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.8/julia-1.8.0-rc1-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "cdb29668b3266de183faa238e1a6d23f008dfa3819859d1642f0292c7784d331",
       "SumType": "sha256",
       "Extra": ""
     },
@@ -6449,14 +5113,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/musl/x64/1.8/julia-1.8.0-rc2-musl-x86_64.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "2458db8095e74ade8ba4ff6aa67e67210a1fa6946004f8f752619e978bf9d7d6",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.8/julia-1.8.0-rc2-win64.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -6469,22 +5125,6 @@
       "Arch": "386",
       "Os": "windows",
       "Sum": "cf691eda71c3c815555a8fd48d167834c96ea0006cb6889c0f9d6ea4e3be34d2",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.8/julia-1.8.0-rc2-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "a0c5d098ea1fe394f4ed201c3298fa509f55701b005ed276bd74b883627d2bde",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.8/julia-1.8.0-rc2-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "bd26912cd0ab987912e773aa76198a9c31c455bd5de20bb3d35b1914aad63e24",
       "SumType": "sha256",
       "Extra": ""
     },
@@ -6523,14 +5163,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/musl/x64/1.8/julia-1.8.0-rc3-musl-x86_64.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "815d9d85382360a4caa3dfe39d64539ec32bf935e10098a116de3377a3feb2a6",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/mac/x64/1.8/julia-1.8.0-rc3-mac64.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -6559,22 +5191,6 @@
       "Arch": "386",
       "Os": "windows",
       "Sum": "225f1823a9ad93b99766e7f97e16c55b3578638cada8fe007860cbc143771f27",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.8/julia-1.8.0-rc3-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "022d967888e7e1e104d4eb710d68c3dd0de11816c359b179827129ab10ec508c",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.8/julia-1.8.0-rc3-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "a897b90e7e25bf3a2f7516e4cf87260ef8b1c068e27aa4d8af66ff9af561f195",
       "SumType": "sha256",
       "Extra": ""
     },
@@ -6613,14 +5229,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/musl/x64/1.8/julia-1.8.0-rc4-musl-x86_64.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "03fe2adb62737db441c46abb02bd0ad7133e51279a7edff5e7d79cf0b9a24df5",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/mac/x64/1.8/julia-1.8.0-rc4-mac64.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -6649,22 +5257,6 @@
       "Arch": "386",
       "Os": "windows",
       "Sum": "0a718001f374e772af8994a04cea0340ce0b3aff17e13ee2311c2a3f9997ee80",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.8/julia-1.8.0-rc4-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "8c02951844cc69820f1d4a19895fa43ef3867f4a43c95cfc983bdbacc4635f8d",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.8/julia-1.8.0-rc4-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "d767d40441398b7c25b4c078971c7cfed4db571bccbd6a143830ccd5650b36c1",
       "SumType": "sha256",
       "Extra": ""
     },
@@ -6703,14 +5295,6 @@
       "Extra": "stable"
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/musl/x64/1.8/julia-1.8.1-musl-x86_64.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "d459b1283401a51219d619ecb053920be68b2331eb239e68c9c3a87a2388f4c4",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/mac/x64/1.8/julia-1.8.1-mac64.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -6739,22 +5323,6 @@
       "Arch": "386",
       "Os": "windows",
       "Sum": "f191469e26cccd4f9da9b3adb9094694f706d39a7d4db7fdfc6818cb01c6a644",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.8/julia-1.8.1-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "6c9b0a8bd8f65d90c71e788a142a1be95d3002fe4a0b7914034a14cbe8a976e8",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.8/julia-1.8.1-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "bc0d95c815f22ad4cb33f5bfea201a78729a3b53b68c58c0cc4ffc65cc62178a",
       "SumType": "sha256",
       "Extra": "stable"
     },
@@ -6793,14 +5361,6 @@
       "Extra": "stable"
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/musl/x64/1.8/julia-1.8.2-musl-x86_64.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "9a50f90f30254b588be74e1cb983f6408b0ed81f28f7cd7077a0eefc7f33e04a",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/mac/x64/1.8/julia-1.8.2-mac64.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -6829,22 +5389,6 @@
       "Arch": "386",
       "Os": "windows",
       "Sum": "a679aaa7aa3df466ccffb1563701ce857174c727015ec408451c86d0316c5613",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.8/julia-1.8.2-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "813e236e87005b2a417d72b5fe33255f3fcf26011710b91c756b07ba3b5d0978",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.8/julia-1.8.2-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "dcfff90208447c8bb33b082428b34553bce75cf3191577c2d86a23251612719f",
       "SumType": "sha256",
       "Extra": "stable"
     },
@@ -6883,14 +5427,6 @@
       "Extra": "stable"
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/musl/x64/1.8/julia-1.8.3-musl-x86_64.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "6d0e20c9497cbee88b90dfbbbbf3d2701eb5e2902a85693fcaec3412920b63e6",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/mac/x64/1.8/julia-1.8.3-mac64.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -6919,22 +5455,6 @@
       "Arch": "386",
       "Os": "windows",
       "Sum": "7564310ea294b8ef07fdea8d40daf2b5af6a2a3c2908ea255f5cf1cae9d62541",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.8/julia-1.8.3-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "9d7b0d083b006c7966bb5238fee68d37006471cd4bf501bf507a39249ef54b84",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.8/julia-1.8.3-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "6866826cb1cf7bdc2769d0f341ddd02da64e0c2187e4a00d5e83af7b11241b59",
       "SumType": "sha256",
       "Extra": "stable"
     },
@@ -6973,14 +5493,6 @@
       "Extra": "stable"
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/musl/x64/1.8/julia-1.8.4-musl-x86_64.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "e24290c742cd8b3526330b72f2475f4bd9ea548bf3827d493e7df3da0583c130",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/mac/x64/1.8/julia-1.8.4-mac64.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -7009,22 +5521,6 @@
       "Arch": "386",
       "Os": "windows",
       "Sum": "3f1177df5a6701d3d122ac424e8b09ec5aeaccf1fa62270541159089c08b9a09",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.8/julia-1.8.4-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "3a9acdbcde3e8daee9ab8494996efdce3840b1fb555ee60b8f39a52670d94c1b",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.8/julia-1.8.4-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "e0d4c4fc7ef167a6c4b32ad484e3d7ad53bc7fbc3dc36063c685ebdf1340845c",
       "SumType": "sha256",
       "Extra": "stable"
     },
@@ -7071,14 +5567,6 @@
       "Extra": "stable"
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/musl/x64/1.8/julia-1.8.5-musl-x86_64.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "12427c0336648b59f0c853b9885e2ffcd113e876d4b385b9cf59bc0e581987fc",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/mac/x64/1.8/julia-1.8.5-mac64.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -7107,22 +5595,6 @@
       "Arch": "386",
       "Os": "windows",
       "Sum": "11382e9896d6d6feeaa5ed3530292765d6a0db751d912d97339a776479de4832",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.8/julia-1.8.5-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "a2bead14bd36c017e83af753da1fc94ffa821443c2a026da01a6e7c968af91a2",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.8/julia-1.8.5-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "ba129ad9c17f4ed68ded060b2a4f3010be40b9c2952deb4de4267b2585a05441",
       "SumType": "sha256",
       "Extra": "stable"
     },
@@ -7169,14 +5641,6 @@
       "Extra": "stable"
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/musl/x64/1.9/julia-1.9.0-musl-x86_64.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "2594ff9a69d86415faae2e2e218ec3a5abbeb41ab3590b646b75824221adcb5b",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/mac/x64/1.9/julia-1.9.0-mac64.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -7205,22 +5669,6 @@
       "Arch": "386",
       "Os": "windows",
       "Sum": "0bb3b15bd94218bb86ddd18c2a5b044b295a41912b9d42323cbee4662b91e7f5",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.9/julia-1.9.0-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "6d838a4ffbf1099e270044e5ef7e5b5cae146fbf4ae1ab6e6258f654dcb39466",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.9/julia-1.9.0-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "38eb4ff07282795050ede911de227d1998e24af5873c995773df7e39aa299bb4",
       "SumType": "sha256",
       "Extra": "stable"
     },
@@ -7259,14 +5707,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/musl/x64/1.9/julia-1.9.0-alpha1-musl-x86_64.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "21dc88b2bb12511b3fd07f11a3f3548bfd48ecbfa43df46c83b18e1b08be7298",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/mac/x64/1.9/julia-1.9.0-alpha1-mac64.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -7295,22 +5735,6 @@
       "Arch": "386",
       "Os": "windows",
       "Sum": "4d08f56461b0232d4c9bfe28738e1f681e7ead2da38dfaf734331c638048a846",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.9/julia-1.9.0-alpha1-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "9cfbf6c85821d8e3432fa7df8fd01623a4d3689428ffc27a5838d9d5cd280300",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.9/julia-1.9.0-alpha1-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "da8888ce0e5834e83699e4b35a919fdb96a5e70e6c906cea19774c65c79c3769",
       "SumType": "sha256",
       "Extra": ""
     },
@@ -7349,26 +5773,10 @@
       "Extra": ""
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/musl/x64/1.9/julia-1.9.0-beta1-musl-x86_64.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "f6288ecf19cc84221f280307745ee6a306af2b8d2fe5d2ca93a5c7e3da305cb2",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.9/julia-1.9.0-beta1-win32.zip",
       "Arch": "386",
       "Os": "windows",
       "Sum": "a5a8e4a9cd0ba81b21bbcd7e8ab7848a9e9de50c6dbc5c448a7bec747e9689d8",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.9/julia-1.9.0-beta1-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "a36d00edffc09700f598e6788f2d03cad84ec2c6db25b5a237d927abbccb1099",
       "SumType": "sha256",
       "Extra": ""
     },
@@ -7415,14 +5823,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/musl/x64/1.9/julia-1.9.0-beta2-musl-x86_64.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "a2171d91f97ab7cb95f5aa4618878a8224e2eb046f5e71999952e7a1d2176e27",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/mac/x64/1.9/julia-1.9.0-beta2-mac64.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -7451,22 +5851,6 @@
       "Arch": "386",
       "Os": "windows",
       "Sum": "d9db4e3672e59f7550fdf132b7a55b2caa7c81f0c2a8c42bb2b6cc06e5bf0d61",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.9/julia-1.9.0-beta2-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "4b173c1cb33ab87b8d03c5e8a36847e43a32fcdd168aba82fba476bf0e67ba40",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.9/julia-1.9.0-beta2-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "ccbedf9de5fc9dd7ce260722e9bf7423c3cf2c5c17e31d7bcac303457ce29cad",
       "SumType": "sha256",
       "Extra": ""
     },
@@ -7513,14 +5897,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/musl/x64/1.9/julia-1.9.0-beta3-musl-x86_64.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "4b17b3804b9b2553b682781e63268bfc641db18ea07eb078a79b6fedfa9d6a5b",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/mac/x64/1.9/julia-1.9.0-beta3-mac64.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -7549,22 +5925,6 @@
       "Arch": "386",
       "Os": "windows",
       "Sum": "4b3818a2672e6835a81cdf1891f3d54c2446e5253dab52cb9b3e9133353cde4d",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.9/julia-1.9.0-beta3-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "5027eed48a291d56a12e6170be65d8a390a7beaaa23f819a6c12aba7aaae9e48",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.9/julia-1.9.0-beta3-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "4d44fb96b7267c1d12af2d230468e89bb67410638e4abb8bf1a1293420037df7",
       "SumType": "sha256",
       "Extra": ""
     },
@@ -7611,14 +5971,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/musl/x64/1.9/julia-1.9.0-beta4-musl-x86_64.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "fcf4fc9f076526591bd73c9b55eb7a6db3d45484bd4874d0160a265a068eecc4",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/mac/x64/1.9/julia-1.9.0-beta4-mac64.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -7647,22 +5999,6 @@
       "Arch": "386",
       "Os": "windows",
       "Sum": "911cc6862cefc6f2514912bde8667c5b3d57b1343b75a4c4b4082db9cdbb2bf8",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.9/julia-1.9.0-beta4-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "29dec12ebfec6c01304d721585f450c2d567699c3474bda4596f782b333acd23",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.9/julia-1.9.0-beta4-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "8168c41d1492abb17b2c0aaa58f1c8b7ea769772619a8dd3f03c0dfafd68d204",
       "SumType": "sha256",
       "Extra": ""
     },
@@ -7709,14 +6045,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/musl/x64/1.9/julia-1.9.0-rc1-musl-x86_64.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "5175033c143afa6f211aaf640f58eabe2234ee5a029e2aabac2c8b43d2438e56",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/mac/x64/1.9/julia-1.9.0-rc1-mac64.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -7745,22 +6073,6 @@
       "Arch": "386",
       "Os": "windows",
       "Sum": "13a4e24cf6c8f72f9beab6e1f723e5c399a7dbd86c13ce8b789a7ceee1c44db5",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.9/julia-1.9.0-rc1-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "2877e839ab30e50d173d5e29c0f6fb7a79ac6ae8a662f7eb47721eef611df66a",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.9/julia-1.9.0-rc1-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "95e0ff5079d2dde78f0ddce17c3ff9a91bd67c8dfa480efccfe2e1c289ac0dc4",
       "SumType": "sha256",
       "Extra": ""
     },
@@ -7807,14 +6119,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/musl/x64/1.9/julia-1.9.0-rc2-musl-x86_64.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "b16b0902c97fc58efbf997aa1ef486f7bd4825382d010e04bb3e9ec7bca7bce1",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/mac/x64/1.9/julia-1.9.0-rc2-mac64.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -7843,22 +6147,6 @@
       "Arch": "386",
       "Os": "windows",
       "Sum": "187b1bc8741b66d6351b07766d8a505c9a94345771ecec852511606eeeef7028",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.9/julia-1.9.0-rc2-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "31b4f81cf72c598ee3d965361955802ffd245584c23839cd9234cc1554036299",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.9/julia-1.9.0-rc2-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "330f781f877320cba626b17d1f6950900aba072211f53b700d9393196395f388",
       "SumType": "sha256",
       "Extra": ""
     },
@@ -7905,14 +6193,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/musl/x64/1.9/julia-1.9.0-rc3-musl-x86_64.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "bce9620d7fb1b3fe851aebc71ab24323ceb321e6f73789f672244fef73209662",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/mac/x64/1.9/julia-1.9.0-rc3-mac64.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -7941,22 +6221,6 @@
       "Arch": "386",
       "Os": "windows",
       "Sum": "f4b0f1b7e9a8ad927530edbae6fe489955d22a89a87d677f2c75c498726efc2f",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.9/julia-1.9.0-rc3-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "ba0e3a7149cac639f7431d66254d81fba8c53fa5f3919f971160a4d1b6ab71fb",
-      "SumType": "sha256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.9/julia-1.9.0-rc3-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "717edbe48927d9d2a07f69321a893cc32320ee86bed4e21104639164d96ffb19",
       "SumType": "sha256",
       "Extra": ""
     },
@@ -8003,14 +6267,6 @@
       "Extra": "stable"
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/musl/x64/1.9/julia-1.9.1-musl-x86_64.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "9c33adcb1a1a7d3fca72cd4ac592d107ef2a70b1cb323e67a03b93a6e485fd0c",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/mac/x64/1.9/julia-1.9.1-mac64.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -8039,22 +6295,6 @@
       "Arch": "386",
       "Os": "windows",
       "Sum": "c355475977b6e0e5b127394c2025077f5d77015704e8e984849f92611e109081",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.9/julia-1.9.1-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "00ca6cc4108f200044e1ef94448eb5ef34e66952439f7126dd9827f20ca40117",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.9/julia-1.9.1-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "c8ae263c0957a71d589c2b2c5198e05c63dfbed49805e085620a2850fa043bb2",
       "SumType": "sha256",
       "Extra": "stable"
     },
@@ -8101,14 +6341,6 @@
       "Extra": "stable"
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/musl/x64/1.9/julia-1.9.2-musl-x86_64.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "8fb6c39d44eeed91acade4b649777871a7a8485ae7e0aaaf47e59103d13bce31",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/mac/x64/1.9/julia-1.9.2-mac64.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -8137,22 +6369,6 @@
       "Arch": "386",
       "Os": "windows",
       "Sum": "9689d7e0b824823c6e0bda2431b9cb6e90d816912e185b3b1aff470d9a6cb6c0",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.9/julia-1.9.2-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "7e02cc72cdfa6b45852a052ea2d1c644f45534de872e6ee3115e867b659990dd",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.9/julia-1.9.2-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "21ed99989b2ae742344b1670bfe128c4d1cb01f24e77cd18ed37a84778a67927",
       "SumType": "sha256",
       "Extra": "stable"
     },
@@ -8199,14 +6415,6 @@
       "Extra": "stable"
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/musl/x64/1.9/julia-1.9.3-musl-x86_64.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "90fbfb8621a523694de0280a1cd5e2040a49f4bd41e403f789caee945e63d03b",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/mac/x64/1.9/julia-1.9.3-mac64.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -8235,22 +6443,6 @@
       "Arch": "386",
       "Os": "windows",
       "Sum": "6d3cdf6a8bb9093635f908baababb94f1ad6acf466fdb584231e865815fc81db",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.9/julia-1.9.3-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "a78fa82bb0c2bae193653466ccf921f8b1c0f15286e360e7d3d7bbc672964257",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.9/julia-1.9.3-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "20c2729859bc55e3ee5d2c8319c8ab13e86de2796d5f71dafd6a2fefb1de785c",
       "SumType": "sha256",
       "Extra": "stable"
     },
@@ -8297,14 +6489,6 @@
       "Extra": "stable"
     },
     {
-      "Url": "https://julialang-s3.julialang.org/bin/musl/x64/1.9/julia-1.9.4-musl-x86_64.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "cfee0c02e470fd3e49a6d43b071ec905dec3a81d1ef377c0f0116f5b9920abe9",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
       "Url": "https://julialang-s3.julialang.org/bin/mac/x64/1.9/julia-1.9.4-mac64.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -8333,22 +6517,6 @@
       "Arch": "386",
       "Os": "windows",
       "Sum": "94d76e92b3851c17cfbefd0d92b2e85d23941be146256c1aa998fb19d43b3a11",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.9/julia-1.9.4-win64.tar.gz",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "811bff692978a01e75c9f1050c3d704db6f5344c2ee93101138a7c5174d63e71",
-      "SumType": "sha256",
-      "Extra": "stable"
-    },
-    {
-      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.9/julia-1.9.4-win32.tar.gz",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "56e7fe0d65030f059389b3baf4329ebb38ed1959fae3782ec57c08f3809930f6",
       "SumType": "sha256",
       "Extra": "stable"
     },
