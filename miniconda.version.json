@@ -50,7 +50,7 @@
     },
     {
       "Url": "https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-ppc64le.sh",
-      "Arch": "ppc64",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "1a2eda0a9a52a4bd058abbe9de5bb2bc751fcd7904c4755deffdf938d6f4436e",
       "SumType": "sha256",
@@ -85,62 +85,6 @@
       "Arch": "",
       "Os": "linux",
       "Sum": "21797d303260e1f0fb89f1157b4ff1b6b58865e8b710aecdddacd8c2658ded2f",
-      "SumType": "sha256",
-      "Extra": "latest"
-    },
-    {
-      "Url": "https://repo.anaconda.com/miniconda/Miniconda2-latest-MacOSX-x86_64.sh",
-      "Arch": "amd64",
-      "Os": "darwin",
-      "Sum": "0e2961e20a2239c140766456388beba6630f0c869020d2bd1870c3d040980b45",
-      "SumType": "sha256",
-      "Extra": "latest"
-    },
-    {
-      "Url": "https://repo.anaconda.com/miniconda/Miniconda2-latest-Linux-ppc64le.sh",
-      "Arch": "ppc64",
-      "Os": "linux",
-      "Sum": "23473678afb15a6ed87045ce6490463420aed9c249607fb389a788e95335bb28",
-      "SumType": "sha256",
-      "Extra": "latest"
-    },
-    {
-      "Url": "https://repo.anaconda.com/miniconda/Miniconda2-latest-Windows-x86.exe",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "c8049d26f8b6b954b57bcd4e99ad72d1ffa13f4a6b218e64e641504437b2617b",
-      "SumType": "sha256",
-      "Extra": "latest"
-    },
-    {
-      "Url": "https://repo.anaconda.com/miniconda/Miniconda2-latest-Windows-x86_64.exe",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "6973025404832944e074bf02bda8c4594980eeed4707bb51baa8fbdba4bf326c",
-      "SumType": "sha256",
-      "Extra": "latest"
-    },
-    {
-      "Url": "https://repo.anaconda.com/miniconda/Miniconda2-latest-Linux-x86_64.sh",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "b820dde1a0ba868c4c948fe6ace7300a252b33b5befd078a15d4a017476b8979",
-      "SumType": "sha256",
-      "Extra": "latest"
-    },
-    {
-      "Url": "https://repo.anaconda.com/miniconda/Miniconda2-latest-Linux-x86.sh",
-      "Arch": "386",
-      "Os": "linux",
-      "Sum": "2e20ac4379ca5262e7612f84ad26b1a2f2782d0994facdecb28e0baf51749979",
-      "SumType": "sha256",
-      "Extra": "latest"
-    },
-    {
-      "Url": "https://repo.anaconda.com/miniconda/Miniconda-latest-Linux-armv7l.sh",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "02b493c3e95b836b900dd84b8625e245fd11ac4c4360199178f76fa9e25af357",
       "SumType": "sha256",
       "Extra": "latest"
     }
