@@ -1,22 +1,6 @@
 {
   "7.2.0": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.0-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.0-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.0-Win32-VC15-x64.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -42,22 +26,6 @@
     }
   ],
   "7.2.1": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.1-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.1-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
     {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.1-Win32-VC15-x64.zip",
       "Arch": "amd64",
@@ -85,22 +53,6 @@
   ],
   "7.2.10": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.10-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.10-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.10-Win32-VC15-x64.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -126,22 +78,6 @@
     }
   ],
   "7.2.11": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.11-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.11-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
     {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.11-Win32-VC15-x64.zip",
       "Arch": "amd64",
@@ -169,22 +105,6 @@
   ],
   "7.2.12": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.12-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.12-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.12-Win32-VC15-x64.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -210,22 +130,6 @@
     }
   ],
   "7.2.13": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.13-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.13-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
     {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.13-Win32-VC15-x64.zip",
       "Arch": "amd64",
@@ -253,22 +157,6 @@
   ],
   "7.2.14": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.14-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.14-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.14-Win32-VC15-x64.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -294,22 +182,6 @@
     }
   ],
   "7.2.15": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.15-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.15-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
     {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.15-Win32-VC15-x64.zip",
       "Arch": "amd64",
@@ -337,22 +209,6 @@
   ],
   "7.2.16": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.16-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.16-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.16-Win32-VC15-x64.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -378,22 +234,6 @@
     }
   ],
   "7.2.17": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.17-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.17-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
     {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.17-Win32-VC15-x64.zip",
       "Arch": "amd64",
@@ -421,22 +261,6 @@
   ],
   "7.2.18": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.18-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.18-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.18-Win32-VC15-x64.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -462,22 +286,6 @@
     }
   ],
   "7.2.19": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.19-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.19-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
     {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.19-Win32-VC15-x64.zip",
       "Arch": "amd64",
@@ -505,22 +313,6 @@
   ],
   "7.2.2": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.2-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.2-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.2-Win32-VC15-x64.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -546,22 +338,6 @@
     }
   ],
   "7.2.20": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.20-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.20-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
     {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.20-Win32-VC15-x64.zip",
       "Arch": "amd64",
@@ -589,22 +365,6 @@
   ],
   "7.2.21": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.21-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.21-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.21-Win32-VC15-x64.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -630,22 +390,6 @@
     }
   ],
   "7.2.22": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.22-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.22-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
     {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.22-Win32-VC15-x64.zip",
       "Arch": "amd64",
@@ -673,22 +417,6 @@
   ],
   "7.2.23": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.23-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.23-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.23-Win32-VC15-x64.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -714,22 +442,6 @@
     }
   ],
   "7.2.24": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.24-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.24-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
     {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.24-Win32-VC15-x64.zip",
       "Arch": "amd64",
@@ -757,22 +469,6 @@
   ],
   "7.2.25": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.25-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.25-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.25-Win32-VC15-x64.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -798,22 +494,6 @@
     }
   ],
   "7.2.26": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.26-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.26-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
     {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.26-Win32-VC15-x64.zip",
       "Arch": "amd64",
@@ -841,22 +521,6 @@
   ],
   "7.2.27": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.27-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.27-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.27-Win32-VC15-x64.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -882,22 +546,6 @@
     }
   ],
   "7.2.28": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.28-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.28-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
     {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.28-Win32-VC15-x64.zip",
       "Arch": "amd64",
@@ -925,22 +573,6 @@
   ],
   "7.2.29": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.29-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.29-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.29-Win32-VC15-x64.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -966,22 +598,6 @@
     }
   ],
   "7.2.3": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.3-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.3-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
     {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.3-Win32-VC15-x64.zip",
       "Arch": "amd64",
@@ -1009,22 +625,6 @@
   ],
   "7.2.30": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.30-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.30-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.30-Win32-VC15-x64.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -1050,22 +650,6 @@
     }
   ],
   "7.2.31": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.31-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.31-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
     {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.31-Win32-VC15-x64.zip",
       "Arch": "amd64",
@@ -1093,22 +677,6 @@
   ],
   "7.2.32": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.32-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.32-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.32-Win32-VC15-x64.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -1135,22 +703,6 @@
   ],
   "7.2.33": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.33-1-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.33-1-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.33-1-Win32-VC15-x64.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -1165,22 +717,6 @@
       "Sum": "",
       "SumType": "",
       "Extra": "vc15"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.33-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.33-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
     },
     {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.33-Win32-VC15-x64.zip",
@@ -1209,22 +745,6 @@
   ],
   "7.2.34": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.34-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.34-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.34-Win32-VC15-x64.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -1250,22 +770,6 @@
     }
   ],
   "7.2.4": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.4-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.4-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
     {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.4-Win32-VC15-x64.zip",
       "Arch": "amd64",
@@ -1293,22 +797,6 @@
   ],
   "7.2.5": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.5-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.5-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.5-Win32-VC15-x64.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -1334,22 +822,6 @@
     }
   ],
   "7.2.6": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.6-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.6-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
     {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.6-Win32-VC15-x64.zip",
       "Arch": "amd64",
@@ -1377,22 +849,6 @@
   ],
   "7.2.7": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.7-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.7-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.7-Win32-VC15-x64.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -1418,22 +874,6 @@
     }
   ],
   "7.2.8": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.8-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.8-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
     {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.8-Win32-VC15-x64.zip",
       "Arch": "amd64",
@@ -1461,22 +901,6 @@
   ],
   "7.2.9": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.9-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.9-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.9-Win32-VC15-x64.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -1502,22 +926,6 @@
     }
   ],
   "7.3.0": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.0-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.0-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
     {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.0-Win32-VC15-x64.zip",
       "Arch": "amd64",
@@ -1545,22 +953,6 @@
   ],
   "7.3.1": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.1-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.1-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.1-Win32-VC15-x64.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -1586,22 +978,6 @@
     }
   ],
   "7.3.10": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.10-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.10-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
     {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.10-Win32-VC15-x64.zip",
       "Arch": "amd64",
@@ -1629,22 +1005,6 @@
   ],
   "7.3.11": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.11-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.11-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.11-Win32-VC15-x64.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -1670,22 +1030,6 @@
     }
   ],
   "7.3.12": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.12-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.12-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
     {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.12-Win32-VC15-x64.zip",
       "Arch": "amd64",
@@ -1713,22 +1057,6 @@
   ],
   "7.3.13": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.13-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.13-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.13-Win32-VC15-x64.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -1754,22 +1082,6 @@
     }
   ],
   "7.3.14": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.14-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.14-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
     {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.14-Win32-VC15-x64.zip",
       "Arch": "amd64",
@@ -1797,22 +1109,6 @@
   ],
   "7.3.15": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.15-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.15-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.15-Win32-VC15-x64.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -1838,22 +1134,6 @@
     }
   ],
   "7.3.16": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.16-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.16-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
     {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.16-Win32-VC15-x64.zip",
       "Arch": "amd64",
@@ -1881,22 +1161,6 @@
   ],
   "7.3.17": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.17-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.17-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.17-Win32-VC15-x64.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -1922,22 +1186,6 @@
     }
   ],
   "7.3.18": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.18-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.18-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
     {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.18-Win32-VC15-x64.zip",
       "Arch": "amd64",
@@ -1965,22 +1213,6 @@
   ],
   "7.3.19": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.19-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.19-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.19-Win32-VC15-x64.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -2006,22 +1238,6 @@
     }
   ],
   "7.3.2": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.2-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.2-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
     {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.2-Win32-VC15-x64.zip",
       "Arch": "amd64",
@@ -2049,22 +1265,6 @@
   ],
   "7.3.20": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.20-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.20-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.20-Win32-VC15-x64.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -2090,22 +1290,6 @@
     }
   ],
   "7.3.21": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.21-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.21-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
     {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.21-Win32-VC15-x64.zip",
       "Arch": "amd64",
@@ -2133,22 +1317,6 @@
   ],
   "7.3.22": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.22-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.22-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.22-Win32-VC15-x64.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -2174,22 +1342,6 @@
     }
   ],
   "7.3.23": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.23-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.23-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
     {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.23-Win32-VC15-x64.zip",
       "Arch": "amd64",
@@ -2217,22 +1369,6 @@
   ],
   "7.3.24": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.24-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.24-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.24-Win32-VC15-x64.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -2258,22 +1394,6 @@
     }
   ],
   "7.3.25": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.25-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.25-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
     {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.25-Win32-VC15-x64.zip",
       "Arch": "amd64",
@@ -2301,22 +1421,6 @@
   ],
   "7.3.26": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.26-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.26-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.26-Win32-VC15-x64.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -2342,22 +1446,6 @@
     }
   ],
   "7.3.27": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.27-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.27-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
     {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.27-Win32-VC15-x64.zip",
       "Arch": "amd64",
@@ -2385,22 +1473,6 @@
   ],
   "7.3.28": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.28-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.28-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.28-Win32-VC15-x64.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -2426,22 +1498,6 @@
     }
   ],
   "7.3.29": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.29-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.29-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
     {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.29-Win32-VC15-x64.zip",
       "Arch": "amd64",
@@ -2469,22 +1525,6 @@
   ],
   "7.3.3": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.3-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.3-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.3-Win32-VC15-x64.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -2510,22 +1550,6 @@
     }
   ],
   "7.3.30": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.30-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.30-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
     {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.30-Win32-VC15-x64.zip",
       "Arch": "amd64",
@@ -2553,22 +1577,6 @@
   ],
   "7.3.31": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.31-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.31-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.31-Win32-VC15-x64.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -2594,22 +1602,6 @@
     }
   ],
   "7.3.32": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.32-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.32-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
     {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.32-Win32-VC15-x64.zip",
       "Arch": "amd64",
@@ -2637,22 +1629,6 @@
   ],
   "7.3.33": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.33-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.33-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.33-Win32-VC15-x64.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -2678,22 +1654,6 @@
     }
   ],
   "7.3.4": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.4-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.4-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
     {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.4-Win32-VC15-x64.zip",
       "Arch": "amd64",
@@ -2721,22 +1681,6 @@
   ],
   "7.3.5": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.5-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.5-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.5-Win32-VC15-x64.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -2762,22 +1706,6 @@
     }
   ],
   "7.3.6": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.6-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.6-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
     {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.6-Win32-VC15-x64.zip",
       "Arch": "amd64",
@@ -2805,22 +1733,6 @@
   ],
   "7.3.7": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.7-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.7-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.7-Win32-VC15-x64.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -2846,22 +1758,6 @@
     }
   ],
   "7.3.8": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.8-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.8-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
     {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.8-Win32-VC15-x64.zip",
       "Arch": "amd64",
@@ -2889,22 +1785,6 @@
   ],
   "7.3.9": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.9-nts-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.9-nts-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.9-Win32-VC15-x64.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -2930,22 +1810,6 @@
     }
   ],
   "7.4.0": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.0-nts-Win32-vc15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.0-nts-Win32-vc15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
     {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.0-Win32-vc15-x64.zip",
       "Arch": "amd64",
@@ -2973,22 +1837,6 @@
   ],
   "7.4.1": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.1-nts-Win32-vc15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.1-nts-Win32-vc15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.1-Win32-vc15-x64.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -3014,22 +1862,6 @@
     }
   ],
   "7.4.10": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.10-nts-Win32-vc15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.10-nts-Win32-vc15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
     {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.10-Win32-vc15-x64.zip",
       "Arch": "amd64",
@@ -3057,22 +1889,6 @@
   ],
   "7.4.11": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.11-nts-Win32-vc15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.11-nts-Win32-vc15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.11-Win32-vc15-x64.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -3098,22 +1914,6 @@
     }
   ],
   "7.4.12": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.12-nts-Win32-vc15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.12-nts-Win32-vc15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
     {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.12-Win32-vc15-x64.zip",
       "Arch": "amd64",
@@ -3141,22 +1941,6 @@
   ],
   "7.4.13": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.13-nts-Win32-vc15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.13-nts-Win32-vc15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.13-Win32-vc15-x64.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -3182,22 +1966,6 @@
     }
   ],
   "7.4.14": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.14-nts-Win32-vc15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.14-nts-Win32-vc15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
     {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.14-Win32-vc15-x64.zip",
       "Arch": "amd64",
@@ -3225,22 +1993,6 @@
   ],
   "7.4.15": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.15-nts-Win32-vc15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.15-nts-Win32-vc15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.15-Win32-vc15-x64.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -3266,22 +2018,6 @@
     }
   ],
   "7.4.16": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.16-nts-Win32-vc15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.16-nts-Win32-vc15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
     {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.16-Win32-vc15-x64.zip",
       "Arch": "amd64",
@@ -3309,22 +2045,6 @@
   ],
   "7.4.18": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.18-nts-Win32-vc15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.18-nts-Win32-vc15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.18-Win32-vc15-x64.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -3350,22 +2070,6 @@
     }
   ],
   "7.4.19": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.19-nts-Win32-vc15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.19-nts-Win32-vc15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
     {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.19-Win32-vc15-x64.zip",
       "Arch": "amd64",
@@ -3393,22 +2097,6 @@
   ],
   "7.4.2": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.2-nts-Win32-vc15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.2-nts-Win32-vc15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.2-Win32-vc15-x64.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -3434,22 +2122,6 @@
     }
   ],
   "7.4.20": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.20-nts-Win32-vc15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.20-nts-Win32-vc15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
     {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.20-Win32-vc15-x64.zip",
       "Arch": "amd64",
@@ -3477,22 +2149,6 @@
   ],
   "7.4.21": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.21-nts-Win32-vc15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.21-nts-Win32-vc15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.21-Win32-vc15-x64.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -3518,22 +2174,6 @@
     }
   ],
   "7.4.22": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.22-nts-Win32-vc15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.22-nts-Win32-vc15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
     {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.22-Win32-vc15-x64.zip",
       "Arch": "amd64",
@@ -3561,22 +2201,6 @@
   ],
   "7.4.23": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.23-nts-Win32-vc15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.23-nts-Win32-vc15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.23-Win32-vc15-x64.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -3602,22 +2226,6 @@
     }
   ],
   "7.4.24": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.24-nts-Win32-vc15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.24-nts-Win32-vc15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
     {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.24-Win32-vc15-x64.zip",
       "Arch": "amd64",
@@ -3645,22 +2253,6 @@
   ],
   "7.4.25": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.25-nts-Win32-vc15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.25-nts-Win32-vc15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.25-Win32-vc15-x64.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -3686,22 +2278,6 @@
     }
   ],
   "7.4.26": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.26-nts-Win32-vc15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.26-nts-Win32-vc15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
     {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.26-Win32-vc15-x64.zip",
       "Arch": "amd64",
@@ -3729,22 +2305,6 @@
   ],
   "7.4.27": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.27-nts-Win32-vc15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.27-nts-Win32-vc15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.27-Win32-vc15-x64.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -3770,22 +2330,6 @@
     }
   ],
   "7.4.28": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.28-nts-Win32-vc15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.28-nts-Win32-vc15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
     {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.28-Win32-vc15-x64.zip",
       "Arch": "amd64",
@@ -3813,22 +2357,6 @@
   ],
   "7.4.29": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.29-nts-Win32-vc15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.29-nts-Win32-vc15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.29-Win32-vc15-x64.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -3854,22 +2382,6 @@
     }
   ],
   "7.4.3": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.3-nts-Win32-vc15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.3-nts-Win32-vc15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
     {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.3-Win32-vc15-x64.zip",
       "Arch": "amd64",
@@ -3897,22 +2409,6 @@
   ],
   "7.4.30": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.30-nts-Win32-vc15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.30-nts-Win32-vc15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.30-Win32-vc15-x64.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -3938,22 +2434,6 @@
     }
   ],
   "7.4.32": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.32-nts-Win32-vc15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.32-nts-Win32-vc15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
     {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.32-Win32-vc15-x64.zip",
       "Arch": "amd64",
@@ -3991,22 +2471,6 @@
   ],
   "7.4.4": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.4-nts-Win32-vc15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.4-nts-Win32-vc15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.4-Win32-vc15-x64.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -4032,22 +2496,6 @@
     }
   ],
   "7.4.5": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.5-nts-Win32-vc15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.5-nts-Win32-vc15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
     {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.5-Win32-vc15-x64.zip",
       "Arch": "amd64",
@@ -4075,22 +2523,6 @@
   ],
   "7.4.6": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.6-nts-Win32-vc15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.6-nts-Win32-vc15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.6-Win32-vc15-x64.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -4116,22 +2548,6 @@
     }
   ],
   "7.4.7": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.7-nts-Win32-vc15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.7-nts-Win32-vc15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
     {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.7-Win32-vc15-x64.zip",
       "Arch": "amd64",
@@ -4159,22 +2575,6 @@
   ],
   "7.4.8": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.8-nts-Win32-vc15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.8-nts-Win32-vc15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.8-Win32-vc15-x64.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -4200,22 +2600,6 @@
     }
   ],
   "7.4.9": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.9-nts-Win32-vc15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.9-nts-Win32-vc15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15$NTS"
-    },
     {
       "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.9-Win32-vc15-x64.zip",
       "Arch": "amd64",
@@ -4243,22 +2627,6 @@
   ],
   "8.2.0": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.0-nts-Win32-vs16-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.0-nts-Win32-vs16-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16$NTS"
-    },
-    {
       "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.0-Win32-vs16-x64.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -4284,22 +2652,6 @@
     }
   ],
   "8.2.1": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.1-nts-Win32-vs16-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.1-nts-Win32-vs16-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16$NTS"
-    },
     {
       "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.1-Win32-vs16-x64.zip",
       "Arch": "amd64",
@@ -4327,22 +2679,6 @@
   ],
   "8.2.10": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.10-nts-Win32-vs16-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.10-nts-Win32-vs16-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16$NTS"
-    },
-    {
       "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.10-Win32-vs16-x64.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -4368,22 +2704,6 @@
     }
   ],
   "8.2.11": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.11-nts-Win32-vs16-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.11-nts-Win32-vs16-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16$NTS"
-    },
     {
       "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.11-Win32-vs16-x64.zip",
       "Arch": "amd64",
@@ -4411,22 +2731,6 @@
   ],
   "8.2.12": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.12-nts-Win32-vs16-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.12-nts-Win32-vs16-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16$NTS"
-    },
-    {
       "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.12-Win32-vs16-x64.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -4452,22 +2756,6 @@
     }
   ],
   "8.2.13": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.13-nts-Win32-vs16-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.13-nts-Win32-vs16-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16$NTS"
-    },
     {
       "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.13-Win32-vs16-x64.zip",
       "Arch": "amd64",
@@ -4495,22 +2783,6 @@
   ],
   "8.2.14": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.14-nts-Win32-vs16-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.14-nts-Win32-vs16-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16$NTS"
-    },
-    {
       "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.14-Win32-vs16-x64.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -4536,22 +2808,6 @@
     }
   ],
   "8.2.15": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.15-nts-Win32-vs16-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.15-nts-Win32-vs16-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16$NTS"
-    },
     {
       "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.15-Win32-vs16-x64.zip",
       "Arch": "amd64",
@@ -4589,22 +2845,6 @@
   ],
   "8.2.2": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.2-nts-Win32-vs16-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.2-nts-Win32-vs16-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16$NTS"
-    },
-    {
       "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.2-Win32-vs16-x64.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -4630,22 +2870,6 @@
     }
   ],
   "8.2.3": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.3-nts-Win32-vs16-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.3-nts-Win32-vs16-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16$NTS"
-    },
     {
       "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.3-Win32-vs16-x64.zip",
       "Arch": "amd64",
@@ -4673,22 +2897,6 @@
   ],
   "8.2.4": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.4-nts-Win32-vs16-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.4-nts-Win32-vs16-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16$NTS"
-    },
-    {
       "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.4-Win32-vs16-x64.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -4714,22 +2922,6 @@
     }
   ],
   "8.2.5": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.5-nts-Win32-vs16-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.5-nts-Win32-vs16-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16$NTS"
-    },
     {
       "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.5-Win32-vs16-x64.zip",
       "Arch": "amd64",
@@ -4757,22 +2949,6 @@
   ],
   "8.2.6": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.6-nts-Win32-vs16-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.6-nts-Win32-vs16-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16$NTS"
-    },
-    {
       "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.6-Win32-vs16-x64.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -4798,22 +2974,6 @@
     }
   ],
   "8.2.7": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.7-nts-Win32-vs16-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.7-nts-Win32-vs16-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16$NTS"
-    },
     {
       "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.7-Win32-vs16-x64.zip",
       "Arch": "amd64",
@@ -4841,22 +3001,6 @@
   ],
   "8.2.8": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.8-nts-Win32-vs16-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.8-nts-Win32-vs16-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16$NTS"
-    },
-    {
       "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.8-Win32-vs16-x64.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -4882,22 +3026,6 @@
     }
   ],
   "8.2.9": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.9-nts-Win32-vs16-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.9-nts-Win32-vs16-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16$NTS"
-    },
     {
       "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.9-Win32-vs16-x64.zip",
       "Arch": "amd64",
@@ -4925,22 +3053,6 @@
   ],
   "8.3.0": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.3.0-nts-Win32-vs16-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.3.0-nts-Win32-vs16-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16$NTS"
-    },
-    {
       "Url": "https://windows.php.net/downloads/releases/archives/php-8.3.0-Win32-vs16-x64.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -4967,22 +3079,6 @@
   ],
   "8.3.1": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.3.1-nts-Win32-vs16-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.3.1-nts-Win32-vs16-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16$NTS"
-    },
-    {
       "Url": "https://windows.php.net/downloads/releases/archives/php-8.3.1-Win32-vs16-x64.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -5008,22 +3104,6 @@
     }
   ],
   "8.3.2": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.3.2-nts-Win32-vs16-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16$NTS"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.3.2-nts-Win32-vs16-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16$NTS"
-    },
     {
       "Url": "https://windows.php.net/downloads/releases/archives/php-8.3.2-Win32-vs16-x64.zip",
       "Arch": "amd64",
