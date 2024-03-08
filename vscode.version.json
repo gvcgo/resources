@@ -10,7 +10,7 @@
     },
     {
       "Url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/1e790d77f81672c49be070e04474901747115651/VSCode-win32-arm64-1.87.1.zip",
-      "Arch": "arm64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "16b881a74711921f87b172009e96836a011b56a3b332857fb1979e11034e993c",
       "SumType": "sha256",
