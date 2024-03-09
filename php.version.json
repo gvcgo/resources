@@ -1,3142 +1,1286 @@
 {
-  "7.2.0": [
+  "php-8.1-build-300": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.0-Win32-VC15-x64.zip",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-300/PHP-Linux-x86_64-PM4.tar.gz",
       "Arch": "amd64",
-      "Os": "windows",
+      "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.0-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-300/PHP-Linux-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://www.php.net/distributions/php-7.2.0.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-300/PHP-MacOS-x86_64-PM4.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
       "Sum": "",
       "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.2.1": [
+      "Extra": ""
+    },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.1-Win32-VC15-x64.zip",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-300/PHP-MacOS-x86_64-PM5.tar.gz",
       "Arch": "amd64",
-      "Os": "windows",
+      "Os": "darwin",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.1-Win32-VC15-x86.zip",
-      "Arch": "386",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-300/PHP-Windows-x64-PM4.zip",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://www.php.net/distributions/php-7.2.1.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-300/PHP-Windows-x64-PM5.zip",
+      "Arch": "amd64",
+      "Os": "windows",
       "Sum": "",
       "SumType": "",
-      "Extra": "src"
+      "Extra": ""
     }
   ],
-  "7.2.10": [
+  "php-8.1-build-307": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.10-Win32-VC15-x64.zip",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-307/PHP-Linux-x86_64-PM4.tar.gz",
       "Arch": "amd64",
-      "Os": "windows",
+      "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.10-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-307/PHP-Linux-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://www.php.net/distributions/php-7.2.10.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-307/PHP-MacOS-x86_64-PM4.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
       "Sum": "",
       "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.2.11": [
+      "Extra": ""
+    },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.11-Win32-VC15-x64.zip",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-307/PHP-MacOS-x86_64-PM5.tar.gz",
       "Arch": "amd64",
-      "Os": "windows",
+      "Os": "darwin",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.11-Win32-VC15-x86.zip",
-      "Arch": "386",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-307/PHP-Windows-x64-PM4.zip",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://www.php.net/distributions/php-7.2.11.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-307/PHP-Windows-x64-PM5.zip",
+      "Arch": "amd64",
+      "Os": "windows",
       "Sum": "",
       "SumType": "",
-      "Extra": "src"
+      "Extra": ""
     }
   ],
-  "7.2.12": [
+  "php-8.1-build-311": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.12-Win32-VC15-x64.zip",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-311/PHP-Linux-x86_64-PM4.tar.gz",
       "Arch": "amd64",
-      "Os": "windows",
+      "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.12-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-311/PHP-Linux-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://www.php.net/distributions/php-7.2.12.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-311/PHP-MacOS-x86_64-PM4.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
       "Sum": "",
       "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.2.13": [
+      "Extra": ""
+    },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.13-Win32-VC15-x64.zip",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-311/PHP-MacOS-x86_64-PM5.tar.gz",
       "Arch": "amd64",
-      "Os": "windows",
+      "Os": "darwin",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.13-Win32-VC15-x86.zip",
-      "Arch": "386",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-311/PHP-Windows-x64-PM4.zip",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://www.php.net/distributions/php-7.2.13.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-311/PHP-Windows-x64-PM5.zip",
+      "Arch": "amd64",
+      "Os": "windows",
       "Sum": "",
       "SumType": "",
-      "Extra": "src"
+      "Extra": ""
     }
   ],
-  "7.2.14": [
+  "php-8.1-build-314": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.14-Win32-VC15-x64.zip",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-314/PHP-Linux-x86_64-PM4.tar.gz",
       "Arch": "amd64",
-      "Os": "windows",
+      "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.14-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-314/PHP-Linux-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://www.php.net/distributions/php-7.2.14.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-314/PHP-MacOS-x86_64-PM4.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
       "Sum": "",
       "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.2.15": [
+      "Extra": ""
+    },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.15-Win32-VC15-x64.zip",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-314/PHP-MacOS-x86_64-PM5.tar.gz",
       "Arch": "amd64",
-      "Os": "windows",
+      "Os": "darwin",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.15-Win32-VC15-x86.zip",
-      "Arch": "386",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-314/PHP-Windows-x64-PM4.zip",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://www.php.net/distributions/php-7.2.15.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-314/PHP-Windows-x64-PM5.zip",
+      "Arch": "amd64",
+      "Os": "windows",
       "Sum": "",
       "SumType": "",
-      "Extra": "src"
+      "Extra": ""
     }
   ],
-  "7.2.16": [
+  "php-8.1-build-325": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.16-Win32-VC15-x64.zip",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-325/PHP-Linux-x86_64-PM4.tar.gz",
       "Arch": "amd64",
-      "Os": "windows",
+      "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.16-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-325/PHP-Linux-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://www.php.net/distributions/php-7.2.16.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-325/PHP-MacOS-x86_64-PM4.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
       "Sum": "",
       "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.2.17": [
+      "Extra": ""
+    },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.17-Win32-VC15-x64.zip",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-325/PHP-MacOS-x86_64-PM5.tar.gz",
       "Arch": "amd64",
-      "Os": "windows",
+      "Os": "darwin",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.17-Win32-VC15-x86.zip",
-      "Arch": "386",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-325/PHP-Windows-x64-PM4.zip",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://www.php.net/distributions/php-7.2.17.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-325/PHP-Windows-x64-PM5.zip",
+      "Arch": "amd64",
+      "Os": "windows",
       "Sum": "",
       "SumType": "",
-      "Extra": "src"
+      "Extra": ""
     }
   ],
-  "7.2.18": [
+  "php-8.1-build-329": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.18-Win32-VC15-x64.zip",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-329/PHP-Linux-x86_64-PM4.tar.gz",
       "Arch": "amd64",
-      "Os": "windows",
+      "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.18-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-329/PHP-Linux-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://www.php.net/distributions/php-7.2.18.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-329/PHP-MacOS-x86_64-PM4.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
       "Sum": "",
       "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.2.19": [
+      "Extra": ""
+    },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.19-Win32-VC15-x64.zip",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-329/PHP-MacOS-x86_64-PM5.tar.gz",
       "Arch": "amd64",
-      "Os": "windows",
+      "Os": "darwin",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.19-Win32-VC15-x86.zip",
-      "Arch": "386",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-329/PHP-Windows-x64-PM4.zip",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://www.php.net/distributions/php-7.2.19.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-329/PHP-Windows-x64-PM5.zip",
+      "Arch": "amd64",
+      "Os": "windows",
       "Sum": "",
       "SumType": "",
-      "Extra": "src"
+      "Extra": ""
     }
   ],
-  "7.2.2": [
+  "php-8.1-build-353": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.2-Win32-VC15-x64.zip",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-353/PHP-Linux-x86_64-PM4.tar.gz",
       "Arch": "amd64",
-      "Os": "windows",
+      "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.2-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-353/PHP-Linux-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://www.php.net/distributions/php-7.2.2.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-353/PHP-MacOS-x86_64-PM4.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
       "Sum": "",
       "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.2.20": [
+      "Extra": ""
+    },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.20-Win32-VC15-x64.zip",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-353/PHP-MacOS-x86_64-PM5.tar.gz",
       "Arch": "amd64",
-      "Os": "windows",
+      "Os": "darwin",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.20-Win32-VC15-x86.zip",
-      "Arch": "386",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-353/PHP-Windows-x64-PM4.zip",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://www.php.net/distributions/php-7.2.20.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-353/PHP-Windows-x64-PM5.zip",
+      "Arch": "amd64",
+      "Os": "windows",
       "Sum": "",
       "SumType": "",
-      "Extra": "src"
+      "Extra": ""
     }
   ],
-  "7.2.21": [
+  "php-8.1-latest": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.21-Win32-VC15-x64.zip",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-latest/PHP-Linux-x86_64-PM4.tar.gz",
       "Arch": "amd64",
-      "Os": "windows",
+      "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.21-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-latest/PHP-Linux-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://www.php.net/distributions/php-7.2.21.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-latest/PHP-MacOS-x86_64-PM4.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
       "Sum": "",
       "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.2.22": [
+      "Extra": ""
+    },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.22-Win32-VC15-x64.zip",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-latest/PHP-MacOS-x86_64-PM5.tar.gz",
       "Arch": "amd64",
-      "Os": "windows",
+      "Os": "darwin",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.22-Win32-VC15-x86.zip",
-      "Arch": "386",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-latest/PHP-Windows-x64-PM4.zip",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://www.php.net/distributions/php-7.2.22.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-latest/PHP-Windows-x64-PM5.zip",
+      "Arch": "amd64",
+      "Os": "windows",
       "Sum": "",
       "SumType": "",
-      "Extra": "src"
+      "Extra": ""
     }
   ],
-  "7.2.23": [
+  "php-8.2-build-301": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.23-Win32-VC15-x64.zip",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-301/PHP-Linux-x86_64-PM4.tar.gz",
       "Arch": "amd64",
-      "Os": "windows",
+      "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.23-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-301/PHP-Linux-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://www.php.net/distributions/php-7.2.23.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-301/PHP-MacOS-x86_64-PM4.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
       "Sum": "",
       "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.2.24": [
+      "Extra": ""
+    },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.24-Win32-VC15-x64.zip",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-301/PHP-MacOS-x86_64-PM5.tar.gz",
       "Arch": "amd64",
-      "Os": "windows",
+      "Os": "darwin",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.24-Win32-VC15-x86.zip",
-      "Arch": "386",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-301/PHP-Windows-x64-PM4.zip",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://www.php.net/distributions/php-7.2.24.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-301/PHP-Windows-x64-PM5.zip",
+      "Arch": "amd64",
+      "Os": "windows",
       "Sum": "",
       "SumType": "",
-      "Extra": "src"
+      "Extra": ""
     }
   ],
-  "7.2.25": [
+  "php-8.2-build-306": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.25-Win32-VC15-x64.zip",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-306/PHP-Linux-x86_64-PM4.tar.gz",
       "Arch": "amd64",
-      "Os": "windows",
+      "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.25-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-306/PHP-Linux-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://www.php.net/distributions/php-7.2.25.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-306/PHP-MacOS-x86_64-PM4.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
       "Sum": "",
       "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.2.26": [
+      "Extra": ""
+    },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.26-Win32-VC15-x64.zip",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-306/PHP-MacOS-x86_64-PM5.tar.gz",
       "Arch": "amd64",
-      "Os": "windows",
+      "Os": "darwin",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.26-Win32-VC15-x86.zip",
-      "Arch": "386",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-306/PHP-Windows-x64-PM4.zip",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://www.php.net/distributions/php-7.2.26.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-306/PHP-Windows-x64-PM5.zip",
+      "Arch": "amd64",
+      "Os": "windows",
       "Sum": "",
       "SumType": "",
-      "Extra": "src"
+      "Extra": ""
     }
   ],
-  "7.2.27": [
+  "php-8.2-build-310": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.27-Win32-VC15-x64.zip",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-310/PHP-Linux-x86_64-PM4.tar.gz",
       "Arch": "amd64",
-      "Os": "windows",
+      "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.27-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-310/PHP-Linux-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://www.php.net/distributions/php-7.2.27.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-310/PHP-MacOS-x86_64-PM4.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
       "Sum": "",
       "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.2.28": [
+      "Extra": ""
+    },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.28-Win32-VC15-x64.zip",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-310/PHP-MacOS-x86_64-PM5.tar.gz",
       "Arch": "amd64",
-      "Os": "windows",
+      "Os": "darwin",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.28-Win32-VC15-x86.zip",
-      "Arch": "386",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-310/PHP-Windows-x64-PM4.zip",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://www.php.net/distributions/php-7.2.28.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-310/PHP-Windows-x64-PM5.zip",
+      "Arch": "amd64",
+      "Os": "windows",
       "Sum": "",
       "SumType": "",
-      "Extra": "src"
+      "Extra": ""
     }
   ],
-  "7.2.29": [
+  "php-8.2-build-315": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.29-Win32-VC15-x64.zip",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-315/PHP-Linux-x86_64-PM4.tar.gz",
       "Arch": "amd64",
-      "Os": "windows",
+      "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.29-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-315/PHP-Linux-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://www.php.net/distributions/php-7.2.29.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-315/PHP-MacOS-x86_64-PM4.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
       "Sum": "",
       "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.2.3": [
+      "Extra": ""
+    },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.3-Win32-VC15-x64.zip",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-315/PHP-MacOS-x86_64-PM5.tar.gz",
       "Arch": "amd64",
-      "Os": "windows",
+      "Os": "darwin",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.3-Win32-VC15-x86.zip",
-      "Arch": "386",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-315/PHP-Windows-x64-PM4.zip",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://www.php.net/distributions/php-7.2.3.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-315/PHP-Windows-x64-PM5.zip",
+      "Arch": "amd64",
+      "Os": "windows",
       "Sum": "",
       "SumType": "",
-      "Extra": "src"
+      "Extra": ""
     }
   ],
-  "7.2.30": [
+  "php-8.2-build-326": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.30-Win32-VC15-x64.zip",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-326/PHP-Linux-x86_64-PM4.tar.gz",
       "Arch": "amd64",
-      "Os": "windows",
+      "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.30-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-326/PHP-Linux-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://www.php.net/distributions/php-7.2.30.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-326/PHP-MacOS-x86_64-PM4.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
       "Sum": "",
       "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.2.31": [
+      "Extra": ""
+    },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.31-Win32-VC15-x64.zip",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-326/PHP-MacOS-x86_64-PM5.tar.gz",
       "Arch": "amd64",
-      "Os": "windows",
+      "Os": "darwin",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.31-Win32-VC15-x86.zip",
-      "Arch": "386",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-326/PHP-Windows-x64-PM4.zip",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://www.php.net/distributions/php-7.2.31.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-326/PHP-Windows-x64-PM5.zip",
+      "Arch": "amd64",
+      "Os": "windows",
       "Sum": "",
       "SumType": "",
-      "Extra": "src"
+      "Extra": ""
     }
   ],
-  "7.2.32": [
+  "php-8.2-build-330": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.32-Win32-VC15-x64.zip",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-330/PHP-Linux-x86_64-PM4.tar.gz",
       "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.32-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
+      "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://www.php.net/distributions/php-7.2.32.tar.gz",
-      "Arch": "all",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-330/PHP-Linux-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.2.33": [
+      "Extra": ""
+    },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.33-1-Win32-VC15-x64.zip",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-330/PHP-MacOS-x86_64-PM4.tar.gz",
       "Arch": "amd64",
-      "Os": "windows",
+      "Os": "darwin",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.33-1-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-330/PHP-MacOS-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.33-Win32-VC15-x64.zip",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-330/PHP-Windows-x64-PM4.zip",
       "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.33-Win32-VC15-x86.zip",
-      "Arch": "386",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-330/PHP-Windows-x64-PM5.zip",
+      "Arch": "amd64",
       "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-7.2.33.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "src"
+      "Extra": ""
     }
   ],
-  "7.2.34": [
+  "php-8.2-build-331": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.34-Win32-VC15-x64.zip",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-331/PHP-Linux-x86_64-PM4.tar.gz",
       "Arch": "amd64",
-      "Os": "windows",
+      "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.34-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-331/PHP-Linux-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://www.php.net/distributions/php-7.2.34.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-331/PHP-MacOS-x86_64-PM4.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
       "Sum": "",
       "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.2.4": [
+      "Extra": ""
+    },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.4-Win32-VC15-x64.zip",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-331/PHP-MacOS-x86_64-PM5.tar.gz",
       "Arch": "amd64",
-      "Os": "windows",
+      "Os": "darwin",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.4-Win32-VC15-x86.zip",
-      "Arch": "386",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-331/PHP-Windows-x64-PM4.zip",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://www.php.net/distributions/php-7.2.4.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-331/PHP-Windows-x64-PM5.zip",
+      "Arch": "amd64",
+      "Os": "windows",
       "Sum": "",
       "SumType": "",
-      "Extra": "src"
+      "Extra": ""
     }
   ],
-  "7.2.5": [
+  "php-8.2-build-344": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.5-Win32-VC15-x64.zip",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-344/PHP-Linux-x86_64-PM4.tar.gz",
       "Arch": "amd64",
-      "Os": "windows",
+      "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.5-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-344/PHP-Linux-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://www.php.net/distributions/php-7.2.5.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-344/PHP-MacOS-x86_64-PM4.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
       "Sum": "",
       "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.2.6": [
+      "Extra": ""
+    },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.6-Win32-VC15-x64.zip",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-344/PHP-MacOS-x86_64-PM5.tar.gz",
       "Arch": "amd64",
-      "Os": "windows",
+      "Os": "darwin",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.6-Win32-VC15-x86.zip",
-      "Arch": "386",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-344/PHP-Windows-x64-PM4.zip",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://www.php.net/distributions/php-7.2.6.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-344/PHP-Windows-x64-PM5.zip",
+      "Arch": "amd64",
+      "Os": "windows",
       "Sum": "",
       "SumType": "",
-      "Extra": "src"
+      "Extra": ""
     }
   ],
-  "7.2.7": [
+  "php-8.2-build-359": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.7-Win32-VC15-x64.zip",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-359/PHP-Linux-x86_64-PM4.tar.gz",
       "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.7-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
+      "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://www.php.net/distributions/php-7.2.7.tar.gz",
-      "Arch": "all",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-359/PHP-Linux-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.2.8": [
+      "Extra": ""
+    },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.8-Win32-VC15-x64.zip",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-359/PHP-Windows-x64-PM4.zip",
       "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.8-Win32-VC15-x86.zip",
-      "Arch": "386",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-359/PHP-Windows-x64-PM5.zip",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-7.2.8.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "src"
+      "Extra": ""
     }
   ],
-  "7.2.9": [
+  "php-8.2-build-360": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.9-Win32-VC15-x64.zip",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-360/PHP-Linux-x86_64-PM4.tar.gz",
       "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.2.9-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-7.2.9.tar.gz",
-      "Arch": "all",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.3.0": [
+      "Extra": ""
+    },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.0-Win32-VC15-x64.zip",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-360/PHP-Linux-x86_64-PM5.tar.gz",
       "Arch": "amd64",
-      "Os": "windows",
+      "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.0-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-360/PHP-MacOS-arm64-PM4.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://www.php.net/distributions/php-7.3.0.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-360/PHP-MacOS-arm64-PM5.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
       "Sum": "",
       "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.3.1": [
+      "Extra": ""
+    },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.1-Win32-VC15-x64.zip",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-360/PHP-MacOS-x86_64-PM4.tar.gz",
       "Arch": "amd64",
-      "Os": "windows",
+      "Os": "darwin",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.1-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-360/PHP-MacOS-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
-    {
-      "Url": "https://www.php.net/distributions/php-7.3.1.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.3.10": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.10-Win32-VC15-x64.zip",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-360/PHP-Windows-x64-PM4.zip",
       "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.10-Win32-VC15-x86.zip",
-      "Arch": "386",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-360/PHP-Windows-x64-PM5.zip",
+      "Arch": "amd64",
       "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-7.3.10.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "src"
+      "Extra": ""
     }
   ],
-  "7.3.11": [
+  "php-8.2-build-361": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.11-Win32-VC15-x64.zip",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-361/PHP-Linux-x86_64-PM4.tar.gz",
       "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.11-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-7.3.11.tar.gz",
-      "Arch": "all",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.3.12": [
+      "Extra": ""
+    },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.12-Win32-VC15-x64.zip",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-361/PHP-Linux-x86_64-PM5.tar.gz",
       "Arch": "amd64",
-      "Os": "windows",
+      "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.12-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-361/PHP-MacOS-arm64-PM4.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://www.php.net/distributions/php-7.3.12.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-361/PHP-MacOS-arm64-PM5.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
       "Sum": "",
       "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.3.13": [
+      "Extra": ""
+    },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.13-Win32-VC15-x64.zip",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-361/PHP-MacOS-x86_64-PM4.tar.gz",
       "Arch": "amd64",
-      "Os": "windows",
+      "Os": "darwin",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.13-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-361/PHP-MacOS-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
-    {
-      "Url": "https://www.php.net/distributions/php-7.3.13.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.3.14": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.14-Win32-VC15-x64.zip",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-361/PHP-Windows-x64-PM4.zip",
       "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.14-Win32-VC15-x86.zip",
-      "Arch": "386",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-361/PHP-Windows-x64-PM5.zip",
+      "Arch": "amd64",
       "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-7.3.14.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "src"
+      "Extra": ""
     }
   ],
-  "7.3.15": [
+  "php-8.2-build-364": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.15-Win32-VC15-x64.zip",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-364/PHP-Linux-x86_64-PM5.tar.gz",
       "Arch": "amd64",
-      "Os": "windows",
+      "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.15-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-364/PHP-MacOS-arm64-PM5.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
-    {
-      "Url": "https://www.php.net/distributions/php-7.3.15.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.3.16": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.16-Win32-VC15-x64.zip",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-364/PHP-MacOS-x86_64-PM5.tar.gz",
       "Arch": "amd64",
-      "Os": "windows",
+      "Os": "darwin",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.16-Win32-VC15-x86.zip",
-      "Arch": "386",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-364/PHP-Windows-x64-PM5.zip",
+      "Arch": "amd64",
       "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-7.3.16.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "src"
+      "Extra": ""
     }
   ],
-  "7.3.17": [
+  "php-8.2-latest": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.17-Win32-VC15-x64.zip",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-latest/PHP-Linux-x86_64-PM5.tar.gz",
       "Arch": "amd64",
-      "Os": "windows",
+      "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.17-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-latest/PHP-MacOS-arm64-PM5.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
-    {
-      "Url": "https://www.php.net/distributions/php-7.3.17.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.3.18": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.18-Win32-VC15-x64.zip",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-latest/PHP-MacOS-x86_64-PM5.tar.gz",
       "Arch": "amd64",
-      "Os": "windows",
+      "Os": "darwin",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.18-Win32-VC15-x86.zip",
-      "Arch": "386",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-latest/PHP-Windows-x64-PM5.zip",
+      "Arch": "amd64",
       "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-7.3.18.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "src"
+      "Extra": ""
     }
   ],
-  "7.3.19": [
+  "php-8.3-build-324": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.19-Win32-VC15-x64.zip",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-build-324/PHP-Linux-x86_64-PM5.tar.gz",
       "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.19-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-7.3.19.tar.gz",
-      "Arch": "all",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.3.2": [
+      "Extra": ""
+    },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.2-Win32-VC15-x64.zip",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-build-324/PHP-MacOS-x86_64-PM5.tar.gz",
       "Arch": "amd64",
-      "Os": "windows",
+      "Os": "darwin",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.2-Win32-VC15-x86.zip",
-      "Arch": "386",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-build-324/PHP-Windows-x64-PM5.zip",
+      "Arch": "amd64",
       "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-7.3.2.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "src"
+      "Extra": ""
     }
   ],
-  "7.3.20": [
+  "php-8.3-build-328": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.20-Win32-VC15-x64.zip",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-build-328/PHP-Linux-x86_64-PM5.tar.gz",
       "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.20-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-7.3.20.tar.gz",
-      "Arch": "all",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.3.21": [
+      "Extra": ""
+    },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.21-Win32-VC15-x64.zip",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-build-328/PHP-MacOS-x86_64-PM5.tar.gz",
       "Arch": "amd64",
-      "Os": "windows",
+      "Os": "darwin",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.21-Win32-VC15-x86.zip",
-      "Arch": "386",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-build-328/PHP-Windows-x64-PM5.zip",
+      "Arch": "amd64",
       "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-7.3.21.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "src"
+      "Extra": ""
     }
   ],
-  "7.3.22": [
+  "php-8.3-build-343": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.22-Win32-VC15-x64.zip",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-build-343/PHP-Linux-x86_64-PM5.tar.gz",
       "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.22-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-7.3.22.tar.gz",
-      "Arch": "all",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.3.23": [
+      "Extra": ""
+    },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.23-Win32-VC15-x64.zip",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-build-343/PHP-MacOS-x86_64-PM5.tar.gz",
       "Arch": "amd64",
-      "Os": "windows",
+      "Os": "darwin",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.23-Win32-VC15-x86.zip",
-      "Arch": "386",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-build-343/PHP-Windows-x64-PM5.zip",
+      "Arch": "amd64",
       "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-7.3.23.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "src"
+      "Extra": ""
     }
   ],
-  "7.3.24": [
+  "php-8.3-build-369": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.24-Win32-VC15-x64.zip",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-build-369/PHP-Linux-x86_64-PM5.tar.gz",
       "Arch": "amd64",
-      "Os": "windows",
+      "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.24-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-build-369/PHP-MacOS-arm64-PM5.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
-    {
-      "Url": "https://www.php.net/distributions/php-7.3.24.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.3.25": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.25-Win32-VC15-x64.zip",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-build-369/PHP-MacOS-x86_64-PM5.tar.gz",
       "Arch": "amd64",
-      "Os": "windows",
+      "Os": "darwin",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.25-Win32-VC15-x86.zip",
-      "Arch": "386",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-build-369/PHP-Windows-x64-PM5.zip",
+      "Arch": "amd64",
       "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-7.3.25.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "src"
+      "Extra": ""
     }
   ],
-  "7.3.26": [
+  "php-8.3-latest": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.26-Win32-VC15-x64.zip",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-latest/PHP-Linux-x86_64-PM5.tar.gz",
       "Arch": "amd64",
-      "Os": "windows",
+      "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.26-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-latest/PHP-MacOS-arm64-PM5.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
-    {
-      "Url": "https://www.php.net/distributions/php-7.3.26.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.3.27": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.27-Win32-VC15-x64.zip",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-latest/PHP-MacOS-x86_64-PM5.tar.gz",
       "Arch": "amd64",
-      "Os": "windows",
+      "Os": "darwin",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.27-Win32-VC15-x86.zip",
-      "Arch": "386",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-latest/PHP-Windows-x64-PM5.zip",
+      "Arch": "amd64",
       "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-7.3.27.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "src"
+      "Extra": ""
     }
   ],
-  "7.3.28": [
+  "php-8.3-preview-build-308": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.28-Win32-VC15-x64.zip",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-preview-build-308/PHP-Linux-x86_64-PM5.tar.gz",
       "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.28-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-7.3.28.tar.gz",
-      "Arch": "all",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.3.29": [
+      "Extra": ""
+    },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.29-Win32-VC15-x64.zip",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-preview-build-308/PHP-MacOS-x86_64-PM5.tar.gz",
       "Arch": "amd64",
-      "Os": "windows",
+      "Os": "darwin",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.29-Win32-VC15-x86.zip",
-      "Arch": "386",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-preview-build-308/PHP-Windows-x64-PM5.zip",
+      "Arch": "amd64",
       "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-7.3.29.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "src"
+      "Extra": ""
     }
   ],
-  "7.3.3": [
+  "php-8.3-preview-build-309": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.3-Win32-VC15-x64.zip",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-preview-build-309/PHP-Linux-x86_64-PM5.tar.gz",
       "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.3-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-7.3.3.tar.gz",
-      "Arch": "all",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.3.30": [
+      "Extra": ""
+    },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.30-Win32-VC15-x64.zip",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-preview-build-309/PHP-MacOS-x86_64-PM5.tar.gz",
       "Arch": "amd64",
-      "Os": "windows",
+      "Os": "darwin",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.30-Win32-VC15-x86.zip",
-      "Arch": "386",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-preview-build-309/PHP-Windows-x64-PM5.zip",
+      "Arch": "amd64",
       "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-7.3.30.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "src"
+      "Extra": ""
     }
   ],
-  "7.3.31": [
+  "php-8.3-preview-build-316": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.31-Win32-VC15-x64.zip",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-preview-build-316/PHP-Linux-x86_64-PM5.tar.gz",
       "Arch": "amd64",
-      "Os": "windows",
+      "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.31-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-preview-build-316/PHP-MacOS-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://www.php.net/distributions/php-7.3.31.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-preview-build-316/PHP-Windows-x64-PM5.zip",
+      "Arch": "amd64",
+      "Os": "windows",
       "Sum": "",
       "SumType": "",
-      "Extra": "src"
+      "Extra": ""
     }
   ],
-  "7.3.32": [
+  "php-8.3-preview-latest": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.32-Win32-VC15-x64.zip",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-preview-latest/PHP-Linux-x86_64-PM5.tar.gz",
       "Arch": "amd64",
-      "Os": "windows",
+      "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.32-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-preview-latest/PHP-MacOS-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
       "Sum": "",
       "SumType": "",
-      "Extra": "vc15"
+      "Extra": ""
     },
-    {
-      "Url": "https://www.php.net/distributions/php-7.3.32.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.3.33": [
     {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.33-Win32-VC15-x64.zip",
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-preview-latest/PHP-Windows-x64-PM5.zip",
       "Arch": "amd64",
       "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.33-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-7.3.33.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.3.4": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.4-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.4-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-7.3.4.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.3.5": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.5-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.5-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-7.3.5.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.3.6": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.6-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.6-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-7.3.6.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.3.7": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.7-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.7-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-7.3.7.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.3.8": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.8-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.8-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-7.3.8.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.3.9": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.9-Win32-VC15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.3.9-Win32-VC15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-7.3.9.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.4.0": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.0-Win32-vc15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.0-Win32-vc15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-7.4.0.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.4.1": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.1-Win32-vc15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.1-Win32-vc15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-7.4.1.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.4.10": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.10-Win32-vc15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.10-Win32-vc15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-7.4.10.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.4.11": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.11-Win32-vc15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.11-Win32-vc15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-7.4.11.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.4.12": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.12-Win32-vc15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.12-Win32-vc15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-7.4.12.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.4.13": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.13-Win32-vc15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.13-Win32-vc15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-7.4.13.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.4.14": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.14-Win32-vc15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.14-Win32-vc15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-7.4.14.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.4.15": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.15-Win32-vc15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.15-Win32-vc15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-7.4.15.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.4.16": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.16-Win32-vc15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.16-Win32-vc15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-7.4.16.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.4.18": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.18-Win32-vc15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.18-Win32-vc15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-7.4.18.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.4.19": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.19-Win32-vc15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.19-Win32-vc15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-7.4.19.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.4.2": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.2-Win32-vc15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.2-Win32-vc15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-7.4.2.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.4.20": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.20-Win32-vc15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.20-Win32-vc15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-7.4.20.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.4.21": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.21-Win32-vc15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.21-Win32-vc15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-7.4.21.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.4.22": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.22-Win32-vc15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.22-Win32-vc15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-7.4.22.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.4.23": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.23-Win32-vc15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.23-Win32-vc15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-7.4.23.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.4.24": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.24-Win32-vc15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.24-Win32-vc15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-7.4.24.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.4.25": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.25-Win32-vc15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.25-Win32-vc15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-7.4.25.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.4.26": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.26-Win32-vc15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.26-Win32-vc15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-7.4.26.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.4.27": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.27-Win32-vc15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.27-Win32-vc15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-7.4.27.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.4.28": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.28-Win32-vc15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.28-Win32-vc15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-7.4.28.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.4.29": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.29-Win32-vc15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.29-Win32-vc15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-7.4.29.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.4.3": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.3-Win32-vc15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.3-Win32-vc15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-7.4.3.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.4.30": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.30-Win32-vc15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.30-Win32-vc15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-7.4.30.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.4.32": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.32-Win32-vc15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.32-Win32-vc15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-7.4.32.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.4.33": [
-    {
-      "Url": "https://www.php.net/distributions/php-7.4.33.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.4.4": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.4-Win32-vc15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.4-Win32-vc15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-7.4.4.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.4.5": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.5-Win32-vc15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.5-Win32-vc15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-7.4.5.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.4.6": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.6-Win32-vc15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.6-Win32-vc15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-7.4.6.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.4.7": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.7-Win32-vc15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.7-Win32-vc15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-7.4.7.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.4.8": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.8-Win32-vc15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.8-Win32-vc15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-7.4.8.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "7.4.9": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.9-Win32-vc15-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-7.4.9-Win32-vc15-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vc15"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-7.4.9.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "8.2.0": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.0-Win32-vs16-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.0-Win32-vs16-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-8.2.0.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "8.2.1": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.1-Win32-vs16-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.1-Win32-vs16-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-8.2.1.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "8.2.10": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.10-Win32-vs16-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.10-Win32-vs16-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-8.2.10.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "8.2.11": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.11-Win32-vs16-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.11-Win32-vs16-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-8.2.11.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "8.2.12": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.12-Win32-vs16-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.12-Win32-vs16-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-8.2.12.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "8.2.13": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.13-Win32-vs16-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.13-Win32-vs16-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-8.2.13.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "8.2.14": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.14-Win32-vs16-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.14-Win32-vs16-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-8.2.14.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "8.2.15": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.15-Win32-vs16-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.15-Win32-vs16-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-8.2.15.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "8.2.16": [
-    {
-      "Url": "https://www.php.net/distributions/php-8.2.16.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "8.2.2": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.2-Win32-vs16-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.2-Win32-vs16-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-8.2.2.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "8.2.3": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.3-Win32-vs16-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.3-Win32-vs16-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-8.2.3.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "8.2.4": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.4-Win32-vs16-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.4-Win32-vs16-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-8.2.4.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "8.2.5": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.5-Win32-vs16-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.5-Win32-vs16-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-8.2.5.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "8.2.6": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.6-Win32-vs16-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.6-Win32-vs16-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-8.2.6.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "8.2.7": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.7-Win32-vs16-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.7-Win32-vs16-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-8.2.7.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "8.2.8": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.8-Win32-vs16-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.8-Win32-vs16-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-8.2.8.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "8.2.9": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.9-Win32-vs16-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.2.9-Win32-vs16-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-8.2.9.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "8.3.0": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.3.0-Win32-vs16-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.3.0-Win32-vs16-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-8.3.0.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "8.3.1": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.3.1-Win32-vs16-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.3.1-Win32-vs16-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-8.3.1.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "8.3.2": [
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.3.2-Win32-vs16-x64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16"
-    },
-    {
-      "Url": "https://windows.php.net/downloads/releases/archives/php-8.3.2-Win32-vs16-x86.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "vs16"
-    },
-    {
-      "Url": "https://www.php.net/distributions/php-8.3.2.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": "src"
-    }
-  ],
-  "8.3.3": [
-    {
-      "Url": "https://www.php.net/distributions/php-8.3.3.tar.gz",
-      "Arch": "all",
-      "Os": "linux",
       "Sum": "",
       "SumType": "",
-      "Extra": "src"
+      "Extra": ""
     }
   ]
 }
