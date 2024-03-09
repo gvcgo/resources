@@ -18,7 +18,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v22.1/protoc-22.1-linux-aarch_64.zip",
-      "Arch": "",
+      "Arch": "arm64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -26,7 +26,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v22.1/protoc-22.1-linux-ppcle_64.zip",
-      "Arch": "",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -34,7 +34,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v22.1/protoc-22.1-linux-s390_64.zip",
-      "Arch": "",
+      "Arch": "s390x",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -58,7 +58,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v22.1/protoc-22.1-osx-aarch_64.zip",
-      "Arch": "",
+      "Arch": "arm64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -66,7 +66,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v22.1/protoc-22.1-osx-universal_binary.zip",
-      "Arch": "",
+      "Arch": "universal",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -116,7 +116,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v22.2/protoc-22.2-linux-aarch_64.zip",
-      "Arch": "",
+      "Arch": "arm64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -124,7 +124,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v22.2/protoc-22.2-linux-ppcle_64.zip",
-      "Arch": "",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -132,7 +132,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v22.2/protoc-22.2-linux-s390_64.zip",
-      "Arch": "",
+      "Arch": "s390x",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -156,7 +156,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v22.2/protoc-22.2-osx-aarch_64.zip",
-      "Arch": "",
+      "Arch": "arm64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -164,7 +164,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v22.2/protoc-22.2-osx-universal_binary.zip",
-      "Arch": "",
+      "Arch": "universal",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -214,7 +214,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v22.3/protoc-22.3-linux-aarch_64.zip",
-      "Arch": "",
+      "Arch": "arm64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -222,7 +222,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v22.3/protoc-22.3-linux-ppcle_64.zip",
-      "Arch": "",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -230,7 +230,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v22.3/protoc-22.3-linux-s390_64.zip",
-      "Arch": "",
+      "Arch": "s390x",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -254,7 +254,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v22.3/protoc-22.3-osx-aarch_64.zip",
-      "Arch": "",
+      "Arch": "arm64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -262,7 +262,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v22.3/protoc-22.3-osx-universal_binary.zip",
-      "Arch": "",
+      "Arch": "universal",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -312,7 +312,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v22.4/protoc-22.4-linux-aarch_64.zip",
-      "Arch": "",
+      "Arch": "arm64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -320,7 +320,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v22.4/protoc-22.4-linux-ppcle_64.zip",
-      "Arch": "",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -328,7 +328,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v22.4/protoc-22.4-linux-s390_64.zip",
-      "Arch": "",
+      "Arch": "s390x",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -352,7 +352,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v22.4/protoc-22.4-osx-aarch_64.zip",
-      "Arch": "",
+      "Arch": "arm64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -360,7 +360,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v22.4/protoc-22.4-osx-universal_binary.zip",
-      "Arch": "",
+      "Arch": "universal",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -410,7 +410,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v22.5/protoc-22.5-linux-aarch_64.zip",
-      "Arch": "",
+      "Arch": "arm64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -418,7 +418,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v22.5/protoc-22.5-linux-ppcle_64.zip",
-      "Arch": "",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -426,7 +426,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v22.5/protoc-22.5-linux-s390_64.zip",
-      "Arch": "",
+      "Arch": "s390x",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -450,7 +450,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v22.5/protoc-22.5-osx-aarch_64.zip",
-      "Arch": "",
+      "Arch": "arm64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -458,7 +458,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v22.5/protoc-22.5-osx-universal_binary.zip",
-      "Arch": "",
+      "Arch": "universal",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -508,7 +508,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v23.0/protoc-23.0-linux-aarch_64.zip",
-      "Arch": "",
+      "Arch": "arm64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -516,7 +516,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v23.0/protoc-23.0-linux-ppcle_64.zip",
-      "Arch": "",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -524,7 +524,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v23.0/protoc-23.0-linux-s390_64.zip",
-      "Arch": "",
+      "Arch": "s390x",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -548,7 +548,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v23.0/protoc-23.0-osx-aarch_64.zip",
-      "Arch": "",
+      "Arch": "arm64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -556,7 +556,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v23.0/protoc-23.0-osx-universal_binary.zip",
-      "Arch": "",
+      "Arch": "universal",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -606,7 +606,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v23.0-rc1/protoc-23.0-rc-1-linux-aarch_64.zip",
-      "Arch": "",
+      "Arch": "arm64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -614,7 +614,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v23.0-rc1/protoc-23.0-rc-1-linux-ppcle_64.zip",
-      "Arch": "",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -622,7 +622,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v23.0-rc1/protoc-23.0-rc-1-linux-s390_64.zip",
-      "Arch": "",
+      "Arch": "s390x",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -646,7 +646,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v23.0-rc1/protoc-23.0-rc-1-osx-aarch_64.zip",
-      "Arch": "",
+      "Arch": "arm64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -654,7 +654,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v23.0-rc1/protoc-23.0-rc-1-osx-universal_binary.zip",
-      "Arch": "",
+      "Arch": "universal",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -704,7 +704,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v23.0-rc2/protoc-23.0-rc-2-linux-aarch_64.zip",
-      "Arch": "",
+      "Arch": "arm64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -712,7 +712,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v23.0-rc2/protoc-23.0-rc-2-linux-ppcle_64.zip",
-      "Arch": "",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -720,7 +720,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v23.0-rc2/protoc-23.0-rc-2-linux-s390_64.zip",
-      "Arch": "",
+      "Arch": "s390x",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -744,7 +744,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v23.0-rc2/protoc-23.0-rc-2-osx-aarch_64.zip",
-      "Arch": "",
+      "Arch": "arm64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -752,7 +752,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v23.0-rc2/protoc-23.0-rc-2-osx-universal_binary.zip",
-      "Arch": "",
+      "Arch": "universal",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -802,7 +802,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v23.0-rc3/protoc-23.0-rc-3-linux-aarch_64.zip",
-      "Arch": "",
+      "Arch": "arm64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -810,7 +810,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v23.0-rc3/protoc-23.0-rc-3-linux-ppcle_64.zip",
-      "Arch": "",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -818,7 +818,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v23.0-rc3/protoc-23.0-rc-3-linux-s390_64.zip",
-      "Arch": "",
+      "Arch": "s390x",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -842,7 +842,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v23.0-rc3/protoc-23.0-rc-3-osx-aarch_64.zip",
-      "Arch": "",
+      "Arch": "arm64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -850,7 +850,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v23.0-rc3/protoc-23.0-rc-3-osx-universal_binary.zip",
-      "Arch": "",
+      "Arch": "universal",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -900,7 +900,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v23.1/protoc-23.1-linux-aarch_64.zip",
-      "Arch": "",
+      "Arch": "arm64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -908,7 +908,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v23.1/protoc-23.1-linux-ppcle_64.zip",
-      "Arch": "",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -916,7 +916,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v23.1/protoc-23.1-linux-s390_64.zip",
-      "Arch": "",
+      "Arch": "s390x",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -940,7 +940,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v23.1/protoc-23.1-osx-aarch_64.zip",
-      "Arch": "",
+      "Arch": "arm64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -948,7 +948,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v23.1/protoc-23.1-osx-universal_binary.zip",
-      "Arch": "",
+      "Arch": "universal",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -998,7 +998,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v23.2/protoc-23.2-linux-aarch_64.zip",
-      "Arch": "",
+      "Arch": "arm64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1006,7 +1006,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v23.2/protoc-23.2-linux-ppcle_64.zip",
-      "Arch": "",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1014,7 +1014,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v23.2/protoc-23.2-linux-s390_64.zip",
-      "Arch": "",
+      "Arch": "s390x",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1038,7 +1038,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v23.2/protoc-23.2-osx-aarch_64.zip",
-      "Arch": "",
+      "Arch": "arm64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -1046,7 +1046,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v23.2/protoc-23.2-osx-universal_binary.zip",
-      "Arch": "",
+      "Arch": "universal",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -1096,7 +1096,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v23.3/protoc-23.3-linux-aarch_64.zip",
-      "Arch": "",
+      "Arch": "arm64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1104,7 +1104,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v23.3/protoc-23.3-linux-ppcle_64.zip",
-      "Arch": "",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1112,7 +1112,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v23.3/protoc-23.3-linux-s390_64.zip",
-      "Arch": "",
+      "Arch": "s390x",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1136,7 +1136,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v23.3/protoc-23.3-osx-aarch_64.zip",
-      "Arch": "",
+      "Arch": "arm64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -1144,7 +1144,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v23.3/protoc-23.3-osx-universal_binary.zip",
-      "Arch": "",
+      "Arch": "universal",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -1194,7 +1194,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v23.4/protoc-23.4-linux-aarch_64.zip",
-      "Arch": "",
+      "Arch": "arm64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1202,7 +1202,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v23.4/protoc-23.4-linux-ppcle_64.zip",
-      "Arch": "",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1210,7 +1210,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v23.4/protoc-23.4-linux-s390_64.zip",
-      "Arch": "",
+      "Arch": "s390x",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1234,7 +1234,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v23.4/protoc-23.4-osx-aarch_64.zip",
-      "Arch": "",
+      "Arch": "arm64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -1242,7 +1242,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v23.4/protoc-23.4-osx-universal_binary.zip",
-      "Arch": "",
+      "Arch": "universal",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -1292,7 +1292,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v24.0/protoc-24.0-linux-aarch_64.zip",
-      "Arch": "",
+      "Arch": "arm64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1300,7 +1300,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v24.0/protoc-24.0-linux-ppcle_64.zip",
-      "Arch": "",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1308,7 +1308,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v24.0/protoc-24.0-linux-s390_64.zip",
-      "Arch": "",
+      "Arch": "s390x",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1332,7 +1332,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v24.0/protoc-24.0-osx-aarch_64.zip",
-      "Arch": "",
+      "Arch": "arm64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -1340,7 +1340,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v24.0/protoc-24.0-osx-universal_binary.zip",
-      "Arch": "",
+      "Arch": "universal",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -1390,7 +1390,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v24.0-rc1/protoc-24.0-rc-1-linux-aarch_64.zip",
-      "Arch": "",
+      "Arch": "arm64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1398,7 +1398,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v24.0-rc1/protoc-24.0-rc-1-linux-ppcle_64.zip",
-      "Arch": "",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1406,7 +1406,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v24.0-rc1/protoc-24.0-rc-1-linux-s390_64.zip",
-      "Arch": "",
+      "Arch": "s390x",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1430,7 +1430,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v24.0-rc1/protoc-24.0-rc-1-osx-aarch_64.zip",
-      "Arch": "",
+      "Arch": "arm64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -1438,7 +1438,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v24.0-rc1/protoc-24.0-rc-1-osx-universal_binary.zip",
-      "Arch": "",
+      "Arch": "universal",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -1488,7 +1488,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v24.0-rc2/protoc-24.0-rc-2-linux-aarch_64.zip",
-      "Arch": "",
+      "Arch": "arm64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1496,7 +1496,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v24.0-rc2/protoc-24.0-rc-2-linux-ppcle_64.zip",
-      "Arch": "",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1504,7 +1504,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v24.0-rc2/protoc-24.0-rc-2-linux-s390_64.zip",
-      "Arch": "",
+      "Arch": "s390x",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1528,7 +1528,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v24.0-rc2/protoc-24.0-rc-2-osx-aarch_64.zip",
-      "Arch": "",
+      "Arch": "arm64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -1536,7 +1536,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v24.0-rc2/protoc-24.0-rc-2-osx-universal_binary.zip",
-      "Arch": "",
+      "Arch": "universal",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -1586,7 +1586,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v24.0-rc3/protoc-24.0-rc-3-linux-aarch_64.zip",
-      "Arch": "",
+      "Arch": "arm64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1594,7 +1594,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v24.0-rc3/protoc-24.0-rc-3-linux-ppcle_64.zip",
-      "Arch": "",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1602,7 +1602,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v24.0-rc3/protoc-24.0-rc-3-linux-s390_64.zip",
-      "Arch": "",
+      "Arch": "s390x",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1626,7 +1626,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v24.0-rc3/protoc-24.0-rc-3-osx-aarch_64.zip",
-      "Arch": "",
+      "Arch": "arm64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -1634,7 +1634,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v24.0-rc3/protoc-24.0-rc-3-osx-universal_binary.zip",
-      "Arch": "",
+      "Arch": "universal",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -1684,7 +1684,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v24.1/protoc-24.1-linux-aarch_64.zip",
-      "Arch": "",
+      "Arch": "arm64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1692,7 +1692,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v24.1/protoc-24.1-linux-ppcle_64.zip",
-      "Arch": "",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1700,7 +1700,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v24.1/protoc-24.1-linux-s390_64.zip",
-      "Arch": "",
+      "Arch": "s390x",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1724,7 +1724,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v24.1/protoc-24.1-osx-aarch_64.zip",
-      "Arch": "",
+      "Arch": "arm64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -1732,7 +1732,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v24.1/protoc-24.1-osx-universal_binary.zip",
-      "Arch": "",
+      "Arch": "universal",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -1782,7 +1782,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v24.2/protoc-24.2-linux-aarch_64.zip",
-      "Arch": "",
+      "Arch": "arm64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1790,7 +1790,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v24.2/protoc-24.2-linux-ppcle_64.zip",
-      "Arch": "",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1798,7 +1798,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v24.2/protoc-24.2-linux-s390_64.zip",
-      "Arch": "",
+      "Arch": "s390x",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1822,7 +1822,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v24.2/protoc-24.2-osx-aarch_64.zip",
-      "Arch": "",
+      "Arch": "arm64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -1830,7 +1830,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v24.2/protoc-24.2-osx-universal_binary.zip",
-      "Arch": "",
+      "Arch": "universal",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -1880,7 +1880,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v24.3/protoc-24.3-linux-aarch_64.zip",
-      "Arch": "",
+      "Arch": "arm64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1888,7 +1888,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v24.3/protoc-24.3-linux-ppcle_64.zip",
-      "Arch": "",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1896,7 +1896,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v24.3/protoc-24.3-linux-s390_64.zip",
-      "Arch": "",
+      "Arch": "s390x",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1920,7 +1920,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v24.3/protoc-24.3-osx-aarch_64.zip",
-      "Arch": "",
+      "Arch": "arm64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -1928,7 +1928,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v24.3/protoc-24.3-osx-universal_binary.zip",
-      "Arch": "",
+      "Arch": "universal",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -1978,7 +1978,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v24.4/protoc-24.4-linux-aarch_64.zip",
-      "Arch": "",
+      "Arch": "arm64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1986,7 +1986,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v24.4/protoc-24.4-linux-ppcle_64.zip",
-      "Arch": "",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1994,7 +1994,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v24.4/protoc-24.4-linux-s390_64.zip",
-      "Arch": "",
+      "Arch": "s390x",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -2018,7 +2018,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v24.4/protoc-24.4-osx-aarch_64.zip",
-      "Arch": "",
+      "Arch": "arm64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -2026,7 +2026,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v24.4/protoc-24.4-osx-universal_binary.zip",
-      "Arch": "",
+      "Arch": "universal",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -2076,7 +2076,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v25.0/protoc-25.0-linux-aarch_64.zip",
-      "Arch": "",
+      "Arch": "arm64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -2084,7 +2084,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v25.0/protoc-25.0-linux-ppcle_64.zip",
-      "Arch": "",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -2092,7 +2092,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v25.0/protoc-25.0-linux-s390_64.zip",
-      "Arch": "",
+      "Arch": "s390x",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -2116,7 +2116,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v25.0/protoc-25.0-osx-aarch_64.zip",
-      "Arch": "",
+      "Arch": "arm64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -2124,7 +2124,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v25.0/protoc-25.0-osx-universal_binary.zip",
-      "Arch": "",
+      "Arch": "universal",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -2174,7 +2174,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v25.0-rc1/protoc-25.0-rc-1-linux-aarch_64.zip",
-      "Arch": "",
+      "Arch": "arm64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -2182,7 +2182,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v25.0-rc1/protoc-25.0-rc-1-linux-ppcle_64.zip",
-      "Arch": "",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -2190,7 +2190,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v25.0-rc1/protoc-25.0-rc-1-linux-s390_64.zip",
-      "Arch": "",
+      "Arch": "s390x",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -2214,7 +2214,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v25.0-rc1/protoc-25.0-rc-1-osx-aarch_64.zip",
-      "Arch": "",
+      "Arch": "arm64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -2222,7 +2222,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v25.0-rc1/protoc-25.0-rc-1-osx-universal_binary.zip",
-      "Arch": "",
+      "Arch": "universal",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -2272,7 +2272,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v25.0-rc2/protoc-25.0-rc-2-linux-aarch_64.zip",
-      "Arch": "",
+      "Arch": "arm64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -2280,7 +2280,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v25.0-rc2/protoc-25.0-rc-2-linux-ppcle_64.zip",
-      "Arch": "",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -2288,7 +2288,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v25.0-rc2/protoc-25.0-rc-2-linux-s390_64.zip",
-      "Arch": "",
+      "Arch": "s390x",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -2312,7 +2312,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v25.0-rc2/protoc-25.0-rc-2-osx-aarch_64.zip",
-      "Arch": "",
+      "Arch": "arm64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -2320,7 +2320,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v25.0-rc2/protoc-25.0-rc-2-osx-universal_binary.zip",
-      "Arch": "",
+      "Arch": "universal",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -2370,7 +2370,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v25.1/protoc-25.1-linux-aarch_64.zip",
-      "Arch": "",
+      "Arch": "arm64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -2378,7 +2378,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v25.1/protoc-25.1-linux-ppcle_64.zip",
-      "Arch": "",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -2386,7 +2386,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v25.1/protoc-25.1-linux-s390_64.zip",
-      "Arch": "",
+      "Arch": "s390x",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -2410,7 +2410,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v25.1/protoc-25.1-osx-aarch_64.zip",
-      "Arch": "",
+      "Arch": "arm64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -2418,7 +2418,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v25.1/protoc-25.1-osx-universal_binary.zip",
-      "Arch": "",
+      "Arch": "universal",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -2468,7 +2468,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v25.2/protoc-25.2-linux-aarch_64.zip",
-      "Arch": "",
+      "Arch": "arm64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -2476,7 +2476,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v25.2/protoc-25.2-linux-ppcle_64.zip",
-      "Arch": "",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -2484,7 +2484,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v25.2/protoc-25.2-linux-s390_64.zip",
-      "Arch": "",
+      "Arch": "s390x",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -2508,7 +2508,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v25.2/protoc-25.2-osx-aarch_64.zip",
-      "Arch": "",
+      "Arch": "arm64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -2516,7 +2516,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v25.2/protoc-25.2-osx-universal_binary.zip",
-      "Arch": "",
+      "Arch": "universal",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -2566,7 +2566,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v25.3/protoc-25.3-linux-aarch_64.zip",
-      "Arch": "",
+      "Arch": "arm64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -2574,7 +2574,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v25.3/protoc-25.3-linux-ppcle_64.zip",
-      "Arch": "",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -2582,7 +2582,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v25.3/protoc-25.3-linux-s390_64.zip",
-      "Arch": "",
+      "Arch": "s390x",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -2606,7 +2606,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v25.3/protoc-25.3-osx-aarch_64.zip",
-      "Arch": "",
+      "Arch": "arm64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -2614,7 +2614,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v25.3/protoc-25.3-osx-universal_binary.zip",
-      "Arch": "",
+      "Arch": "universal",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -2664,7 +2664,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v26.0-rc1/protoc-26.0-rc-1-linux-aarch_64.zip",
-      "Arch": "",
+      "Arch": "arm64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -2672,7 +2672,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v26.0-rc1/protoc-26.0-rc-1-linux-ppcle_64.zip",
-      "Arch": "",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -2680,7 +2680,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v26.0-rc1/protoc-26.0-rc-1-linux-s390_64.zip",
-      "Arch": "",
+      "Arch": "s390x",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -2704,7 +2704,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v26.0-rc1/protoc-26.0-rc-1-osx-aarch_64.zip",
-      "Arch": "",
+      "Arch": "arm64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -2712,7 +2712,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v26.0-rc1/protoc-26.0-rc-1-osx-universal_binary.zip",
-      "Arch": "",
+      "Arch": "universal",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -2762,7 +2762,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v26.0-rc2/protoc-26.0-rc-2-linux-aarch_64.zip",
-      "Arch": "",
+      "Arch": "arm64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -2770,7 +2770,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v26.0-rc2/protoc-26.0-rc-2-linux-ppcle_64.zip",
-      "Arch": "",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -2778,7 +2778,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v26.0-rc2/protoc-26.0-rc-2-linux-s390_64.zip",
-      "Arch": "",
+      "Arch": "s390x",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -2802,7 +2802,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v26.0-rc2/protoc-26.0-rc-2-osx-aarch_64.zip",
-      "Arch": "",
+      "Arch": "arm64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -2810,7 +2810,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v26.0-rc2/protoc-26.0-rc-2-osx-universal_binary.zip",
-      "Arch": "",
+      "Arch": "universal",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -2860,7 +2860,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v26.0-rc3/protoc-26.0-rc-3-linux-aarch_64.zip",
-      "Arch": "",
+      "Arch": "arm64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -2868,7 +2868,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v26.0-rc3/protoc-26.0-rc-3-linux-ppcle_64.zip",
-      "Arch": "",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -2876,7 +2876,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v26.0-rc3/protoc-26.0-rc-3-linux-s390_64.zip",
-      "Arch": "",
+      "Arch": "s390x",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -2900,7 +2900,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v26.0-rc3/protoc-26.0-rc-3-osx-aarch_64.zip",
-      "Arch": "",
+      "Arch": "arm64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -2908,7 +2908,7 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v26.0-rc3/protoc-26.0-rc-3-osx-universal_binary.zip",
-      "Arch": "",
+      "Arch": "universal",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
