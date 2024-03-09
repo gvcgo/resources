@@ -1,0 +1,2510 @@
+{
+  "php-8.1-build-300": [
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-300/PHP-Linux-x86_64-PM4-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-300/PHP-Linux-x86_64-PM4.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-300/PHP-Linux-x86_64-PM5-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-300/PHP-Linux-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-300/PHP-MacOS-x86_64-PM4-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-300/PHP-MacOS-x86_64-PM4.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-300/PHP-MacOS-x86_64-PM5-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-300/PHP-MacOS-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-300/PHP-Windows-x64-PM4-debugging-symbols.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-300/PHP-Windows-x64-PM4.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-300/PHP-Windows-x64-PM5-debugging-symbols.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-300/PHP-Windows-x64-PM5.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "php-8.1-build-307": [
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-307/PHP-Linux-x86_64-PM4-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-307/PHP-Linux-x86_64-PM4.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-307/PHP-Linux-x86_64-PM5-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-307/PHP-Linux-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-307/PHP-MacOS-x86_64-PM4-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-307/PHP-MacOS-x86_64-PM4.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-307/PHP-MacOS-x86_64-PM5-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-307/PHP-MacOS-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-307/PHP-Windows-x64-PM4-debugging-symbols.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-307/PHP-Windows-x64-PM4.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-307/PHP-Windows-x64-PM5-debugging-symbols.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-307/PHP-Windows-x64-PM5.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "php-8.1-build-311": [
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-311/PHP-Linux-x86_64-PM4-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-311/PHP-Linux-x86_64-PM4.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-311/PHP-Linux-x86_64-PM5-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-311/PHP-Linux-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-311/PHP-MacOS-x86_64-PM4-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-311/PHP-MacOS-x86_64-PM4.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-311/PHP-MacOS-x86_64-PM5-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-311/PHP-MacOS-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-311/PHP-Windows-x64-PM4-debugging-symbols.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-311/PHP-Windows-x64-PM4.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-311/PHP-Windows-x64-PM5-debugging-symbols.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-311/PHP-Windows-x64-PM5.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "php-8.1-build-314": [
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-314/PHP-Linux-x86_64-PM4-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-314/PHP-Linux-x86_64-PM4.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-314/PHP-Linux-x86_64-PM5-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-314/PHP-Linux-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-314/PHP-MacOS-x86_64-PM4-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-314/PHP-MacOS-x86_64-PM4.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-314/PHP-MacOS-x86_64-PM5-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-314/PHP-MacOS-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-314/PHP-Windows-x64-PM4-debugging-symbols.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-314/PHP-Windows-x64-PM4.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-314/PHP-Windows-x64-PM5-debugging-symbols.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-314/PHP-Windows-x64-PM5.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "php-8.1-build-325": [
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-325/PHP-Linux-x86_64-PM4-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-325/PHP-Linux-x86_64-PM4.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-325/PHP-Linux-x86_64-PM5-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-325/PHP-Linux-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-325/PHP-MacOS-x86_64-PM4-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-325/PHP-MacOS-x86_64-PM4.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-325/PHP-MacOS-x86_64-PM5-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-325/PHP-MacOS-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-325/PHP-Windows-x64-PM4-debugging-symbols.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-325/PHP-Windows-x64-PM4.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-325/PHP-Windows-x64-PM5-debugging-symbols.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-325/PHP-Windows-x64-PM5.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "php-8.1-build-329": [
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-329/PHP-Linux-x86_64-PM4-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-329/PHP-Linux-x86_64-PM4.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-329/PHP-Linux-x86_64-PM5-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-329/PHP-Linux-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-329/PHP-MacOS-x86_64-PM4-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-329/PHP-MacOS-x86_64-PM4.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-329/PHP-MacOS-x86_64-PM5-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-329/PHP-MacOS-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-329/PHP-Windows-x64-PM4-debugging-symbols.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-329/PHP-Windows-x64-PM4.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-329/PHP-Windows-x64-PM5-debugging-symbols.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-329/PHP-Windows-x64-PM5.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "php-8.1-build-353": [
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-353/PHP-Linux-x86_64-PM4-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-353/PHP-Linux-x86_64-PM4.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-353/PHP-Linux-x86_64-PM5-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-353/PHP-Linux-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-353/PHP-MacOS-x86_64-PM4-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-353/PHP-MacOS-x86_64-PM4.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-353/PHP-MacOS-x86_64-PM5-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-353/PHP-MacOS-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-353/PHP-Windows-x64-PM4-debugging-symbols.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-353/PHP-Windows-x64-PM4.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-353/PHP-Windows-x64-PM5-debugging-symbols.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-build-353/PHP-Windows-x64-PM5.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "php-8.1-latest": [
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-latest/PHP-Linux-x86_64-PM4-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-latest/PHP-Linux-x86_64-PM4.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-latest/PHP-Linux-x86_64-PM5-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-latest/PHP-Linux-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-latest/PHP-MacOS-x86_64-PM4-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-latest/PHP-MacOS-x86_64-PM4.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-latest/PHP-MacOS-x86_64-PM5-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-latest/PHP-MacOS-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-latest/PHP-Windows-x64-PM4-debugging-symbols.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-latest/PHP-Windows-x64-PM4.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-latest/PHP-Windows-x64-PM5-debugging-symbols.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.1-latest/PHP-Windows-x64-PM5.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "php-8.2-build-301": [
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-301/PHP-Linux-x86_64-PM4-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-301/PHP-Linux-x86_64-PM4.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-301/PHP-Linux-x86_64-PM5-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-301/PHP-Linux-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-301/PHP-MacOS-x86_64-PM4-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-301/PHP-MacOS-x86_64-PM4.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-301/PHP-MacOS-x86_64-PM5-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-301/PHP-MacOS-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-301/PHP-Windows-x64-PM4-debugging-symbols.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-301/PHP-Windows-x64-PM4.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-301/PHP-Windows-x64-PM5-debugging-symbols.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-301/PHP-Windows-x64-PM5.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "php-8.2-build-306": [
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-306/PHP-Linux-x86_64-PM4-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-306/PHP-Linux-x86_64-PM4.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-306/PHP-Linux-x86_64-PM5-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-306/PHP-Linux-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-306/PHP-MacOS-x86_64-PM4-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-306/PHP-MacOS-x86_64-PM4.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-306/PHP-MacOS-x86_64-PM5-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-306/PHP-MacOS-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-306/PHP-Windows-x64-PM4-debugging-symbols.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-306/PHP-Windows-x64-PM4.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-306/PHP-Windows-x64-PM5-debugging-symbols.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-306/PHP-Windows-x64-PM5.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "php-8.2-build-310": [
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-310/PHP-Linux-x86_64-PM4-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-310/PHP-Linux-x86_64-PM4.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-310/PHP-Linux-x86_64-PM5-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-310/PHP-Linux-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-310/PHP-MacOS-x86_64-PM4-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-310/PHP-MacOS-x86_64-PM4.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-310/PHP-MacOS-x86_64-PM5-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-310/PHP-MacOS-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-310/PHP-Windows-x64-PM4-debugging-symbols.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-310/PHP-Windows-x64-PM4.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-310/PHP-Windows-x64-PM5-debugging-symbols.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-310/PHP-Windows-x64-PM5.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "php-8.2-build-315": [
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-315/PHP-Linux-x86_64-PM4-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-315/PHP-Linux-x86_64-PM4.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-315/PHP-Linux-x86_64-PM5-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-315/PHP-Linux-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-315/PHP-MacOS-x86_64-PM4-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-315/PHP-MacOS-x86_64-PM4.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-315/PHP-MacOS-x86_64-PM5-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-315/PHP-MacOS-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-315/PHP-Windows-x64-PM4-debugging-symbols.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-315/PHP-Windows-x64-PM4.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-315/PHP-Windows-x64-PM5-debugging-symbols.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-315/PHP-Windows-x64-PM5.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "php-8.2-build-326": [
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-326/PHP-Linux-x86_64-PM4-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-326/PHP-Linux-x86_64-PM4.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-326/PHP-Linux-x86_64-PM5-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-326/PHP-Linux-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-326/PHP-MacOS-x86_64-PM4-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-326/PHP-MacOS-x86_64-PM4.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-326/PHP-MacOS-x86_64-PM5-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-326/PHP-MacOS-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-326/PHP-Windows-x64-PM4-debugging-symbols.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-326/PHP-Windows-x64-PM4.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-326/PHP-Windows-x64-PM5-debugging-symbols.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-326/PHP-Windows-x64-PM5.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "php-8.2-build-330": [
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-330/PHP-Linux-x86_64-PM4-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-330/PHP-Linux-x86_64-PM4.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-330/PHP-Linux-x86_64-PM5-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-330/PHP-Linux-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-330/PHP-MacOS-x86_64-PM4-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-330/PHP-MacOS-x86_64-PM4.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-330/PHP-MacOS-x86_64-PM5-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-330/PHP-MacOS-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-330/PHP-Windows-x64-PM4-debugging-symbols.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-330/PHP-Windows-x64-PM4.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-330/PHP-Windows-x64-PM5-debugging-symbols.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-330/PHP-Windows-x64-PM5.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "php-8.2-build-331": [
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-331/PHP-Linux-x86_64-PM4-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-331/PHP-Linux-x86_64-PM4.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-331/PHP-Linux-x86_64-PM5-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-331/PHP-Linux-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-331/PHP-MacOS-x86_64-PM4-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-331/PHP-MacOS-x86_64-PM4.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-331/PHP-MacOS-x86_64-PM5-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-331/PHP-MacOS-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-331/PHP-Windows-x64-PM4-debugging-symbols.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-331/PHP-Windows-x64-PM4.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-331/PHP-Windows-x64-PM5-debugging-symbols.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-331/PHP-Windows-x64-PM5.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "php-8.2-build-344": [
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-344/PHP-Linux-x86_64-PM4-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-344/PHP-Linux-x86_64-PM4.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-344/PHP-Linux-x86_64-PM5-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-344/PHP-Linux-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-344/PHP-MacOS-x86_64-PM4-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-344/PHP-MacOS-x86_64-PM4.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-344/PHP-MacOS-x86_64-PM5-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-344/PHP-MacOS-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-344/PHP-Windows-x64-PM4-debugging-symbols.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-344/PHP-Windows-x64-PM4.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-344/PHP-Windows-x64-PM5-debugging-symbols.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-344/PHP-Windows-x64-PM5.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "php-8.2-build-359": [
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-359/PHP-Linux-x86_64-PM4-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-359/PHP-Linux-x86_64-PM4.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-359/PHP-Linux-x86_64-PM5-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-359/PHP-Linux-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-359/PHP-Windows-x64-PM4-debugging-symbols.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-359/PHP-Windows-x64-PM4.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-359/PHP-Windows-x64-PM5-debugging-symbols.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-359/PHP-Windows-x64-PM5.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "php-8.2-build-360": [
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-360/PHP-Linux-x86_64-PM4-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-360/PHP-Linux-x86_64-PM4.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-360/PHP-Linux-x86_64-PM5-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-360/PHP-Linux-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-360/PHP-MacOS-arm64-PM4-debugging-symbols.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-360/PHP-MacOS-arm64-PM4.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-360/PHP-MacOS-arm64-PM5-debugging-symbols.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-360/PHP-MacOS-arm64-PM5.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-360/PHP-MacOS-x86_64-PM4-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-360/PHP-MacOS-x86_64-PM4.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-360/PHP-MacOS-x86_64-PM5-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-360/PHP-MacOS-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-360/PHP-Windows-x64-PM4-debugging-symbols.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-360/PHP-Windows-x64-PM4.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-360/PHP-Windows-x64-PM5-debugging-symbols.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-360/PHP-Windows-x64-PM5.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "php-8.2-build-361": [
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-361/PHP-Linux-x86_64-PM4-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-361/PHP-Linux-x86_64-PM4.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-361/PHP-Linux-x86_64-PM5-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-361/PHP-Linux-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-361/PHP-MacOS-arm64-PM4-debugging-symbols.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-361/PHP-MacOS-arm64-PM4.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-361/PHP-MacOS-arm64-PM5-debugging-symbols.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-361/PHP-MacOS-arm64-PM5.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-361/PHP-MacOS-x86_64-PM4-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-361/PHP-MacOS-x86_64-PM4.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-361/PHP-MacOS-x86_64-PM5-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-361/PHP-MacOS-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-361/PHP-Windows-x64-PM4-debugging-symbols.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-361/PHP-Windows-x64-PM4.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-361/PHP-Windows-x64-PM5-debugging-symbols.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-361/PHP-Windows-x64-PM5.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "php-8.2-build-364": [
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-364/PHP-Linux-x86_64-PM5-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-364/PHP-Linux-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-364/PHP-MacOS-arm64-PM5-debugging-symbols.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-364/PHP-MacOS-arm64-PM5.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-364/PHP-MacOS-x86_64-PM5-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-364/PHP-MacOS-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-364/PHP-Windows-x64-PM5-debugging-symbols.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-build-364/PHP-Windows-x64-PM5.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "php-8.2-latest": [
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-latest/PHP-Linux-x86_64-PM5-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-latest/PHP-Linux-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-latest/PHP-MacOS-arm64-PM5-debugging-symbols.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-latest/PHP-MacOS-arm64-PM5.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-latest/PHP-MacOS-x86_64-PM5-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-latest/PHP-MacOS-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-latest/PHP-Windows-x64-PM5-debugging-symbols.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.2-latest/PHP-Windows-x64-PM5.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "php-8.3-build-324": [
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-build-324/PHP-Linux-x86_64-PM5-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-build-324/PHP-Linux-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-build-324/PHP-MacOS-x86_64-PM5-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-build-324/PHP-MacOS-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-build-324/PHP-Windows-x64-PM5-debugging-symbols.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-build-324/PHP-Windows-x64-PM5.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "php-8.3-build-328": [
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-build-328/PHP-Linux-x86_64-PM5-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-build-328/PHP-Linux-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-build-328/PHP-MacOS-x86_64-PM5-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-build-328/PHP-MacOS-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-build-328/PHP-Windows-x64-PM5-debugging-symbols.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-build-328/PHP-Windows-x64-PM5.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "php-8.3-build-343": [
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-build-343/PHP-Linux-x86_64-PM5-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-build-343/PHP-Linux-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-build-343/PHP-MacOS-x86_64-PM5-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-build-343/PHP-MacOS-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-build-343/PHP-Windows-x64-PM5-debugging-symbols.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-build-343/PHP-Windows-x64-PM5.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "php-8.3-build-369": [
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-build-369/PHP-Linux-x86_64-PM5-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-build-369/PHP-Linux-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-build-369/PHP-MacOS-arm64-PM5-debugging-symbols.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-build-369/PHP-MacOS-arm64-PM5.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-build-369/PHP-MacOS-x86_64-PM5-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-build-369/PHP-MacOS-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-build-369/PHP-Windows-x64-PM5-debugging-symbols.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-build-369/PHP-Windows-x64-PM5.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "php-8.3-latest": [
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-latest/PHP-Linux-x86_64-PM5-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-latest/PHP-Linux-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-latest/PHP-MacOS-arm64-PM5-debugging-symbols.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-latest/PHP-MacOS-arm64-PM5.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-latest/PHP-MacOS-x86_64-PM5-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-latest/PHP-MacOS-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-latest/PHP-Windows-x64-PM5-debugging-symbols.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-latest/PHP-Windows-x64-PM5.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "php-8.3-preview-build-308": [
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-preview-build-308/PHP-Linux-x86_64-PM5-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-preview-build-308/PHP-Linux-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-preview-build-308/PHP-MacOS-x86_64-PM5-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-preview-build-308/PHP-MacOS-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-preview-build-308/PHP-Windows-x64-PM5-debugging-symbols.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-preview-build-308/PHP-Windows-x64-PM5.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "php-8.3-preview-build-309": [
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-preview-build-309/PHP-Linux-x86_64-PM5-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-preview-build-309/PHP-Linux-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-preview-build-309/PHP-MacOS-x86_64-PM5-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-preview-build-309/PHP-MacOS-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-preview-build-309/PHP-Windows-x64-PM5-debugging-symbols.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-preview-build-309/PHP-Windows-x64-PM5.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "php-8.3-preview-build-316": [
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-preview-build-316/PHP-Linux-x86_64-PM5-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-preview-build-316/PHP-Linux-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-preview-build-316/PHP-MacOS-x86_64-PM5-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-preview-build-316/PHP-MacOS-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-preview-build-316/PHP-Windows-x64-PM5-debugging-symbols.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-preview-build-316/PHP-Windows-x64-PM5.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "php-8.3-preview-latest": [
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-preview-latest/PHP-Linux-x86_64-PM5-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-preview-latest/PHP-Linux-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-preview-latest/PHP-MacOS-x86_64-PM5-debugging-symbols.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-preview-latest/PHP-MacOS-x86_64-PM5.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-preview-latest/PHP-Windows-x64-PM5-debugging-symbols.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/pmmp/PHP-Binaries/releases/download/php-8.3-preview-latest/PHP-Windows-x64-PM5.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ]
+}
