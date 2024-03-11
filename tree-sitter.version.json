@@ -1,0 +1,1718 @@
+{
+  "0.16.7": [
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/0.16.7/tree-sitter-linux-x64.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/0.16.7/tree-sitter-osx-x64.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/0.16.7/tree-sitter-windows-x64.gz",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/0.16.7/tree-sitter-windows-x86.gz",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "0.16.8": [
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/0.16.8/tree-sitter-linux-x64.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/0.16.8/tree-sitter-osx-x64.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/0.16.8/tree-sitter-windows-x64.gz",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/0.16.8/tree-sitter-windows-x86.gz",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "0.16.9": [
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/0.16.9/tree-sitter-linux-x64.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/0.16.9/tree-sitter-osx-x64.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/0.16.9/tree-sitter-windows-x64.gz",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/0.16.9/tree-sitter-windows-x86.gz",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "0.17.0": [
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/0.17.0/tree-sitter-linux-x64.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/0.17.0/tree-sitter-osx-x64.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/0.17.0/tree-sitter-windows-x64.gz",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/0.17.0/tree-sitter-windows-x86.gz",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "0.17.1": [
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/0.17.1/tree-sitter-linux-x64.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/0.17.1/tree-sitter-osx-x64.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/0.17.1/tree-sitter-windows-x64.gz",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/0.17.1/tree-sitter-windows-x86.gz",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "0.17.2": [
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/0.17.2/tree-sitter-linux-x64.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/0.17.2/tree-sitter-osx-x64.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/0.17.2/tree-sitter-windows-x64.gz",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/0.17.2/tree-sitter-windows-x86.gz",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "0.17.3": [
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/0.17.3/tree-sitter-linux-x64.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/0.17.3/tree-sitter-osx-x64.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/0.17.3/tree-sitter-windows-x64.gz",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/0.17.3/tree-sitter-windows-x86.gz",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "0.18.0": [
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/0.18.0/tree-sitter-linux-x64.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/0.18.0/tree-sitter-osx-x64.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/0.18.0/tree-sitter-windows-x64.gz",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/0.18.0/tree-sitter-windows-x86.gz",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.18.1": [
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.18.1/tree-sitter-linux-x64.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.18.1/tree-sitter-macos-x64.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.18.1/tree-sitter-windows-x64.gz",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.18.1/tree-sitter-windows-x86.gz",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.18.1/tree-sitter.js",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.18.1/tree-sitter.wasm",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.18.2": [
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.18.2/tree-sitter-linux-x64.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.18.2/tree-sitter-macos-x64.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.18.2/tree-sitter-windows-x64.gz",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.18.2/tree-sitter-windows-x86.gz",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.18.2/tree-sitter.js",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.18.2/tree-sitter.wasm",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.18.3": [
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.18.3/tree-sitter-linux-x64.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.18.3/tree-sitter-macos-x64.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.18.3/tree-sitter-windows-x64.gz",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.18.3/tree-sitter-windows-x86.gz",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.18.3/tree-sitter.js",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.18.3/tree-sitter.wasm",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.19.0": [
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.19.0/tree-sitter-linux-x64.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.19.0/tree-sitter-macos-x64.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.19.0/tree-sitter-windows-x64.gz",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.19.0/tree-sitter-windows-x86.gz",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.19.0/tree-sitter.js",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.19.0/tree-sitter.wasm",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.19.1": [
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.19.1/tree-sitter-linux-x64.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.19.1/tree-sitter-macos-x64.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.19.1/tree-sitter-windows-x64.gz",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.19.1/tree-sitter-windows-x86.gz",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.19.1/tree-sitter.js",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.19.1/tree-sitter.wasm",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.19.2": [
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.19.2/tree-sitter-linux-x64.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.19.2/tree-sitter-macos-x64.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.19.2/tree-sitter-windows-x64.gz",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.19.2/tree-sitter-windows-x86.gz",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.19.2/tree-sitter.js",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.19.2/tree-sitter.wasm",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.19.3": [
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.19.3/tree-sitter-linux-x64.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.19.3/tree-sitter-macos-x64.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.19.3/tree-sitter-windows-x64.gz",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.19.3/tree-sitter-windows-x86.gz",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.19.3/tree-sitter.js",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.19.3/tree-sitter.wasm",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.19.4": [
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.19.4/tree-sitter-linux-x64.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.19.4/tree-sitter-macos-x64.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.19.4/tree-sitter-windows-x64.gz",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.19.4/tree-sitter-windows-x86.gz",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.19.4/tree-sitter.js",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.19.4/tree-sitter.wasm",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.19.5": [
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.19.5/tree-sitter-linux-x64.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.19.5/tree-sitter-macos-x64.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.19.5/tree-sitter-windows-x64.gz",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.19.5/tree-sitter-windows-x86.gz",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.19.5/tree-sitter.js",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.19.5/tree-sitter.wasm",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.20.0": [
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.0/tree-sitter-linux-x64.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.0/tree-sitter-macos-x64.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.0/tree-sitter-windows-x64.gz",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.0/tree-sitter-windows-x86.gz",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.0/tree-sitter.js",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.0/tree-sitter.wasm",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.20.1": [
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.1/tree-sitter-linux-x64.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.1/tree-sitter-macos-x64.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.1/tree-sitter-windows-x64.gz",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.1/tree-sitter-windows-x86.gz",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.1/tree-sitter.js",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.1/tree-sitter.wasm",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.20.2": [
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.2/tree-sitter-linux-x64.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.2/tree-sitter-macos-x64.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.2/tree-sitter-windows-x64.gz",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.2/tree-sitter-windows-x86.gz",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.2/tree-sitter.js",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.2/tree-sitter.wasm",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.20.3": [
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.3/tree-sitter-linux-x64.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.3/tree-sitter-macos-x64.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.3/tree-sitter-windows-x64.gz",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.3/tree-sitter-windows-x86.gz",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.3/tree-sitter.js",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.3/tree-sitter.wasm",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.20.4": [
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.4/tree-sitter-linux-x64.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.4/tree-sitter-macos-x64.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.4/tree-sitter-windows-x64.gz",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.4/tree-sitter-windows-x86.gz",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.4/tree-sitter.js",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.4/tree-sitter.wasm",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.20.6": [
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.6/tree-sitter-linux-x64.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.6/tree-sitter-macos-x64.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.6/tree-sitter-windows-x64.gz",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.6/tree-sitter-windows-x86.gz",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.6/tree-sitter.js",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.6/tree-sitter.wasm",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.20.7": [
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.7/tree-sitter-linux-x64.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.7/tree-sitter-macos-x64.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.7/tree-sitter-windows-x64.gz",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.7/tree-sitter-windows-x86.gz",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.7/tree-sitter.js",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.7/tree-sitter.wasm",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.20.8": [
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.8/tree-sitter-linux-arm.gz",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.8/tree-sitter-linux-arm64.gz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.8/tree-sitter-linux-x64.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.8/tree-sitter-linux-x86.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.8/tree-sitter-macos-arm64.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.8/tree-sitter-macos-x64.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.8/tree-sitter-windows-x64.gz",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.8/tree-sitter-windows-x86.gz",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.8/tree-sitter.js",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.8/tree-sitter.wasm",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.20.9": [
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.9/tree-sitter-linux-arm.gz",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.9/tree-sitter-linux-arm64.gz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.9/tree-sitter-linux-armhf.gz",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.9/tree-sitter-linux-armv5te.gz",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.9/tree-sitter-linux-armv7l.gz",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.9/tree-sitter-linux-i586.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.9/tree-sitter-linux-powerpc.gz",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.9/tree-sitter-linux-powerpc64.gz",
+      "Arch": "ppc64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.9/tree-sitter-linux-powerpc64el.gz",
+      "Arch": "ppc64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.9/tree-sitter-linux-s390x.gz",
+      "Arch": "s390x",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.9/tree-sitter-linux-sparc64.gz",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.9/tree-sitter-linux-thumbv7neon.gz",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.9/tree-sitter-linux-x64.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.9/tree-sitter-linux-x86.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.9/tree-sitter-macos-arm64.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.9/tree-sitter-macos-x64.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.9/tree-sitter-windows-arm64.gz",
+      "Arch": "arm64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.9/tree-sitter-windows-x64.gz",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.9/tree-sitter-windows-x86.gz",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.9/tree-sitter.js",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.9/tree-sitter.wasm",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.21.0": [
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.21.0/tree-sitter-linux-arm.gz",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.21.0/tree-sitter-linux-arm64.gz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.21.0/tree-sitter-linux-powerpc64.gz",
+      "Arch": "ppc64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.21.0/tree-sitter-linux-x64.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.21.0/tree-sitter-linux-x86.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.21.0/tree-sitter-macos-arm64.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.21.0/tree-sitter-macos-x64.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.21.0/tree-sitter-windows-arm64.gz",
+      "Arch": "arm64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.21.0/tree-sitter-windows-x64.gz",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.21.0/tree-sitter-windows-x86.gz",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.21.0/tree-sitter.js",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.21.0/tree-sitter.wasm",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.21.0-pre-release-1": [
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.21.0-pre-release-1/tree-sitter-linux-arm.gz",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.21.0-pre-release-1/tree-sitter-linux-arm64.gz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.21.0-pre-release-1/tree-sitter-linux-powerpc64.gz",
+      "Arch": "ppc64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.21.0-pre-release-1/tree-sitter-linux-x64.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.21.0-pre-release-1/tree-sitter-linux-x86.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.21.0-pre-release-1/tree-sitter-macos-arm64.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.21.0-pre-release-1/tree-sitter-macos-x64.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.21.0-pre-release-1/tree-sitter-windows-arm64.gz",
+      "Arch": "arm64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.21.0-pre-release-1/tree-sitter-windows-x64.gz",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.21.0-pre-release-1/tree-sitter-windows-x86.gz",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.21.0-pre-release-1/tree-sitter.js",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.21.0-pre-release-1/tree-sitter.wasm",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.22.0": [
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.22.0/tree-sitter-linux-arm.gz",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.22.0/tree-sitter-linux-arm64.gz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.22.0/tree-sitter-linux-powerpc64.gz",
+      "Arch": "ppc64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.22.0/tree-sitter-linux-x64.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.22.0/tree-sitter-linux-x86.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.22.0/tree-sitter-macos-arm64.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.22.0/tree-sitter-macos-x64.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.22.0/tree-sitter-windows-arm64.gz",
+      "Arch": "arm64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.22.0/tree-sitter-windows-x64.gz",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.22.0/tree-sitter-windows-x86.gz",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.22.0/tree-sitter.js",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.22.0/tree-sitter.wasm",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.22.1": [
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.22.1/tree-sitter-linux-arm.gz",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.22.1/tree-sitter-linux-arm64.gz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.22.1/tree-sitter-linux-powerpc64.gz",
+      "Arch": "ppc64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.22.1/tree-sitter-linux-x64.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.22.1/tree-sitter-linux-x86.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.22.1/tree-sitter-macos-arm64.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.22.1/tree-sitter-macos-x64.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.22.1/tree-sitter-windows-arm64.gz",
+      "Arch": "arm64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.22.1/tree-sitter-windows-x64.gz",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.22.1/tree-sitter-windows-x86.gz",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.22.1/tree-sitter.js",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.22.1/tree-sitter.wasm",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ]
+}
