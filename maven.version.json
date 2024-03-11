@@ -59,6 +59,16 @@
       "Extra": ""
     }
   ],
+  "4.0.0-alpha-13": [
+    {
+      "Url": "https://dlcdn.apache.org/maven/maven-4/4.0.0-alpha-13/binaries/apache-maven-4.0.0-alpha-13-bin.tar.gz",
+      "Arch": "any",
+      "Os": "any",
+      "Sum": "29c181ae18f72c2c8ff738e6aedaecf6faaa4cebd737b11b7e8f3a05d341468e93a5685fa26f3b8299bbe6ddda3b9652c9c4df135af6f146eebad5dd6b6c47ed",
+      "SumType": "sha512",
+      "Extra": ""
+    }
+  ],
   "4.0.0-alpha-5": [
     {
       "Url": "https://dlcdn.apache.org/maven/maven-4/4.0.0-alpha-5/binaries/apache-maven-4.0.0-alpha-5-bin.tar.gz",
