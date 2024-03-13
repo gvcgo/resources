@@ -1,0 +1,1956 @@
+{
+  "v0.0.1": [
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.0.1/vhs-0.0.1.tar.gz",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.0.1/vhs-0.0.1.tar.gz.sbom",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.0.1/vhs_0.0.1_Darwin_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.0.1/vhs_0.0.1_Darwin_arm64.tar.gz.sbom",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.0.1/vhs_0.0.1_Darwin_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.0.1/vhs_0.0.1_Darwin_x86_64.tar.gz.sbom",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.0.1/vhs_0.0.1_linux_386.apk",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.0.1/vhs_0.0.1_linux_386.rpm",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.0.1/vhs_0.0.1_linux_amd64.apk",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.0.1/vhs_0.0.1_linux_amd64.rpm",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.0.1/vhs_0.0.1_linux_arm64.apk",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.0.1/vhs_0.0.1_linux_arm64.rpm",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.0.1/vhs_0.0.1_Linux_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.0.1/vhs_0.0.1_Linux_arm64.tar.gz.sbom",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.0.1/vhs_0.0.1_linux_armv7.apk",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.0.1/vhs_0.0.1_linux_armv7.rpm",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.0.1/vhs_0.0.1_Linux_armv7.tar.gz",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.0.1/vhs_0.0.1_Linux_armv7.tar.gz.sbom",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.0.1/vhs_0.0.1_Linux_i386.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.0.1/vhs_0.0.1_Linux_i386.tar.gz.sbom",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.0.1/vhs_0.0.1_Linux_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.0.1/vhs_0.0.1_Linux_x86_64.tar.gz.sbom",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.0.1/vhs_0.0.1_Windows_i386.zip",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.0.1/vhs_0.0.1_Windows_i386.zip.sbom",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.0.1/vhs_0.0.1_Windows_x86_64.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.0.1/vhs_0.0.1_Windows_x86_64.zip.sbom",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.1.0": [
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.1.0/vhs-0.1.0.tar.gz",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.1.0/vhs-0.1.0.tar.gz.sbom",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.1.0/vhs_0.1.0_Darwin_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.1.0/vhs_0.1.0_Darwin_arm64.tar.gz.sbom",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.1.0/vhs_0.1.0_Darwin_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.1.0/vhs_0.1.0_Darwin_x86_64.tar.gz.sbom",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.1.0/vhs_0.1.0_linux_386.apk",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.1.0/vhs_0.1.0_linux_386.rpm",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.1.0/vhs_0.1.0_linux_amd64.apk",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.1.0/vhs_0.1.0_linux_amd64.rpm",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.1.0/vhs_0.1.0_linux_arm64.apk",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.1.0/vhs_0.1.0_linux_arm64.rpm",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.1.0/vhs_0.1.0_Linux_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.1.0/vhs_0.1.0_Linux_arm64.tar.gz.sbom",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.1.0/vhs_0.1.0_linux_armv7.apk",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.1.0/vhs_0.1.0_linux_armv7.rpm",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.1.0/vhs_0.1.0_Linux_armv7.tar.gz",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.1.0/vhs_0.1.0_Linux_armv7.tar.gz.sbom",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.1.0/vhs_0.1.0_Linux_i386.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.1.0/vhs_0.1.0_Linux_i386.tar.gz.sbom",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.1.0/vhs_0.1.0_Linux_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.1.0/vhs_0.1.0_Linux_x86_64.tar.gz.sbom",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.1.0/vhs_0.1.0_Windows_i386.zip",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.1.0/vhs_0.1.0_Windows_i386.zip.sbom",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.1.0/vhs_0.1.0_Windows_x86_64.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.1.0/vhs_0.1.0_Windows_x86_64.zip.sbom",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.1.1": [
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.1.1/vhs-0.1.1.tar.gz",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.1.1/vhs-0.1.1.tar.gz.sbom",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.1.1/vhs_0.1.1_Darwin_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.1.1/vhs_0.1.1_Darwin_arm64.tar.gz.sbom",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.1.1/vhs_0.1.1_Darwin_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.1.1/vhs_0.1.1_Darwin_x86_64.tar.gz.sbom",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.1.1/vhs_0.1.1_linux_386.apk",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.1.1/vhs_0.1.1_linux_386.rpm",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.1.1/vhs_0.1.1_linux_amd64.apk",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.1.1/vhs_0.1.1_linux_amd64.rpm",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.1.1/vhs_0.1.1_linux_arm64.apk",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.1.1/vhs_0.1.1_linux_arm64.rpm",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.1.1/vhs_0.1.1_Linux_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.1.1/vhs_0.1.1_Linux_arm64.tar.gz.sbom",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.1.1/vhs_0.1.1_linux_armv7.apk",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.1.1/vhs_0.1.1_linux_armv7.rpm",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.1.1/vhs_0.1.1_Linux_armv7.tar.gz",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.1.1/vhs_0.1.1_Linux_armv7.tar.gz.sbom",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.1.1/vhs_0.1.1_Linux_i386.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.1.1/vhs_0.1.1_Linux_i386.tar.gz.sbom",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.1.1/vhs_0.1.1_Linux_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.1.1/vhs_0.1.1_Linux_x86_64.tar.gz.sbom",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.1.1/vhs_0.1.1_Windows_i386.zip",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.1.1/vhs_0.1.1_Windows_i386.zip.sbom",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.1.1/vhs_0.1.1_Windows_x86_64.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.1.1/vhs_0.1.1_Windows_x86_64.zip.sbom",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.2.0": [
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.2.0/vhs-0.2.0.tar.gz",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.2.0/vhs-0.2.0.tar.gz.sbom",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.2.0/vhs_0.2.0_Darwin_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.2.0/vhs_0.2.0_Darwin_arm64.tar.gz.sbom",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.2.0/vhs_0.2.0_Darwin_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.2.0/vhs_0.2.0_Darwin_x86_64.tar.gz.sbom",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.2.0/vhs_0.2.0_linux_386.apk",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.2.0/vhs_0.2.0_linux_386.rpm",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.2.0/vhs_0.2.0_linux_amd64.apk",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.2.0/vhs_0.2.0_linux_amd64.rpm",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.2.0/vhs_0.2.0_linux_arm64.apk",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.2.0/vhs_0.2.0_linux_arm64.rpm",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.2.0/vhs_0.2.0_Linux_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.2.0/vhs_0.2.0_Linux_arm64.tar.gz.sbom",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.2.0/vhs_0.2.0_linux_armv7.apk",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.2.0/vhs_0.2.0_linux_armv7.rpm",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.2.0/vhs_0.2.0_Linux_armv7.tar.gz",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.2.0/vhs_0.2.0_Linux_armv7.tar.gz.sbom",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.2.0/vhs_0.2.0_Linux_i386.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.2.0/vhs_0.2.0_Linux_i386.tar.gz.sbom",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.2.0/vhs_0.2.0_Linux_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.2.0/vhs_0.2.0_Linux_x86_64.tar.gz.sbom",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.2.0/vhs_0.2.0_Windows_i386.zip",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.2.0/vhs_0.2.0_Windows_i386.zip.sbom",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.2.0/vhs_0.2.0_Windows_x86_64.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.2.0/vhs_0.2.0_Windows_x86_64.zip.sbom",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.3.0": [
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.3.0/vhs-0.3.0.aarch64.rpm",
+      "Arch": "arm64",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.3.0/vhs-0.3.0.armv7hl.rpm",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.3.0/vhs-0.3.0.i386.rpm",
+      "Arch": "386",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.3.0/vhs-0.3.0.tar.gz",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.3.0/vhs-0.3.0.tar.gz.sbom",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.3.0/vhs-0.3.0.x86_64.rpm",
+      "Arch": "amd64",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.3.0/vhs_0.3.0_aarch64.apk",
+      "Arch": "arm64",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.3.0/vhs_0.3.0_armv7.apk",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.3.0/vhs_0.3.0_Darwin_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.3.0/vhs_0.3.0_Darwin_arm64.tar.gz.sbom",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.3.0/vhs_0.3.0_Darwin_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.3.0/vhs_0.3.0_Darwin_x86_64.tar.gz.sbom",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.3.0/vhs_0.3.0_Linux_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.3.0/vhs_0.3.0_Linux_arm64.tar.gz.sbom",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.3.0/vhs_0.3.0_Linux_armv7.tar.gz",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.3.0/vhs_0.3.0_Linux_armv7.tar.gz.sbom",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.3.0/vhs_0.3.0_Linux_i386.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.3.0/vhs_0.3.0_Linux_i386.tar.gz.sbom",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.3.0/vhs_0.3.0_Linux_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.3.0/vhs_0.3.0_Linux_x86_64.tar.gz.sbom",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.3.0/vhs_0.3.0_Windows_i386.zip",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.3.0/vhs_0.3.0_Windows_i386.zip.sbom",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.3.0/vhs_0.3.0_Windows_x86_64.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.3.0/vhs_0.3.0_Windows_x86_64.zip.sbom",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.3.0/vhs_0.3.0_x86.apk",
+      "Arch": "386",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.3.0/vhs_0.3.0_x86_64.apk",
+      "Arch": "amd64",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.4.0": [
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.4.0/vhs-0.4.0.aarch64.rpm",
+      "Arch": "arm64",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.4.0/vhs-0.4.0.armv7hl.rpm",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.4.0/vhs-0.4.0.i386.rpm",
+      "Arch": "386",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.4.0/vhs-0.4.0.tar.gz",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.4.0/vhs-0.4.0.tar.gz.sbom",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.4.0/vhs-0.4.0.x86_64.rpm",
+      "Arch": "amd64",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.4.0/vhs_0.4.0_aarch64.apk",
+      "Arch": "arm64",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.4.0/vhs_0.4.0_armv7.apk",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.4.0/vhs_0.4.0_Darwin_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.4.0/vhs_0.4.0_Darwin_arm64.tar.gz.sbom",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.4.0/vhs_0.4.0_Darwin_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.4.0/vhs_0.4.0_Darwin_x86_64.tar.gz.sbom",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.4.0/vhs_0.4.0_Linux_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.4.0/vhs_0.4.0_Linux_arm64.tar.gz.sbom",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.4.0/vhs_0.4.0_Linux_armv7.tar.gz",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.4.0/vhs_0.4.0_Linux_armv7.tar.gz.sbom",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.4.0/vhs_0.4.0_Linux_i386.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.4.0/vhs_0.4.0_Linux_i386.tar.gz.sbom",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.4.0/vhs_0.4.0_Linux_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.4.0/vhs_0.4.0_Linux_x86_64.tar.gz.sbom",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.4.0/vhs_0.4.0_Windows_i386.zip",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.4.0/vhs_0.4.0_Windows_i386.zip.sbom",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.4.0/vhs_0.4.0_Windows_x86_64.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.4.0/vhs_0.4.0_Windows_x86_64.zip.sbom",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.4.0/vhs_0.4.0_x86.apk",
+      "Arch": "386",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.4.0/vhs_0.4.0_x86_64.apk",
+      "Arch": "amd64",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.5.0": [
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.5.0/vhs-0.5.0.aarch64.rpm",
+      "Arch": "arm64",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.5.0/vhs-0.5.0.armv7hl.rpm",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.5.0/vhs-0.5.0.i386.rpm",
+      "Arch": "386",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.5.0/vhs-0.5.0.tar.gz",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.5.0/vhs-0.5.0.tar.gz.sbom",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.5.0/vhs-0.5.0.x86_64.rpm",
+      "Arch": "amd64",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.5.0/vhs_0.5.0_aarch64.apk",
+      "Arch": "arm64",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.5.0/vhs_0.5.0_armv7.apk",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.5.0/vhs_0.5.0_Darwin_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.5.0/vhs_0.5.0_Darwin_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.5.0/vhs_0.5.0_Linux_arm.tar.gz",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.5.0/vhs_0.5.0_Linux_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.5.0/vhs_0.5.0_Linux_i386.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.5.0/vhs_0.5.0_Linux_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.5.0/vhs_0.5.0_Windows_i386.zip",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.5.0/vhs_0.5.0_Windows_x86_64.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.5.0/vhs_0.5.0_x86.apk",
+      "Arch": "386",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.5.0/vhs_0.5.0_x86_64.apk",
+      "Arch": "amd64",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.5.0/vhs_Darwin_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.5.0/vhs_Darwin_arm64.tar.gz.sbom",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.5.0/vhs_Darwin_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.5.0/vhs_Darwin_x86_64.tar.gz.sbom",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.5.0/vhs_Linux_arm.tar.gz",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.5.0/vhs_Linux_arm.tar.gz.sbom",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.5.0/vhs_Linux_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.5.0/vhs_Linux_arm64.tar.gz.sbom",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.5.0/vhs_Linux_i386.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.5.0/vhs_Linux_i386.tar.gz.sbom",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.5.0/vhs_Linux_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.5.0/vhs_Linux_x86_64.tar.gz.sbom",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.5.0/vhs_Windows_i386.zip",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.5.0/vhs_Windows_i386.zip.sbom",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.5.0/vhs_Windows_x86_64.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.5.0/vhs_Windows_x86_64.zip.sbom",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.6.0": [
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.6.0/vhs-0.6.0.aarch64.rpm",
+      "Arch": "arm64",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.6.0/vhs-0.6.0.armv7hl.rpm",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.6.0/vhs-0.6.0.i386.rpm",
+      "Arch": "386",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.6.0/vhs-0.6.0.tar.gz",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.6.0/vhs-0.6.0.tar.gz.sbom",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.6.0/vhs-0.6.0.x86_64.rpm",
+      "Arch": "amd64",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.6.0/vhs_0.6.0_aarch64.apk",
+      "Arch": "arm64",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.6.0/vhs_0.6.0_armv7.apk",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.6.0/vhs_0.6.0_Darwin_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.6.0/vhs_0.6.0_Darwin_arm64.tar.gz.sbom",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.6.0/vhs_0.6.0_Darwin_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.6.0/vhs_0.6.0_Darwin_x86_64.tar.gz.sbom",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.6.0/vhs_0.6.0_Linux_arm.tar.gz",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.6.0/vhs_0.6.0_Linux_arm.tar.gz.sbom",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.6.0/vhs_0.6.0_Linux_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.6.0/vhs_0.6.0_Linux_arm64.tar.gz.sbom",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.6.0/vhs_0.6.0_Linux_i386.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.6.0/vhs_0.6.0_Linux_i386.tar.gz.sbom",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.6.0/vhs_0.6.0_Linux_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.6.0/vhs_0.6.0_Linux_x86_64.tar.gz.sbom",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.6.0/vhs_0.6.0_Windows_i386.zip",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.6.0/vhs_0.6.0_Windows_i386.zip.sbom",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.6.0/vhs_0.6.0_Windows_x86_64.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.6.0/vhs_0.6.0_Windows_x86_64.zip.sbom",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.6.0/vhs_0.6.0_x86.apk",
+      "Arch": "386",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.6.0/vhs_0.6.0_x86_64.apk",
+      "Arch": "amd64",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.7.1": [
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.7.1/vhs-0.7.1-1.aarch64.rpm",
+      "Arch": "arm64",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.7.1/vhs-0.7.1-1.armv7hl.rpm",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.7.1/vhs-0.7.1-1.i386.rpm",
+      "Arch": "386",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.7.1/vhs-0.7.1-1.x86_64.rpm",
+      "Arch": "amd64",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.7.1/vhs-0.7.1.tar.gz",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.7.1/vhs-0.7.1.tar.gz.sbom",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.7.1/vhs_0.7.1_aarch64.apk",
+      "Arch": "arm64",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.7.1/vhs_0.7.1_armv7.apk",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.7.1/vhs_0.7.1_Darwin_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.7.1/vhs_0.7.1_Darwin_arm64.tar.gz.sbom",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.7.1/vhs_0.7.1_Darwin_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.7.1/vhs_0.7.1_Darwin_x86_64.tar.gz.sbom",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.7.1/vhs_0.7.1_Linux_arm.tar.gz",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.7.1/vhs_0.7.1_Linux_arm.tar.gz.sbom",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.7.1/vhs_0.7.1_Linux_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.7.1/vhs_0.7.1_Linux_arm64.tar.gz.sbom",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.7.1/vhs_0.7.1_Linux_i386.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.7.1/vhs_0.7.1_Linux_i386.tar.gz.sbom",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.7.1/vhs_0.7.1_Linux_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.7.1/vhs_0.7.1_Linux_x86_64.tar.gz.sbom",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.7.1/vhs_0.7.1_Windows_i386.zip",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.7.1/vhs_0.7.1_Windows_i386.zip.sbom",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.7.1/vhs_0.7.1_Windows_x86_64.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.7.1/vhs_0.7.1_Windows_x86_64.zip.sbom",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.7.1/vhs_0.7.1_x86.apk",
+      "Arch": "386",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.7.1/vhs_0.7.1_x86_64.apk",
+      "Arch": "amd64",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ]
+}
