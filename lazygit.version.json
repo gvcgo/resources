@@ -1,0 +1,3286 @@
+{
+  "v0.27.4": [
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.27.4/lazygit_0.27.4_Darwin_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.27.4/lazygit_0.27.4_Darwin_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.27.4/lazygit_0.27.4_freebsd_32-bit.tar.gz",
+      "Arch": "386",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.27.4/lazygit_0.27.4_freebsd_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.27.4/lazygit_0.27.4_freebsd_armv6.tar.gz",
+      "Arch": "arm",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.27.4/lazygit_0.27.4_freebsd_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.27.4/lazygit_0.27.4_Linux_32-bit.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.27.4/lazygit_0.27.4_Linux_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.27.4/lazygit_0.27.4_Linux_armv6.tar.gz",
+      "Arch": "arm",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.27.4/lazygit_0.27.4_Linux_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.27.4/lazygit_0.27.4_Windows_32-bit.zip",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.27.4/lazygit_0.27.4_Windows_armv6.zip",
+      "Arch": "arm",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.27.4/lazygit_0.27.4_Windows_x86_64.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.28": [
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.28/lazygit_0.28_Darwin_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.28/lazygit_0.28_Darwin_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.28/lazygit_0.28_freebsd_32-bit.tar.gz",
+      "Arch": "386",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.28/lazygit_0.28_freebsd_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.28/lazygit_0.28_freebsd_armv6.tar.gz",
+      "Arch": "arm",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.28/lazygit_0.28_freebsd_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.28/lazygit_0.28_Linux_32-bit.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.28/lazygit_0.28_Linux_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.28/lazygit_0.28_Linux_armv6.tar.gz",
+      "Arch": "arm",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.28/lazygit_0.28_Linux_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.28/lazygit_0.28_Windows_32-bit.zip",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.28/lazygit_0.28_Windows_armv6.zip",
+      "Arch": "arm",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.28/lazygit_0.28_Windows_x86_64.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.28.1": [
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.28.1/lazygit_0.28.1_Darwin_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.28.1/lazygit_0.28.1_Darwin_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.28.1/lazygit_0.28.1_freebsd_32-bit.tar.gz",
+      "Arch": "386",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.28.1/lazygit_0.28.1_freebsd_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.28.1/lazygit_0.28.1_freebsd_armv6.tar.gz",
+      "Arch": "arm",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.28.1/lazygit_0.28.1_freebsd_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.28.1/lazygit_0.28.1_Linux_32-bit.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.28.1/lazygit_0.28.1_Linux_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.28.1/lazygit_0.28.1_Linux_armv6.tar.gz",
+      "Arch": "arm",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.28.1/lazygit_0.28.1_Linux_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.28.1/lazygit_0.28.1_Windows_32-bit.zip",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.28.1/lazygit_0.28.1_Windows_armv6.zip",
+      "Arch": "arm",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.28.1/lazygit_0.28.1_Windows_x86_64.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.28.2": [
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.28.2/lazygit_0.28.2_Darwin_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.28.2/lazygit_0.28.2_Darwin_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.28.2/lazygit_0.28.2_freebsd_32-bit.tar.gz",
+      "Arch": "386",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.28.2/lazygit_0.28.2_freebsd_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.28.2/lazygit_0.28.2_freebsd_armv6.tar.gz",
+      "Arch": "arm",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.28.2/lazygit_0.28.2_freebsd_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.28.2/lazygit_0.28.2_Linux_32-bit.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.28.2/lazygit_0.28.2_Linux_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.28.2/lazygit_0.28.2_Linux_armv6.tar.gz",
+      "Arch": "arm",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.28.2/lazygit_0.28.2_Linux_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.28.2/lazygit_0.28.2_Windows_32-bit.zip",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.28.2/lazygit_0.28.2_Windows_armv6.zip",
+      "Arch": "arm",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.28.2/lazygit_0.28.2_Windows_x86_64.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.29": [
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.29/lazygit_0.29_Darwin_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.29/lazygit_0.29_Darwin_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.29/lazygit_0.29_freebsd_32-bit.tar.gz",
+      "Arch": "386",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.29/lazygit_0.29_freebsd_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.29/lazygit_0.29_freebsd_armv6.tar.gz",
+      "Arch": "arm",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.29/lazygit_0.29_freebsd_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.29/lazygit_0.29_Linux_32-bit.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.29/lazygit_0.29_Linux_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.29/lazygit_0.29_Linux_armv6.tar.gz",
+      "Arch": "arm",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.29/lazygit_0.29_Linux_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.29/lazygit_0.29_Windows_32-bit.zip",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.29/lazygit_0.29_Windows_armv6.zip",
+      "Arch": "arm",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.29/lazygit_0.29_Windows_x86_64.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.30": [
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.30/lazygit_0.30_Darwin_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.30/lazygit_0.30_Darwin_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.30/lazygit_0.30_freebsd_32-bit.tar.gz",
+      "Arch": "386",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.30/lazygit_0.30_freebsd_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.30/lazygit_0.30_freebsd_armv6.tar.gz",
+      "Arch": "arm",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.30/lazygit_0.30_freebsd_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.30/lazygit_0.30_Linux_32-bit.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.30/lazygit_0.30_Linux_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.30/lazygit_0.30_Linux_armv6.tar.gz",
+      "Arch": "arm",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.30/lazygit_0.30_Linux_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.30/lazygit_0.30_Windows_32-bit.zip",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.30/lazygit_0.30_Windows_armv6.zip",
+      "Arch": "arm",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.30/lazygit_0.30_Windows_x86_64.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.30.1": [
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.30.1/lazygit_0.30.1_Darwin_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.30.1/lazygit_0.30.1_Darwin_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.30.1/lazygit_0.30.1_freebsd_32-bit.tar.gz",
+      "Arch": "386",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.30.1/lazygit_0.30.1_freebsd_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.30.1/lazygit_0.30.1_freebsd_armv6.tar.gz",
+      "Arch": "arm",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.30.1/lazygit_0.30.1_freebsd_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.30.1/lazygit_0.30.1_Linux_32-bit.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.30.1/lazygit_0.30.1_Linux_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.30.1/lazygit_0.30.1_Linux_armv6.tar.gz",
+      "Arch": "arm",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.30.1/lazygit_0.30.1_Linux_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.30.1/lazygit_0.30.1_Windows_32-bit.zip",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.30.1/lazygit_0.30.1_Windows_armv6.zip",
+      "Arch": "arm",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.30.1/lazygit_0.30.1_Windows_x86_64.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.31": [
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.31/lazygit_0.31_Darwin_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.31/lazygit_0.31_Darwin_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.31/lazygit_0.31_freebsd_32-bit.tar.gz",
+      "Arch": "386",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.31/lazygit_0.31_freebsd_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.31/lazygit_0.31_freebsd_armv6.tar.gz",
+      "Arch": "arm",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.31/lazygit_0.31_freebsd_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.31/lazygit_0.31_Linux_32-bit.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.31/lazygit_0.31_Linux_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.31/lazygit_0.31_Linux_armv6.tar.gz",
+      "Arch": "arm",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.31/lazygit_0.31_Linux_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.31/lazygit_0.31_Windows_32-bit.zip",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.31/lazygit_0.31_Windows_armv6.zip",
+      "Arch": "arm",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.31/lazygit_0.31_Windows_x86_64.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.31.1": [
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.31.1/lazygit_0.31.1_Darwin_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.31.1/lazygit_0.31.1_Darwin_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.31.1/lazygit_0.31.1_freebsd_32-bit.tar.gz",
+      "Arch": "386",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.31.1/lazygit_0.31.1_freebsd_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.31.1/lazygit_0.31.1_freebsd_armv6.tar.gz",
+      "Arch": "arm",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.31.1/lazygit_0.31.1_freebsd_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.31.1/lazygit_0.31.1_Linux_32-bit.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.31.1/lazygit_0.31.1_Linux_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.31.1/lazygit_0.31.1_Linux_armv6.tar.gz",
+      "Arch": "arm",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.31.1/lazygit_0.31.1_Linux_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.31.1/lazygit_0.31.1_Windows_32-bit.zip",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.31.1/lazygit_0.31.1_Windows_armv6.zip",
+      "Arch": "arm",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.31.1/lazygit_0.31.1_Windows_x86_64.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.31.2": [
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.31.2/lazygit_0.31.2_Darwin_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.31.2/lazygit_0.31.2_Darwin_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.31.2/lazygit_0.31.2_freebsd_32-bit.tar.gz",
+      "Arch": "386",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.31.2/lazygit_0.31.2_freebsd_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.31.2/lazygit_0.31.2_freebsd_armv6.tar.gz",
+      "Arch": "arm",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.31.2/lazygit_0.31.2_freebsd_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.31.2/lazygit_0.31.2_Linux_32-bit.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.31.2/lazygit_0.31.2_Linux_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.31.2/lazygit_0.31.2_Linux_armv6.tar.gz",
+      "Arch": "arm",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.31.2/lazygit_0.31.2_Linux_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.31.2/lazygit_0.31.2_Windows_32-bit.zip",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.31.2/lazygit_0.31.2_Windows_armv6.zip",
+      "Arch": "arm",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.31.2/lazygit_0.31.2_Windows_x86_64.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.31.3": [
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.31.3/lazygit_0.31.3_Darwin_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.31.3/lazygit_0.31.3_Darwin_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.31.3/lazygit_0.31.3_freebsd_32-bit.tar.gz",
+      "Arch": "386",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.31.3/lazygit_0.31.3_freebsd_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.31.3/lazygit_0.31.3_freebsd_armv6.tar.gz",
+      "Arch": "arm",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.31.3/lazygit_0.31.3_freebsd_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.31.3/lazygit_0.31.3_Linux_32-bit.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.31.3/lazygit_0.31.3_Linux_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.31.3/lazygit_0.31.3_Linux_armv6.tar.gz",
+      "Arch": "arm",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.31.3/lazygit_0.31.3_Linux_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.31.3/lazygit_0.31.3_Windows_32-bit.zip",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.31.3/lazygit_0.31.3_Windows_armv6.zip",
+      "Arch": "arm",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.31.3/lazygit_0.31.3_Windows_x86_64.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.31.4": [
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.31.4/lazygit_0.31.4_Darwin_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.31.4/lazygit_0.31.4_Darwin_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.31.4/lazygit_0.31.4_freebsd_32-bit.tar.gz",
+      "Arch": "386",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.31.4/lazygit_0.31.4_freebsd_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.31.4/lazygit_0.31.4_freebsd_armv6.tar.gz",
+      "Arch": "arm",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.31.4/lazygit_0.31.4_freebsd_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.31.4/lazygit_0.31.4_Linux_32-bit.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.31.4/lazygit_0.31.4_Linux_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.31.4/lazygit_0.31.4_Linux_armv6.tar.gz",
+      "Arch": "arm",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.31.4/lazygit_0.31.4_Linux_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.31.4/lazygit_0.31.4_Windows_32-bit.zip",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.31.4/lazygit_0.31.4_Windows_armv6.zip",
+      "Arch": "arm",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.31.4/lazygit_0.31.4_Windows_x86_64.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.32": [
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.32/lazygit_0.32_Darwin_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.32/lazygit_0.32_Darwin_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.32/lazygit_0.32_freebsd_32-bit.tar.gz",
+      "Arch": "386",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.32/lazygit_0.32_freebsd_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.32/lazygit_0.32_freebsd_armv6.tar.gz",
+      "Arch": "arm",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.32/lazygit_0.32_freebsd_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.32/lazygit_0.32_Linux_32-bit.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.32/lazygit_0.32_Linux_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.32/lazygit_0.32_Linux_armv6.tar.gz",
+      "Arch": "arm",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.32/lazygit_0.32_Linux_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.32/lazygit_0.32_Windows_32-bit.zip",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.32/lazygit_0.32_Windows_armv6.zip",
+      "Arch": "arm",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.32/lazygit_0.32_Windows_x86_64.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.32.1": [
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.32.1/lazygit_0.32.1_Darwin_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.32.1/lazygit_0.32.1_Darwin_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.32.1/lazygit_0.32.1_freebsd_32-bit.tar.gz",
+      "Arch": "386",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.32.1/lazygit_0.32.1_freebsd_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.32.1/lazygit_0.32.1_freebsd_armv6.tar.gz",
+      "Arch": "arm",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.32.1/lazygit_0.32.1_freebsd_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.32.1/lazygit_0.32.1_Linux_32-bit.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.32.1/lazygit_0.32.1_Linux_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.32.1/lazygit_0.32.1_Linux_armv6.tar.gz",
+      "Arch": "arm",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.32.1/lazygit_0.32.1_Linux_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.32.1/lazygit_0.32.1_Windows_32-bit.zip",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.32.1/lazygit_0.32.1_Windows_armv6.zip",
+      "Arch": "arm",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.32.1/lazygit_0.32.1_Windows_x86_64.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.32.2": [
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.32.2/lazygit_0.32.2_Darwin_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.32.2/lazygit_0.32.2_Darwin_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.32.2/lazygit_0.32.2_freebsd_32-bit.tar.gz",
+      "Arch": "386",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.32.2/lazygit_0.32.2_freebsd_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.32.2/lazygit_0.32.2_freebsd_armv6.tar.gz",
+      "Arch": "arm",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.32.2/lazygit_0.32.2_freebsd_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.32.2/lazygit_0.32.2_Linux_32-bit.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.32.2/lazygit_0.32.2_Linux_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.32.2/lazygit_0.32.2_Linux_armv6.tar.gz",
+      "Arch": "arm",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.32.2/lazygit_0.32.2_Linux_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.32.2/lazygit_0.32.2_Windows_32-bit.zip",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.32.2/lazygit_0.32.2_Windows_armv6.zip",
+      "Arch": "arm",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.32.2/lazygit_0.32.2_Windows_x86_64.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.33": [
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.33/lazygit_0.33_Darwin_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.33/lazygit_0.33_Darwin_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.33/lazygit_0.33_freebsd_32-bit.tar.gz",
+      "Arch": "386",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.33/lazygit_0.33_freebsd_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.33/lazygit_0.33_freebsd_armv6.tar.gz",
+      "Arch": "arm",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.33/lazygit_0.33_freebsd_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.33/lazygit_0.33_Linux_32-bit.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.33/lazygit_0.33_Linux_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.33/lazygit_0.33_Linux_armv6.tar.gz",
+      "Arch": "arm",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.33/lazygit_0.33_Linux_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.33/lazygit_0.33_Windows_32-bit.zip",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.33/lazygit_0.33_Windows_armv6.zip",
+      "Arch": "arm",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.33/lazygit_0.33_Windows_x86_64.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.34": [
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.34/lazygit_0.34_Darwin_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.34/lazygit_0.34_Darwin_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.34/lazygit_0.34_freebsd_32-bit.tar.gz",
+      "Arch": "386",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.34/lazygit_0.34_freebsd_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.34/lazygit_0.34_freebsd_armv6.tar.gz",
+      "Arch": "arm",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.34/lazygit_0.34_freebsd_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.34/lazygit_0.34_Linux_32-bit.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.34/lazygit_0.34_Linux_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.34/lazygit_0.34_Linux_armv6.tar.gz",
+      "Arch": "arm",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.34/lazygit_0.34_Linux_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.34/lazygit_0.34_Windows_32-bit.zip",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.34/lazygit_0.34_Windows_armv6.zip",
+      "Arch": "arm",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.34/lazygit_0.34_Windows_x86_64.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.35": [
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.35/lazygit_0.35_Darwin_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.35/lazygit_0.35_Darwin_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.35/lazygit_0.35_freebsd_32-bit.tar.gz",
+      "Arch": "386",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.35/lazygit_0.35_freebsd_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.35/lazygit_0.35_freebsd_armv6.tar.gz",
+      "Arch": "arm",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.35/lazygit_0.35_freebsd_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.35/lazygit_0.35_Linux_32-bit.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.35/lazygit_0.35_Linux_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.35/lazygit_0.35_Linux_armv6.tar.gz",
+      "Arch": "arm",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.35/lazygit_0.35_Linux_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.35/lazygit_0.35_Windows_32-bit.zip",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.35/lazygit_0.35_Windows_arm64.zip",
+      "Arch": "arm64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.35/lazygit_0.35_Windows_armv6.zip",
+      "Arch": "arm",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.35/lazygit_0.35_Windows_x86_64.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.36.0": [
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.36.0/lazygit_0.36.0_Darwin_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.36.0/lazygit_0.36.0_Darwin_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.36.0/lazygit_0.36.0_freebsd_32-bit.tar.gz",
+      "Arch": "386",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.36.0/lazygit_0.36.0_freebsd_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.36.0/lazygit_0.36.0_freebsd_armv6.tar.gz",
+      "Arch": "arm",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.36.0/lazygit_0.36.0_freebsd_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.36.0/lazygit_0.36.0_Linux_32-bit.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.36.0/lazygit_0.36.0_Linux_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.36.0/lazygit_0.36.0_Linux_armv6.tar.gz",
+      "Arch": "arm",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.36.0/lazygit_0.36.0_Linux_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.36.0/lazygit_0.36.0_Windows_32-bit.zip",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.36.0/lazygit_0.36.0_Windows_arm64.zip",
+      "Arch": "arm64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.36.0/lazygit_0.36.0_Windows_armv6.zip",
+      "Arch": "arm",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.36.0/lazygit_0.36.0_Windows_x86_64.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.37.0": [
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.37.0/lazygit_0.37.0_Darwin_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.37.0/lazygit_0.37.0_Darwin_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.37.0/lazygit_0.37.0_freebsd_32-bit.tar.gz",
+      "Arch": "386",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.37.0/lazygit_0.37.0_freebsd_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.37.0/lazygit_0.37.0_freebsd_armv6.tar.gz",
+      "Arch": "arm",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.37.0/lazygit_0.37.0_freebsd_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.37.0/lazygit_0.37.0_Linux_32-bit.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.37.0/lazygit_0.37.0_Linux_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.37.0/lazygit_0.37.0_Linux_armv6.tar.gz",
+      "Arch": "arm",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.37.0/lazygit_0.37.0_Linux_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.37.0/lazygit_0.37.0_Windows_32-bit.zip",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.37.0/lazygit_0.37.0_Windows_arm64.zip",
+      "Arch": "arm64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.37.0/lazygit_0.37.0_Windows_armv6.zip",
+      "Arch": "arm",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.37.0/lazygit_0.37.0_Windows_x86_64.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.38.0": [
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.38.0/lazygit_0.38.0_Darwin_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.38.0/lazygit_0.38.0_Darwin_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.38.0/lazygit_0.38.0_freebsd_32-bit.tar.gz",
+      "Arch": "386",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.38.0/lazygit_0.38.0_freebsd_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.38.0/lazygit_0.38.0_freebsd_armv6.tar.gz",
+      "Arch": "arm",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.38.0/lazygit_0.38.0_freebsd_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.38.0/lazygit_0.38.0_Linux_32-bit.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.38.0/lazygit_0.38.0_Linux_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.38.0/lazygit_0.38.0_Linux_armv6.tar.gz",
+      "Arch": "arm",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.38.0/lazygit_0.38.0_Linux_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.38.0/lazygit_0.38.0_Windows_32-bit.zip",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.38.0/lazygit_0.38.0_Windows_arm64.zip",
+      "Arch": "arm64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.38.0/lazygit_0.38.0_Windows_armv6.zip",
+      "Arch": "arm",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.38.0/lazygit_0.38.0_Windows_x86_64.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.38.1": [
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.38.1/lazygit_0.38.1_Darwin_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.38.1/lazygit_0.38.1_Darwin_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.38.1/lazygit_0.38.1_freebsd_32-bit.tar.gz",
+      "Arch": "386",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.38.1/lazygit_0.38.1_freebsd_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.38.1/lazygit_0.38.1_freebsd_armv6.tar.gz",
+      "Arch": "arm",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.38.1/lazygit_0.38.1_freebsd_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.38.1/lazygit_0.38.1_Linux_32-bit.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.38.1/lazygit_0.38.1_Linux_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.38.1/lazygit_0.38.1_Linux_armv6.tar.gz",
+      "Arch": "arm",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.38.1/lazygit_0.38.1_Linux_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.38.1/lazygit_0.38.1_Windows_32-bit.zip",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.38.1/lazygit_0.38.1_Windows_arm64.zip",
+      "Arch": "arm64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.38.1/lazygit_0.38.1_Windows_armv6.zip",
+      "Arch": "arm",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.38.1/lazygit_0.38.1_Windows_x86_64.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.38.2": [
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.38.2/lazygit_0.38.2_Darwin_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.38.2/lazygit_0.38.2_Darwin_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.38.2/lazygit_0.38.2_freebsd_32-bit.tar.gz",
+      "Arch": "386",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.38.2/lazygit_0.38.2_freebsd_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.38.2/lazygit_0.38.2_freebsd_armv6.tar.gz",
+      "Arch": "arm",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.38.2/lazygit_0.38.2_freebsd_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.38.2/lazygit_0.38.2_Linux_32-bit.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.38.2/lazygit_0.38.2_Linux_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.38.2/lazygit_0.38.2_Linux_armv6.tar.gz",
+      "Arch": "arm",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.38.2/lazygit_0.38.2_Linux_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.38.2/lazygit_0.38.2_Windows_32-bit.zip",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.38.2/lazygit_0.38.2_Windows_arm64.zip",
+      "Arch": "arm64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.38.2/lazygit_0.38.2_Windows_armv6.zip",
+      "Arch": "arm",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.38.2/lazygit_0.38.2_Windows_x86_64.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.39.1": [
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.39.1/lazygit_0.39.1_Darwin_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.39.1/lazygit_0.39.1_Darwin_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.39.1/lazygit_0.39.1_freebsd_32-bit.tar.gz",
+      "Arch": "386",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.39.1/lazygit_0.39.1_freebsd_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.39.1/lazygit_0.39.1_freebsd_armv6.tar.gz",
+      "Arch": "arm",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.39.1/lazygit_0.39.1_freebsd_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.39.1/lazygit_0.39.1_Linux_32-bit.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.39.1/lazygit_0.39.1_Linux_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.39.1/lazygit_0.39.1_Linux_armv6.tar.gz",
+      "Arch": "arm",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.39.1/lazygit_0.39.1_Linux_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.39.1/lazygit_0.39.1_Windows_32-bit.zip",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.39.1/lazygit_0.39.1_Windows_arm64.zip",
+      "Arch": "arm64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.39.1/lazygit_0.39.1_Windows_armv6.zip",
+      "Arch": "arm",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.39.1/lazygit_0.39.1_Windows_x86_64.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.39.2": [
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.39.2/lazygit_0.39.2_Darwin_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.39.2/lazygit_0.39.2_Darwin_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.39.2/lazygit_0.39.2_freebsd_32-bit.tar.gz",
+      "Arch": "386",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.39.2/lazygit_0.39.2_freebsd_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.39.2/lazygit_0.39.2_freebsd_armv6.tar.gz",
+      "Arch": "arm",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.39.2/lazygit_0.39.2_freebsd_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.39.2/lazygit_0.39.2_Linux_32-bit.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.39.2/lazygit_0.39.2_Linux_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.39.2/lazygit_0.39.2_Linux_armv6.tar.gz",
+      "Arch": "arm",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.39.2/lazygit_0.39.2_Linux_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.39.2/lazygit_0.39.2_Windows_32-bit.zip",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.39.2/lazygit_0.39.2_Windows_arm64.zip",
+      "Arch": "arm64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.39.2/lazygit_0.39.2_Windows_armv6.zip",
+      "Arch": "arm",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.39.2/lazygit_0.39.2_Windows_x86_64.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.39.3": [
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.39.3/lazygit_0.39.3_Darwin_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.39.3/lazygit_0.39.3_Darwin_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.39.3/lazygit_0.39.3_freebsd_32-bit.tar.gz",
+      "Arch": "386",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.39.3/lazygit_0.39.3_freebsd_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.39.3/lazygit_0.39.3_freebsd_armv6.tar.gz",
+      "Arch": "arm",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.39.3/lazygit_0.39.3_freebsd_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.39.3/lazygit_0.39.3_Linux_32-bit.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.39.3/lazygit_0.39.3_Linux_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.39.3/lazygit_0.39.3_Linux_armv6.tar.gz",
+      "Arch": "arm",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.39.3/lazygit_0.39.3_Linux_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.39.3/lazygit_0.39.3_Windows_32-bit.zip",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.39.3/lazygit_0.39.3_Windows_arm64.zip",
+      "Arch": "arm64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.39.3/lazygit_0.39.3_Windows_armv6.zip",
+      "Arch": "arm",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.39.3/lazygit_0.39.3_Windows_x86_64.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.39.4": [
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.39.4/lazygit_0.39.4_Darwin_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.39.4/lazygit_0.39.4_Darwin_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.39.4/lazygit_0.39.4_freebsd_32-bit.tar.gz",
+      "Arch": "386",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.39.4/lazygit_0.39.4_freebsd_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.39.4/lazygit_0.39.4_freebsd_armv6.tar.gz",
+      "Arch": "arm",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.39.4/lazygit_0.39.4_freebsd_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.39.4/lazygit_0.39.4_Linux_32-bit.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.39.4/lazygit_0.39.4_Linux_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.39.4/lazygit_0.39.4_Linux_armv6.tar.gz",
+      "Arch": "arm",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.39.4/lazygit_0.39.4_Linux_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.39.4/lazygit_0.39.4_Windows_32-bit.zip",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.39.4/lazygit_0.39.4_Windows_arm64.zip",
+      "Arch": "arm64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.39.4/lazygit_0.39.4_Windows_armv6.zip",
+      "Arch": "arm",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.39.4/lazygit_0.39.4_Windows_x86_64.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.40.0": [
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.40.0/lazygit_0.40.0_Darwin_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.40.0/lazygit_0.40.0_Darwin_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.40.0/lazygit_0.40.0_freebsd_32-bit.tar.gz",
+      "Arch": "386",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.40.0/lazygit_0.40.0_freebsd_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.40.0/lazygit_0.40.0_freebsd_armv6.tar.gz",
+      "Arch": "arm",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.40.0/lazygit_0.40.0_freebsd_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.40.0/lazygit_0.40.0_Linux_32-bit.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.40.0/lazygit_0.40.0_Linux_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.40.0/lazygit_0.40.0_Linux_armv6.tar.gz",
+      "Arch": "arm",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.40.0/lazygit_0.40.0_Linux_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.40.0/lazygit_0.40.0_Windows_32-bit.zip",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.40.0/lazygit_0.40.0_Windows_arm64.zip",
+      "Arch": "arm64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.40.0/lazygit_0.40.0_Windows_armv6.zip",
+      "Arch": "arm",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.40.0/lazygit_0.40.0_Windows_x86_64.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.40.1": [
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.40.1/lazygit_0.40.1_Darwin_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.40.1/lazygit_0.40.1_Darwin_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.40.1/lazygit_0.40.1_freebsd_32-bit.tar.gz",
+      "Arch": "386",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.40.1/lazygit_0.40.1_freebsd_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.40.1/lazygit_0.40.1_freebsd_armv6.tar.gz",
+      "Arch": "arm",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.40.1/lazygit_0.40.1_freebsd_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.40.1/lazygit_0.40.1_Linux_32-bit.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.40.1/lazygit_0.40.1_Linux_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.40.1/lazygit_0.40.1_Linux_armv6.tar.gz",
+      "Arch": "arm",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.40.1/lazygit_0.40.1_Linux_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.40.1/lazygit_0.40.1_Windows_32-bit.zip",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.40.1/lazygit_0.40.1_Windows_arm64.zip",
+      "Arch": "arm64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.40.1/lazygit_0.40.1_Windows_armv6.zip",
+      "Arch": "arm",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.40.1/lazygit_0.40.1_Windows_x86_64.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.40.2": [
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.40.2/lazygit_0.40.2_Darwin_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.40.2/lazygit_0.40.2_Darwin_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.40.2/lazygit_0.40.2_freebsd_32-bit.tar.gz",
+      "Arch": "386",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.40.2/lazygit_0.40.2_freebsd_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.40.2/lazygit_0.40.2_freebsd_armv6.tar.gz",
+      "Arch": "arm",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.40.2/lazygit_0.40.2_freebsd_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.40.2/lazygit_0.40.2_Linux_32-bit.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.40.2/lazygit_0.40.2_Linux_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.40.2/lazygit_0.40.2_Linux_armv6.tar.gz",
+      "Arch": "arm",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.40.2/lazygit_0.40.2_Linux_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.40.2/lazygit_0.40.2_Windows_32-bit.zip",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.40.2/lazygit_0.40.2_Windows_arm64.zip",
+      "Arch": "arm64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.40.2/lazygit_0.40.2_Windows_armv6.zip",
+      "Arch": "arm",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/jesseduffield/lazygit/releases/download/v0.40.2/lazygit_0.40.2_Windows_x86_64.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ]
+}
