@@ -9,30 +9,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v0.1/glow_0.1_linux_386.rpm",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v0.1/glow_0.1_linux_amd64.rpm",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v0.1/glow_0.1_linux_arm64.rpm",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/charmbracelet/glow/releases/download/v0.1/glow_0.1_linux_arm64.tar.gz",
       "Arch": "arm64",
       "Os": "linux",
@@ -41,24 +17,8 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v0.1/glow_0.1_linux_armv6.rpm",
-      "Arch": "arm",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/charmbracelet/glow/releases/download/v0.1/glow_0.1_linux_armv6.tar.gz",
       "Arch": "arm",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v0.1/glow_0.1_linux_armv7.rpm",
-      "Arch": "",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -115,30 +75,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v0.1.1/glow_0.1.1_linux_386.rpm",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v0.1.1/glow_0.1.1_linux_amd64.rpm",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v0.1.1/glow_0.1.1_linux_arm64.rpm",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/charmbracelet/glow/releases/download/v0.1.1/glow_0.1.1_linux_arm64.tar.gz",
       "Arch": "arm64",
       "Os": "linux",
@@ -147,24 +83,8 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v0.1.1/glow_0.1.1_linux_armv6.rpm",
-      "Arch": "arm",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/charmbracelet/glow/releases/download/v0.1.1/glow_0.1.1_linux_armv6.tar.gz",
       "Arch": "arm",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v0.1.1/glow_0.1.1_linux_armv7.rpm",
-      "Arch": "",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -221,30 +141,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v0.1.2/glow_0.1.2_linux_386.rpm",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v0.1.2/glow_0.1.2_linux_amd64.rpm",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v0.1.2/glow_0.1.2_linux_arm64.rpm",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/charmbracelet/glow/releases/download/v0.1.2/glow_0.1.2_linux_arm64.tar.gz",
       "Arch": "arm64",
       "Os": "linux",
@@ -253,24 +149,8 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v0.1.2/glow_0.1.2_linux_armv6.rpm",
-      "Arch": "arm",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/charmbracelet/glow/releases/download/v0.1.2/glow_0.1.2_linux_armv6.tar.gz",
       "Arch": "arm",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v0.1.2/glow_0.1.2_linux_armv7.rpm",
-      "Arch": "",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -327,30 +207,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v0.1.3/glow_0.1.3_linux_386.rpm",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v0.1.3/glow_0.1.3_linux_amd64.rpm",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v0.1.3/glow_0.1.3_linux_arm64.rpm",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/charmbracelet/glow/releases/download/v0.1.3/glow_0.1.3_linux_arm64.tar.gz",
       "Arch": "arm64",
       "Os": "linux",
@@ -359,24 +215,8 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v0.1.3/glow_0.1.3_linux_armv6.rpm",
-      "Arch": "arm",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/charmbracelet/glow/releases/download/v0.1.3/glow_0.1.3_linux_armv6.tar.gz",
       "Arch": "arm",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v0.1.3/glow_0.1.3_linux_armv7.rpm",
-      "Arch": "",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -465,30 +305,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v0.1.4/glow_0.1.4_linux_386.rpm",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v0.1.4/glow_0.1.4_linux_amd64.rpm",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v0.1.4/glow_0.1.4_linux_arm64.rpm",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/charmbracelet/glow/releases/download/v0.1.4/glow_0.1.4_linux_arm64.tar.gz",
       "Arch": "arm64",
       "Os": "linux",
@@ -497,24 +313,8 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v0.1.4/glow_0.1.4_linux_armv6.rpm",
-      "Arch": "arm",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/charmbracelet/glow/releases/download/v0.1.4/glow_0.1.4_linux_armv6.tar.gz",
       "Arch": "arm",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v0.1.4/glow_0.1.4_linux_armv7.rpm",
-      "Arch": "",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -603,30 +403,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v0.1.5/glow_0.1.5_linux_386.rpm",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v0.1.5/glow_0.1.5_linux_amd64.rpm",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v0.1.5/glow_0.1.5_linux_arm64.rpm",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/charmbracelet/glow/releases/download/v0.1.5/glow_0.1.5_linux_arm64.tar.gz",
       "Arch": "arm64",
       "Os": "linux",
@@ -635,24 +411,8 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v0.1.5/glow_0.1.5_linux_armv6.rpm",
-      "Arch": "arm",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/charmbracelet/glow/releases/download/v0.1.5/glow_0.1.5_linux_armv6.tar.gz",
       "Arch": "arm",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v0.1.5/glow_0.1.5_linux_armv7.rpm",
-      "Arch": "",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -741,30 +501,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v0.1.6/glow_0.1.6_linux_386.rpm",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v0.1.6/glow_0.1.6_linux_amd64.rpm",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v0.1.6/glow_0.1.6_linux_arm64.rpm",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/charmbracelet/glow/releases/download/v0.1.6/glow_0.1.6_linux_arm64.tar.gz",
       "Arch": "arm64",
       "Os": "linux",
@@ -773,24 +509,8 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v0.1.6/glow_0.1.6_linux_armv6.rpm",
-      "Arch": "arm",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/charmbracelet/glow/releases/download/v0.1.6/glow_0.1.6_linux_armv6.tar.gz",
       "Arch": "arm",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v0.1.6/glow_0.1.6_linux_armv7.rpm",
-      "Arch": "",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -879,30 +599,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v0.2.0/glow_0.2.0_linux_386.rpm",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v0.2.0/glow_0.2.0_linux_amd64.rpm",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v0.2.0/glow_0.2.0_linux_arm64.rpm",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/charmbracelet/glow/releases/download/v0.2.0/glow_0.2.0_linux_arm64.tar.gz",
       "Arch": "arm64",
       "Os": "linux",
@@ -911,24 +607,8 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v0.2.0/glow_0.2.0_linux_armv6.rpm",
-      "Arch": "arm",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/charmbracelet/glow/releases/download/v0.2.0/glow_0.2.0_linux_armv6.tar.gz",
       "Arch": "arm",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v0.2.0/glow_0.2.0_linux_armv7.rpm",
-      "Arch": "",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -985,30 +665,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.0.0/glow_1.0.0_linux_386.rpm",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.0.0/glow_1.0.0_linux_amd64.rpm",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.0.0/glow_1.0.0_linux_arm64.rpm",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/charmbracelet/glow/releases/download/v1.0.0/glow_1.0.0_linux_arm64.tar.gz",
       "Arch": "arm64",
       "Os": "linux",
@@ -1017,24 +673,8 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.0.0/glow_1.0.0_linux_armv6.rpm",
-      "Arch": "arm",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/charmbracelet/glow/releases/download/v1.0.0/glow_1.0.0_linux_armv6.tar.gz",
       "Arch": "arm",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.0.0/glow_1.0.0_linux_armv7.rpm",
-      "Arch": "",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1075,30 +715,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.0.1/glow_1.0.1_linux_386.rpm",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.0.1/glow_1.0.1_linux_amd64.rpm",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.0.1/glow_1.0.1_linux_arm64.rpm",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/charmbracelet/glow/releases/download/v1.0.1/glow_1.0.1_linux_arm64.tar.gz",
       "Arch": "arm64",
       "Os": "linux",
@@ -1107,24 +723,8 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.0.1/glow_1.0.1_linux_armv6.rpm",
-      "Arch": "arm",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/charmbracelet/glow/releases/download/v1.0.1/glow_1.0.1_linux_armv6.tar.gz",
       "Arch": "arm",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.0.1/glow_1.0.1_linux_armv7.rpm",
-      "Arch": "",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1205,54 +805,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.0.2/glow_1.0.2_linux_386.apk",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.0.2/glow_1.0.2_linux_386.rpm",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.0.2/glow_1.0.2_linux_amd64.apk",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.0.2/glow_1.0.2_linux_amd64.rpm",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.0.2/glow_1.0.2_linux_arm64.apk",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.0.2/glow_1.0.2_linux_arm64.rpm",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/charmbracelet/glow/releases/download/v1.0.2/glow_1.0.2_linux_arm64.tar.gz",
       "Arch": "arm64",
       "Os": "linux",
@@ -1261,40 +813,8 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.0.2/glow_1.0.2_linux_armv6.apk",
-      "Arch": "arm",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.0.2/glow_1.0.2_linux_armv6.rpm",
-      "Arch": "arm",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/charmbracelet/glow/releases/download/v1.0.2/glow_1.0.2_linux_armv6.tar.gz",
       "Arch": "arm",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.0.2/glow_1.0.2_linux_armv7.apk",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.0.2/glow_1.0.2_linux_armv7.rpm",
-      "Arch": "",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1431,54 +951,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.1.0/glow_1.1.0_linux_386.apk",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.1.0/glow_1.1.0_linux_386.rpm",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.1.0/glow_1.1.0_linux_amd64.apk",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.1.0/glow_1.1.0_linux_amd64.rpm",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.1.0/glow_1.1.0_linux_arm64.apk",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.1.0/glow_1.1.0_linux_arm64.rpm",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/charmbracelet/glow/releases/download/v1.1.0/glow_1.1.0_linux_arm64.tar.gz",
       "Arch": "arm64",
       "Os": "linux",
@@ -1487,40 +959,8 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.1.0/glow_1.1.0_linux_armv6.apk",
-      "Arch": "arm",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.1.0/glow_1.1.0_linux_armv6.rpm",
-      "Arch": "arm",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/charmbracelet/glow/releases/download/v1.1.0/glow_1.1.0_linux_armv6.tar.gz",
       "Arch": "arm",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.1.0/glow_1.1.0_linux_armv7.apk",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.1.0/glow_1.1.0_linux_armv7.rpm",
-      "Arch": "",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1657,54 +1097,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.2.0/glow_1.2.0_linux_386.apk",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.2.0/glow_1.2.0_linux_386.rpm",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.2.0/glow_1.2.0_linux_amd64.apk",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.2.0/glow_1.2.0_linux_amd64.rpm",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.2.0/glow_1.2.0_linux_arm64.apk",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.2.0/glow_1.2.0_linux_arm64.rpm",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/charmbracelet/glow/releases/download/v1.2.0/glow_1.2.0_linux_arm64.tar.gz",
       "Arch": "arm64",
       "Os": "linux",
@@ -1713,40 +1105,8 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.2.0/glow_1.2.0_linux_armv6.apk",
-      "Arch": "arm",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.2.0/glow_1.2.0_linux_armv6.rpm",
-      "Arch": "arm",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/charmbracelet/glow/releases/download/v1.2.0/glow_1.2.0_linux_armv6.tar.gz",
       "Arch": "arm",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.2.0/glow_1.2.0_linux_armv7.apk",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.2.0/glow_1.2.0_linux_armv7.rpm",
-      "Arch": "",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1883,54 +1243,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.2.1/glow_1.2.1_linux_386.apk",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.2.1/glow_1.2.1_linux_386.rpm",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.2.1/glow_1.2.1_linux_amd64.apk",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.2.1/glow_1.2.1_linux_amd64.rpm",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.2.1/glow_1.2.1_linux_arm64.apk",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.2.1/glow_1.2.1_linux_arm64.rpm",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/charmbracelet/glow/releases/download/v1.2.1/glow_1.2.1_linux_arm64.tar.gz",
       "Arch": "arm64",
       "Os": "linux",
@@ -1939,40 +1251,8 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.2.1/glow_1.2.1_linux_armv6.apk",
-      "Arch": "arm",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.2.1/glow_1.2.1_linux_armv6.rpm",
-      "Arch": "arm",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/charmbracelet/glow/releases/download/v1.2.1/glow_1.2.1_linux_armv6.tar.gz",
       "Arch": "arm",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.2.1/glow_1.2.1_linux_armv7.apk",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.2.1/glow_1.2.1_linux_armv7.rpm",
-      "Arch": "",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -2109,54 +1389,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.3.0/glow_1.3.0_linux_386.apk",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.3.0/glow_1.3.0_linux_386.rpm",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.3.0/glow_1.3.0_linux_amd64.apk",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.3.0/glow_1.3.0_linux_amd64.rpm",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.3.0/glow_1.3.0_linux_arm64.apk",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.3.0/glow_1.3.0_linux_arm64.rpm",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/charmbracelet/glow/releases/download/v1.3.0/glow_1.3.0_linux_arm64.tar.gz",
       "Arch": "arm64",
       "Os": "linux",
@@ -2165,40 +1397,8 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.3.0/glow_1.3.0_linux_armv6.apk",
-      "Arch": "arm",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.3.0/glow_1.3.0_linux_armv6.rpm",
-      "Arch": "arm",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/charmbracelet/glow/releases/download/v1.3.0/glow_1.3.0_linux_armv6.tar.gz",
       "Arch": "arm",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.3.0/glow_1.3.0_linux_armv7.apk",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.3.0/glow_1.3.0_linux_armv7.rpm",
-      "Arch": "",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -2343,54 +1543,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.4.0/glow_1.4.0_linux_386.apk",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.4.0/glow_1.4.0_linux_386.rpm",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.4.0/glow_1.4.0_linux_amd64.apk",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.4.0/glow_1.4.0_linux_amd64.rpm",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.4.0/glow_1.4.0_linux_arm64.apk",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.4.0/glow_1.4.0_linux_arm64.rpm",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/charmbracelet/glow/releases/download/v1.4.0/glow_1.4.0_linux_arm64.tar.gz",
       "Arch": "arm64",
       "Os": "linux",
@@ -2399,40 +1551,8 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.4.0/glow_1.4.0_linux_armv6.apk",
-      "Arch": "arm",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.4.0/glow_1.4.0_linux_armv6.rpm",
-      "Arch": "arm",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/charmbracelet/glow/releases/download/v1.4.0/glow_1.4.0_linux_armv6.tar.gz",
       "Arch": "arm",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.4.0/glow_1.4.0_linux_armv7.apk",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.4.0/glow_1.4.0_linux_armv7.rpm",
-      "Arch": "",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -2577,54 +1697,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.4.1/glow_1.4.1_linux_386.apk",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.4.1/glow_1.4.1_linux_386.rpm",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.4.1/glow_1.4.1_linux_amd64.apk",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.4.1/glow_1.4.1_linux_amd64.rpm",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.4.1/glow_1.4.1_linux_arm64.apk",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.4.1/glow_1.4.1_linux_arm64.rpm",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/charmbracelet/glow/releases/download/v1.4.1/glow_1.4.1_linux_arm64.tar.gz",
       "Arch": "arm64",
       "Os": "linux",
@@ -2633,40 +1705,8 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.4.1/glow_1.4.1_linux_armv6.apk",
-      "Arch": "arm",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.4.1/glow_1.4.1_linux_armv6.rpm",
-      "Arch": "arm",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/charmbracelet/glow/releases/download/v1.4.1/glow_1.4.1_linux_armv6.tar.gz",
       "Arch": "arm",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.4.1/glow_1.4.1_linux_armv7.apk",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.4.1/glow_1.4.1_linux_armv7.rpm",
-      "Arch": "",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -2779,23 +1819,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.0/glow-1.5.0.tar.gz.sbom",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.0/glow_1.5.0_Darwin_arm64.tar.gz",
-      "Arch": "arm64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.0/glow_1.5.0_Darwin_arm64.tar.gz.sbom",
       "Arch": "arm64",
       "Os": "darwin",
       "Sum": "",
@@ -2811,23 +1835,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.0/glow_1.5.0_Darwin_x86_64.tar.gz.sbom",
-      "Arch": "amd64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.0/glow_1.5.0_freebsd_arm64.tar.gz",
-      "Arch": "arm64",
-      "Os": "freebsd",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.0/glow_1.5.0_freebsd_arm64.tar.gz.sbom",
       "Arch": "arm64",
       "Os": "freebsd",
       "Sum": "",
@@ -2843,23 +1851,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.0/glow_1.5.0_freebsd_armv7.tar.gz.sbom",
-      "Arch": "",
-      "Os": "freebsd",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.0/glow_1.5.0_freebsd_i386.tar.gz",
-      "Arch": "386",
-      "Os": "freebsd",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.0/glow_1.5.0_freebsd_i386.tar.gz.sbom",
       "Arch": "386",
       "Os": "freebsd",
       "Sum": "",
@@ -2875,62 +1867,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.0/glow_1.5.0_freebsd_x86_64.tar.gz.sbom",
-      "Arch": "amd64",
-      "Os": "freebsd",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.0/glow_1.5.0_linux_386.apk",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.0/glow_1.5.0_linux_386.rpm",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.0/glow_1.5.0_linux_amd64.apk",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.0/glow_1.5.0_linux_amd64.rpm",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.0/glow_1.5.0_linux_arm64.apk",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.0/glow_1.5.0_linux_arm64.rpm",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.0/glow_1.5.0_Linux_arm64.tar.gz",
       "Arch": "arm64",
       "Os": "linux",
@@ -2939,39 +1875,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.0/glow_1.5.0_Linux_arm64.tar.gz.sbom",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.0/glow_1.5.0_linux_armv7.apk",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.0/glow_1.5.0_linux_armv7.rpm",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.0/glow_1.5.0_Linux_armv7.tar.gz",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.0/glow_1.5.0_Linux_armv7.tar.gz.sbom",
       "Arch": "",
       "Os": "linux",
       "Sum": "",
@@ -2987,23 +1891,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.0/glow_1.5.0_Linux_i386.tar.gz.sbom",
-      "Arch": "386",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.0/glow_1.5.0_Linux_x86_64.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.0/glow_1.5.0_Linux_x86_64.tar.gz.sbom",
       "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
@@ -3019,23 +1907,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.0/glow_1.5.0_netbsd_armv7.tar.gz.sbom",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.0/glow_1.5.0_netbsd_i386.tar.gz",
-      "Arch": "386",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.0/glow_1.5.0_netbsd_i386.tar.gz.sbom",
       "Arch": "386",
       "Os": "",
       "Sum": "",
@@ -3051,23 +1923,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.0/glow_1.5.0_netbsd_x86_64.tar.gz.sbom",
-      "Arch": "amd64",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.0/glow_1.5.0_openbsd_arm64.tar.gz",
-      "Arch": "arm64",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.0/glow_1.5.0_openbsd_arm64.tar.gz.sbom",
       "Arch": "arm64",
       "Os": "",
       "Sum": "",
@@ -3083,23 +1939,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.0/glow_1.5.0_openbsd_armv7.tar.gz.sbom",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.0/glow_1.5.0_openbsd_i386.tar.gz",
-      "Arch": "386",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.0/glow_1.5.0_openbsd_i386.tar.gz.sbom",
       "Arch": "386",
       "Os": "",
       "Sum": "",
@@ -3115,23 +1955,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.0/glow_1.5.0_openbsd_x86_64.tar.gz.sbom",
-      "Arch": "amd64",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.0/glow_1.5.0_Windows_i386.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.0/glow_1.5.0_Windows_i386.zip.sbom",
       "Arch": "386",
       "Os": "windows",
       "Sum": "",
@@ -3145,41 +1969,9 @@
       "Sum": "",
       "SumType": "",
       "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.0/glow_1.5.0_Windows_x86_64.zip.sbom",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
     }
   ],
   "v1.5.1": [
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.1/glow-1.5.1.aarch64.rpm",
-      "Arch": "arm64",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.1/glow-1.5.1.armv7hl.rpm",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.1/glow-1.5.1.i386.rpm",
-      "Arch": "386",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
     {
       "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.1/glow-1.5.1.tar.gz",
       "Arch": "",
@@ -3189,63 +1981,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.1/glow-1.5.1.tar.gz.sbom",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.1/glow-1.5.1.x86_64.rpm",
-      "Arch": "amd64",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.1/glow_1.5.1_aarch64.apk",
-      "Arch": "arm64",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.1/glow_1.5.1_armv7.apk",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.1/glow_1.5.1_x86.apk",
-      "Arch": "386",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.1/glow_1.5.1_x86_64.apk",
-      "Arch": "amd64",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.1/glow_Darwin_arm64.tar.gz",
-      "Arch": "arm64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.1/glow_Darwin_arm64.tar.gz.sbom",
       "Arch": "arm64",
       "Os": "darwin",
       "Sum": "",
@@ -3261,23 +1997,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.1/glow_Darwin_x86_64.tar.gz.sbom",
-      "Arch": "amd64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.1/glow_Freebsd_arm.tar.gz",
-      "Arch": "",
-      "Os": "freebsd",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.1/glow_Freebsd_arm.tar.gz.sbom",
       "Arch": "",
       "Os": "freebsd",
       "Sum": "",
@@ -3293,23 +2013,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.1/glow_Freebsd_arm64.tar.gz.sbom",
-      "Arch": "arm64",
-      "Os": "freebsd",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.1/glow_Freebsd_i386.tar.gz",
-      "Arch": "386",
-      "Os": "freebsd",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.1/glow_Freebsd_i386.tar.gz.sbom",
       "Arch": "386",
       "Os": "freebsd",
       "Sum": "",
@@ -3325,23 +2029,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.1/glow_Freebsd_x86_64.tar.gz.sbom",
-      "Arch": "amd64",
-      "Os": "freebsd",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.1/glow_Linux_arm.tar.gz",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.1/glow_Linux_arm.tar.gz.sbom",
       "Arch": "",
       "Os": "linux",
       "Sum": "",
@@ -3357,23 +2045,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.1/glow_Linux_arm64.tar.gz.sbom",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.1/glow_Linux_i386.tar.gz",
-      "Arch": "386",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.1/glow_Linux_i386.tar.gz.sbom",
       "Arch": "386",
       "Os": "linux",
       "Sum": "",
@@ -3389,23 +2061,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.1/glow_Linux_x86_64.tar.gz.sbom",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.1/glow_Netbsd_arm.tar.gz",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.1/glow_Netbsd_arm.tar.gz.sbom",
       "Arch": "",
       "Os": "",
       "Sum": "",
@@ -3421,23 +2077,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.1/glow_Netbsd_i386.tar.gz.sbom",
-      "Arch": "386",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.1/glow_Netbsd_x86_64.tar.gz",
-      "Arch": "amd64",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.1/glow_Netbsd_x86_64.tar.gz.sbom",
       "Arch": "amd64",
       "Os": "",
       "Sum": "",
@@ -3453,23 +2093,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.1/glow_Openbsd_arm.tar.gz.sbom",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.1/glow_Openbsd_arm64.tar.gz",
-      "Arch": "arm64",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.1/glow_Openbsd_arm64.tar.gz.sbom",
       "Arch": "arm64",
       "Os": "",
       "Sum": "",
@@ -3485,23 +2109,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.1/glow_Openbsd_i386.tar.gz.sbom",
-      "Arch": "386",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.1/glow_Openbsd_x86_64.tar.gz",
-      "Arch": "amd64",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.1/glow_Openbsd_x86_64.tar.gz.sbom",
       "Arch": "amd64",
       "Os": "",
       "Sum": "",
@@ -3517,23 +2125,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.1/glow_Windows_i386.zip.sbom",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.1/glow_Windows_x86_64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/charmbracelet/glow/releases/download/v1.5.1/glow_Windows_x86_64.zip.sbom",
       "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
