@@ -9,23 +9,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.30.0/gleam-v0.30.0-aarch64-apple-darwin.tar.gz.sha512",
-      "Arch": "arm64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.30.0/gleam-v0.30.0-aarch64-unknown-linux-musl.tar.gz",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.30.0/gleam-v0.30.0-aarch64-unknown-linux-musl.tar.gz.sha512",
       "Arch": "arm64",
       "Os": "linux",
       "Sum": "",
@@ -41,14 +25,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.30.0/gleam-v0.30.0-x86_64-apple-darwin.tar.gz.sha512",
-      "Arch": "amd64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.30.0/gleam-v0.30.0-x86_64-pc-windows-msvc.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -57,23 +33,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.30.0/gleam-v0.30.0-x86_64-pc-windows-msvc.zip.sha512",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.30.0/gleam-v0.30.0-x86_64-unknown-linux-musl.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.30.0/gleam-v0.30.0-x86_64-unknown-linux-musl.tar.gz.sha512",
       "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
@@ -91,23 +51,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.30.0-rc3/gleam-v0.30.0-rc3-aarch64-apple-darwin.tar.gz.sha512",
-      "Arch": "arm64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.30.0-rc3/gleam-v0.30.0-rc3-aarch64-unknown-linux-musl.tar.gz",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.30.0-rc3/gleam-v0.30.0-rc3-aarch64-unknown-linux-musl.tar.gz.sha512",
       "Arch": "arm64",
       "Os": "linux",
       "Sum": "",
@@ -123,14 +67,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.30.0-rc3/gleam-v0.30.0-rc3-x86_64-apple-darwin.tar.gz.sha512",
-      "Arch": "amd64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.30.0-rc3/gleam-v0.30.0-rc3-x86_64-pc-windows-msvc.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -139,23 +75,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.30.0-rc3/gleam-v0.30.0-rc3-x86_64-pc-windows-msvc.zip.sha512",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.30.0-rc3/gleam-v0.30.0-rc3-x86_64-unknown-linux-musl.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.30.0-rc3/gleam-v0.30.0-rc3-x86_64-unknown-linux-musl.tar.gz.sha512",
       "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
@@ -173,23 +93,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.30.0-rc4/gleam-v0.30.0-rc4-aarch64-apple-darwin.tar.gz.sha512",
-      "Arch": "arm64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.30.0-rc4/gleam-v0.30.0-rc4-aarch64-unknown-linux-musl.tar.gz",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.30.0-rc4/gleam-v0.30.0-rc4-aarch64-unknown-linux-musl.tar.gz.sha512",
       "Arch": "arm64",
       "Os": "linux",
       "Sum": "",
@@ -205,14 +109,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.30.0-rc4/gleam-v0.30.0-rc4-x86_64-apple-darwin.tar.gz.sha512",
-      "Arch": "amd64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.30.0-rc4/gleam-v0.30.0-rc4-x86_64-pc-windows-msvc.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -221,23 +117,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.30.0-rc4/gleam-v0.30.0-rc4-x86_64-pc-windows-msvc.zip.sha512",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.30.0-rc4/gleam-v0.30.0-rc4-x86_64-unknown-linux-musl.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.30.0-rc4/gleam-v0.30.0-rc4-x86_64-unknown-linux-musl.tar.gz.sha512",
       "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
@@ -255,23 +135,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.30.1/gleam-v0.30.1-aarch64-apple-darwin.tar.gz.sha512",
-      "Arch": "arm64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.30.1/gleam-v0.30.1-aarch64-unknown-linux-musl.tar.gz",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.30.1/gleam-v0.30.1-aarch64-unknown-linux-musl.tar.gz.sha512",
       "Arch": "arm64",
       "Os": "linux",
       "Sum": "",
@@ -287,14 +151,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.30.1/gleam-v0.30.1-x86_64-apple-darwin.tar.gz.sha512",
-      "Arch": "amd64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.30.1/gleam-v0.30.1-x86_64-pc-windows-msvc.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -303,23 +159,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.30.1/gleam-v0.30.1-x86_64-pc-windows-msvc.zip.sha512",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.30.1/gleam-v0.30.1-x86_64-unknown-linux-musl.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.30.1/gleam-v0.30.1-x86_64-unknown-linux-musl.tar.gz.sha512",
       "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
@@ -337,23 +177,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.30.2/gleam-v0.30.2-aarch64-apple-darwin.tar.gz.sha512",
-      "Arch": "arm64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.30.2/gleam-v0.30.2-aarch64-unknown-linux-musl.tar.gz",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.30.2/gleam-v0.30.2-aarch64-unknown-linux-musl.tar.gz.sha512",
       "Arch": "arm64",
       "Os": "linux",
       "Sum": "",
@@ -369,14 +193,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.30.2/gleam-v0.30.2-x86_64-apple-darwin.tar.gz.sha512",
-      "Arch": "amd64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.30.2/gleam-v0.30.2-x86_64-pc-windows-msvc.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -385,23 +201,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.30.2/gleam-v0.30.2-x86_64-pc-windows-msvc.zip.sha512",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.30.2/gleam-v0.30.2-x86_64-unknown-linux-musl.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.30.2/gleam-v0.30.2-x86_64-unknown-linux-musl.tar.gz.sha512",
       "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
@@ -419,23 +219,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.30.3/gleam-v0.30.3-aarch64-apple-darwin.tar.gz.sha512",
-      "Arch": "arm64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.30.3/gleam-v0.30.3-aarch64-unknown-linux-musl.tar.gz",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.30.3/gleam-v0.30.3-aarch64-unknown-linux-musl.tar.gz.sha512",
       "Arch": "arm64",
       "Os": "linux",
       "Sum": "",
@@ -451,14 +235,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.30.3/gleam-v0.30.3-x86_64-apple-darwin.tar.gz.sha512",
-      "Arch": "amd64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.30.3/gleam-v0.30.3-x86_64-pc-windows-msvc.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -467,23 +243,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.30.3/gleam-v0.30.3-x86_64-pc-windows-msvc.zip.sha512",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.30.3/gleam-v0.30.3-x86_64-unknown-linux-musl.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.30.3/gleam-v0.30.3-x86_64-unknown-linux-musl.tar.gz.sha512",
       "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
@@ -501,23 +261,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.30.4/gleam-v0.30.4-aarch64-apple-darwin.tar.gz.sha512",
-      "Arch": "arm64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.30.4/gleam-v0.30.4-aarch64-unknown-linux-musl.tar.gz",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.30.4/gleam-v0.30.4-aarch64-unknown-linux-musl.tar.gz.sha512",
       "Arch": "arm64",
       "Os": "linux",
       "Sum": "",
@@ -533,14 +277,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.30.4/gleam-v0.30.4-x86_64-apple-darwin.tar.gz.sha512",
-      "Arch": "amd64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.30.4/gleam-v0.30.4-x86_64-pc-windows-msvc.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -549,23 +285,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.30.4/gleam-v0.30.4-x86_64-pc-windows-msvc.zip.sha512",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.30.4/gleam-v0.30.4-x86_64-unknown-linux-musl.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.30.4/gleam-v0.30.4-x86_64-unknown-linux-musl.tar.gz.sha512",
       "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
@@ -583,23 +303,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.30.5/gleam-v0.30.5-aarch64-apple-darwin.tar.gz.sha512",
-      "Arch": "arm64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.30.5/gleam-v0.30.5-aarch64-unknown-linux-musl.tar.gz",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.30.5/gleam-v0.30.5-aarch64-unknown-linux-musl.tar.gz.sha512",
       "Arch": "arm64",
       "Os": "linux",
       "Sum": "",
@@ -615,14 +319,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.30.5/gleam-v0.30.5-x86_64-apple-darwin.tar.gz.sha512",
-      "Arch": "amd64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.30.5/gleam-v0.30.5-x86_64-pc-windows-msvc.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -631,23 +327,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.30.5/gleam-v0.30.5-x86_64-pc-windows-msvc.zip.sha512",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.30.5/gleam-v0.30.5-x86_64-unknown-linux-musl.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.30.5/gleam-v0.30.5-x86_64-unknown-linux-musl.tar.gz.sha512",
       "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
@@ -665,23 +345,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.31.0/gleam-v0.31.0-aarch64-apple-darwin.tar.gz.sha512",
-      "Arch": "arm64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.31.0/gleam-v0.31.0-aarch64-unknown-linux-musl.tar.gz",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.31.0/gleam-v0.31.0-aarch64-unknown-linux-musl.tar.gz.sha512",
       "Arch": "arm64",
       "Os": "linux",
       "Sum": "",
@@ -697,14 +361,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.31.0/gleam-v0.31.0-x86_64-apple-darwin.tar.gz.sha512",
-      "Arch": "amd64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.31.0/gleam-v0.31.0-x86_64-pc-windows-msvc.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -713,23 +369,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.31.0/gleam-v0.31.0-x86_64-pc-windows-msvc.zip.sha512",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.31.0/gleam-v0.31.0-x86_64-unknown-linux-musl.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.31.0/gleam-v0.31.0-x86_64-unknown-linux-musl.tar.gz.sha512",
       "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
@@ -747,23 +387,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.31.0-rc1/gleam-v0.31.0-rc1-aarch64-apple-darwin.tar.gz.sha512",
-      "Arch": "arm64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.31.0-rc1/gleam-v0.31.0-rc1-aarch64-unknown-linux-musl.tar.gz",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.31.0-rc1/gleam-v0.31.0-rc1-aarch64-unknown-linux-musl.tar.gz.sha512",
       "Arch": "arm64",
       "Os": "linux",
       "Sum": "",
@@ -779,14 +403,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.31.0-rc1/gleam-v0.31.0-rc1-x86_64-apple-darwin.tar.gz.sha512",
-      "Arch": "amd64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.31.0-rc1/gleam-v0.31.0-rc1-x86_64-pc-windows-msvc.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -795,23 +411,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.31.0-rc1/gleam-v0.31.0-rc1-x86_64-pc-windows-msvc.zip.sha512",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.31.0-rc1/gleam-v0.31.0-rc1-x86_64-unknown-linux-musl.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.31.0-rc1/gleam-v0.31.0-rc1-x86_64-unknown-linux-musl.tar.gz.sha512",
       "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
@@ -829,23 +429,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.32.0/gleam-v0.32.0-aarch64-apple-darwin.tar.gz.sha512",
-      "Arch": "arm64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.32.0/gleam-v0.32.0-aarch64-unknown-linux-musl.tar.gz",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.32.0/gleam-v0.32.0-aarch64-unknown-linux-musl.tar.gz.sha512",
       "Arch": "arm64",
       "Os": "linux",
       "Sum": "",
@@ -861,14 +445,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.32.0/gleam-v0.32.0-x86_64-apple-darwin.tar.gz.sha512",
-      "Arch": "amd64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.32.0/gleam-v0.32.0-x86_64-pc-windows-msvc.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -877,23 +453,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.32.0/gleam-v0.32.0-x86_64-pc-windows-msvc.zip.sha512",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.32.0/gleam-v0.32.0-x86_64-unknown-linux-musl.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.32.0/gleam-v0.32.0-x86_64-unknown-linux-musl.tar.gz.sha512",
       "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
@@ -911,23 +471,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.32.0-rc1/gleam-v0.32.0-rc1-aarch64-apple-darwin.tar.gz.sha512",
-      "Arch": "arm64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.32.0-rc1/gleam-v0.32.0-rc1-aarch64-unknown-linux-musl.tar.gz",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.32.0-rc1/gleam-v0.32.0-rc1-aarch64-unknown-linux-musl.tar.gz.sha512",
       "Arch": "arm64",
       "Os": "linux",
       "Sum": "",
@@ -943,14 +487,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.32.0-rc1/gleam-v0.32.0-rc1-x86_64-apple-darwin.tar.gz.sha512",
-      "Arch": "amd64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.32.0-rc1/gleam-v0.32.0-rc1-x86_64-pc-windows-msvc.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -959,23 +495,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.32.0-rc1/gleam-v0.32.0-rc1-x86_64-pc-windows-msvc.zip.sha512",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.32.0-rc1/gleam-v0.32.0-rc1-x86_64-unknown-linux-musl.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.32.0-rc1/gleam-v0.32.0-rc1-x86_64-unknown-linux-musl.tar.gz.sha512",
       "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
@@ -993,23 +513,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.32.0-rc2/gleam-v0.32.0-rc2-aarch64-apple-darwin.tar.gz.sha512",
-      "Arch": "arm64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.32.0-rc2/gleam-v0.32.0-rc2-aarch64-unknown-linux-musl.tar.gz",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.32.0-rc2/gleam-v0.32.0-rc2-aarch64-unknown-linux-musl.tar.gz.sha512",
       "Arch": "arm64",
       "Os": "linux",
       "Sum": "",
@@ -1025,14 +529,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.32.0-rc2/gleam-v0.32.0-rc2-x86_64-apple-darwin.tar.gz.sha512",
-      "Arch": "amd64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.32.0-rc2/gleam-v0.32.0-rc2-x86_64-pc-windows-msvc.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -1041,23 +537,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.32.0-rc2/gleam-v0.32.0-rc2-x86_64-pc-windows-msvc.zip.sha512",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.32.0-rc2/gleam-v0.32.0-rc2-x86_64-unknown-linux-musl.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.32.0-rc2/gleam-v0.32.0-rc2-x86_64-unknown-linux-musl.tar.gz.sha512",
       "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
@@ -1075,23 +555,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.32.0-rc3/gleam-v0.32.0-rc3-aarch64-apple-darwin.tar.gz.sha512",
-      "Arch": "arm64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.32.0-rc3/gleam-v0.32.0-rc3-aarch64-unknown-linux-musl.tar.gz",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.32.0-rc3/gleam-v0.32.0-rc3-aarch64-unknown-linux-musl.tar.gz.sha512",
       "Arch": "arm64",
       "Os": "linux",
       "Sum": "",
@@ -1107,14 +571,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.32.0-rc3/gleam-v0.32.0-rc3-x86_64-apple-darwin.tar.gz.sha512",
-      "Arch": "amd64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.32.0-rc3/gleam-v0.32.0-rc3-x86_64-pc-windows-msvc.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -1123,23 +579,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.32.0-rc3/gleam-v0.32.0-rc3-x86_64-pc-windows-msvc.zip.sha512",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.32.0-rc3/gleam-v0.32.0-rc3-x86_64-unknown-linux-musl.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.32.0-rc3/gleam-v0.32.0-rc3-x86_64-unknown-linux-musl.tar.gz.sha512",
       "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
@@ -1157,23 +597,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.32.1/gleam-v0.32.1-aarch64-apple-darwin.tar.gz.sha512",
-      "Arch": "arm64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.32.1/gleam-v0.32.1-aarch64-unknown-linux-musl.tar.gz",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.32.1/gleam-v0.32.1-aarch64-unknown-linux-musl.tar.gz.sha512",
       "Arch": "arm64",
       "Os": "linux",
       "Sum": "",
@@ -1189,14 +613,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.32.1/gleam-v0.32.1-x86_64-apple-darwin.tar.gz.sha512",
-      "Arch": "amd64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.32.1/gleam-v0.32.1-x86_64-pc-windows-msvc.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -1205,23 +621,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.32.1/gleam-v0.32.1-x86_64-pc-windows-msvc.zip.sha512",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.32.1/gleam-v0.32.1-x86_64-unknown-linux-musl.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.32.1/gleam-v0.32.1-x86_64-unknown-linux-musl.tar.gz.sha512",
       "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
@@ -1239,23 +639,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.32.2/gleam-v0.32.2-aarch64-apple-darwin.tar.gz.sha512",
-      "Arch": "arm64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.32.2/gleam-v0.32.2-aarch64-unknown-linux-musl.tar.gz",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.32.2/gleam-v0.32.2-aarch64-unknown-linux-musl.tar.gz.sha512",
       "Arch": "arm64",
       "Os": "linux",
       "Sum": "",
@@ -1271,14 +655,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.32.2/gleam-v0.32.2-x86_64-apple-darwin.tar.gz.sha512",
-      "Arch": "amd64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.32.2/gleam-v0.32.2-x86_64-pc-windows-msvc.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -1287,23 +663,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.32.2/gleam-v0.32.2-x86_64-pc-windows-msvc.zip.sha512",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.32.2/gleam-v0.32.2-x86_64-unknown-linux-musl.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.32.2/gleam-v0.32.2-x86_64-unknown-linux-musl.tar.gz.sha512",
       "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
@@ -1321,23 +681,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.32.3/gleam-v0.32.3-aarch64-apple-darwin.tar.gz.sha512",
-      "Arch": "arm64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.32.3/gleam-v0.32.3-aarch64-unknown-linux-musl.tar.gz",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.32.3/gleam-v0.32.3-aarch64-unknown-linux-musl.tar.gz.sha512",
       "Arch": "arm64",
       "Os": "linux",
       "Sum": "",
@@ -1353,14 +697,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.32.3/gleam-v0.32.3-x86_64-apple-darwin.tar.gz.sha512",
-      "Arch": "amd64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.32.3/gleam-v0.32.3-x86_64-pc-windows-msvc.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -1369,23 +705,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.32.3/gleam-v0.32.3-x86_64-pc-windows-msvc.zip.sha512",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.32.3/gleam-v0.32.3-x86_64-unknown-linux-musl.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.32.3/gleam-v0.32.3-x86_64-unknown-linux-musl.tar.gz.sha512",
       "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
@@ -1403,23 +723,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.32.4/gleam-v0.32.4-aarch64-apple-darwin.tar.gz.sha512",
-      "Arch": "arm64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.32.4/gleam-v0.32.4-aarch64-unknown-linux-musl.tar.gz",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.32.4/gleam-v0.32.4-aarch64-unknown-linux-musl.tar.gz.sha512",
       "Arch": "arm64",
       "Os": "linux",
       "Sum": "",
@@ -1435,14 +739,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.32.4/gleam-v0.32.4-x86_64-apple-darwin.tar.gz.sha512",
-      "Arch": "amd64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.32.4/gleam-v0.32.4-x86_64-pc-windows-msvc.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -1451,23 +747,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.32.4/gleam-v0.32.4-x86_64-pc-windows-msvc.zip.sha512",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.32.4/gleam-v0.32.4-x86_64-unknown-linux-musl.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.32.4/gleam-v0.32.4-x86_64-unknown-linux-musl.tar.gz.sha512",
       "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
@@ -1485,23 +765,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.33.0/gleam-v0.33.0-aarch64-apple-darwin.tar.gz.sha512",
-      "Arch": "arm64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.33.0/gleam-v0.33.0-aarch64-unknown-linux-musl.tar.gz",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.33.0/gleam-v0.33.0-aarch64-unknown-linux-musl.tar.gz.sha512",
       "Arch": "arm64",
       "Os": "linux",
       "Sum": "",
@@ -1517,14 +781,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.33.0/gleam-v0.33.0-x86_64-apple-darwin.tar.gz.sha512",
-      "Arch": "amd64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.33.0/gleam-v0.33.0-x86_64-pc-windows-msvc.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -1533,23 +789,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.33.0/gleam-v0.33.0-x86_64-pc-windows-msvc.zip.sha512",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.33.0/gleam-v0.33.0-x86_64-unknown-linux-musl.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.33.0/gleam-v0.33.0-x86_64-unknown-linux-musl.tar.gz.sha512",
       "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
@@ -1567,23 +807,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.33.0-rc1/gleam-v0.33.0-rc1-aarch64-apple-darwin.tar.gz.sha512",
-      "Arch": "arm64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.33.0-rc1/gleam-v0.33.0-rc1-aarch64-unknown-linux-musl.tar.gz",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.33.0-rc1/gleam-v0.33.0-rc1-aarch64-unknown-linux-musl.tar.gz.sha512",
       "Arch": "arm64",
       "Os": "linux",
       "Sum": "",
@@ -1599,14 +823,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.33.0-rc1/gleam-v0.33.0-rc1-x86_64-apple-darwin.tar.gz.sha512",
-      "Arch": "amd64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.33.0-rc1/gleam-v0.33.0-rc1-x86_64-pc-windows-msvc.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -1615,23 +831,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.33.0-rc1/gleam-v0.33.0-rc1-x86_64-pc-windows-msvc.zip.sha512",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.33.0-rc1/gleam-v0.33.0-rc1-x86_64-unknown-linux-musl.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.33.0-rc1/gleam-v0.33.0-rc1-x86_64-unknown-linux-musl.tar.gz.sha512",
       "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
@@ -1649,23 +849,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.33.0-rc2/gleam-v0.33.0-rc2-aarch64-apple-darwin.tar.gz.sha512",
-      "Arch": "arm64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.33.0-rc2/gleam-v0.33.0-rc2-aarch64-unknown-linux-musl.tar.gz",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.33.0-rc2/gleam-v0.33.0-rc2-aarch64-unknown-linux-musl.tar.gz.sha512",
       "Arch": "arm64",
       "Os": "linux",
       "Sum": "",
@@ -1681,14 +865,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.33.0-rc2/gleam-v0.33.0-rc2-x86_64-apple-darwin.tar.gz.sha512",
-      "Arch": "amd64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.33.0-rc2/gleam-v0.33.0-rc2-x86_64-pc-windows-msvc.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -1697,23 +873,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.33.0-rc2/gleam-v0.33.0-rc2-x86_64-pc-windows-msvc.zip.sha512",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.33.0-rc2/gleam-v0.33.0-rc2-x86_64-unknown-linux-musl.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.33.0-rc2/gleam-v0.33.0-rc2-x86_64-unknown-linux-musl.tar.gz.sha512",
       "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
@@ -1731,23 +891,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.33.0-rc3/gleam-v0.33.0-rc3-aarch64-apple-darwin.tar.gz.sha512",
-      "Arch": "arm64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.33.0-rc3/gleam-v0.33.0-rc3-aarch64-unknown-linux-musl.tar.gz",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.33.0-rc3/gleam-v0.33.0-rc3-aarch64-unknown-linux-musl.tar.gz.sha512",
       "Arch": "arm64",
       "Os": "linux",
       "Sum": "",
@@ -1763,14 +907,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.33.0-rc3/gleam-v0.33.0-rc3-x86_64-apple-darwin.tar.gz.sha512",
-      "Arch": "amd64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.33.0-rc3/gleam-v0.33.0-rc3-x86_64-pc-windows-msvc.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -1779,23 +915,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.33.0-rc3/gleam-v0.33.0-rc3-x86_64-pc-windows-msvc.zip.sha512",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.33.0-rc3/gleam-v0.33.0-rc3-x86_64-unknown-linux-musl.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.33.0-rc3/gleam-v0.33.0-rc3-x86_64-unknown-linux-musl.tar.gz.sha512",
       "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
@@ -1813,23 +933,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.33.0-rc4/gleam-v0.33.0-rc4-aarch64-apple-darwin.tar.gz.sha512",
-      "Arch": "arm64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.33.0-rc4/gleam-v0.33.0-rc4-aarch64-unknown-linux-musl.tar.gz",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.33.0-rc4/gleam-v0.33.0-rc4-aarch64-unknown-linux-musl.tar.gz.sha512",
       "Arch": "arm64",
       "Os": "linux",
       "Sum": "",
@@ -1845,14 +949,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.33.0-rc4/gleam-v0.33.0-rc4-x86_64-apple-darwin.tar.gz.sha512",
-      "Arch": "amd64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.33.0-rc4/gleam-v0.33.0-rc4-x86_64-pc-windows-msvc.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -1861,23 +957,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.33.0-rc4/gleam-v0.33.0-rc4-x86_64-pc-windows-msvc.zip.sha512",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.33.0-rc4/gleam-v0.33.0-rc4-x86_64-unknown-linux-musl.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.33.0-rc4/gleam-v0.33.0-rc4-x86_64-unknown-linux-musl.tar.gz.sha512",
       "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
@@ -1895,23 +975,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.34.0/gleam-v0.34.0-aarch64-apple-darwin.tar.gz.sha512",
-      "Arch": "arm64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.34.0/gleam-v0.34.0-aarch64-unknown-linux-musl.tar.gz",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.34.0/gleam-v0.34.0-aarch64-unknown-linux-musl.tar.gz.sha512",
       "Arch": "arm64",
       "Os": "linux",
       "Sum": "",
@@ -1927,14 +991,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.34.0/gleam-v0.34.0-x86_64-apple-darwin.tar.gz.sha512",
-      "Arch": "amd64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.34.0/gleam-v0.34.0-x86_64-pc-windows-msvc.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -1943,23 +999,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.34.0/gleam-v0.34.0-x86_64-pc-windows-msvc.zip.sha512",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.34.0/gleam-v0.34.0-x86_64-unknown-linux-musl.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.34.0/gleam-v0.34.0-x86_64-unknown-linux-musl.tar.gz.sha512",
       "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
@@ -1977,23 +1017,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.34.0-rc1/gleam-v0.34.0-rc1-aarch64-apple-darwin.tar.gz.sha512",
-      "Arch": "arm64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.34.0-rc1/gleam-v0.34.0-rc1-aarch64-unknown-linux-musl.tar.gz",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.34.0-rc1/gleam-v0.34.0-rc1-aarch64-unknown-linux-musl.tar.gz.sha512",
       "Arch": "arm64",
       "Os": "linux",
       "Sum": "",
@@ -2009,14 +1033,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.34.0-rc1/gleam-v0.34.0-rc1-x86_64-apple-darwin.tar.gz.sha512",
-      "Arch": "amd64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.34.0-rc1/gleam-v0.34.0-rc1-x86_64-pc-windows-msvc.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -2025,23 +1041,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.34.0-rc1/gleam-v0.34.0-rc1-x86_64-pc-windows-msvc.zip.sha512",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.34.0-rc1/gleam-v0.34.0-rc1-x86_64-unknown-linux-musl.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.34.0-rc1/gleam-v0.34.0-rc1-x86_64-unknown-linux-musl.tar.gz.sha512",
       "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
@@ -2059,23 +1059,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.34.0-rc2/gleam-v0.34.0-rc2-aarch64-apple-darwin.tar.gz.sha512",
-      "Arch": "arm64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.34.0-rc2/gleam-v0.34.0-rc2-aarch64-unknown-linux-musl.tar.gz",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.34.0-rc2/gleam-v0.34.0-rc2-aarch64-unknown-linux-musl.tar.gz.sha512",
       "Arch": "arm64",
       "Os": "linux",
       "Sum": "",
@@ -2091,14 +1075,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.34.0-rc2/gleam-v0.34.0-rc2-x86_64-apple-darwin.tar.gz.sha512",
-      "Arch": "amd64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.34.0-rc2/gleam-v0.34.0-rc2-x86_64-pc-windows-msvc.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -2107,23 +1083,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.34.0-rc2/gleam-v0.34.0-rc2-x86_64-pc-windows-msvc.zip.sha512",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.34.0-rc2/gleam-v0.34.0-rc2-x86_64-unknown-linux-musl.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.34.0-rc2/gleam-v0.34.0-rc2-x86_64-unknown-linux-musl.tar.gz.sha512",
       "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
@@ -2141,23 +1101,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.34.1/gleam-v0.34.1-aarch64-apple-darwin.tar.gz.sha512",
-      "Arch": "arm64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.34.1/gleam-v0.34.1-aarch64-unknown-linux-musl.tar.gz",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.34.1/gleam-v0.34.1-aarch64-unknown-linux-musl.tar.gz.sha512",
       "Arch": "arm64",
       "Os": "linux",
       "Sum": "",
@@ -2181,14 +1125,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.34.1/gleam-v0.34.1-x86_64-apple-darwin.tar.gz.sha512",
-      "Arch": "amd64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.34.1/gleam-v0.34.1-x86_64-pc-windows-msvc.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -2197,23 +1133,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.34.1/gleam-v0.34.1-x86_64-pc-windows-msvc.zip.sha512",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.34.1/gleam-v0.34.1-x86_64-unknown-linux-musl.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v0.34.1/gleam-v0.34.1-x86_64-unknown-linux-musl.tar.gz.sha512",
       "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
@@ -2231,23 +1151,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v1.0.0/gleam-v1.0.0-aarch64-apple-darwin.tar.gz.sha512",
-      "Arch": "arm64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v1.0.0/gleam-v1.0.0-aarch64-unknown-linux-musl.tar.gz",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v1.0.0/gleam-v1.0.0-aarch64-unknown-linux-musl.tar.gz.sha512",
       "Arch": "arm64",
       "Os": "linux",
       "Sum": "",
@@ -2271,14 +1175,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v1.0.0/gleam-v1.0.0-x86_64-apple-darwin.tar.gz.sha512",
-      "Arch": "amd64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v1.0.0/gleam-v1.0.0-x86_64-pc-windows-msvc.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -2287,23 +1183,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v1.0.0/gleam-v1.0.0-x86_64-pc-windows-msvc.zip.sha512",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v1.0.0/gleam-v1.0.0-x86_64-unknown-linux-musl.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v1.0.0/gleam-v1.0.0-x86_64-unknown-linux-musl.tar.gz.sha512",
       "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
@@ -2321,23 +1201,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v1.0.0-rc1/gleam-v1.0.0-rc1-aarch64-apple-darwin.tar.gz.sha512",
-      "Arch": "arm64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v1.0.0-rc1/gleam-v1.0.0-rc1-aarch64-unknown-linux-musl.tar.gz",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v1.0.0-rc1/gleam-v1.0.0-rc1-aarch64-unknown-linux-musl.tar.gz.sha512",
       "Arch": "arm64",
       "Os": "linux",
       "Sum": "",
@@ -2353,14 +1217,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v1.0.0-rc1/gleam-v1.0.0-rc1-x86_64-apple-darwin.tar.gz.sha512",
-      "Arch": "amd64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v1.0.0-rc1/gleam-v1.0.0-rc1-x86_64-pc-windows-msvc.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -2369,23 +1225,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v1.0.0-rc1/gleam-v1.0.0-rc1-x86_64-pc-windows-msvc.zip.sha512",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v1.0.0-rc1/gleam-v1.0.0-rc1-x86_64-unknown-linux-musl.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v1.0.0-rc1/gleam-v1.0.0-rc1-x86_64-unknown-linux-musl.tar.gz.sha512",
       "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
@@ -2403,23 +1243,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v1.0.0-rc2/gleam-v1.0.0-rc2-aarch64-apple-darwin.tar.gz.sha512",
-      "Arch": "arm64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v1.0.0-rc2/gleam-v1.0.0-rc2-aarch64-unknown-linux-musl.tar.gz",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v1.0.0-rc2/gleam-v1.0.0-rc2-aarch64-unknown-linux-musl.tar.gz.sha512",
       "Arch": "arm64",
       "Os": "linux",
       "Sum": "",
@@ -2435,14 +1259,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v1.0.0-rc2/gleam-v1.0.0-rc2-x86_64-apple-darwin.tar.gz.sha512",
-      "Arch": "amd64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v1.0.0-rc2/gleam-v1.0.0-rc2-x86_64-pc-windows-msvc.zip",
       "Arch": "amd64",
       "Os": "windows",
@@ -2451,23 +1267,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v1.0.0-rc2/gleam-v1.0.0-rc2-x86_64-pc-windows-msvc.zip.sha512",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/gleam-lang/gleam/releases/download/v1.0.0-rc2/gleam-v1.0.0-rc2-x86_64-unknown-linux-musl.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/gleam-lang/gleam/releases/download/v1.0.0-rc2/gleam-v1.0.0-rc2-x86_64-unknown-linux-musl.tar.gz.sha512",
       "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
