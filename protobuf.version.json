@@ -1,102 +1,4 @@
 {
-  "v22.1": [
-    {
-      "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v22.1/protobuf-22.1.tar.gz",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v22.1/protobuf-22.1.zip",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v22.1/protoc-22.1-linux-aarch_64.zip",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v22.1/protoc-22.1-linux-ppcle_64.zip",
-      "Arch": "ppc64le",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v22.1/protoc-22.1-linux-s390_64.zip",
-      "Arch": "s390x",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v22.1/protoc-22.1-linux-x86_32.zip",
-      "Arch": "386",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v22.1/protoc-22.1-linux-x86_64.zip",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v22.1/protoc-22.1-osx-aarch_64.zip",
-      "Arch": "arm64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v22.1/protoc-22.1-osx-universal_binary.zip",
-      "Arch": "universal",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v22.1/protoc-22.1-osx-x86_64.zip",
-      "Arch": "amd64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v22.1/protoc-22.1-win32.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v22.1/protoc-22.1-win64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    }
-  ],
   "v22.2": [
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v22.2/protobuf-22.2.tar.gz",
@@ -2638,6 +2540,104 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v25.3/protoc-25.3-win64.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v26.0": [
+    {
+      "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v26.0/protobuf-26.0.tar.gz",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v26.0/protobuf-26.0.zip",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v26.0/protoc-26.0-linux-aarch_64.zip",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v26.0/protoc-26.0-linux-ppcle_64.zip",
+      "Arch": "ppc64le",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v26.0/protoc-26.0-linux-s390_64.zip",
+      "Arch": "s390x",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v26.0/protoc-26.0-linux-x86_32.zip",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v26.0/protoc-26.0-linux-x86_64.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v26.0/protoc-26.0-osx-aarch_64.zip",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v26.0/protoc-26.0-osx-universal_binary.zip",
+      "Arch": "universal",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v26.0/protoc-26.0-osx-x86_64.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v26.0/protoc-26.0-win32.zip",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v26.0/protoc-26.0-win64.zip",
       "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
