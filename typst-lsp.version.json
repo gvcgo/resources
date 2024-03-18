@@ -588,7 +588,7 @@
     },
     {
       "Url": "https://github.com/nvarner/typst-lsp/releases/download/v0.4.1/typst-lsp-win32-arm64.exe",
-      "Arch": "arm64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
