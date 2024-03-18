@@ -679,40 +679,6 @@
       "Extra": ""
     }
   ],
-  "1.0.3": [
-    {
-      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.3/bun-darwin-aarch64.zip",
-      "Arch": "arm64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.3/bun-darwin-x64.zip",
-      "Arch": "amd64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.3/bun-linux-aarch64.zip",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.3/bun-linux-x64.zip",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    }
-  ],
   "1.0.30": [
     {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.30/bun-darwin-aarch64.zip",
@@ -808,6 +774,40 @@
     },
     {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.32/bun-linux-x64.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "1.0.33": [
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.33/bun-darwin-aarch64.zip",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.33/bun-darwin-x64.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.33/bun-linux-aarch64.zip",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.33/bun-linux-x64.zip",
       "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
