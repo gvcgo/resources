@@ -33,22 +33,6 @@
       "Extra": "v1.87.2"
     },
     {
-      "Url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/863d2581ecda6849923a2118d93a088b0745d9d6/code_1.87.2-1709911235_armhf.deb",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "4c3d6cc49aa10cf90530f25abf696004b4509bce976614b20b6c70d4aa2a0b9f",
-      "SumType": "sha256",
-      "Extra": "v1.87.2"
-    },
-    {
-      "Url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/863d2581ecda6849923a2118d93a088b0745d9d6/code-1.87.2-1709911315.el8.armv7hl.rpm",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "c8ac1acbe5171d227c598f6cd02d002e42d1a91ad89a7987ac69d0aa7ebeb2e4",
-      "SumType": "sha256",
-      "Extra": "v1.87.2"
-    },
-    {
       "Url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/863d2581ecda6849923a2118d93a088b0745d9d6/code_1.87.2-1709911730_arm64.deb",
       "Arch": "arm64",
       "Os": "linux",
