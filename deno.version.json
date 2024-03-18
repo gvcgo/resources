@@ -17,6 +17,14 @@
       "Extra": ""
     },
     {
+      "Url": "https://github.com/denoland/deno/releases/download/v1.35.3/deno-x86_64-pc-windows-msvc.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/denoland/deno/releases/download/v1.35.3/deno-x86_64-unknown-linux-gnu.zip",
       "Arch": "amd64",
       "Os": "linux",
@@ -38,6 +46,14 @@
       "Url": "https://github.com/denoland/deno/releases/download/v1.36.0/deno-x86_64-apple-darwin.zip",
       "Arch": "amd64",
       "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/denoland/deno/releases/download/v1.36.0/deno-x86_64-pc-windows-msvc.zip",
+      "Arch": "amd64",
+      "Os": "windows",
       "Sum": "",
       "SumType": "",
       "Extra": ""
@@ -69,6 +85,14 @@
       "Extra": ""
     },
     {
+      "Url": "https://github.com/denoland/deno/releases/download/v1.36.1/deno-x86_64-pc-windows-msvc.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/denoland/deno/releases/download/v1.36.1/deno-x86_64-unknown-linux-gnu.zip",
       "Arch": "amd64",
       "Os": "linux",
@@ -90,6 +114,14 @@
       "Url": "https://github.com/denoland/deno/releases/download/v1.36.2/deno-x86_64-apple-darwin.zip",
       "Arch": "amd64",
       "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/denoland/deno/releases/download/v1.36.2/deno-x86_64-pc-windows-msvc.zip",
+      "Arch": "amd64",
+      "Os": "windows",
       "Sum": "",
       "SumType": "",
       "Extra": ""
@@ -121,6 +153,14 @@
       "Extra": ""
     },
     {
+      "Url": "https://github.com/denoland/deno/releases/download/v1.36.3/deno-x86_64-pc-windows-msvc.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/denoland/deno/releases/download/v1.36.3/deno-x86_64-unknown-linux-gnu.zip",
       "Arch": "amd64",
       "Os": "linux",
@@ -142,6 +182,14 @@
       "Url": "https://github.com/denoland/deno/releases/download/v1.36.4/deno-x86_64-apple-darwin.zip",
       "Arch": "amd64",
       "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/denoland/deno/releases/download/v1.36.4/deno-x86_64-pc-windows-msvc.zip",
+      "Arch": "amd64",
+      "Os": "windows",
       "Sum": "",
       "SumType": "",
       "Extra": ""
@@ -173,6 +221,14 @@
       "Extra": ""
     },
     {
+      "Url": "https://github.com/denoland/deno/releases/download/v1.37.0/deno-x86_64-pc-windows-msvc.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/denoland/deno/releases/download/v1.37.0/deno-x86_64-unknown-linux-gnu.zip",
       "Arch": "amd64",
       "Os": "linux",
@@ -194,6 +250,14 @@
       "Url": "https://github.com/denoland/deno/releases/download/v1.37.1/deno-x86_64-apple-darwin.zip",
       "Arch": "amd64",
       "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/denoland/deno/releases/download/v1.37.1/deno-x86_64-pc-windows-msvc.zip",
+      "Arch": "amd64",
+      "Os": "windows",
       "Sum": "",
       "SumType": "",
       "Extra": ""
@@ -225,6 +289,14 @@
       "Extra": ""
     },
     {
+      "Url": "https://github.com/denoland/deno/releases/download/v1.37.2/deno-x86_64-pc-windows-msvc.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/denoland/deno/releases/download/v1.37.2/deno-x86_64-unknown-linux-gnu.zip",
       "Arch": "amd64",
       "Os": "linux",
@@ -246,6 +318,14 @@
       "Url": "https://github.com/denoland/deno/releases/download/v1.38.0/deno-x86_64-apple-darwin.zip",
       "Arch": "amd64",
       "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/denoland/deno/releases/download/v1.38.0/deno-x86_64-pc-windows-msvc.zip",
+      "Arch": "amd64",
+      "Os": "windows",
       "Sum": "",
       "SumType": "",
       "Extra": ""
@@ -277,6 +357,14 @@
       "Extra": ""
     },
     {
+      "Url": "https://github.com/denoland/deno/releases/download/v1.38.1/deno-x86_64-pc-windows-msvc.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/denoland/deno/releases/download/v1.38.1/deno-x86_64-unknown-linux-gnu.zip",
       "Arch": "amd64",
       "Os": "linux",
@@ -298,6 +386,14 @@
       "Url": "https://github.com/denoland/deno/releases/download/v1.38.2/deno-x86_64-apple-darwin.zip",
       "Arch": "amd64",
       "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/denoland/deno/releases/download/v1.38.2/deno-x86_64-pc-windows-msvc.zip",
+      "Arch": "amd64",
+      "Os": "windows",
       "Sum": "",
       "SumType": "",
       "Extra": ""
@@ -329,6 +425,14 @@
       "Extra": ""
     },
     {
+      "Url": "https://github.com/denoland/deno/releases/download/v1.38.3/deno-x86_64-pc-windows-msvc.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/denoland/deno/releases/download/v1.38.3/deno-x86_64-unknown-linux-gnu.zip",
       "Arch": "amd64",
       "Os": "linux",
@@ -350,6 +454,14 @@
       "Url": "https://github.com/denoland/deno/releases/download/v1.38.4/deno-x86_64-apple-darwin.zip",
       "Arch": "amd64",
       "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/denoland/deno/releases/download/v1.38.4/deno-x86_64-pc-windows-msvc.zip",
+      "Arch": "amd64",
+      "Os": "windows",
       "Sum": "",
       "SumType": "",
       "Extra": ""
@@ -381,6 +493,14 @@
       "Extra": ""
     },
     {
+      "Url": "https://github.com/denoland/deno/releases/download/v1.38.5/deno-x86_64-pc-windows-msvc.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/denoland/deno/releases/download/v1.38.5/deno-x86_64-unknown-linux-gnu.zip",
       "Arch": "amd64",
       "Os": "linux",
@@ -402,6 +522,14 @@
       "Url": "https://github.com/denoland/deno/releases/download/v1.39.0/deno-x86_64-apple-darwin.zip",
       "Arch": "amd64",
       "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/denoland/deno/releases/download/v1.39.0/deno-x86_64-pc-windows-msvc.zip",
+      "Arch": "amd64",
+      "Os": "windows",
       "Sum": "",
       "SumType": "",
       "Extra": ""
@@ -433,6 +561,14 @@
       "Extra": ""
     },
     {
+      "Url": "https://github.com/denoland/deno/releases/download/v1.39.1/deno-x86_64-pc-windows-msvc.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/denoland/deno/releases/download/v1.39.1/deno-x86_64-unknown-linux-gnu.zip",
       "Arch": "amd64",
       "Os": "linux",
@@ -454,6 +590,14 @@
       "Url": "https://github.com/denoland/deno/releases/download/v1.39.2/deno-x86_64-apple-darwin.zip",
       "Arch": "amd64",
       "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/denoland/deno/releases/download/v1.39.2/deno-x86_64-pc-windows-msvc.zip",
+      "Arch": "amd64",
+      "Os": "windows",
       "Sum": "",
       "SumType": "",
       "Extra": ""
@@ -485,6 +629,14 @@
       "Extra": ""
     },
     {
+      "Url": "https://github.com/denoland/deno/releases/download/v1.39.3/deno-x86_64-pc-windows-msvc.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/denoland/deno/releases/download/v1.39.3/deno-x86_64-unknown-linux-gnu.zip",
       "Arch": "amd64",
       "Os": "linux",
@@ -506,6 +658,14 @@
       "Url": "https://github.com/denoland/deno/releases/download/v1.39.4/deno-x86_64-apple-darwin.zip",
       "Arch": "amd64",
       "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/denoland/deno/releases/download/v1.39.4/deno-x86_64-pc-windows-msvc.zip",
+      "Arch": "amd64",
+      "Os": "windows",
       "Sum": "",
       "SumType": "",
       "Extra": ""
@@ -537,6 +697,14 @@
       "Extra": ""
     },
     {
+      "Url": "https://github.com/denoland/deno/releases/download/v1.40.0/deno-x86_64-pc-windows-msvc.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/denoland/deno/releases/download/v1.40.0/deno-x86_64-unknown-linux-gnu.zip",
       "Arch": "amd64",
       "Os": "linux",
@@ -563,6 +731,14 @@
       "Extra": ""
     },
     {
+      "Url": "https://github.com/denoland/deno/releases/download/v1.40.1/deno-x86_64-pc-windows-msvc.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/denoland/deno/releases/download/v1.40.1/deno-x86_64-unknown-linux-gnu.zip",
       "Arch": "amd64",
       "Os": "linux",
@@ -584,6 +760,14 @@
       "Url": "https://github.com/denoland/deno/releases/download/v1.40.2/deno-x86_64-apple-darwin.zip",
       "Arch": "amd64",
       "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/denoland/deno/releases/download/v1.40.2/deno-x86_64-pc-windows-msvc.zip",
+      "Arch": "amd64",
+      "Os": "windows",
       "Sum": "",
       "SumType": "",
       "Extra": ""
@@ -623,6 +807,14 @@
       "Extra": ""
     },
     {
+      "Url": "https://github.com/denoland/deno/releases/download/v1.40.3/deno-x86_64-pc-windows-msvc.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/denoland/deno/releases/download/v1.40.3/deno-x86_64-unknown-linux-gnu.zip",
       "Arch": "amd64",
       "Os": "linux",
@@ -652,6 +844,14 @@
       "Url": "https://github.com/denoland/deno/releases/download/v1.40.4/deno-x86_64-apple-darwin.zip",
       "Arch": "amd64",
       "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/denoland/deno/releases/download/v1.40.4/deno-x86_64-pc-windows-msvc.zip",
+      "Arch": "amd64",
+      "Os": "windows",
       "Sum": "",
       "SumType": "",
       "Extra": ""
@@ -691,6 +891,14 @@
       "Extra": ""
     },
     {
+      "Url": "https://github.com/denoland/deno/releases/download/v1.40.5/deno-x86_64-pc-windows-msvc.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/denoland/deno/releases/download/v1.40.5/deno-x86_64-unknown-linux-gnu.zip",
       "Arch": "amd64",
       "Os": "linux",
@@ -720,6 +928,14 @@
       "Url": "https://github.com/denoland/deno/releases/download/v1.41.0/deno-x86_64-apple-darwin.zip",
       "Arch": "amd64",
       "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/denoland/deno/releases/download/v1.41.0/deno-x86_64-pc-windows-msvc.zip",
+      "Arch": "amd64",
+      "Os": "windows",
       "Sum": "",
       "SumType": "",
       "Extra": ""
@@ -759,6 +975,14 @@
       "Extra": ""
     },
     {
+      "Url": "https://github.com/denoland/deno/releases/download/v1.41.1/deno-x86_64-pc-windows-msvc.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/denoland/deno/releases/download/v1.41.1/deno-x86_64-unknown-linux-gnu.zip",
       "Arch": "amd64",
       "Os": "linux",
@@ -793,6 +1017,14 @@
       "Extra": ""
     },
     {
+      "Url": "https://github.com/denoland/deno/releases/download/v1.41.2/deno-x86_64-pc-windows-msvc.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
       "Url": "https://github.com/denoland/deno/releases/download/v1.41.2/deno-x86_64-unknown-linux-gnu.zip",
       "Arch": "amd64",
       "Os": "linux",
@@ -822,6 +1054,14 @@
       "Url": "https://github.com/denoland/deno/releases/download/v1.41.3/deno-x86_64-apple-darwin.zip",
       "Arch": "amd64",
       "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/denoland/deno/releases/download/v1.41.3/deno-x86_64-pc-windows-msvc.zip",
+      "Arch": "amd64",
+      "Os": "windows",
       "Sum": "",
       "SumType": "",
       "Extra": ""
