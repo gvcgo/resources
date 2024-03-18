@@ -17,30 +17,6 @@
       "Extra": "v1.87.2"
     },
     {
-      "Url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/863d2581ecda6849923a2118d93a088b0745d9d6/code-stable-x64-1709910909.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "c2e97cdc63ff1bcbfbb10c227b5398623d21f21e487108fa1d740dabe7d37985",
-      "SumType": "sha256",
-      "Extra": "v1.87.2"
-    },
-    {
-      "Url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/863d2581ecda6849923a2118d93a088b0745d9d6/code-stable-armhf-1709911183.tar.gz",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "8c1c81cedb6a1f22939115c7a6ee65cc0396ae452ecf2db3a2408b307837e267",
-      "SumType": "sha256",
-      "Extra": "v1.87.2"
-    },
-    {
-      "Url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/863d2581ecda6849923a2118d93a088b0745d9d6/code-stable-arm64-1709911675.tar.gz",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "64717114e3606314b5cb606d172100cdb8c0b577da4653016c4f2b044df9525f",
-      "SumType": "sha256",
-      "Extra": "v1.87.2"
-    },
-    {
       "Url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/863d2581ecda6849923a2118d93a088b0745d9d6/VSCode-darwin-arm64.zip",
       "Arch": "arm64",
       "Os": "darwin",
