@@ -1,0 +1,338 @@
+{
+  "v1.0.0": [
+    {
+      "Url": "https://github.com/asciinema/agg/releases/download/v1.0.0/agg-aarch64-apple-darwin",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/asciinema/agg/releases/download/v1.0.0/agg-aarch64-unknown-linux-gnu",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/asciinema/agg/releases/download/v1.0.0/agg-x86_64-apple-darwin",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/asciinema/agg/releases/download/v1.0.0/agg-x86_64-pc-windows-msvc.exe",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/asciinema/agg/releases/download/v1.0.0/agg-x86_64-unknown-linux-gnu",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v1.1.0": [
+    {
+      "Url": "https://github.com/asciinema/agg/releases/download/v1.1.0/agg-aarch64-apple-darwin",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/asciinema/agg/releases/download/v1.1.0/agg-aarch64-unknown-linux-gnu",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/asciinema/agg/releases/download/v1.1.0/agg-x86_64-apple-darwin",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/asciinema/agg/releases/download/v1.1.0/agg-x86_64-pc-windows-msvc.exe",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/asciinema/agg/releases/download/v1.1.0/agg-x86_64-unknown-linux-gnu",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v1.2.0": [
+    {
+      "Url": "https://github.com/asciinema/agg/releases/download/v1.2.0/agg-aarch64-apple-darwin",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/asciinema/agg/releases/download/v1.2.0/agg-aarch64-unknown-linux-gnu",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/asciinema/agg/releases/download/v1.2.0/agg-x86_64-apple-darwin",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/asciinema/agg/releases/download/v1.2.0/agg-x86_64-pc-windows-msvc.exe",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/asciinema/agg/releases/download/v1.2.0/agg-x86_64-unknown-linux-gnu",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v1.3.0": [
+    {
+      "Url": "https://github.com/asciinema/agg/releases/download/v1.3.0/agg-aarch64-apple-darwin",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/asciinema/agg/releases/download/v1.3.0/agg-aarch64-unknown-linux-gnu",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/asciinema/agg/releases/download/v1.3.0/agg-x86_64-apple-darwin",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/asciinema/agg/releases/download/v1.3.0/agg-x86_64-pc-windows-msvc.exe",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/asciinema/agg/releases/download/v1.3.0/agg-x86_64-unknown-linux-gnu",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v1.4.0": [
+    {
+      "Url": "https://github.com/asciinema/agg/releases/download/v1.4.0/agg-aarch64-apple-darwin",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/asciinema/agg/releases/download/v1.4.0/agg-aarch64-unknown-linux-gnu",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/asciinema/agg/releases/download/v1.4.0/agg-x86_64-apple-darwin",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/asciinema/agg/releases/download/v1.4.0/agg-x86_64-pc-windows-msvc.exe",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/asciinema/agg/releases/download/v1.4.0/agg-x86_64-unknown-linux-gnu",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v1.4.1": [
+    {
+      "Url": "https://github.com/asciinema/agg/releases/download/v1.4.1/agg-aarch64-apple-darwin",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/asciinema/agg/releases/download/v1.4.1/agg-aarch64-unknown-linux-gnu",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/asciinema/agg/releases/download/v1.4.1/agg-x86_64-apple-darwin",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/asciinema/agg/releases/download/v1.4.1/agg-x86_64-pc-windows-msvc.exe",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/asciinema/agg/releases/download/v1.4.1/agg-x86_64-unknown-linux-gnu",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v1.4.2": [
+    {
+      "Url": "https://github.com/asciinema/agg/releases/download/v1.4.2/agg-aarch64-apple-darwin",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/asciinema/agg/releases/download/v1.4.2/agg-aarch64-unknown-linux-gnu",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/asciinema/agg/releases/download/v1.4.2/agg-x86_64-apple-darwin",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/asciinema/agg/releases/download/v1.4.2/agg-x86_64-pc-windows-msvc.exe",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/asciinema/agg/releases/download/v1.4.2/agg-x86_64-unknown-linux-gnu",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v1.4.3": [
+    {
+      "Url": "https://github.com/asciinema/agg/releases/download/v1.4.3/agg-aarch64-apple-darwin",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/asciinema/agg/releases/download/v1.4.3/agg-aarch64-unknown-linux-gnu",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/asciinema/agg/releases/download/v1.4.3/agg-x86_64-apple-darwin",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/asciinema/agg/releases/download/v1.4.3/agg-x86_64-pc-windows-msvc.exe",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/asciinema/agg/releases/download/v1.4.3/agg-x86_64-unknown-linux-gnu",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ]
+}
