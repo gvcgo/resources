@@ -50,7 +50,7 @@
     },
     {
       "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.0/typst-preview-win32-x64.exe",
-      "Arch": "any",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -108,7 +108,7 @@
     },
     {
       "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.1/typst-preview-win32-x64.exe",
-      "Arch": "any",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -166,7 +166,7 @@
     },
     {
       "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.10/typst-preview-win32-x64.exe",
-      "Arch": "any",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -224,7 +224,7 @@
     },
     {
       "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.2/typst-preview-win32-x64.exe",
-      "Arch": "any",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -282,7 +282,7 @@
     },
     {
       "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.3/typst-preview-win32-x64.exe",
-      "Arch": "any",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -340,7 +340,7 @@
     },
     {
       "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.4/typst-preview-win32-x64.exe",
-      "Arch": "any",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -398,7 +398,7 @@
     },
     {
       "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.5/typst-preview-win32-x64.exe",
-      "Arch": "any",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -456,7 +456,7 @@
     },
     {
       "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.6/typst-preview-win32-x64.exe",
-      "Arch": "any",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -514,7 +514,7 @@
     },
     {
       "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.7/typst-preview-win32-x64.exe",
-      "Arch": "any",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -572,7 +572,7 @@
     },
     {
       "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.8/typst-preview-win32-x64.exe",
-      "Arch": "any",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -630,7 +630,7 @@
     },
     {
       "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.9/typst-preview-win32-x64.exe",
-      "Arch": "any",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -688,7 +688,7 @@
     },
     {
       "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.11.0/typst-preview-win32-x64.exe",
-      "Arch": "any",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -738,7 +738,7 @@
     },
     {
       "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.11.1/typst-preview-win32-x64.exe",
-      "Arch": "any",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -796,7 +796,7 @@
     },
     {
       "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.6.1/typst-ws-win32-x64.exe",
-      "Arch": "any",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -854,7 +854,7 @@
     },
     {
       "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.6.2/typst-ws-win32-x64.exe",
-      "Arch": "any",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -912,7 +912,7 @@
     },
     {
       "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.6.3/typst-ws-win32-x64.exe",
-      "Arch": "any",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -970,7 +970,7 @@
     },
     {
       "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.6.4/typst-preview-win32-x64.exe",
-      "Arch": "any",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1028,7 +1028,7 @@
     },
     {
       "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.7.0/typst-preview-win32-x64.exe",
-      "Arch": "any",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1086,7 +1086,7 @@
     },
     {
       "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.7.1/typst-preview-win32-x64.exe",
-      "Arch": "any",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1144,7 +1144,7 @@
     },
     {
       "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.7.2/typst-preview-win32-x64.exe",
-      "Arch": "any",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1202,7 +1202,7 @@
     },
     {
       "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.7.3/typst-preview-win32-x64.exe",
-      "Arch": "any",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1260,7 +1260,7 @@
     },
     {
       "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.7.4/typst-preview-win32-x64.exe",
-      "Arch": "any",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1318,7 +1318,7 @@
     },
     {
       "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.7.5/typst-preview-win32-x64.exe",
-      "Arch": "any",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1376,7 +1376,7 @@
     },
     {
       "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.8.0/typst-preview-win32-x64.exe",
-      "Arch": "any",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1434,7 +1434,7 @@
     },
     {
       "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.8.1/typst-preview-win32-x64.exe",
-      "Arch": "any",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1492,7 +1492,7 @@
     },
     {
       "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.8.2/typst-preview-win32-x64.exe",
-      "Arch": "any",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1550,7 +1550,7 @@
     },
     {
       "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.8.3/typst-preview-win32-x64.exe",
-      "Arch": "any",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1608,7 +1608,7 @@
     },
     {
       "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.9.0/typst-preview-win32-x64.exe",
-      "Arch": "any",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1666,7 +1666,7 @@
     },
     {
       "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.9.1/typst-preview-win32-x64.exe",
-      "Arch": "any",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -1724,7 +1724,7 @@
     },
     {
       "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.9.2/typst-preview-win32-x64.exe",
-      "Arch": "any",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
