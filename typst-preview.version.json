@@ -1,0 +1,2214 @@
+{
+  "v0.10.0": [
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.0/typst-preview-alpine-x64",
+      "Arch": "amd64",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.0/typst-preview-darwin-arm64",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.0/typst-preview-darwin-x64",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.0/typst-preview-linux-arm64",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.0/typst-preview-linux-armhf",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.0/typst-preview-linux-x64",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.0/typst-preview-win32-arm64.exe",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.0/typst-preview-win32-ia32.exe",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.0/typst-preview-win32-x64.exe",
+      "Arch": "any",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.10.1": [
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.1/typst-preview-alpine-x64",
+      "Arch": "amd64",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.1/typst-preview-darwin-arm64",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.1/typst-preview-darwin-x64",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.1/typst-preview-linux-arm64",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.1/typst-preview-linux-armhf",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.1/typst-preview-linux-x64",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.1/typst-preview-win32-arm64.exe",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.1/typst-preview-win32-ia32.exe",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.1/typst-preview-win32-x64.exe",
+      "Arch": "any",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.10.10": [
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.10/typst-preview-alpine-x64",
+      "Arch": "amd64",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.10/typst-preview-darwin-arm64",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.10/typst-preview-darwin-x64",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.10/typst-preview-linux-arm64",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.10/typst-preview-linux-armhf",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.10/typst-preview-linux-x64",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.10/typst-preview-win32-arm64.exe",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.10/typst-preview-win32-ia32.exe",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.10/typst-preview-win32-x64.exe",
+      "Arch": "any",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.10.2": [
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.2/typst-preview-alpine-x64",
+      "Arch": "amd64",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.2/typst-preview-darwin-arm64",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.2/typst-preview-darwin-x64",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.2/typst-preview-linux-arm64",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.2/typst-preview-linux-armhf",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.2/typst-preview-linux-x64",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.2/typst-preview-win32-arm64.exe",
+      "Arch": "arm64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.2/typst-preview-win32-ia32.exe",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.2/typst-preview-win32-x64.exe",
+      "Arch": "any",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.10.3": [
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.3/typst-preview-alpine-x64",
+      "Arch": "amd64",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.3/typst-preview-darwin-arm64",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.3/typst-preview-darwin-x64",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.3/typst-preview-linux-arm64",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.3/typst-preview-linux-armhf",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.3/typst-preview-linux-x64",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.3/typst-preview-win32-arm64.exe",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.3/typst-preview-win32-ia32.exe",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.3/typst-preview-win32-x64.exe",
+      "Arch": "any",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.10.4": [
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.4/typst-preview-alpine-x64",
+      "Arch": "amd64",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.4/typst-preview-darwin-arm64",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.4/typst-preview-darwin-x64",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.4/typst-preview-linux-arm64",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.4/typst-preview-linux-armhf",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.4/typst-preview-linux-x64",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.4/typst-preview-win32-arm64.exe",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.4/typst-preview-win32-ia32.exe",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.4/typst-preview-win32-x64.exe",
+      "Arch": "any",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.10.5": [
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.5/typst-preview-alpine-x64",
+      "Arch": "amd64",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.5/typst-preview-darwin-arm64",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.5/typst-preview-darwin-x64",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.5/typst-preview-linux-arm64",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.5/typst-preview-linux-armhf",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.5/typst-preview-linux-x64",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.5/typst-preview-win32-arm64.exe",
+      "Arch": "arm64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.5/typst-preview-win32-ia32.exe",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.5/typst-preview-win32-x64.exe",
+      "Arch": "any",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.10.6": [
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.6/typst-preview-alpine-x64",
+      "Arch": "amd64",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.6/typst-preview-darwin-arm64",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.6/typst-preview-darwin-x64",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.6/typst-preview-linux-arm64",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.6/typst-preview-linux-armhf",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.6/typst-preview-linux-x64",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.6/typst-preview-win32-arm64.exe",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.6/typst-preview-win32-ia32.exe",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.6/typst-preview-win32-x64.exe",
+      "Arch": "any",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.10.7": [
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.7/typst-preview-alpine-x64",
+      "Arch": "amd64",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.7/typst-preview-darwin-arm64",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.7/typst-preview-darwin-x64",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.7/typst-preview-linux-arm64",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.7/typst-preview-linux-armhf",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.7/typst-preview-linux-x64",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.7/typst-preview-win32-arm64.exe",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.7/typst-preview-win32-ia32.exe",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.7/typst-preview-win32-x64.exe",
+      "Arch": "any",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.10.8": [
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.8/typst-preview-alpine-x64",
+      "Arch": "amd64",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.8/typst-preview-darwin-arm64",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.8/typst-preview-darwin-x64",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.8/typst-preview-linux-arm64",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.8/typst-preview-linux-armhf",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.8/typst-preview-linux-x64",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.8/typst-preview-win32-arm64.exe",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.8/typst-preview-win32-ia32.exe",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.8/typst-preview-win32-x64.exe",
+      "Arch": "any",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.10.9": [
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.9/typst-preview-alpine-x64",
+      "Arch": "amd64",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.9/typst-preview-darwin-arm64",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.9/typst-preview-darwin-x64",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.9/typst-preview-linux-arm64",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.9/typst-preview-linux-armhf",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.9/typst-preview-linux-x64",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.9/typst-preview-win32-arm64.exe",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.9/typst-preview-win32-ia32.exe",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.10.9/typst-preview-win32-x64.exe",
+      "Arch": "any",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.11.0": [
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.11.0/typst-preview-alpine-x64",
+      "Arch": "amd64",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.11.0/typst-preview-darwin-arm64",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.11.0/typst-preview-darwin-x64",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.11.0/typst-preview-linux-arm64",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.11.0/typst-preview-linux-armhf",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.11.0/typst-preview-linux-x64",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.11.0/typst-preview-win32-arm64.exe",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.11.0/typst-preview-win32-ia32.exe",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.11.0/typst-preview-win32-x64.exe",
+      "Arch": "any",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.11.1": [
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.11.1/typst-preview-alpine-x64",
+      "Arch": "amd64",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.11.1/typst-preview-darwin-arm64",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.11.1/typst-preview-darwin-x64",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.11.1/typst-preview-linux-arm64",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.11.1/typst-preview-linux-armhf",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.11.1/typst-preview-linux-x64",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.11.1/typst-preview-win32-arm64.exe",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.11.1/typst-preview-win32-x64.exe",
+      "Arch": "any",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.6.1": [
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.6.1/typst-ws-alpine-x64",
+      "Arch": "amd64",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.6.1/typst-ws-darwin-arm64",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.6.1/typst-ws-darwin-x64",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.6.1/typst-ws-linux-arm64",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.6.1/typst-ws-linux-armhf",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.6.1/typst-ws-linux-x64",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.6.1/typst-ws-win32-arm64.exe",
+      "Arch": "arm64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.6.1/typst-ws-win32-ia32.exe",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.6.1/typst-ws-win32-x64.exe",
+      "Arch": "any",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.6.2": [
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.6.2/typst-ws-alpine-x64",
+      "Arch": "amd64",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.6.2/typst-ws-darwin-arm64",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.6.2/typst-ws-darwin-x64",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.6.2/typst-ws-linux-arm64",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.6.2/typst-ws-linux-armhf",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.6.2/typst-ws-linux-x64",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.6.2/typst-ws-win32-arm64.exe",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.6.2/typst-ws-win32-ia32.exe",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.6.2/typst-ws-win32-x64.exe",
+      "Arch": "any",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.6.3": [
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.6.3/typst-ws-alpine-x64",
+      "Arch": "amd64",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.6.3/typst-ws-darwin-arm64",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.6.3/typst-ws-darwin-x64",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.6.3/typst-ws-linux-arm64",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.6.3/typst-ws-linux-armhf",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.6.3/typst-ws-linux-x64",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.6.3/typst-ws-win32-arm64.exe",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.6.3/typst-ws-win32-ia32.exe",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.6.3/typst-ws-win32-x64.exe",
+      "Arch": "any",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.6.4": [
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.6.4/typst-preview-alpine-x64",
+      "Arch": "amd64",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.6.4/typst-preview-darwin-arm64",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.6.4/typst-preview-darwin-x64",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.6.4/typst-preview-linux-arm64",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.6.4/typst-preview-linux-armhf",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.6.4/typst-preview-linux-x64",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.6.4/typst-preview-win32-arm64.exe",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.6.4/typst-preview-win32-ia32.exe",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.6.4/typst-preview-win32-x64.exe",
+      "Arch": "any",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.7.0": [
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.7.0/typst-preview-alpine-x64",
+      "Arch": "amd64",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.7.0/typst-preview-darwin-arm64",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.7.0/typst-preview-darwin-x64",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.7.0/typst-preview-linux-arm64",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.7.0/typst-preview-linux-armhf",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.7.0/typst-preview-linux-x64",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.7.0/typst-preview-win32-arm64.exe",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.7.0/typst-preview-win32-ia32.exe",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.7.0/typst-preview-win32-x64.exe",
+      "Arch": "any",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.7.1": [
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.7.1/typst-preview-alpine-x64",
+      "Arch": "amd64",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.7.1/typst-preview-darwin-arm64",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.7.1/typst-preview-darwin-x64",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.7.1/typst-preview-linux-arm64",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.7.1/typst-preview-linux-armhf",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.7.1/typst-preview-linux-x64",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.7.1/typst-preview-win32-arm64.exe",
+      "Arch": "arm64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.7.1/typst-preview-win32-ia32.exe",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.7.1/typst-preview-win32-x64.exe",
+      "Arch": "any",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.7.2": [
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.7.2/typst-preview-alpine-x64",
+      "Arch": "amd64",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.7.2/typst-preview-darwin-arm64",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.7.2/typst-preview-darwin-x64",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.7.2/typst-preview-linux-arm64",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.7.2/typst-preview-linux-armhf",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.7.2/typst-preview-linux-x64",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.7.2/typst-preview-win32-arm64.exe",
+      "Arch": "arm64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.7.2/typst-preview-win32-ia32.exe",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.7.2/typst-preview-win32-x64.exe",
+      "Arch": "any",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.7.3": [
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.7.3/typst-preview-alpine-x64",
+      "Arch": "amd64",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.7.3/typst-preview-darwin-arm64",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.7.3/typst-preview-darwin-x64",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.7.3/typst-preview-linux-arm64",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.7.3/typst-preview-linux-armhf",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.7.3/typst-preview-linux-x64",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.7.3/typst-preview-win32-arm64.exe",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.7.3/typst-preview-win32-ia32.exe",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.7.3/typst-preview-win32-x64.exe",
+      "Arch": "any",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.7.4": [
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.7.4/typst-preview-alpine-x64",
+      "Arch": "amd64",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.7.4/typst-preview-darwin-arm64",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.7.4/typst-preview-darwin-x64",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.7.4/typst-preview-linux-arm64",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.7.4/typst-preview-linux-armhf",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.7.4/typst-preview-linux-x64",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.7.4/typst-preview-win32-arm64.exe",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.7.4/typst-preview-win32-ia32.exe",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.7.4/typst-preview-win32-x64.exe",
+      "Arch": "any",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.7.5": [
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.7.5/typst-preview-alpine-x64",
+      "Arch": "amd64",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.7.5/typst-preview-darwin-arm64",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.7.5/typst-preview-darwin-x64",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.7.5/typst-preview-linux-arm64",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.7.5/typst-preview-linux-armhf",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.7.5/typst-preview-linux-x64",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.7.5/typst-preview-win32-arm64.exe",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.7.5/typst-preview-win32-ia32.exe",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.7.5/typst-preview-win32-x64.exe",
+      "Arch": "any",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.8.0": [
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.8.0/typst-preview-alpine-x64",
+      "Arch": "amd64",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.8.0/typst-preview-darwin-arm64",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.8.0/typst-preview-darwin-x64",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.8.0/typst-preview-linux-arm64",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.8.0/typst-preview-linux-armhf",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.8.0/typst-preview-linux-x64",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.8.0/typst-preview-win32-arm64.exe",
+      "Arch": "arm64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.8.0/typst-preview-win32-ia32.exe",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.8.0/typst-preview-win32-x64.exe",
+      "Arch": "any",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.8.1": [
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.8.1/typst-preview-alpine-x64",
+      "Arch": "amd64",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.8.1/typst-preview-darwin-arm64",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.8.1/typst-preview-darwin-x64",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.8.1/typst-preview-linux-arm64",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.8.1/typst-preview-linux-armhf",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.8.1/typst-preview-linux-x64",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.8.1/typst-preview-win32-arm64.exe",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.8.1/typst-preview-win32-ia32.exe",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.8.1/typst-preview-win32-x64.exe",
+      "Arch": "any",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.8.2": [
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.8.2/typst-preview-alpine-x64",
+      "Arch": "amd64",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.8.2/typst-preview-darwin-arm64",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.8.2/typst-preview-darwin-x64",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.8.2/typst-preview-linux-arm64",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.8.2/typst-preview-linux-armhf",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.8.2/typst-preview-linux-x64",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.8.2/typst-preview-win32-arm64.exe",
+      "Arch": "arm64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.8.2/typst-preview-win32-ia32.exe",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.8.2/typst-preview-win32-x64.exe",
+      "Arch": "any",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.8.3": [
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.8.3/typst-preview-alpine-x64",
+      "Arch": "amd64",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.8.3/typst-preview-darwin-arm64",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.8.3/typst-preview-darwin-x64",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.8.3/typst-preview-linux-arm64",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.8.3/typst-preview-linux-armhf",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.8.3/typst-preview-linux-x64",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.8.3/typst-preview-win32-arm64.exe",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.8.3/typst-preview-win32-ia32.exe",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.8.3/typst-preview-win32-x64.exe",
+      "Arch": "any",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.9.0": [
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.9.0/typst-preview-alpine-x64",
+      "Arch": "amd64",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.9.0/typst-preview-darwin-arm64",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.9.0/typst-preview-darwin-x64",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.9.0/typst-preview-linux-arm64",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.9.0/typst-preview-linux-armhf",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.9.0/typst-preview-linux-x64",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.9.0/typst-preview-win32-arm64.exe",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.9.0/typst-preview-win32-ia32.exe",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.9.0/typst-preview-win32-x64.exe",
+      "Arch": "any",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.9.1": [
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.9.1/typst-preview-alpine-x64",
+      "Arch": "amd64",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.9.1/typst-preview-darwin-arm64",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.9.1/typst-preview-darwin-x64",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.9.1/typst-preview-linux-arm64",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.9.1/typst-preview-linux-armhf",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.9.1/typst-preview-linux-x64",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.9.1/typst-preview-win32-arm64.exe",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.9.1/typst-preview-win32-ia32.exe",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.9.1/typst-preview-win32-x64.exe",
+      "Arch": "any",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.9.2": [
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.9.2/typst-preview-alpine-x64",
+      "Arch": "amd64",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.9.2/typst-preview-darwin-arm64",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.9.2/typst-preview-darwin-x64",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.9.2/typst-preview-linux-arm64",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.9.2/typst-preview-linux-armhf",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.9.2/typst-preview-linux-x64",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.9.2/typst-preview-win32-arm64.exe",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.9.2/typst-preview-win32-ia32.exe",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.9.2/typst-preview-win32-x64.exe",
+      "Arch": "any",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ]
+}
