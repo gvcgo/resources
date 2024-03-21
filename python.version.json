@@ -179,6 +179,16 @@
       "Extra": "please use conda to install."
     }
   ],
+  "3.10.14": [
+    {
+      "Url": "",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": "please use conda to install."
+    }
+  ],
   "3.10.2": [
     {
       "Url": "",
@@ -869,6 +879,16 @@
       "Extra": "please use conda to install."
     }
   ],
+  "3.8.19": [
+    {
+      "Url": "",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": "please use conda to install."
+    }
+  ],
   "3.8.2": [
     {
       "Url": "",
@@ -1020,6 +1040,16 @@
     }
   ],
   "3.9.18": [
+    {
+      "Url": "",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": "please use conda to install."
+    }
+  ],
+  "3.9.19": [
     {
       "Url": "",
       "Arch": "",
