@@ -9,8 +9,16 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/neovim/neovim/releases/download/nightly/nvim-macos.tar.gz",
-      "Arch": "",
+      "Url": "https://github.com/neovim/neovim/releases/download/nightly/nvim-macos-arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/neovim/neovim/releases/download/nightly/nvim-macos-x86_64.tar.gz",
+      "Arch": "amd64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
