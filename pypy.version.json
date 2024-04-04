@@ -1,0 +1,42 @@
+{
+  "3.6": [
+    {
+      "Url": "",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": "please use conda to install."
+    }
+  ],
+  "3.7": [
+    {
+      "Url": "",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": "please use conda to install."
+    }
+  ],
+  "3.8": [
+    {
+      "Url": "",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": "please use conda to install."
+    }
+  ],
+  "3.9": [
+    {
+      "Url": "",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": "please use conda to install."
+    }
+  ]
+}
