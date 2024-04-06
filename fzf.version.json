@@ -1832,7 +1832,7 @@
     },
     {
       "Url": "https://github.com/junegunn/fzf/releases/download/0.39.0/fzf-0.39.0-linux_ppc64le.tar.gz",
-      "Arch": "ppc64",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -3488,7 +3488,7 @@
     },
     {
       "Url": "https://github.com/junegunn/fzf/releases/download/0.48.0/fzf-0.48.0-linux_ppc64le.tar.gz",
-      "Arch": "ppc64",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -3626,7 +3626,7 @@
     },
     {
       "Url": "https://github.com/junegunn/fzf/releases/download/0.48.1/fzf-0.48.1-linux_ppc64le.tar.gz",
-      "Arch": "ppc64",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
