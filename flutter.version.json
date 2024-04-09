@@ -3839,6 +3839,14 @@
       "Sum": "2af693fd60d0457bf82d1306335ac093f7416d0a6f94f7e6d45c3589bec0a61e",
       "SumType": "sha256",
       "Extra": "beta"
+    },
+    {
+      "Url": "https://storage.googleapis.com/flutter_infra_release/releases/beta/windows/flutter_windows_3.22.0-0.1.pre-beta.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "65489d9d359a5d12280d5e0c919e43f7927cf42a2fc47812db8cf761b35a43ad",
+      "SumType": "sha256",
+      "Extra": "beta"
     }
   ],
   "3.3.0": [
