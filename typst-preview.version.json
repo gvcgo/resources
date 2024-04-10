@@ -845,9 +845,9 @@
       "Extra": ""
     }
   ],
-  "v0.6.3": [
+  "v0.11.4": [
     {
-      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.6.3/typst-ws-darwin-arm64",
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.11.4/typst-preview-darwin-arm64",
       "Arch": "arm64",
       "Os": "darwin",
       "Sum": "",
@@ -855,7 +855,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.6.3/typst-ws-darwin-x64",
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.11.4/typst-preview-darwin-x64",
       "Arch": "amd64",
       "Os": "darwin",
       "Sum": "",
@@ -863,7 +863,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.6.3/typst-ws-linux-arm64",
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.11.4/typst-preview-linux-arm64",
       "Arch": "arm64",
       "Os": "linux",
       "Sum": "",
@@ -871,7 +871,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.6.3/typst-ws-linux-x64",
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.11.4/typst-preview-linux-x64",
       "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
@@ -879,7 +879,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.6.3/typst-ws-win32-arm64.exe",
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.11.4/typst-preview-win32-arm64.exe",
       "Arch": "arm64",
       "Os": "windows",
       "Sum": "",
@@ -887,15 +887,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.6.3/typst-ws-win32-ia32.exe",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.6.3/typst-ws-win32-x64.exe",
+      "Url": "https://github.com/Enter-tainer/typst-preview/releases/download/v0.11.4/typst-preview-win32-x64.exe",
       "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
