@@ -9,14 +9,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/upx/upx/releases/download/v3.91/upx-3.91-armeb_linux.tar.bz2",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/upx/upx/releases/download/v3.91/upx-3.91-i386_linux.tar.bz2",
       "Arch": "386",
       "Os": "linux",
@@ -39,60 +31,12 @@
       "Sum": "",
       "SumType": "",
       "Extra": ""
-    },
-    {
-      "Url": "https://github.com/upx/upx/releases/download/v3.91/upx-3.91-src.tar.bz2",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/upx/upx/releases/download/v3.91/upx391a.zip",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/upx/upx/releases/download/v3.91/upx391d.zip",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/upx/upx/releases/download/v3.91/upx391w.zip",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/upx/upx/releases/download/v3.91/upx391wce.zip",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
     }
   ],
   "v3.92": [
     {
       "Url": "https://github.com/upx/upx/releases/download/v3.92/upx-3.92-amd64_linux.tar.xz",
       "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/upx/upx/releases/download/v3.92/upx-3.92-armeb_linux.tar.xz",
-      "Arch": "",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -121,60 +65,12 @@
       "Sum": "",
       "SumType": "",
       "Extra": ""
-    },
-    {
-      "Url": "https://github.com/upx/upx/releases/download/v3.92/upx-3.92-src.tar.xz",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/upx/upx/releases/download/v3.92/upx392a.zip",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/upx/upx/releases/download/v3.92/upx392d.zip",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/upx/upx/releases/download/v3.92/upx392w.zip",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/upx/upx/releases/download/v3.92/upx392wce.zip",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
     }
   ],
   "v3.93": [
     {
       "Url": "https://github.com/upx/upx/releases/download/v3.93/upx-3.93-amd64_linux.tar.xz",
       "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/upx/upx/releases/download/v3.93/upx-3.93-armeb_linux.tar.xz",
-      "Arch": "",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -203,60 +99,12 @@
       "Sum": "",
       "SumType": "",
       "Extra": ""
-    },
-    {
-      "Url": "https://github.com/upx/upx/releases/download/v3.93/upx-3.93-src.tar.xz",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/upx/upx/releases/download/v3.93/upx393a.zip",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/upx/upx/releases/download/v3.93/upx393d.zip",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/upx/upx/releases/download/v3.93/upx393w.zip",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/upx/upx/releases/download/v3.93/upx393wce.zip",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
     }
   ],
   "v3.94": [
     {
       "Url": "https://github.com/upx/upx/releases/download/v3.94/upx-3.94-amd64_linux.tar.xz",
       "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/upx/upx/releases/download/v3.94/upx-3.94-armeb_linux.tar.xz",
-      "Arch": "",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -285,46 +133,6 @@
       "Sum": "",
       "SumType": "",
       "Extra": ""
-    },
-    {
-      "Url": "https://github.com/upx/upx/releases/download/v3.94/upx-3.94-src.tar.xz",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/upx/upx/releases/download/v3.94/upx394a.zip",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/upx/upx/releases/download/v3.94/upx394d.zip",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/upx/upx/releases/download/v3.94/upx394w.zip",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/upx/upx/releases/download/v3.94/upx394wce.zip",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
     }
   ],
   "v3.95": [
@@ -339,14 +147,6 @@
     {
       "Url": "https://github.com/upx/upx/releases/download/v3.95/upx-3.95-arm64_linux.tar.xz",
       "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/upx/upx/releases/download/v3.95/upx-3.95-armeb_linux.tar.xz",
-      "Arch": "",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -409,14 +209,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/upx/upx/releases/download/v3.95/upx-3.95-src.tar.xz",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/upx/upx/releases/download/v3.95/upx-3.95-win32.zip",
       "Arch": "386",
       "Os": "windows",
@@ -445,14 +237,6 @@
     {
       "Url": "https://github.com/upx/upx/releases/download/v3.96/upx-3.96-arm64_linux.tar.xz",
       "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/upx/upx/releases/download/v3.96/upx-3.96-armeb_linux.tar.xz",
-      "Arch": "",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -515,14 +299,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/upx/upx/releases/download/v3.96/upx-3.96-src.tar.xz",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/upx/upx/releases/download/v3.96/upx-3.96-win32.zip",
       "Arch": "386",
       "Os": "windows",
@@ -534,16 +310,6 @@
       "Url": "https://github.com/upx/upx/releases/download/v3.96/upx-3.96-win64.zip",
       "Arch": "amd64",
       "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    }
-  ],
-  "v3.99": [
-    {
-      "Url": "https://github.com/upx/upx/releases/download/v3.99/upx-3.99-src.tar.xz",
-      "Arch": "",
-      "Os": "",
       "Sum": "",
       "SumType": "",
       "Extra": ""
@@ -561,14 +327,6 @@
     {
       "Url": "https://github.com/upx/upx/releases/download/v4.0.0/upx-4.0.0-arm64_linux.tar.xz",
       "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/upx/upx/releases/download/v4.0.0/upx-4.0.0-armeb_linux.tar.xz",
-      "Arch": "",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -631,14 +389,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/upx/upx/releases/download/v4.0.0/upx-4.0.0-src.tar.xz",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/upx/upx/releases/download/v4.0.0/upx-4.0.0-win32.zip",
       "Arch": "386",
       "Os": "windows",
@@ -667,14 +417,6 @@
     {
       "Url": "https://github.com/upx/upx/releases/download/v4.0.1/upx-4.0.1-arm64_linux.tar.xz",
       "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/upx/upx/releases/download/v4.0.1/upx-4.0.1-armeb_linux.tar.xz",
-      "Arch": "",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -737,14 +479,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/upx/upx/releases/download/v4.0.1/upx-4.0.1-src.tar.xz",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/upx/upx/releases/download/v4.0.1/upx-4.0.1-win32.zip",
       "Arch": "386",
       "Os": "windows",
@@ -773,14 +507,6 @@
     {
       "Url": "https://github.com/upx/upx/releases/download/v4.0.2/upx-4.0.2-arm64_linux.tar.xz",
       "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/upx/upx/releases/download/v4.0.2/upx-4.0.2-armeb_linux.tar.xz",
-      "Arch": "",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -843,14 +569,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/upx/upx/releases/download/v4.0.2/upx-4.0.2-src.tar.xz",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/upx/upx/releases/download/v4.0.2/upx-4.0.2-win32.zip",
       "Arch": "386",
       "Os": "windows",
@@ -879,14 +597,6 @@
     {
       "Url": "https://github.com/upx/upx/releases/download/v4.1.0/upx-4.1.0-arm64_linux.tar.xz",
       "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/upx/upx/releases/download/v4.1.0/upx-4.1.0-armeb_linux.tar.xz",
-      "Arch": "",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -949,14 +659,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/upx/upx/releases/download/v4.1.0/upx-4.1.0-src.tar.xz",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/upx/upx/releases/download/v4.1.0/upx-4.1.0-win32.zip",
       "Arch": "386",
       "Os": "windows",
@@ -985,14 +687,6 @@
     {
       "Url": "https://github.com/upx/upx/releases/download/v4.2.0/upx-4.2.0-arm64_linux.tar.xz",
       "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/upx/upx/releases/download/v4.2.0/upx-4.2.0-armeb_linux.tar.xz",
-      "Arch": "",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1055,14 +749,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/upx/upx/releases/download/v4.2.0/upx-4.2.0-src.tar.xz",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/upx/upx/releases/download/v4.2.0/upx-4.2.0-win32.zip",
       "Arch": "386",
       "Os": "windows",
@@ -1091,14 +777,6 @@
     {
       "Url": "https://github.com/upx/upx/releases/download/v4.2.1/upx-4.2.1-arm64_linux.tar.xz",
       "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/upx/upx/releases/download/v4.2.1/upx-4.2.1-armeb_linux.tar.xz",
-      "Arch": "",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1161,14 +839,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/upx/upx/releases/download/v4.2.1/upx-4.2.1-src.tar.xz",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/upx/upx/releases/download/v4.2.1/upx-4.2.1-win32.zip",
       "Arch": "386",
       "Os": "windows",
@@ -1197,14 +867,6 @@
     {
       "Url": "https://github.com/upx/upx/releases/download/v4.2.2/upx-4.2.2-arm64_linux.tar.xz",
       "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/upx/upx/releases/download/v4.2.2/upx-4.2.2-armeb_linux.tar.xz",
-      "Arch": "",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1267,14 +929,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/upx/upx/releases/download/v4.2.2/upx-4.2.2-src.tar.xz",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/upx/upx/releases/download/v4.2.2/upx-4.2.2-win32.zip",
       "Arch": "386",
       "Os": "windows",
@@ -1303,14 +957,6 @@
     {
       "Url": "https://github.com/upx/upx/releases/download/v4.2.3/upx-4.2.3-arm64_linux.tar.xz",
       "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/upx/upx/releases/download/v4.2.3/upx-4.2.3-armeb_linux.tar.xz",
-      "Arch": "",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1368,14 +1014,6 @@
       "Url": "https://github.com/upx/upx/releases/download/v4.2.3/upx-4.2.3-powerpc_linux.tar.xz",
       "Arch": "",
       "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/upx/upx/releases/download/v4.2.3/upx-4.2.3-src.tar.xz",
-      "Arch": "",
-      "Os": "",
       "Sum": "",
       "SumType": "",
       "Extra": ""
