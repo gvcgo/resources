@@ -89,14 +89,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/upx/upx/releases/download/v3.95/upx-3.95-arm_linux.tar.xz",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/upx/upx/releases/download/v3.95/upx-3.95-i386_linux.tar.xz",
       "Arch": "386",
       "Os": "linux",
@@ -133,14 +125,6 @@
     {
       "Url": "https://github.com/upx/upx/releases/download/v3.96/upx-3.96-arm64_linux.tar.xz",
       "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/upx/upx/releases/download/v3.96/upx-3.96-arm_linux.tar.xz",
-      "Arch": "",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -189,14 +173,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/upx/upx/releases/download/v4.0.0/upx-4.0.0-arm_linux.tar.xz",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/upx/upx/releases/download/v4.0.0/upx-4.0.0-i386_linux.tar.xz",
       "Arch": "386",
       "Os": "linux",
@@ -233,14 +209,6 @@
     {
       "Url": "https://github.com/upx/upx/releases/download/v4.0.1/upx-4.0.1-arm64_linux.tar.xz",
       "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/upx/upx/releases/download/v4.0.1/upx-4.0.1-arm_linux.tar.xz",
-      "Arch": "",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -289,14 +257,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/upx/upx/releases/download/v4.0.2/upx-4.0.2-arm_linux.tar.xz",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/upx/upx/releases/download/v4.0.2/upx-4.0.2-i386_linux.tar.xz",
       "Arch": "386",
       "Os": "linux",
@@ -333,14 +293,6 @@
     {
       "Url": "https://github.com/upx/upx/releases/download/v4.1.0/upx-4.1.0-arm64_linux.tar.xz",
       "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/upx/upx/releases/download/v4.1.0/upx-4.1.0-arm_linux.tar.xz",
-      "Arch": "",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -389,14 +341,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/upx/upx/releases/download/v4.2.0/upx-4.2.0-arm_linux.tar.xz",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/upx/upx/releases/download/v4.2.0/upx-4.2.0-i386_linux.tar.xz",
       "Arch": "386",
       "Os": "linux",
@@ -433,14 +377,6 @@
     {
       "Url": "https://github.com/upx/upx/releases/download/v4.2.1/upx-4.2.1-arm64_linux.tar.xz",
       "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/upx/upx/releases/download/v4.2.1/upx-4.2.1-arm_linux.tar.xz",
-      "Arch": "",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -489,14 +425,6 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/upx/upx/releases/download/v4.2.2/upx-4.2.2-arm_linux.tar.xz",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/upx/upx/releases/download/v4.2.2/upx-4.2.2-i386_linux.tar.xz",
       "Arch": "386",
       "Os": "linux",
@@ -533,14 +461,6 @@
     {
       "Url": "https://github.com/upx/upx/releases/download/v4.2.3/upx-4.2.3-arm64_linux.tar.xz",
       "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/upx/upx/releases/download/v4.2.3/upx-4.2.3-arm_linux.tar.xz",
-      "Arch": "",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
