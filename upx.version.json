@@ -15,22 +15,6 @@
       "Sum": "",
       "SumType": "",
       "Extra": ""
-    },
-    {
-      "Url": "https://github.com/upx/upx/releases/download/v3.91/upx-3.91-mipsel_linux.tar.bz2",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/upx/upx/releases/download/v3.91/upx-3.91-powerpc_linux.tar.bz2",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
     }
   ],
   "v3.92": [
@@ -45,22 +29,6 @@
     {
       "Url": "https://github.com/upx/upx/releases/download/v3.92/upx-3.92-i386_linux.tar.xz",
       "Arch": "386",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/upx/upx/releases/download/v3.92/upx-3.92-mipsel_linux.tar.xz",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/upx/upx/releases/download/v3.92/upx-3.92-powerpc_linux.tar.xz",
-      "Arch": "",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -83,22 +51,6 @@
       "Sum": "",
       "SumType": "",
       "Extra": ""
-    },
-    {
-      "Url": "https://github.com/upx/upx/releases/download/v3.93/upx-3.93-mipsel_linux.tar.xz",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/upx/upx/releases/download/v3.93/upx-3.93-powerpc_linux.tar.xz",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
     }
   ],
   "v3.94": [
@@ -113,22 +65,6 @@
     {
       "Url": "https://github.com/upx/upx/releases/download/v3.94/upx-3.94-i386_linux.tar.xz",
       "Arch": "386",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/upx/upx/releases/download/v3.94/upx-3.94-mipsel_linux.tar.xz",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/upx/upx/releases/download/v3.94/upx-3.94-powerpc_linux.tar.xz",
-      "Arch": "",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -177,31 +113,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/upx/upx/releases/download/v3.95/upx-3.95-mipsel_linux.tar.xz",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/upx/upx/releases/download/v3.95/upx-3.95-mips_linux.tar.xz",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/upx/upx/releases/download/v3.95/upx-3.95-powerpc64le_linux.tar.xz",
-      "Arch": "ppc64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/upx/upx/releases/download/v3.95/upx-3.95-powerpc_linux.tar.xz",
       "Arch": "",
       "Os": "linux",
       "Sum": "",
@@ -267,31 +179,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/upx/upx/releases/download/v3.96/upx-3.96-mipsel_linux.tar.xz",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/upx/upx/releases/download/v3.96/upx-3.96-mips_linux.tar.xz",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/upx/upx/releases/download/v3.96/upx-3.96-powerpc64le_linux.tar.xz",
-      "Arch": "ppc64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/upx/upx/releases/download/v3.96/upx-3.96-powerpc_linux.tar.xz",
       "Arch": "",
       "Os": "linux",
       "Sum": "",
@@ -357,31 +245,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/upx/upx/releases/download/v4.0.0/upx-4.0.0-mipsel_linux.tar.xz",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/upx/upx/releases/download/v4.0.0/upx-4.0.0-mips_linux.tar.xz",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/upx/upx/releases/download/v4.0.0/upx-4.0.0-powerpc64le_linux.tar.xz",
-      "Arch": "ppc64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/upx/upx/releases/download/v4.0.0/upx-4.0.0-powerpc_linux.tar.xz",
       "Arch": "",
       "Os": "linux",
       "Sum": "",
@@ -447,31 +311,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/upx/upx/releases/download/v4.0.1/upx-4.0.1-mipsel_linux.tar.xz",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/upx/upx/releases/download/v4.0.1/upx-4.0.1-mips_linux.tar.xz",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/upx/upx/releases/download/v4.0.1/upx-4.0.1-powerpc64le_linux.tar.xz",
-      "Arch": "ppc64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/upx/upx/releases/download/v4.0.1/upx-4.0.1-powerpc_linux.tar.xz",
       "Arch": "",
       "Os": "linux",
       "Sum": "",
@@ -537,31 +377,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/upx/upx/releases/download/v4.0.2/upx-4.0.2-mipsel_linux.tar.xz",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/upx/upx/releases/download/v4.0.2/upx-4.0.2-mips_linux.tar.xz",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/upx/upx/releases/download/v4.0.2/upx-4.0.2-powerpc64le_linux.tar.xz",
-      "Arch": "ppc64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/upx/upx/releases/download/v4.0.2/upx-4.0.2-powerpc_linux.tar.xz",
       "Arch": "",
       "Os": "linux",
       "Sum": "",
@@ -627,31 +443,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/upx/upx/releases/download/v4.1.0/upx-4.1.0-mipsel_linux.tar.xz",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/upx/upx/releases/download/v4.1.0/upx-4.1.0-mips_linux.tar.xz",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/upx/upx/releases/download/v4.1.0/upx-4.1.0-powerpc64le_linux.tar.xz",
-      "Arch": "ppc64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/upx/upx/releases/download/v4.1.0/upx-4.1.0-powerpc_linux.tar.xz",
       "Arch": "",
       "Os": "linux",
       "Sum": "",
@@ -717,31 +509,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/upx/upx/releases/download/v4.2.0/upx-4.2.0-mipsel_linux.tar.xz",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/upx/upx/releases/download/v4.2.0/upx-4.2.0-mips_linux.tar.xz",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/upx/upx/releases/download/v4.2.0/upx-4.2.0-powerpc64le_linux.tar.xz",
-      "Arch": "ppc64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/upx/upx/releases/download/v4.2.0/upx-4.2.0-powerpc_linux.tar.xz",
       "Arch": "",
       "Os": "linux",
       "Sum": "",
@@ -807,31 +575,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/upx/upx/releases/download/v4.2.1/upx-4.2.1-mipsel_linux.tar.xz",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/upx/upx/releases/download/v4.2.1/upx-4.2.1-mips_linux.tar.xz",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/upx/upx/releases/download/v4.2.1/upx-4.2.1-powerpc64le_linux.tar.xz",
-      "Arch": "ppc64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/upx/upx/releases/download/v4.2.1/upx-4.2.1-powerpc_linux.tar.xz",
       "Arch": "",
       "Os": "linux",
       "Sum": "",
@@ -897,31 +641,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/upx/upx/releases/download/v4.2.2/upx-4.2.2-mipsel_linux.tar.xz",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/upx/upx/releases/download/v4.2.2/upx-4.2.2-mips_linux.tar.xz",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/upx/upx/releases/download/v4.2.2/upx-4.2.2-powerpc64le_linux.tar.xz",
-      "Arch": "ppc64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/upx/upx/releases/download/v4.2.2/upx-4.2.2-powerpc_linux.tar.xz",
       "Arch": "",
       "Os": "linux",
       "Sum": "",
@@ -987,31 +707,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/upx/upx/releases/download/v4.2.3/upx-4.2.3-mipsel_linux.tar.xz",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
       "Url": "https://github.com/upx/upx/releases/download/v4.2.3/upx-4.2.3-mips_linux.tar.xz",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/upx/upx/releases/download/v4.2.3/upx-4.2.3-powerpc64le_linux.tar.xz",
-      "Arch": "ppc64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/upx/upx/releases/download/v4.2.3/upx-4.2.3-powerpc_linux.tar.xz",
       "Arch": "",
       "Os": "linux",
       "Sum": "",
