@@ -48,5 +48,55 @@
       "SumType": "",
       "Extra": ""
     }
+  ],
+  "v0.4.0": [
+    {
+      "Url": "https://github.com/gvcgo/asciinema/releases/download/v0.4.0/acast_darwin-amd64.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/gvcgo/asciinema/releases/download/v0.4.0/acast_darwin-arm64.zip",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/gvcgo/asciinema/releases/download/v0.4.0/acast_linux-amd64.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/gvcgo/asciinema/releases/download/v0.4.0/acast_linux-arm64.zip",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/gvcgo/asciinema/releases/download/v0.4.0/acast_windows-amd64.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/gvcgo/asciinema/releases/download/v0.4.0/acast_windows-arm64.zip",
+      "Arch": "arm64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
   ]
 }
