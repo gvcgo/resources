@@ -728,5 +728,79 @@
       "SumType": "",
       "Extra": ""
     }
+  ],
+  "v0.7.2": [
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.7.2/vhs-0.7.2.tar.gz",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.7.2/vhs_0.7.2_Darwin_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.7.2/vhs_0.7.2_Darwin_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.7.2/vhs_0.7.2_Linux_arm.tar.gz",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.7.2/vhs_0.7.2_Linux_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.7.2/vhs_0.7.2_Linux_i386.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.7.2/vhs_0.7.2_Linux_x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.7.2/vhs_0.7.2_Windows_i386.zip",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/charmbracelet/vhs/releases/download/v0.7.2/vhs_0.7.2_Windows_x86_64.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
   ]
 }
