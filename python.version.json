@@ -399,6 +399,16 @@
       "Extra": "please use conda to install."
     }
   ],
+  "3.12.3": [
+    {
+      "Url": "",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": "please use conda to install."
+    }
+  ],
   "3.4.5": [
     {
       "Url": "",
