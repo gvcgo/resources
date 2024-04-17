@@ -1963,44 +1963,46 @@
       "Sum": "0192ce501a39ba1bb6cc7f1971a6004bc4b57d2c27400befaacaa4560dfff46e",
       "SumType": "sha256",
       "Extra": ""
-    },
+    }
+  ],
+  "1.29.4": [
     {
-      "Url": "https://dl.k8s.io/release/v1.29.3/bin/darwin/amd64/kubectl",
+      "Url": "https://dl.k8s.io/release/v1.29.4/bin/darwin/amd64/kubectl",
       "Arch": "amd64",
       "Os": "darwin",
-      "Sum": "1a1f9040bce74fb28c475dc157a86565fcabf883a697ca576993ab8372935836",
+      "Sum": "7af9b8a233c49ad5eecb59004719e0bc07972492b674ebbce2919e53326b55b2",
       "SumType": "sha256",
       "Extra": ""
     },
     {
-      "Url": "https://dl.k8s.io/release/v1.29.3/bin/darwin/arm64/kubectl",
+      "Url": "https://dl.k8s.io/release/v1.29.4/bin/darwin/arm64/kubectl",
       "Arch": "arm64",
       "Os": "darwin",
-      "Sum": "b54bf7a3f4d52117b79e4d4f0d7273a93cb60bad54a87f3ab35c6800243cbb8e",
+      "Sum": "b3a881e6208aa41275a97481676a8c8a3c16282f3cd7b441b17f258a054012f1",
       "SumType": "sha256",
       "Extra": ""
     },
     {
-      "Url": "https://dl.k8s.io/release/v1.29.3/bin/linux/amd64/kubectl",
+      "Url": "https://dl.k8s.io/release/v1.29.4/bin/linux/amd64/kubectl",
       "Arch": "amd64",
       "Os": "linux",
-      "Sum": "89c0435cec75278f84b62b848b8c0d3e15897d6947b6c59a49ddccd93d7312bf",
+      "Sum": "10e343861c3cb0010161e703307ba907add2aeeeaffc6444779ad915f9889c88",
       "SumType": "sha256",
       "Extra": ""
     },
     {
-      "Url": "https://dl.k8s.io/release/v1.29.3/bin/linux/arm64/kubectl",
+      "Url": "https://dl.k8s.io/release/v1.29.4/bin/linux/arm64/kubectl",
       "Arch": "arm64",
       "Os": "linux",
-      "Sum": "191a96b27e3c6ae28b330da4c9bfefc9592762670727df4fcf124c9f1d5a466a",
+      "Sum": "61537408eedcad064d7334384aed508a8aa1ea786311b87b505456a2e0535d36",
       "SumType": "sha256",
       "Extra": ""
     },
     {
-      "Url": "https://dl.k8s.io/release/v1.29.3/bin/windows/amd64/kubectl.exe",
+      "Url": "https://dl.k8s.io/release/v1.29.4/bin/windows/amd64/kubectl.exe",
       "Arch": "amd64",
       "Os": "windows",
-      "Sum": "0192ce501a39ba1bb6cc7f1971a6004bc4b57d2c27400befaacaa4560dfff46e",
+      "Sum": "23ea3fce3a784b28e9445c1f813bdcdbd1270f92711f44f6e5772fa2ec2ce238",
       "SumType": "sha256",
       "Extra": ""
     }
