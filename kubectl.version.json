@@ -1965,44 +1965,44 @@
       "Extra": ""
     }
   ],
-  "1.29.4": [
+  "1.30.0": [
     {
-      "Url": "https://dl.k8s.io/release/v1.29.4/bin/darwin/amd64/kubectl",
+      "Url": "https://dl.k8s.io/release/v1.30.0/bin/darwin/amd64/kubectl",
       "Arch": "amd64",
       "Os": "darwin",
-      "Sum": "7af9b8a233c49ad5eecb59004719e0bc07972492b674ebbce2919e53326b55b2",
+      "Sum": "bcfa57d020b8d07d0ea77235ce8012c2c28fefdfd7cb9738f33674a7b16cef08",
       "SumType": "sha256",
       "Extra": ""
     },
     {
-      "Url": "https://dl.k8s.io/release/v1.29.4/bin/darwin/arm64/kubectl",
+      "Url": "https://dl.k8s.io/release/v1.30.0/bin/darwin/arm64/kubectl",
       "Arch": "arm64",
       "Os": "darwin",
-      "Sum": "b3a881e6208aa41275a97481676a8c8a3c16282f3cd7b441b17f258a054012f1",
+      "Sum": "45cfa208151320153742062824398f22bb6bfb5a142bf6238476d55dacbd1bdd",
       "SumType": "sha256",
       "Extra": ""
     },
     {
-      "Url": "https://dl.k8s.io/release/v1.29.4/bin/linux/amd64/kubectl",
+      "Url": "https://dl.k8s.io/release/v1.30.0/bin/linux/amd64/kubectl",
       "Arch": "amd64",
       "Os": "linux",
-      "Sum": "10e343861c3cb0010161e703307ba907add2aeeeaffc6444779ad915f9889c88",
+      "Sum": "7c3807c0f5c1b30110a2ff1e55da1d112a6d0096201f1beb81b269f582b5d1c5",
       "SumType": "sha256",
       "Extra": ""
     },
     {
-      "Url": "https://dl.k8s.io/release/v1.29.4/bin/linux/arm64/kubectl",
+      "Url": "https://dl.k8s.io/release/v1.30.0/bin/linux/arm64/kubectl",
       "Arch": "arm64",
       "Os": "linux",
-      "Sum": "61537408eedcad064d7334384aed508a8aa1ea786311b87b505456a2e0535d36",
+      "Sum": "669af0cf520757298ea60a8b6eb6b719ba443a9c7d35f36d3fb2fd7513e8c7d2",
       "SumType": "sha256",
       "Extra": ""
     },
     {
-      "Url": "https://dl.k8s.io/release/v1.29.4/bin/windows/amd64/kubectl.exe",
+      "Url": "https://dl.k8s.io/release/v1.30.0/bin/windows/amd64/kubectl.exe",
       "Arch": "amd64",
       "Os": "windows",
-      "Sum": "23ea3fce3a784b28e9445c1f813bdcdbd1270f92711f44f6e5772fa2ec2ce238",
+      "Sum": "e0e72bf37bf563fdea4a6070b07e2fbaa818aa02ed38c5d10d9ce146106cab70",
       "SumType": "sha256",
       "Extra": ""
     }
