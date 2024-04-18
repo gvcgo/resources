@@ -799,7 +799,7 @@
   ],
   "master": [
     {
-      "Url": "https://ziglang.org/builds/zig-windows-x86_64-0.12.0-dev.3666+a2b834e8c.zip",
+      "Url": "https://ziglang.org/builds/zig-windows-x86_64-0.12.0-dev.3667+77abd3a96.zip",
       "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
@@ -807,7 +807,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://ziglang.org/builds/zig-windows-x86-0.12.0-dev.3666+a2b834e8c.zip",
+      "Url": "https://ziglang.org/builds/zig-windows-x86-0.12.0-dev.3667+77abd3a96.zip",
       "Arch": "386",
       "Os": "windows",
       "Sum": "",
@@ -815,7 +815,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://ziglang.org/builds/zig-windows-aarch64-0.12.0-dev.3666+a2b834e8c.zip",
+      "Url": "https://ziglang.org/builds/zig-windows-aarch64-0.12.0-dev.3667+77abd3a96.zip",
       "Arch": "arm64",
       "Os": "windows",
       "Sum": "",
@@ -823,7 +823,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://ziglang.org/builds/zig-macos-aarch64-0.12.0-dev.3666+a2b834e8c.tar.xz",
+      "Url": "https://ziglang.org/builds/zig-macos-aarch64-0.12.0-dev.3667+77abd3a96.tar.xz",
       "Arch": "arm64",
       "Os": "darwin",
       "Sum": "",
@@ -831,7 +831,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://ziglang.org/builds/zig-macos-x86_64-0.12.0-dev.3666+a2b834e8c.tar.xz",
+      "Url": "https://ziglang.org/builds/zig-macos-x86_64-0.12.0-dev.3667+77abd3a96.tar.xz",
       "Arch": "amd64",
       "Os": "darwin",
       "Sum": "",
@@ -839,7 +839,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://ziglang.org/builds/zig-linux-x86_64-0.12.0-dev.3666+a2b834e8c.tar.xz",
+      "Url": "https://ziglang.org/builds/zig-linux-x86_64-0.12.0-dev.3667+77abd3a96.tar.xz",
       "Arch": "amd64",
       "Os": "linux",
       "Sum": "",
@@ -847,7 +847,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://ziglang.org/builds/zig-linux-x86-0.12.0-dev.3666+a2b834e8c.tar.xz",
+      "Url": "https://ziglang.org/builds/zig-linux-x86-0.12.0-dev.3667+77abd3a96.tar.xz",
       "Arch": "386",
       "Os": "linux",
       "Sum": "",
@@ -855,7 +855,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://ziglang.org/builds/zig-linux-aarch64-0.12.0-dev.3666+a2b834e8c.tar.xz",
+      "Url": "https://ziglang.org/builds/zig-linux-aarch64-0.12.0-dev.3667+77abd3a96.tar.xz",
       "Arch": "arm64",
       "Os": "linux",
       "Sum": "",
@@ -863,7 +863,7 @@
       "Extra": ""
     },
     {
-      "Url": "https://ziglang.org/builds/zig-linux-powerpc64le-0.12.0-dev.3666+a2b834e8c.tar.xz",
+      "Url": "https://ziglang.org/builds/zig-linux-powerpc64le-0.12.0-dev.3667+77abd3a96.tar.xz",
       "Arch": "ppc64",
       "Os": "linux",
       "Sum": "",
