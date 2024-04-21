@@ -1,0 +1,806 @@
+{
+  "dev-2021-10": [
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2021-10/odin-macos-amd64-dev-2021-10.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2021-10/odin-ubuntu-amd64-dev-2021-10.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2021-10/odin-windows-amd64-dev-2021-10.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "dev-2021-11": [
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2021-11/odin-macos-amd64-dev-2021-11.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2021-11/odin-ubuntu-amd64-dev-2021-11.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2021-11/odin-windows-amd64-dev-2021-11.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "dev-2021-12": [
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2021-12/odin-macos-amd64-dev-2021-12.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2021-12/odin-ubuntu-amd64-dev-2021-12.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2021-12/odin-windows-amd64-dev-2021-12.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "dev-2022-01": [
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2022-01/odin-macos-amd64-dev-2022-01.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2022-01/odin-ubuntu-amd64-dev-2022-01.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2022-01/odin-windows-amd64-dev-2022-01.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "dev-2022-02": [
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2022-02/odin-macos-dev-2022-02.zip",
+      "Arch": "",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2022-02/odin-ubuntu-dev-2022-02.zip",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2022-02/odin-windows-dev-2022-02.zip",
+      "Arch": "",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "dev-2022-03": [
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2022-03/odin-macos-dev-2022-03.zip",
+      "Arch": "",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2022-03/odin-ubuntu-dev-2022-03.zip",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2022-03/odin-windows-dev-2022-03.zip",
+      "Arch": "",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "dev-2022-04": [
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2022-04/odin-macos_amd64-dev-2022-04.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2022-04/odin-ubuntu_amd64-dev-2022-04.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2022-04/odin-windows_amd64-dev-2022-04.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "dev-2022-05": [
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2022-05/macos_amd64_dev-2022-05.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2022-05/ubuntu_amd64_dev-2022-05.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2022-05/windows_amd64_dev-2022-05.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "dev-2022-06": [
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2022-06/odin-macos-amd64-dev-2022-06.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2022-06/odin-ubuntu-amd64-dev-2022-06.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2022-06/odin-windows-amd64-dev-2022-06.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "dev-2022-07": [
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2022-07/odin-macos-amd64-dev-2022-07.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2022-07/odin-ubuntu-amd64-dev-2022-07.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2022-07/odin-windows-amd64-dev-2022-07.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "dev-2022-08": [
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2022-08/odin-macos-amd64-dev-2022-08.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2022-08/odin-ubuntu-amd64-dev-2022-08.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2022-08/odin-windows-amd64-dev-2022-08.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "dev-2022-09": [
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2022-09/odin-macos-amd64-dev-2022-09.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2022-09/odin-ubuntu-amd64-dev-2022-09.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2022-09/odin-windows-amd64-dev-2022-09.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "dev-2022-10": [
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2022-10/odin-macos-amd64-dev-2022-10.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2022-10/odin-ubuntu-amd64-dev-2022-10.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2022-10/odin-windows-amd64-dev-2022-10.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "dev-2022-11": [
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2022-11/odin-macos-amd64-dev-2022-11.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2022-11/odin-ubuntu-amd64-dev-2022-11.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2022-11/odin-windows-amd64-dev-2022-11.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "dev-2022-12": [
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2022-12/odin-macos-amd64-dev-2022-12.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2022-12/odin-ubuntu-amd64-dev-2022-12.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2022-12/odin-windows-amd64-dev-2022-12.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "dev-2023-01": [
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2023-01/odin-macos-amd64-dev-2023-01.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2023-01/odin-ubuntu-amd64-dev-2023-01.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2023-01/odin-windows-amd64-dev-2023-01.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "dev-2023-02": [
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2023-02/odin-macos-amd64-dev-2023-02.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2023-02/odin-ubuntu-amd64-dev-2023-02.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2023-02/odin-windows-amd64-dev-2023-02.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "dev-2023-03": [
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2023-03/odin-macos-amd64-dev-2023-03.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2023-03/odin-ubuntu-amd64-dev-2023-03.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2023-03/odin-windows-amd64-dev-2023-03.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "dev-2023-04": [
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2023-04/odin-macos-amd64-dev-2023-04.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2023-04/odin-ubuntu-amd64-dev-2023-04.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2023-04/odin-windows-amd64-dev-2023-04.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "dev-2023-05": [
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2023-05/odin-macos-amd64-dev-2023-05.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2023-05/odin-ubuntu-amd64-dev-2023-05.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2023-05/odin-windows-amd64-dev-2023-05.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "dev-2023-07": [
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2023-07/odin-macos-amd64-dev-2023-07.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2023-07/odin-ubuntu-amd64-dev-2023-07.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2023-07/odin-windows-amd64-dev-2023-07.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "dev-2023-08": [
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2023-08/odin-macos-amd64-dev-2023-08.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2023-08/odin-ubuntu-amd64-dev-2023-08.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2023-08/odin-windows-amd64-dev-2023-08.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "dev-2023-10": [
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2023-10/odin-macos-amd64-dev-2023-10.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2023-10/odin-ubuntu-amd64-dev-2023-10.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2023-10/odin-windows-amd64-dev-2023-10.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "dev-2023-11": [
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2023-11/odin-macos-amd64-dev-2023-11.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2023-11/odin-ubuntu-amd64-dev-2023-11.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2023-11/odin-windows-amd64-dev-2023-11.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "dev-2023-12": [
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2023-12/odin-mac-amd64-dev-2023-12.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2023-12/odin-ubuntu-amd64-dev-2023-12.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2023-12/odin-windows-amd64-dev-2023-12.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "dev-2024-01": [
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2024-01/odin-macos-amd64-dev-2024-01.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2024-01/odin-ubuntu-amd64-dev-2024-01.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2024-01/odin-windows-amd64-dev-2024-01.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "dev-2024-02": [
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2024-02/odin-macos-amd64-dev-2024-02.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2024-02/odin-ubuntu-amd64-dev-2024-02.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2024-02/odin-windows-amd64-dev-2024-02.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "dev-2024-03": [
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2024-03/odin-macos-amd64-dev-2024-03.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2024-03/odin-macos-arm64-dev-2024-03.zip",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2024-03/odin-ubuntu-amd64-dev-2024-03.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2024-03/odin-windows-amd64-dev-2024-03.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "dev-2024-04": [
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2024-04/odin-macos-amd64-dev-2024-04.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2024-04/odin-macos-arm64-dev-2024-04.zip",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2024-04/odin-ubuntu-amd64-dev-2024-04.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2024-04/odin-windows-amd64-dev-2024-04.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "dev-2024-04a": [
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2024-04a/odin-macos-amd64-dev-2024-04a.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2024-04a/odin-macos-arm64-dev-2024-04a.zip",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2024-04a/odin-ubuntu-amd64-dev-2024-04a.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2024-04a/odin-windows-amd64-dev-2024-04a.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ]
+}
