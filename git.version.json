@@ -484,5 +484,23 @@
       "SumType": "",
       "Extra": ""
     }
+  ],
+  "v2.45.0-rc1.windows.1": [
+    {
+      "Url": "https://github.com/git-for-windows/git/releases/download/v2.45.0-rc1.windows.1/PortableGit-2.45.0-rc1-32-bit.7z.exe",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/git-for-windows/git/releases/download/v2.45.0-rc1.windows.1/PortableGit-2.45.0-rc1-64-bit.7z.exe",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
   ]
 }
