@@ -108,7 +108,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v10.1.0/node-v10.1.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "33ac904f443dd73c1b14dd55fe6ea5286b75244f79ccde67f8b0eeeb0d8d6f5c",
       "SumType": "sha256",
@@ -182,7 +182,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v10.10.0/node-v10.10.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "0ad5ca19acb72a734d095848b132034457c7a57603fdbfd78e36eb68d76237cd",
       "SumType": "sha256",
@@ -256,7 +256,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v10.11.0/node-v10.11.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "e8426b7f7c499abca8346cd5e7051c101b31dadea54cf6d502b9ef91ffefad09",
       "SumType": "sha256",
@@ -404,7 +404,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v10.13.0/node-v10.13.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "41fb140bc0e345df13647dc7f1622fcfac2c68bb91260fc353b5f693bfbcb0b1",
       "SumType": "sha256",
@@ -626,7 +626,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v10.14.2/node-v10.14.2-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "e7f10ba28883ac206684c96cf9ccba6d6d2d39f8b377fbcc4cf28943ee96e57f",
       "SumType": "sha256",
@@ -996,7 +996,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v10.16.0/node-v10.16.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "5c2706288ab496535044cfee007404dcbb93b8d915471b183c0fd3955067e2d6",
       "SumType": "sha256",
@@ -1144,7 +1144,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v10.16.2/node-v10.16.2-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "40c7f91501ec0473c93a2da8d05979f795a8008496ba3954164013bb90745ff2",
       "SumType": "sha256",
@@ -1218,7 +1218,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v10.16.3/node-v10.16.3-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "3e0f41b3cb991f062e1c93a297675af34d1a2f29052306cd585f1f5e25ea9159",
       "SumType": "sha256",
@@ -1366,7 +1366,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v10.18.0/node-v10.18.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "b688c204140e2feac15d445262c8e9aff2234c8caddcfa0cf31c744f61f8c106",
       "SumType": "sha256",
@@ -1736,7 +1736,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v10.20.0/node-v10.20.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "8a9c813ba4e5493b8fffaa0f2682ff32c1cfb167707520aa25803cfa997eb160",
       "SumType": "sha256",
@@ -2994,7 +2994,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v10.8.0/node-v10.8.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "39c9c34bf74cc0c125dea1b6c61cb667efaa577d15ee636c2bb5536833957d06",
       "SumType": "sha256",
@@ -3142,7 +3142,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v11.0.0/node-v11.0.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "f1bd19c7e77cc94c15a797b2a7bb16b07aa0cbbbf83f33d5cc38afd72ba1b90e",
       "SumType": "sha256",
@@ -3216,7 +3216,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v11.1.0/node-v11.1.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "718e8e56b0cf0e8881e6e5c62124c2fd1950c2e9a49d6b542cf28348d533af44",
       "SumType": "sha256",
@@ -3660,7 +3660,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v11.14.0/node-v11.14.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "10384eba1300cfd04339cbc8a93f8bafeb91639c4e60f5830abc20f325ce2a52",
       "SumType": "sha256",
@@ -3808,7 +3808,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v11.2.0/node-v11.2.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "9deb2ab8590a26703df3c16a724aa061b5fd62f31dd6e8d336b082ea4fa8eded",
       "SumType": "sha256",
@@ -4178,7 +4178,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v11.7.0/node-v11.7.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "48de0f6b42226374cfc76d912f9d569d0b9f81a5646909f847892b2be78759ed",
       "SumType": "sha256",
@@ -4326,7 +4326,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v11.9.0/node-v11.9.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "edc4b7bade731e3aaf2d0d0773b914a178904462deb90e6cca311bb3bdb72af9",
       "SumType": "sha256",
@@ -4392,7 +4392,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v12.0.0/node-v12.0.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "85e79f1282a6a0b048cc6370ca7427583ef05ce2e7f33b0323fd6d14fc1d4348",
       "SumType": "sha256",
@@ -4590,7 +4590,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v12.11.0/node-v12.11.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "6659a7abfd228fdd0e6765a22407d17f427620b767fed327e4d754faa5236e56",
       "SumType": "sha256",
@@ -4656,7 +4656,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v12.11.1/node-v12.11.1-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "13a5fda091794604fdf2965b04fdc76c311c83c41b98533c8f91d0d1bebaf30a",
       "SumType": "sha256",
@@ -4854,7 +4854,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v12.13.1/node-v12.13.1-linux-ppc64le.tar.gz",
-      "Arch": "ppc64",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "07f2f97615ef03b60140097cdfc627b0e97d408153974ccf8699847c8803fbe1",
       "SumType": "sha256",
@@ -4920,7 +4920,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v12.14.0/node-v12.14.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "c00134ae7cee96b5c2782dabc1c3b778b3bc2cf8d53702c63d2e46966bb8cc39",
       "SumType": "sha256",
@@ -4986,7 +4986,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v12.14.1/node-v12.14.1-linux-ppc64le.tar.gz",
-      "Arch": "ppc64",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "280c4f432261180004c33c6fe73b008b84926f9c5b2997e9df4da691d22e081b",
       "SumType": "sha256",
@@ -5052,7 +5052,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v12.15.0/node-v12.15.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "91c4d019e2c86d088fcb0874f3dab6a074c354d4fe0fcce1fa2f535c86396f5e",
       "SumType": "sha256",
@@ -5580,7 +5580,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v12.18.2/node-v12.18.2-linux-ppc64le.tar.gz",
-      "Arch": "ppc64",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "87d44e1d81604ba587a35cd8f760e591c71825e9fed7d9c4ff3ceda3eacfe52f",
       "SumType": "sha256",
@@ -5844,7 +5844,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v12.19.1/node-v12.19.1-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "3b1c6738d10c80a1ac12c1f7ccd81321089ff0e006fe55b91f1b10001cb8d337",
       "SumType": "sha256",
@@ -6042,7 +6042,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v12.20.1/node-v12.20.1-linux-ppc64le.tar.gz",
-      "Arch": "ppc64",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "0722467ef8361fa0a7562154b8907c4769a7ba96a6631e5a5212d9b0ca3edba9",
       "SumType": "sha256",
@@ -6174,7 +6174,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v12.21.0/node-v12.21.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "6fea17dc8bc059692dce1a149b2eb49c837f8b8569ba1c5b9a51a955b9df22f3",
       "SumType": "sha256",
@@ -6240,7 +6240,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v12.22.0/node-v12.22.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "437fa2f1a2caae09120a1bf9a20544368391bfea382f1e485b440f2117febfeb",
       "SumType": "sha256",
@@ -6504,7 +6504,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v12.22.12/node-v12.22.12-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "a32f0e934f99b68a30738354880fd61bcf651f8d9012e1f0d439205bc918a83b",
       "SumType": "sha256",
@@ -6636,7 +6636,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v12.22.3/node-v12.22.3-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "d0e0c1cbb175a8555d5ac29ec4e419f8b5b42d43fe9c89e3ffa6ad10c0e4fb1d",
       "SumType": "sha256",
@@ -6768,7 +6768,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v12.22.5/node-v12.22.5-linux-ppc64le.tar.gz",
-      "Arch": "ppc64",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "80e042119d98ff4af48e53e6720b696f8c4a2746efbc5d8f5a3857a6b17c1415",
       "SumType": "sha256",
@@ -6966,7 +6966,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v12.22.8/node-v12.22.8-linux-ppc64le.tar.gz",
-      "Arch": "ppc64",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "054bb089df90b475956b6e023f08757ed5fc0d42695976d0490c5812e382d4bb",
       "SumType": "sha256",
@@ -7230,7 +7230,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v12.4.0/node-v12.4.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "7fc99ee4ea2fb145599e115f04f68070e221c83677a1089fc2d5a271133c6f7d",
       "SumType": "sha256",
@@ -7494,7 +7494,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v12.8.0/node-v12.8.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "8ef1ed72c1fe7ddec8913d50cb4a9fc858c34417b82ed8f2335979d93c2addc5",
       "SumType": "sha256",
@@ -7626,7 +7626,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v12.9.0/node-v12.9.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "a5b0ac5557df1588d2b74a4ec33a6cf4feb0586d899b048d1eb9befd5de8a738",
       "SumType": "sha256",
@@ -7692,7 +7692,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v12.9.1/node-v12.9.1-linux-ppc64le.tar.gz",
-      "Arch": "ppc64",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "1febb5758d96f6b05c6e86d2520d9d658065fae98da9273248caca0ddde27878",
       "SumType": "sha256",
@@ -7956,7 +7956,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v13.10.0/node-v13.10.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "6e1cc0c441ca8cf9107e1de212977b2d6c04f9095bc8088652eb72e7f2b0ab7d",
       "SumType": "sha256",
@@ -8220,7 +8220,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v13.13.0/node-v13.13.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "b91babd63a606cb3d60d808b1505a1a0cde0da537c450abb494319963985da5a",
       "SumType": "sha256",
@@ -8286,7 +8286,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v13.14.0/node-v13.14.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "61649b0c2cd00e034d7aa8339c9529caeabd1db55c91a43d670eeb8944caf303",
       "SumType": "sha256",
@@ -8880,7 +8880,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v14.0.0/node-v14.0.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "8baeb23c7cdbdb47387c243b6b5bac17443cbb58f6aa0a7913a0126f241c598b",
       "SumType": "sha256",
@@ -9144,7 +9144,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v14.11.0/node-v14.11.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "f1e4841bd8b4759fea274486374b82eea18a42309e0f5837b555a271e8462fb1",
       "SumType": "sha256",
@@ -9210,7 +9210,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v14.12.0/node-v14.12.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "8c68ac374195921e5b079256343982d59a99be87e37dd49d2cb12cf4d78101aa",
       "SumType": "sha256",
@@ -9474,7 +9474,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v14.15.0/node-v14.15.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "3f02f4939d15ccddf179ddbfc93dd043fa1c749227803eb079e4322f26a9a685",
       "SumType": "sha256",
@@ -9804,7 +9804,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v14.15.5/node-v14.15.5-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "0f5b26fb3913f62aacf4827c46b409fcec4c91479292ab094a319ccc975778e4",
       "SumType": "sha256",
@@ -9936,7 +9936,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v14.16.1/node-v14.16.1-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "de6ccb9bf08520939cc2ae0507634015981604b5eb6912d031d4b7fe146f0de4",
       "SumType": "sha256",
@@ -10134,7 +10134,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v14.17.2/node-v14.17.2-linux-ppc64le.tar.gz",
-      "Arch": "ppc64",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "d94681c9953a68cfbc3903edbe680d9068581c140a5d24c265e557c2e0a57a51",
       "SumType": "sha256",
@@ -10398,7 +10398,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v14.17.6/node-v14.17.6-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "180d13998617f1ef85beec008ef7fe49b30e0d2ecb2bd7897c1d51f95c803aa9",
       "SumType": "sha256",
@@ -10992,7 +10992,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v14.2.0/node-v14.2.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "45c6a4edfd3179e9f53fc76faa0bd3c255022e6491d9961d9ff0caca9947bd98",
       "SumType": "sha256",
@@ -11322,7 +11322,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v14.21.2/node-v14.21.2-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "dc322aafa2525f114b2fa2a3144c805c8b80341fe64e8d66b5b11c8c9e9fad45",
       "SumType": "sha256",
@@ -12510,7 +12510,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v15.2.1/node-v15.2.1-linux-ppc64le.tar.gz",
-      "Arch": "ppc64",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "725827d64c8e7e272bb72a4e02fc3ed4ac7158c24cdd0ee6608727c10f8f771f",
       "SumType": "sha256",
@@ -12642,7 +12642,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v15.4.0/node-v15.4.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "ebcc8c6819032fc02dee3214d61032c11cd9ecfc764613e8f7ed2cbe5afaabff",
       "SumType": "sha256",
@@ -12906,7 +12906,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v15.7.0/node-v15.7.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "78c8a4e9ed8a51cac421d2017f9eec61a318cc30b6e4af96cb28200816a4d49a",
       "SumType": "sha256",
@@ -13112,7 +13112,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v16.0.0/node-v16.0.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "bc28902e8e1453531bb38001cf705dff2456cdf5b856a37dac2f2d3d771b02c1",
       "SumType": "sha256",
@@ -13408,7 +13408,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v16.11.1/node-v16.11.1-linux-ppc64le.tar.gz",
-      "Arch": "ppc64",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "3f6d4f35cb48cce8a88385b6790526f087ca9dbedf092b08ae521fd36e873610",
       "SumType": "sha256",
@@ -13630,7 +13630,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v16.13.1/node-v16.13.1-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "58810743fbfe782e7dbeb1153769bc8aeb3d1b6dcb470c82eca58ab0bc840332",
       "SumType": "sha256",
@@ -14296,7 +14296,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v16.17.1/node-v16.17.1-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "1f48de7bed99e973c4c50f1b7fc99fc9af5144d093fd6d2b50a1e43b5818bf05",
       "SumType": "sha256",
@@ -14370,7 +14370,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v16.18.0/node-v16.18.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "7ede6631ed95fe539309859d0f72e100f6549f2f9706dcafbc5e3c9a77ff0659",
       "SumType": "sha256",
@@ -14740,7 +14740,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v16.20.0/node-v16.20.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "dc51e9f9aa825e4d2793c17b526a1c16c90a7d177dfff3f7188a035e67069c58",
       "SumType": "sha256",
@@ -14814,7 +14814,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v16.20.1/node-v16.20.1-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "67b1954b44f778565e065ed844ee9fe681baa069026c1b62677bf9784701f46f",
       "SumType": "sha256",
@@ -15036,7 +15036,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v16.4.0/node-v16.4.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "8b68bb6bb00af0db969e4c3c0f47bba408c71dfb3a33dd9a95336bd1f03769e8",
       "SumType": "sha256",
@@ -15110,7 +15110,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v16.4.1/node-v16.4.1-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "49a3f2958e1e822d4053adf7c006ccf230ca7dc4f830bea789163fd093184160",
       "SumType": "sha256",
@@ -15258,7 +15258,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v16.5.0/node-v16.5.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "935cbd6195c0b08edd801eb3c0373bb97454a1105d032365d0df1bbc782e836a",
       "SumType": "sha256",
@@ -15332,7 +15332,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v16.6.0/node-v16.6.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "6f1dbb2cf8f8936a5c2c2a4a8980067e658084992ec6811606d2479466acd497",
       "SumType": "sha256",
@@ -15702,7 +15702,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v16.9.0/node-v16.9.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "7316b5c9d7c6c2fc7ca3648792500dfacd8eea68f5f7d4b50b965c49779483c9",
       "SumType": "sha256",
@@ -15850,7 +15850,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v17.0.0/node-v17.0.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "9e3f1c7fc59dadb0f9303a11c50247d62688be85c3e70e90c040655b49f93a54",
       "SumType": "sha256",
@@ -15924,7 +15924,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v17.0.1/node-v17.0.1-linux-ppc64le.tar.gz",
-      "Arch": "ppc64",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "aaa1445b1d8b988196d6b3ce9ea795da8ff68acc20c665d0e16c33b5f558e853",
       "SumType": "sha256",
@@ -16072,7 +16072,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v17.2.0/node-v17.2.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "609f3095d742eca2d22ec2afa3227f8872ef9295cbe2577f58e4a519bdf3afc2",
       "SumType": "sha256",
@@ -16220,7 +16220,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v17.3.1/node-v17.3.1-linux-ppc64le.tar.gz",
-      "Arch": "ppc64",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "d9bb4e3889f42e7aea30c37014e499d29c4ce2c358bc5a55f8029b471f9217ec",
       "SumType": "sha256",
@@ -16294,7 +16294,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v17.4.0/node-v17.4.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "d3f2bb969120fbff3aef1e5d75c0f00c04549ee930743d9a51ed5e675cff7788",
       "SumType": "sha256",
@@ -16442,7 +16442,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v17.6.0/node-v17.6.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "f54c3a00e0fd949c24268a8eff25d6b8f1da1d33cf1ccb8e29fe05d5375b0101",
       "SumType": "sha256",
@@ -16590,7 +16590,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v17.7.1/node-v17.7.1-linux-ppc64le.tar.gz",
-      "Arch": "ppc64",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "277d5c3c6d32dbd9f24d2fc8700a7f75affa569806fabd7738740afa9faa7224",
       "SumType": "sha256",
@@ -16738,7 +16738,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v17.8.0/node-v17.8.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "92f22cb69dd52d8e10ca91d7db1ad80a8197a10a47400e041fb53cdf7253148c",
       "SumType": "sha256",
@@ -17026,7 +17026,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v18.1.0/node-v18.1.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "7de0d8ae2ce42639862f9d5dd3c4df52c90e6b30041e0eae574f605341621717",
       "SumType": "sha256",
@@ -17314,7 +17314,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v18.12.1/node-v18.12.1-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "b6eb0af1311f6cb0349c7b7babc17bb32865a2eed6c7f304eddc111bf9576481",
       "SumType": "sha256",
@@ -17536,7 +17536,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v18.14.1/node-v18.14.1-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "988198c90fd9f731e754a592b4f4ef85bbb289b54aa4a35603460df39b3abe9c",
       "SumType": "sha256",
@@ -18786,7 +18786,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v18.4.0/node-v18.4.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "8a7b20fed6286a8755bb49590aab592c86fdf244c494843d0cbbfe34912f01de",
       "SumType": "sha256",
@@ -18860,7 +18860,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v18.5.0/node-v18.5.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "14d16808b6a5ae0e6ed2a426f8921e7e16c1dae0b7e43952d75675a929a8674e",
       "SumType": "sha256",
@@ -19230,7 +19230,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v18.9.1/node-v18.9.1-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "6a853f4702c41c0da9f625def2db01e24a91e89a2c8dbbeb7b79556572390aa6",
       "SumType": "sha256",
@@ -19452,7 +19452,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v19.1.0/node-v19.1.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "b7e1ffce24820037103265604faf1e483db75d1212096cf653b41f19594109e1",
       "SumType": "sha256",
@@ -19822,7 +19822,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v19.6.0/node-v19.6.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "6a7b7cb45afb2293d62801c097a25df9901864b824fc0404c5c958dad23043cf",
       "SumType": "sha256",
@@ -20044,7 +20044,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v19.8.0/node-v19.8.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "860b829a8f802c0bd6a1b2002ca5cd7d39b3d5de05e300b328591420bf66ce3a",
       "SumType": "sha256",
@@ -20438,7 +20438,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v20.10.0/node-v20.10.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "4ebedbc3a02e620aa4f1460cb336bcc93c958a2720c14e339f13cd9bc0be606b",
       "SumType": "sha256",
@@ -21094,7 +21094,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v20.3.1/node-v20.3.1-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "6e786adcc4bce1d790af579829d29d11a59221c608b760fe5ba2557ee8e3c2c4",
       "SumType": "sha256",
@@ -21176,7 +21176,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v20.4.0/node-v20.4.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "71bef4eb631ccd0129f14066ed963613f59772b1f804ad99e06f4d25a5178cf0",
       "SumType": "sha256",
@@ -21422,7 +21422,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v20.6.0/node-v20.6.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "a832ab3c23d9e606419242e2a79e6cdcad87c73942faa1d65eb91d4ae44f22dd",
       "SumType": "sha256",
@@ -21586,7 +21586,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v20.7.0/node-v20.7.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "5661c71b2c1430c282626eff1328550c327a9eb6fbef8976d333dde40a68e5be",
       "SumType": "sha256",
@@ -21668,7 +21668,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v20.8.0/node-v20.8.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "44beb7fb1ebacedf5a4c08cc4cd5d346820058a3f3316d9f34bc2fa16a29fd8c",
       "SumType": "sha256",
@@ -21832,7 +21832,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v20.9.0/node-v20.9.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "3bdb0552e0056160c7600e2fbb95478538e9a90c158120f758658e51d94512c4",
       "SumType": "sha256",
@@ -22160,7 +22160,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v21.3.0/node-v21.3.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "d8044cb491ed1d9783e46fae006595cccb832fa1c17995e14fe740eadea409a0",
       "SumType": "sha256",
@@ -22406,7 +22406,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v21.6.0/node-v21.6.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "251b191acbaef8aea0a79a7b5ff2a1ae401ad03b13e979aa495b2dc59375b65c",
       "SumType": "sha256",
@@ -22816,7 +22816,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v21.7.2/node-v21.7.2-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "4ece271c97fc434c34328081245e406e23a23fed32868f90fe901f1a232a27bd",
       "SumType": "sha256",
@@ -22980,7 +22980,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v22.0.0/node-v22.0.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "3b098dccf56d446bbb80845d35bbecbdb74612860d1690f3a216387c99c9d620",
       "SumType": "sha256",
@@ -23582,7 +23582,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v4.4.2/node-v4.4.2-linux-ppc64le.tar.gz",
-      "Arch": "ppc64",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "035d202d02ac965618d99ec5c8680aba1ea41f6114caf720a160fe23405809b5",
       "SumType": "sha256",
@@ -23906,7 +23906,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v4.5.0/node-v4.5.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "a517a56b5550567225c6820f99e44fc84ac9953e2fe9db67f3bab7a8d7661e9f",
       "SumType": "sha256",
@@ -24128,7 +24128,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v4.6.2/node-v4.6.2-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "30818e8ebc302bdd5b60d0d7287d336ce4db51302eacb7ad5684d7a1f013af48",
       "SumType": "sha256",
@@ -24202,7 +24202,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v4.7.0/node-v4.7.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "8507c2b76954ada0754416cc19869317fb7fa37497494ac2b2d37fd5e36d46c9",
       "SumType": "sha256",
@@ -24276,7 +24276,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v4.7.1/node-v4.7.1-linux-ppc64le.tar.gz",
-      "Arch": "ppc64",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "bf30bf15edaa0c23dd81424e37167bb1a4718af6d81a3f9f487c823e04a481ed",
       "SumType": "sha256",
@@ -24350,7 +24350,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v4.7.2/node-v4.7.2-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "dcac477e9ac3643728ea8d8385884b7deeb43295176f0a1216af13b6adf95b85",
       "SumType": "sha256",
@@ -24498,7 +24498,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v4.8.0/node-v4.8.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "cfe003b8984af329132e1027fd2c4a91f7e8aace0facde1789f55986f5671e63",
       "SumType": "sha256",
@@ -25164,7 +25164,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v4.9.1/node-v4.9.1-linux-ppc64le.tar.gz",
-      "Arch": "ppc64",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "3660caa07a3ab36cd3cea7812190330401eed40c7b92f6023787205ca2a8a9b9",
       "SumType": "sha256",
@@ -25336,7 +25336,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v6.10.1/node-v6.10.1-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "4ee596c38a271d1f32c614bd43dfb79b8dce5cba66166ae5c7d242d1d4444ff3",
       "SumType": "sha256",
@@ -25786,7 +25786,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v6.11.2/node-v6.11.2-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "095d0411667b00518f2ff0ea5eb17e01bfe17fe58b8eb8648e0be87bb89d8fb9",
       "SumType": "sha256",
@@ -27136,7 +27136,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v6.15.0/node-v6.15.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "89c188b76655cb093240bea05bf62cf588d287c28c735ff95ae11629e9241ed0",
       "SumType": "sha256",
@@ -27226,7 +27226,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v6.15.1/node-v6.15.1-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "70d63aa325b8ee7a121fa878e5abd5fcce603ba4172d7fc0e667fe39b00ae291",
       "SumType": "sha256",
@@ -27316,7 +27316,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v6.16.0/node-v6.16.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "1c6c30d8d795f8d888526ae97e3dfd0a332fdbf2e703f1696679879fda8a1c62",
       "SumType": "sha256",
@@ -27766,7 +27766,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v6.9.2/node-v6.9.2-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "f4b736390a945b68829031fbe5ae1373c73ffb3adb2e461481239334f98ca7cd",
       "SumType": "sha256",
@@ -27856,7 +27856,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v6.9.3/node-v6.9.3-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "df59c6bd0b2de004fcec8101f2f671107f63a3e29d436eb02c922348a423fcc2",
       "SumType": "sha256",
@@ -28036,7 +28036,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v6.9.5/node-v6.9.5-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "00e62593b78c58df714010abf116a3176f2a96ca324ea7e6ba6f6316120ff45f",
       "SumType": "sha256",
@@ -28536,7 +28536,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v8.11.4/node-v8.11.4-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "0a041ea9fcd0beb7b0dbe5cf5e3f54a03c47e9f44d2a96c0613208dc400afc60",
       "SumType": "sha256",
@@ -28618,7 +28618,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v8.12.0/node-v8.12.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "a0c52c8f175566b1b6664ea9bbb82ba93c17c0178d2148368ed070d7a54da291",
       "SumType": "sha256",
@@ -29028,7 +29028,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v8.15.1/node-v8.15.1-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "6d122196856e633a645a07da25ada68ae8a841b8cdb962a69f6e9ec6110ee1bb",
       "SumType": "sha256",
@@ -29274,7 +29274,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v8.16.2/node-v8.16.2-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "9eb932ac222cbd6a1feeee145e515b2d41b18ad2ff686eb23782dc0e7205f838",
       "SumType": "sha256",
@@ -29618,7 +29618,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v8.9.2/node-v8.9.2-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "4e576bbee450380e3d448ac7f8a39c8c1292a2318fab24be69b3ce0b12ed0cb2",
       "SumType": "sha256",
@@ -30192,7 +30192,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v9.11.2/node-v9.11.2-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "00f1ff033fa728a0c516be08b06c46e5eea1155b8d1ee944ae6f96739dd559a7",
       "SumType": "sha256",
@@ -30274,7 +30274,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v9.4.0/node-v9.4.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "29ca9c2238067be59d59123c8454469d0bc8ca8ffeeeff9389986b9e2f1d6d10",
       "SumType": "sha256",
@@ -30602,7 +30602,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v9.7.0/node-v9.7.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "06a7294043d94304ded39a2a3c199f62246269606faa647f290b8526e93cb179",
       "SumType": "sha256",
@@ -30766,7 +30766,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v9.8.0/node-v9.8.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "2026e6c316f9ef645fdd696e0f6a2b0983af8cfee33f48e9aa4841eae52e2c20",
       "SumType": "sha256",
@@ -30848,7 +30848,7 @@
     },
     {
       "Url": "https://nodejs.org/download/release/v9.9.0/node-v9.9.0-linux-ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "d4cf175fa39f9f256bbdc6439ce327f079f065ad63e4e3a1e6f72b4463d54a7b",
       "SumType": "sha256",
