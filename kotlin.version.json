@@ -1,38 +1,4 @@
 {
-  "v1.7.22": [
-    {
-      "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.7.22/kotlin-native-linux-x86_64-1.7.22.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.7.22/kotlin-native-macos-aarch64-1.7.22.tar.gz",
-      "Arch": "arm64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.7.22/kotlin-native-macos-x86_64-1.7.22.tar.gz",
-      "Arch": "amd64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.7.22/kotlin-native-windows-x86_64-1.7.22.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    }
-  ],
   "v1.8.0": [
     {
       "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.8.0/kotlin-native-linux-x86_64-1.8.0.tar.gz",
@@ -774,6 +740,40 @@
     },
     {
       "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.9.23/kotlin-native-windows-x86_64-1.9.23.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v1.9.24": [
+    {
+      "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.9.24/kotlin-native-linux-x86_64-1.9.24.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.9.24/kotlin-native-macos-aarch64-1.9.24.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.9.24/kotlin-native-macos-x86_64-1.9.24.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.9.24/kotlin-native-windows-x86_64-1.9.24.zip",
       "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
