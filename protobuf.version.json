@@ -293,104 +293,6 @@
       "Extra": ""
     }
   ],
-  "v23.0-rc1": [
-    {
-      "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v23.0-rc1/protobuf-23.0-rc1.tar.gz",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v23.0-rc1/protobuf-23.0-rc1.zip",
-      "Arch": "",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v23.0-rc1/protoc-23.0-rc-1-linux-aarch_64.zip",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v23.0-rc1/protoc-23.0-rc-1-linux-ppcle_64.zip",
-      "Arch": "ppc64le",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v23.0-rc1/protoc-23.0-rc-1-linux-s390_64.zip",
-      "Arch": "s390x",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v23.0-rc1/protoc-23.0-rc-1-linux-x86_32.zip",
-      "Arch": "386",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v23.0-rc1/protoc-23.0-rc-1-linux-x86_64.zip",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v23.0-rc1/protoc-23.0-rc-1-osx-aarch_64.zip",
-      "Arch": "arm64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v23.0-rc1/protoc-23.0-rc-1-osx-universal_binary.zip",
-      "Arch": "universal",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v23.0-rc1/protoc-23.0-rc-1-osx-x86_64.zip",
-      "Arch": "amd64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v23.0-rc1/protoc-23.0-rc-1-win32.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v23.0-rc1/protoc-23.0-rc-1-win64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    }
-  ],
   "v23.0-rc2": [
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v23.0-rc2/protobuf-23.0-rc2.tar.gz",
@@ -2932,6 +2834,104 @@
     },
     {
       "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v27.0-rc1/protoc-27.0-rc-1-win64.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v27.0-rc2": [
+    {
+      "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v27.0-rc2/protobuf-27.0-rc2.tar.gz",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v27.0-rc2/protobuf-27.0-rc2.zip",
+      "Arch": "",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v27.0-rc2/protoc-27.0-rc-2-linux-aarch_64.zip",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v27.0-rc2/protoc-27.0-rc-2-linux-ppcle_64.zip",
+      "Arch": "ppc64le",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v27.0-rc2/protoc-27.0-rc-2-linux-s390_64.zip",
+      "Arch": "s390x",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v27.0-rc2/protoc-27.0-rc-2-linux-x86_32.zip",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v27.0-rc2/protoc-27.0-rc-2-linux-x86_64.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v27.0-rc2/protoc-27.0-rc-2-osx-aarch_64.zip",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v27.0-rc2/protoc-27.0-rc-2-osx-universal_binary.zip",
+      "Arch": "universal",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v27.0-rc2/protoc-27.0-rc-2-osx-x86_64.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v27.0-rc2/protoc-27.0-rc-2-win32.zip",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/protocolbuffers/protobuf/releases/download/v27.0-rc2/protoc-27.0-rc-2-win64.zip",
       "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
