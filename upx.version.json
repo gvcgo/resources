@@ -490,5 +490,47 @@
       "SumType": "",
       "Extra": ""
     }
+  ],
+  "v4.2.4": [
+    {
+      "Url": "https://github.com/upx/upx/releases/download/v4.2.4/upx-4.2.4-amd64_linux.tar.xz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/upx/upx/releases/download/v4.2.4/upx-4.2.4-arm64_linux.tar.xz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/upx/upx/releases/download/v4.2.4/upx-4.2.4-i386_linux.tar.xz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/upx/upx/releases/download/v4.2.4/upx-4.2.4-win32.zip",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/upx/upx/releases/download/v4.2.4/upx-4.2.4-win64.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
   ]
 }
