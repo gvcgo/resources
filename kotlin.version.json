@@ -33,40 +33,6 @@
       "Extra": ""
     }
   ],
-  "v1.8.0-RC": [
-    {
-      "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.8.0-RC/kotlin-native-linux-x86_64-1.8.0-RC.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.8.0-RC/kotlin-native-macos-aarch64-1.8.0-RC.tar.gz",
-      "Arch": "arm64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.8.0-RC/kotlin-native-macos-x86_64-1.8.0-RC.tar.gz",
-      "Arch": "amd64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.8.0-RC/kotlin-native-windows-x86_64-1.8.0-RC.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    }
-  ],
   "v1.8.0-RC2": [
     {
       "Url": "https://github.com/JetBrains/kotlin/releases/download/v1.8.0-RC2/kotlin-native-linux-x86_64-1.8.0-RC2.tar.gz",
@@ -1012,6 +978,40 @@
     },
     {
       "Url": "https://github.com/JetBrains/kotlin/releases/download/v2.0.0-RC2/kotlin-native-prebuilt-windows-x86_64-2.0.0-RC2.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v2.0.0-RC3": [
+    {
+      "Url": "https://github.com/JetBrains/kotlin/releases/download/v2.0.0-RC3/kotlin-native-prebuilt-linux-x86_64-2.0.0-RC3.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/JetBrains/kotlin/releases/download/v2.0.0-RC3/kotlin-native-prebuilt-macos-aarch64-2.0.0-RC3.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/JetBrains/kotlin/releases/download/v2.0.0-RC3/kotlin-native-prebuilt-macos-x86_64-2.0.0-RC3.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/JetBrains/kotlin/releases/download/v2.0.0-RC3/kotlin-native-prebuilt-windows-x86_64-2.0.0-RC3.zip",
       "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
