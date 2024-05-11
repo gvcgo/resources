@@ -1,38 +1,4 @@
 {
-  "1.0.15": [
-    {
-      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.15/bun-darwin-aarch64.zip",
-      "Arch": "arm64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.15/bun-darwin-x64.zip",
-      "Arch": "amd64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.15/bun-linux-aarch64.zip",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.15/bun-linux-x64.zip",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    }
-  ],
   "1.0.16": [
     {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.0.16/bun-darwin-aarch64.zip",
@@ -1076,6 +1042,48 @@
     },
     {
       "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.1.7/bun-windows-x64.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "1.1.8": [
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.1.8/bun-darwin-aarch64.zip",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.1.8/bun-darwin-x64.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.1.8/bun-linux-aarch64.zip",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.1.8/bun-linux-x64.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/oven-sh/bun/releases/download/bun-v1.1.8/bun-windows-x64.zip",
       "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
