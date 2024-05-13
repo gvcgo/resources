@@ -468,7 +468,7 @@
     },
     {
       "Url": "https://github.com/coursier/coursier/releases/download/v2.1.10/cs-x86_64-pc-win32-sdk.zip",
-      "Arch": "386",
+      "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -536,7 +536,7 @@
     },
     {
       "Url": "https://github.com/coursier/coursier/releases/download/v2.1.3/cs-x86_64-pc-win32-sdk.zip",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -604,7 +604,7 @@
     },
     {
       "Url": "https://github.com/coursier/coursier/releases/download/v2.1.5/cs-x86_64-pc-win32-sdk.zip",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
@@ -706,7 +706,7 @@
     },
     {
       "Url": "https://github.com/coursier/coursier/releases/download/v2.1.8/cs-x86_64-pc-win32-sdk.zip",
-      "Arch": "amd64",
+      "Arch": "386",
       "Os": "windows",
       "Sum": "",
       "SumType": "",
