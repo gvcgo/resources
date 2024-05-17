@@ -43,8 +43,16 @@
       "Extra": ""
     },
     {
-      "Url": "https://github.com/neovim/neovim/releases/download/stable/nvim-macos.tar.gz",
-      "Arch": "",
+      "Url": "https://github.com/neovim/neovim/releases/download/stable/nvim-macos-arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/neovim/neovim/releases/download/stable/nvim-macos-x86_64.tar.gz",
+      "Arch": "amd64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
@@ -59,25 +67,33 @@
       "Extra": ""
     }
   ],
-  "v0.3.0": [
+  "v0.10.0": [
     {
-      "Url": "https://github.com/neovim/neovim/releases/download/v0.3.0/nvim-macos.tar.gz",
-      "Arch": "",
+      "Url": "https://github.com/neovim/neovim/releases/download/v0.10.0/nvim-linux64.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/neovim/neovim/releases/download/v0.10.0/nvim-macos-arm64.tar.gz",
+      "Arch": "arm64",
       "Os": "darwin",
       "Sum": "",
       "SumType": "",
       "Extra": ""
     },
     {
-      "Url": "https://github.com/neovim/neovim/releases/download/v0.3.0/nvim-win32.zip",
-      "Arch": "386",
-      "Os": "windows",
+      "Url": "https://github.com/neovim/neovim/releases/download/v0.10.0/nvim-macos-x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
       "Sum": "",
       "SumType": "",
       "Extra": ""
     },
     {
-      "Url": "https://github.com/neovim/neovim/releases/download/v0.3.0/nvim-win64.zip",
+      "Url": "https://github.com/neovim/neovim/releases/download/v0.10.0/nvim-win64.zip",
       "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
