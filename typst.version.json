@@ -151,6 +151,48 @@
       "Extra": ""
     }
   ],
+  "v0.11.1": [
+    {
+      "Url": "https://github.com/typst/typst/releases/download/v0.11.1/typst-aarch64-apple-darwin.tar.xz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/typst/typst/releases/download/v0.11.1/typst-aarch64-unknown-linux-musl.tar.xz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/typst/typst/releases/download/v0.11.1/typst-x86_64-apple-darwin.tar.xz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/typst/typst/releases/download/v0.11.1/typst-x86_64-pc-windows-msvc.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/typst/typst/releases/download/v0.11.1/typst-x86_64-unknown-linux-musl.tar.xz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
   "v0.2.0": [
     {
       "Url": "https://github.com/typst/typst/releases/download/v0.2.0/typst-x86_64-apple-darwin.tar.gz",
