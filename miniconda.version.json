@@ -1,10 +1,10 @@
 {
-  "24.3.0": [
+  "24.4.0": [
     {
       "Url": "https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe",
       "Arch": "amd64",
       "Os": "windows",
-      "Sum": "21b56b75861573ec8ab146d555b20e1ed4462a06aa286d7e92a1cd31acc64dba",
+      "Sum": "f4d6147b40ea6822255c2dcec8bb0d357c09e230976213f70d7b8c4a10d86bb0",
       "SumType": "sha256",
       "Extra": "latest"
     },
@@ -12,7 +12,7 @@
       "Url": "https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh",
       "Arch": "amd64",
       "Os": "darwin",
-      "Sum": "fd71a4bf03fbb21d4b4d25245f17bef6308dfec478e901a60594dfa02e4605eb",
+      "Sum": "1413369470adb7cf52f8b961e81b3ceeb92f5931a451bef9cb0c42be0ce17ef3",
       "SumType": "sha256",
       "Extra": "latest"
     },
@@ -20,7 +20,7 @@
       "Url": "https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-arm64.sh",
       "Arch": "arm64",
       "Os": "darwin",
-      "Sum": "72d4e9198a6884c0bd86cce2b4a3e8abb05415776e3b142c4b1de625bbaf4c50",
+      "Sum": "f4925c0150d232d95de798a64c696f4b2df2745bb997b793506bdfd27bf91e11",
       "SumType": "sha256",
       "Extra": "latest"
     },
@@ -28,7 +28,7 @@
       "Url": "https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh",
       "Arch": "amd64",
       "Os": "linux",
-      "Sum": "96a44849ff17e960eeb8877ecd9055246381c4d4f2d031263b63fa7e2e930af1",
+      "Sum": "b6597785e6b071f1ca69cf7be6d0161015b96340b9a9e132215d5713408c3a7c",
       "SumType": "sha256",
       "Extra": "latest"
     },
@@ -36,7 +36,7 @@
       "Url": "https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-s390x.sh",
       "Arch": "s390x",
       "Os": "linux",
-      "Sum": "b601cb8e3ea65a4ed1aecd96d4f3d14aca5b590b2e1ab0ec5c04c825f5c5e439",
+      "Sum": "e973f1b6352d58b1ab35f30424f1565d7ffa469dcde2d52c86ec1c117db11aad",
       "SumType": "sha256",
       "Extra": "latest"
     },
@@ -44,7 +44,7 @@
       "Url": "https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-aarch64.sh",
       "Arch": "arm64",
       "Os": "linux",
-      "Sum": "05f70cbc89b6caf84e22db836f7696a16b617992eb23d6102acf7651eb132365",
+      "Sum": "832d48e11e444c1a25f320fccdd0f0fabefec63c1cd801e606836e1c9c76ad51",
       "SumType": "sha256",
       "Extra": "latest"
     },
