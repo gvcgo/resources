@@ -3985,6 +3985,40 @@
       "Extra": "beta"
     }
   ],
+  "3.22.1": [
+    {
+      "Url": "https://storage.googleapis.com/flutter_infra_release/releases/stable/linux/flutter_linux_3.22.1-stable.tar.xz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "fb8ce30fd21d8f43cd2540af6d9f9452cbfc80a85706f26cb072386fc51fbfce",
+      "SumType": "sha256",
+      "Extra": "stable"
+    },
+    {
+      "Url": "https://storage.googleapis.com/flutter_infra_release/releases/stable/macos/flutter_macos_3.22.1-stable.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "bdff32aa792a18292ba2570b947431de77abba9baf7409f8cdf97fa47c88c352",
+      "SumType": "sha256",
+      "Extra": "stable"
+    },
+    {
+      "Url": "https://storage.googleapis.com/flutter_infra_release/releases/stable/macos/flutter_macos_arm64_3.22.1-stable.zip",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "f8ae7a2653d5c3809de96eba98ff520b9bb2db847a48eeba7492f512341a9c31",
+      "SumType": "sha256",
+      "Extra": "stable"
+    },
+    {
+      "Url": "https://storage.googleapis.com/flutter_infra_release/releases/stable/windows/flutter_windows_3.22.1-stable.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "566a1cd6f94e0691789e779faf5c27688621828d2217681ed6ccb67f68c227cf",
+      "SumType": "sha256",
+      "Extra": "stable"
+    }
+  ],
   "3.3.0": [
     {
       "Url": "https://storage.googleapis.com/flutter_infra_release/releases/stable/linux/flutter_linux_3.3.0-stable.tar.xz",
