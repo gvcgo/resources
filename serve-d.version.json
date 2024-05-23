@@ -33,32 +33,6 @@
       "Extra": ""
     }
   ],
-  "v0.7.0-beta.4": [
-    {
-      "Url": "https://github.com/Pure-D/serve-d/releases/download/v0.7.0-beta.4/serve-d_0.7.0-beta.4-linux-x86_64.tar.xz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/Pure-D/serve-d/releases/download/v0.7.0-beta.4/serve-d_0.7.0-beta.4-osx-x86_64.tar.xz",
-      "Arch": "amd64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/Pure-D/serve-d/releases/download/v0.7.0-beta.4/serve-d_0.7.0-beta.4-windows.zip",
-      "Arch": "",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    }
-  ],
   "v0.7.0-beta.5": [
     {
       "Url": "https://github.com/Pure-D/serve-d/releases/download/v0.7.0-beta.5/serve-d_0.7.0-beta.5-linux-x86_64.tar.xz",
@@ -762,6 +736,64 @@
     },
     {
       "Url": "https://github.com/Pure-D/serve-d/releases/download/v0.8.0-beta.16/serve-d_0.8.0-beta.16-windows-x86_64.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v0.8.0-beta.17": [
+    {
+      "Url": "https://github.com/Pure-D/serve-d/releases/download/v0.8.0-beta.17/serve-d_0.8.0-beta.17-linux-x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Pure-D/serve-d/releases/download/v0.8.0-beta.17/serve-d_0.8.0-beta.17-linux-x86_64.tar.xz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Pure-D/serve-d/releases/download/v0.8.0-beta.17/serve-d_0.8.0-beta.17-osx-arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Pure-D/serve-d/releases/download/v0.8.0-beta.17/serve-d_0.8.0-beta.17-osx-arm64.tar.xz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Pure-D/serve-d/releases/download/v0.8.0-beta.17/serve-d_0.8.0-beta.17-osx-x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Pure-D/serve-d/releases/download/v0.8.0-beta.17/serve-d_0.8.0-beta.17-osx-x86_64.tar.xz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/Pure-D/serve-d/releases/download/v0.8.0-beta.17/serve-d_0.8.0-beta.17-windows-x86_64.zip",
       "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
