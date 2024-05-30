@@ -2435,6 +2435,80 @@
       "Extra": ""
     }
   ],
+  "1.11.0-beta2": [
+    {
+      "Url": "https://julialang-s3.julialang.org/bin/linux/x64/1.11/julia-1.11.0-beta2-linux-x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "e92ae1cebd519180881770cc9ab903d39c49c6bcb9c8251861e6eac9acd566a6",
+      "SumType": "sha256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://julialang-s3.julialang.org/bin/linux/x86/1.11/julia-1.11.0-beta2-linux-i686.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "9d1e9f8a03ab6396acfc3e4d4edcff68907b20c53f252da6ea4573a72c39e361",
+      "SumType": "sha256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://julialang-s3.julialang.org/bin/linux/aarch64/1.11/julia-1.11.0-beta2-linux-aarch64.tar.gz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "71f7c0135c3dae94c069b6ab391f8a4a05f857acea3f8d6da0352d00cb86d49b",
+      "SumType": "sha256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://julialang-s3.julialang.org/bin/linux/ppc64le/1.11/julia-1.11.0-beta2-linux-ppc64le.tar.gz",
+      "Arch": "ppc64",
+      "Os": "linux",
+      "Sum": "e7f9bbe1843760e52a57e0d502990af3abb189f5a20ed292ce5d00db1d003088",
+      "SumType": "sha256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://julialang-s3.julialang.org/bin/mac/x64/1.11/julia-1.11.0-beta2-mac64.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "cfb7c11f8434b0e280a0deb1cf66c54891636c3705850fab9db017eacb576c90",
+      "SumType": "sha256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://julialang-s3.julialang.org/bin/mac/aarch64/1.11/julia-1.11.0-beta2-macaarch64.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "f56a3873e6e2c6520caef5c80991d57ed8d6e0ed68ba42541f2e86301478d3b0",
+      "SumType": "sha256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.11/julia-1.11.0-beta2-win64.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "61be83595a0136424cda25d9ff3fe791be6fa1d24b2a5bf68660eb7d7ab47446",
+      "SumType": "sha256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://julialang-s3.julialang.org/bin/winnt/x86/1.11/julia-1.11.0-beta2-win32.zip",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "94c106fa9111bb129bc2e481921d22c35f51fdabe4b5186d50251297fde63f44",
+      "SumType": "sha256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://julialang-s3.julialang.org/bin/freebsd/x64/1.11/julia-1.11.0-beta2-freebsd-x86_64.tar.gz",
+      "Arch": "amd64",
+      "Os": "freebsd",
+      "Sum": "0d4ca5eadfabe854376a87a548c66bf089610ff80640ad78354f60247b540329",
+      "SumType": "sha256",
+      "Extra": ""
+    }
+  ],
   "1.2.0": [
     {
       "Url": "https://julialang-s3.julialang.org/bin/linux/x64/1.2/julia-1.2.0-linux-x86_64.tar.gz",
