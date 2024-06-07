@@ -1,22 +1,4 @@
 {
-  "v2.40.0-rc2.windows.1": [
-    {
-      "Url": "https://github.com/git-for-windows/git/releases/download/v2.40.0-rc2.windows.1/PortableGit-2.40.0-rc2-32-bit.7z.exe",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/git-for-windows/git/releases/download/v2.40.0-rc2.windows.1/PortableGit-2.40.0-rc2-64-bit.7z.exe",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    }
-  ],
   "v2.40.0.windows.1": [
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.40.0.windows.1/PortableGit-2.40.0-32-bit.7z.exe",
@@ -478,6 +460,24 @@
     },
     {
       "Url": "https://github.com/git-for-windows/git/releases/download/v2.45.1.windows.1/PortableGit-2.45.1-64-bit.7z.exe",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "v2.45.2.windows.1": [
+    {
+      "Url": "https://github.com/git-for-windows/git/releases/download/v2.45.2.windows.1/PortableGit-2.45.2-32-bit.7z.exe",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/git-for-windows/git/releases/download/v2.45.2.windows.1/PortableGit-2.45.2-64-bit.7z.exe",
       "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
