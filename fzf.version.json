@@ -1,118 +1,4 @@
 {
-  "0.30.0": [
-    {
-      "Url": "https://github.com/junegunn/fzf/releases/download/0.30.0/fzf-0.30.0-darwin_amd64.zip",
-      "Arch": "amd64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/junegunn/fzf/releases/download/0.30.0/fzf-0.30.0-darwin_arm64.zip",
-      "Arch": "arm64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/junegunn/fzf/releases/download/0.30.0/fzf-0.30.0-freebsd_amd64.tar.gz",
-      "Arch": "amd64",
-      "Os": "freebsd",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/junegunn/fzf/releases/download/0.30.0/fzf-0.30.0-linux_amd64.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/junegunn/fzf/releases/download/0.30.0/fzf-0.30.0-linux_arm64.tar.gz",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/junegunn/fzf/releases/download/0.30.0/fzf-0.30.0-linux_armv5.tar.gz",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/junegunn/fzf/releases/download/0.30.0/fzf-0.30.0-linux_armv6.tar.gz",
-      "Arch": "arm",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/junegunn/fzf/releases/download/0.30.0/fzf-0.30.0-linux_armv7.tar.gz",
-      "Arch": "",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/junegunn/fzf/releases/download/0.30.0/fzf-0.30.0-openbsd_amd64.tar.gz",
-      "Arch": "amd64",
-      "Os": "",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/junegunn/fzf/releases/download/0.30.0/fzf-0.30.0-windows_amd64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/junegunn/fzf/releases/download/0.30.0/fzf-0.30.0-windows_arm64.zip",
-      "Arch": "arm64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/junegunn/fzf/releases/download/0.30.0/fzf-0.30.0-windows_armv5.zip",
-      "Arch": "",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/junegunn/fzf/releases/download/0.30.0/fzf-0.30.0-windows_armv6.zip",
-      "Arch": "arm",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/junegunn/fzf/releases/download/0.30.0/fzf-0.30.0-windows_armv7.zip",
-      "Arch": "",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    }
-  ],
   "0.31.0": [
     {
       "Url": "https://github.com/junegunn/fzf/releases/download/0.31.0/fzf-0.31.0-darwin_amd64.zip",
@@ -1132,7 +1018,7 @@
     },
     {
       "Url": "https://github.com/junegunn/fzf/releases/download/0.37.0/fzf-0.37.0-linux_ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1262,7 +1148,7 @@
     },
     {
       "Url": "https://github.com/junegunn/fzf/releases/download/0.38.0/fzf-0.38.0-linux_ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1392,7 +1278,7 @@
     },
     {
       "Url": "https://github.com/junegunn/fzf/releases/download/0.39.0/fzf-0.39.0-linux_ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1668,7 +1554,7 @@
     },
     {
       "Url": "https://github.com/junegunn/fzf/releases/download/0.41.0/fzf-0.41.0-linux_ppc64le.tar.gz",
-      "Arch": "ppc64",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1806,7 +1692,7 @@
     },
     {
       "Url": "https://github.com/junegunn/fzf/releases/download/0.41.1/fzf-0.41.1-linux_ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -1944,7 +1830,7 @@
     },
     {
       "Url": "https://github.com/junegunn/fzf/releases/download/0.42.0/fzf-0.42.0-linux_ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -2082,7 +1968,7 @@
     },
     {
       "Url": "https://github.com/junegunn/fzf/releases/download/0.43.0/fzf-0.43.0-linux_ppc64le.tar.gz",
-      "Arch": "ppc64",
+      "Arch": "ppc64le",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -2220,7 +2106,7 @@
     },
     {
       "Url": "https://github.com/junegunn/fzf/releases/download/0.44.0/fzf-0.44.0-linux_ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -2358,7 +2244,7 @@
     },
     {
       "Url": "https://github.com/junegunn/fzf/releases/download/0.44.1/fzf-0.44.1-linux_ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -2496,7 +2382,7 @@
     },
     {
       "Url": "https://github.com/junegunn/fzf/releases/download/0.45.0/fzf-0.45.0-linux_ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -2772,7 +2658,7 @@
     },
     {
       "Url": "https://github.com/junegunn/fzf/releases/download/0.46.1/fzf-0.46.1-linux_ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -2910,7 +2796,7 @@
     },
     {
       "Url": "https://github.com/junegunn/fzf/releases/download/0.47.0/fzf-0.47.0-linux_ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -3186,7 +3072,7 @@
     },
     {
       "Url": "https://github.com/junegunn/fzf/releases/download/0.48.1/fzf-0.48.1-linux_ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -3324,7 +3210,7 @@
     },
     {
       "Url": "https://github.com/junegunn/fzf/releases/download/0.49.0/fzf-0.49.0-linux_ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -3738,7 +3624,7 @@
     },
     {
       "Url": "https://github.com/junegunn/fzf/releases/download/0.52.0/fzf-0.52.0-linux_ppc64le.tar.gz",
-      "Arch": "ppc64le",
+      "Arch": "ppc64",
       "Os": "linux",
       "Sum": "",
       "SumType": "",
@@ -3932,6 +3818,144 @@
     },
     {
       "Url": "https://github.com/junegunn/fzf/releases/download/0.52.1/fzf-0.52.1-windows_armv7.zip",
+      "Arch": "",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "0.53.0": [
+    {
+      "Url": "https://github.com/junegunn/fzf/releases/download/0.53.0/fzf-0.53.0-darwin_amd64.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/junegunn/fzf/releases/download/0.53.0/fzf-0.53.0-darwin_arm64.zip",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/junegunn/fzf/releases/download/0.53.0/fzf-0.53.0-freebsd_amd64.tar.gz",
+      "Arch": "amd64",
+      "Os": "freebsd",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/junegunn/fzf/releases/download/0.53.0/fzf-0.53.0-linux_amd64.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/junegunn/fzf/releases/download/0.53.0/fzf-0.53.0-linux_arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/junegunn/fzf/releases/download/0.53.0/fzf-0.53.0-linux_armv5.tar.gz",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/junegunn/fzf/releases/download/0.53.0/fzf-0.53.0-linux_armv6.tar.gz",
+      "Arch": "arm",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/junegunn/fzf/releases/download/0.53.0/fzf-0.53.0-linux_armv7.tar.gz",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/junegunn/fzf/releases/download/0.53.0/fzf-0.53.0-linux_loong64.tar.gz",
+      "Arch": "",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/junegunn/fzf/releases/download/0.53.0/fzf-0.53.0-linux_ppc64le.tar.gz",
+      "Arch": "ppc64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/junegunn/fzf/releases/download/0.53.0/fzf-0.53.0-linux_s390x.tar.gz",
+      "Arch": "s390x",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/junegunn/fzf/releases/download/0.53.0/fzf-0.53.0-openbsd_amd64.tar.gz",
+      "Arch": "amd64",
+      "Os": "",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/junegunn/fzf/releases/download/0.53.0/fzf-0.53.0-windows_amd64.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/junegunn/fzf/releases/download/0.53.0/fzf-0.53.0-windows_arm64.zip",
+      "Arch": "arm64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/junegunn/fzf/releases/download/0.53.0/fzf-0.53.0-windows_armv5.zip",
+      "Arch": "",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/junegunn/fzf/releases/download/0.53.0/fzf-0.53.0-windows_armv6.zip",
+      "Arch": "arm",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/junegunn/fzf/releases/download/0.53.0/fzf-0.53.0-windows_armv7.zip",
       "Arch": "",
       "Os": "windows",
       "Sum": "",
