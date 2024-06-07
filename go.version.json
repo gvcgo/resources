@@ -19291,6 +19291,14 @@
   ],
   "1.21.10": [
     {
+      "Url": "https://go.dev/dl/go1.21.10.aix-ppc64.tar.gz",
+      "Arch": "ppc64",
+      "Os": "aix",
+      "Sum": "dbf279b2791a627cd365d44db025f48be6747b899aaddb415c8782a7555d39bb",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
       "Url": "https://go.dev/dl/go1.21.10.darwin-amd64.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -19303,62 +19311,6 @@
       "Arch": "arm64",
       "Os": "darwin",
       "Sum": "2893b7d208020e5678009599e424d59384424acd8f8bf349d9c4b2883d87f0df",
-      "SumType": "SHA256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://go.dev/dl/go1.21.10.linux-386.tar.gz",
-      "Arch": "386",
-      "Os": "linux",
-      "Sum": "06492fbb0bf06689dbab638a2d70e223c59a27bbd366219d011287b72747a38a",
-      "SumType": "SHA256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://go.dev/dl/go1.21.10.linux-amd64.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "e330e5d977bf4f3bdc157bc46cf41afa5b13d66c914e12fd6b694ccda65fcf92",
-      "SumType": "SHA256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://go.dev/dl/go1.21.10.linux-arm64.tar.gz",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "428e0b9ecab5762b7c2be000ad1be6f432dccfcd99bb8b8aeeb757d987bfda9d",
-      "SumType": "SHA256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://go.dev/dl/go1.21.10.linux-armv6l.tar.gz",
-      "Arch": "arm",
-      "Os": "linux",
-      "Sum": "15af2bcf7c916895f3e4bc16fb94d4ddfbe9ec6ba2b3e096679f4837dd6a72ae",
-      "SumType": "SHA256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://go.dev/dl/go1.21.10.windows-386.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "0baca8eb50bf36ac92719522dd4b5ca582b5bd01ce98af41a1beab5f78f3f617",
-      "SumType": "SHA256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://go.dev/dl/go1.21.10.windows-amd64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "09170b66e7d7c4e2e7a30b8f3350778a8ba5c15951b7eb8ff7545cb86ea9bb71",
-      "SumType": "SHA256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://go.dev/dl/go1.21.10.aix-ppc64.tar.gz",
-      "Arch": "ppc64",
-      "Os": "aix",
-      "Sum": "dbf279b2791a627cd365d44db025f48be6747b899aaddb415c8782a7555d39bb",
       "SumType": "SHA256",
       "Extra": ""
     },
@@ -19415,6 +19367,38 @@
       "Arch": "amd64",
       "Os": "illumos",
       "Sum": "3f8c48a0ce3dd5711e43928e92982c0a5083b89bcd36c7b242bbad339a5958b6",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.21.10.linux-386.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "06492fbb0bf06689dbab638a2d70e223c59a27bbd366219d011287b72747a38a",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.21.10.linux-amd64.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "e330e5d977bf4f3bdc157bc46cf41afa5b13d66c914e12fd6b694ccda65fcf92",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.21.10.linux-arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "428e0b9ecab5762b7c2be000ad1be6f432dccfcd99bb8b8aeeb757d987bfda9d",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.21.10.linux-armv6l.tar.gz",
+      "Arch": "arm",
+      "Os": "linux",
+      "Sum": "15af2bcf7c916895f3e4bc16fb94d4ddfbe9ec6ba2b3e096679f4837dd6a72ae",
       "SumType": "SHA256",
       "Extra": ""
     },
@@ -19587,6 +19571,22 @@
       "Extra": ""
     },
     {
+      "Url": "https://go.dev/dl/go1.21.10.windows-386.zip",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "0baca8eb50bf36ac92719522dd4b5ca582b5bd01ce98af41a1beab5f78f3f617",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.21.10.windows-amd64.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "09170b66e7d7c4e2e7a30b8f3350778a8ba5c15951b7eb8ff7545cb86ea9bb71",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
       "Url": "https://go.dev/dl/go1.21.10.windows-arm64.zip",
       "Arch": "arm64",
       "Os": "windows",
@@ -19599,6 +19599,320 @@
       "Arch": "arm",
       "Os": "windows",
       "Sum": "ed010e9c87741555d0790a3c0faa68f384217d222c407b651d7855cb00a9b1e6",
+      "SumType": "SHA256",
+      "Extra": ""
+    }
+  ],
+  "1.21.11": [
+    {
+      "Url": "https://go.dev/dl/go1.21.11.darwin-amd64.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "a3efff72f7aba31c85b53ebfd3985d0e3157a87b0e69e178161ba7097c197885",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.21.11.darwin-arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "0142f5ac9f9a1bf19b826ee08a8c7955a745f7a2e62d36e0566d29fcac4d88e0",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.21.11.linux-386.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "8b00cbc2519c2d052177bf2c8472bf06578d3b0182eeb3406a1d7d4e5d4c59ef",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.21.11.linux-amd64.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "54a87a9325155b98c85bc04dc50298ddd682489eb47f486f2e6cb0707554abf0",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.21.11.linux-arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "715d9a7ff72e4e0e3378c48318c52c6e4dd32a47c4136f3c08846f89b2ee2241",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.21.11.linux-armv6l.tar.gz",
+      "Arch": "arm",
+      "Os": "linux",
+      "Sum": "a62bff8297816a387a36bbda2889dd0dbcf0f8ce03bc62162ecd6918d6acecb5",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.21.11.windows-386.zip",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "f014bb047418d9951c0bd04c8899abee61f405c5fea50c695dca1775ba0ae526",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.21.11.windows-amd64.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "1aa189753d8aa5c74fcb736d6a7c8f826cf5a545b2db143adf10dc2b2147983b",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.21.11.aix-ppc64.tar.gz",
+      "Arch": "ppc64",
+      "Os": "aix",
+      "Sum": "83b42e8c11cb1183f8d9723518a0f5720b2dca603b0697f2361294d6e3b85393",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.21.11.dragonfly-amd64.tar.gz",
+      "Arch": "amd64",
+      "Os": "dragonfly",
+      "Sum": "a0f05c86068c7d4872633b334540b26fb2c42449e4be6b2510c99bd1a213d5fe",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.21.11.freebsd-386.tar.gz",
+      "Arch": "386",
+      "Os": "freebsd",
+      "Sum": "718351eacf1f75e5114033e0c2fdb48b92b447a62244676b054e11073dda1203",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.21.11.freebsd-amd64.tar.gz",
+      "Arch": "amd64",
+      "Os": "freebsd",
+      "Sum": "b1737199d1e96e785ec732ec4fc3ffa84b7ceab512ad7bfb18022d65acf55458",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.21.11.freebsd-arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "freebsd",
+      "Sum": "24f9d073a6ade5b7b8445a345dd40f9d4276ffe8fbed8b0efe0bc49544e34335",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.21.11.freebsd-arm.tar.gz",
+      "Arch": "arm",
+      "Os": "freebsd",
+      "Sum": "b1d290d231f34260ab1f3eddc9f8cc34a12d8b766581ee2d02d46e883a2d7ae2",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.21.11.freebsd-riscv64.tar.gz",
+      "Arch": "riscv64",
+      "Os": "freebsd",
+      "Sum": "434147a058475bf2bb29a24645956c37c4fbbe501e969e2f5e464ee8268816a8",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.21.11.illumos-amd64.tar.gz",
+      "Arch": "amd64",
+      "Os": "illumos",
+      "Sum": "45742b0e7914f4a1068aa2c3426146d331bda21ddcae9ec4b73f5b690baa41f2",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.21.11.linux-loong64.tar.gz",
+      "Arch": "loong64",
+      "Os": "linux",
+      "Sum": "19c738e3670efb6581a91d7d93e719080ccf710684938d015ab3e7ca044715be",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.21.11.linux-mips.tar.gz",
+      "Arch": "mips",
+      "Os": "linux",
+      "Sum": "4240bd1a4ca8ab664ead554b418bd1b1f319b063258763ade44f81a4dd018e61",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.21.11.linux-mips64.tar.gz",
+      "Arch": "mips64",
+      "Os": "linux",
+      "Sum": "6245001da9e2c39698f97543019f9faf4813f0564e471ec654f4698e0b9f19eb",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.21.11.linux-mips64le.tar.gz",
+      "Arch": "mips64le",
+      "Os": "linux",
+      "Sum": "d10166bb6ea6538e24f01ac9bcbbbaee5657d07b9edc11a82cbf569355a36534",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.21.11.linux-mipsle.tar.gz",
+      "Arch": "mipsle",
+      "Os": "linux",
+      "Sum": "8ab7e1af86845aa39bc93e1ae7e58f79a0b8df59783129c3b73aa0379f693c4a",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.21.11.linux-ppc64.tar.gz",
+      "Arch": "ppc64",
+      "Os": "linux",
+      "Sum": "2939e56894877c51eb9c579f55588b80c77f38481240042512307ad1db5b3dd8",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.21.11.linux-ppc64le.tar.gz",
+      "Arch": "ppc64le",
+      "Os": "linux",
+      "Sum": "6f5e18187abc4ff1c3173afbe38ef29f84b6d1ee7173f40075a4134863b209a5",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.21.11.linux-riscv64.tar.gz",
+      "Arch": "riscv64",
+      "Os": "linux",
+      "Sum": "3ee5f9aac2f252838d88bb4cf93560c567814889c74d87ad8a04be16aa5e1b21",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.21.11.linux-s390x.tar.gz",
+      "Arch": "s390x",
+      "Os": "linux",
+      "Sum": "489c363d5da2d3d5709419bda61856582c5ebdc7874ca7ecdebf67d736d329e6",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.21.11.netbsd-386.tar.gz",
+      "Arch": "386",
+      "Os": "netbsd",
+      "Sum": "65256068cc93791aef2be2f8a877acf24348bd26115a8c5cc7dc206d8e4691f5",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.21.11.netbsd-amd64.tar.gz",
+      "Arch": "amd64",
+      "Os": "netbsd",
+      "Sum": "ab7f0a7f482984dc2049eb55890433fc0f3175bb0aabbce17dbaf5a74cb72189",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.21.11.netbsd-arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "netbsd",
+      "Sum": "bc3fa6068ccbd7985d35d3df537b0384d5160a9402806802610ca541475223ca",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.21.11.netbsd-arm.tar.gz",
+      "Arch": "arm",
+      "Os": "netbsd",
+      "Sum": "79db81d5f0dd51290a6ce1d0660070dac9fa064b2de8c15ed89c1afd5d3a2256",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.21.11.openbsd-386.tar.gz",
+      "Arch": "386",
+      "Os": "openbsd",
+      "Sum": "f1d7f9bcdd7280583c250bb64003ab635e56c04c81b729be4ea8819852d5c785",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.21.11.openbsd-amd64.tar.gz",
+      "Arch": "amd64",
+      "Os": "openbsd",
+      "Sum": "8a88dcaaca8fa94d762fd392ecac08e960b4ceab1a9ce2e42dbc3daa6b751e1e",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.21.11.openbsd-arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "openbsd",
+      "Sum": "89d00611ad4367ef268ed233bf032e641795ff7773124084d4fd566c52869097",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.21.11.openbsd-arm.tar.gz",
+      "Arch": "arm",
+      "Os": "openbsd",
+      "Sum": "e77f16eba02aca6c21ae7d239b3043986d0e0e1a0d443716ace0a8644644d21f",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.21.11.plan9-386.tar.gz",
+      "Arch": "386",
+      "Os": "plan9",
+      "Sum": "f297a882d01a5e829f4d8ba4fd05a6ca0bf877b7100b65947ec493125ff6a070",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.21.11.plan9-amd64.tar.gz",
+      "Arch": "amd64",
+      "Os": "plan9",
+      "Sum": "2585b5a2a06c31bbba3a00c5523f4fecb3a0571741e15b0ed348c2334298ecf1",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.21.11.plan9-arm.tar.gz",
+      "Arch": "arm",
+      "Os": "plan9",
+      "Sum": "2e201f3c86cdb39a0191194dafe0faeffdeb359c22cdf59f3e2f4170f283d638",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.21.11.solaris-amd64.tar.gz",
+      "Arch": "amd64",
+      "Os": "solaris",
+      "Sum": "fba52b5e897e9fc926124dc833dbd6d7d136f2c1905b43c2a800db0401d4cb25",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.21.11.windows-arm64.zip",
+      "Arch": "arm64",
+      "Os": "windows",
+      "Sum": "ef238d1e39d66e4341e0055b17d2eb03390531f6b22b08e43eb443619f561cb1",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.21.11.windows-arm.zip",
+      "Arch": "arm",
+      "Os": "windows",
+      "Sum": "da1ed80741776189f3d9b5b795cdc6fdd81cb93084beb941716dcccffdf2d6aa",
       "SumType": "SHA256",
       "Extra": ""
     }
@@ -24009,6 +24323,14 @@
   ],
   "1.22.3": [
     {
+      "Url": "https://go.dev/dl/go1.22.3.aix-ppc64.tar.gz",
+      "Arch": "ppc64",
+      "Os": "aix",
+      "Sum": "adc9f5fee89cd53d907eb542d3b269d9d8a08a66bf1ab42175450ffbb58733fb",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
       "Url": "https://go.dev/dl/go1.22.3.darwin-amd64.tar.gz",
       "Arch": "amd64",
       "Os": "darwin",
@@ -24021,62 +24343,6 @@
       "Arch": "arm64",
       "Os": "darwin",
       "Sum": "02abeab3f4b8981232237ebd88f0a9bad933bc9621791cd7720a9ca29eacbe9d",
-      "SumType": "SHA256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://go.dev/dl/go1.22.3.linux-386.tar.gz",
-      "Arch": "386",
-      "Os": "linux",
-      "Sum": "fefba30bb0d3dd1909823ee38c9f1930c3dc5337a2ac4701c2277a329a386b57",
-      "SumType": "SHA256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://go.dev/dl/go1.22.3.linux-amd64.tar.gz",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "8920ea521bad8f6b7bc377b4824982e011c19af27df88a815e3586ea895f1b36",
-      "SumType": "SHA256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://go.dev/dl/go1.22.3.linux-arm64.tar.gz",
-      "Arch": "arm64",
-      "Os": "linux",
-      "Sum": "6c33e52a5b26e7aa021b94475587fce80043a727a54ceb0eee2f9fc160646434",
-      "SumType": "SHA256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://go.dev/dl/go1.22.3.linux-armv6l.tar.gz",
-      "Arch": "arm",
-      "Os": "linux",
-      "Sum": "f2bacad20cd2b96f23a86d4826525d42b229fd431cc6d0dec61ff3bc448ef46e",
-      "SumType": "SHA256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://go.dev/dl/go1.22.3.windows-386.zip",
-      "Arch": "386",
-      "Os": "windows",
-      "Sum": "f60f63b8a0885e0d924f39fd284aee5438fe87d8c3d8545a312adf43e0d9edac",
-      "SumType": "SHA256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://go.dev/dl/go1.22.3.windows-amd64.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "cab2af6951a6e2115824263f6df13ff069c47270f5788714fa1d776f7f60cb39",
-      "SumType": "SHA256",
-      "Extra": ""
-    },
-    {
-      "Url": "https://go.dev/dl/go1.22.3.aix-ppc64.tar.gz",
-      "Arch": "ppc64",
-      "Os": "aix",
-      "Sum": "adc9f5fee89cd53d907eb542d3b269d9d8a08a66bf1ab42175450ffbb58733fb",
       "SumType": "SHA256",
       "Extra": ""
     },
@@ -24133,6 +24399,38 @@
       "Arch": "amd64",
       "Os": "illumos",
       "Sum": "3c3f498c68334cbd11f72aadfb6bcb507eb8436cebc50f437a0523cd4c5e03d1",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.22.3.linux-386.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "fefba30bb0d3dd1909823ee38c9f1930c3dc5337a2ac4701c2277a329a386b57",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.22.3.linux-amd64.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "8920ea521bad8f6b7bc377b4824982e011c19af27df88a815e3586ea895f1b36",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.22.3.linux-arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "6c33e52a5b26e7aa021b94475587fce80043a727a54ceb0eee2f9fc160646434",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.22.3.linux-armv6l.tar.gz",
+      "Arch": "arm",
+      "Os": "linux",
+      "Sum": "f2bacad20cd2b96f23a86d4826525d42b229fd431cc6d0dec61ff3bc448ef46e",
       "SumType": "SHA256",
       "Extra": ""
     },
@@ -24305,6 +24603,22 @@
       "Extra": ""
     },
     {
+      "Url": "https://go.dev/dl/go1.22.3.windows-386.zip",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "f60f63b8a0885e0d924f39fd284aee5438fe87d8c3d8545a312adf43e0d9edac",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.22.3.windows-amd64.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "cab2af6951a6e2115824263f6df13ff069c47270f5788714fa1d776f7f60cb39",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
       "Url": "https://go.dev/dl/go1.22.3.windows-arm64.zip",
       "Arch": "arm64",
       "Os": "windows",
@@ -24317,6 +24631,328 @@
       "Arch": "arm",
       "Os": "windows",
       "Sum": "40b37f4b068fc759f3a0dd61176a0f7570a4ba48bed8561c31d3967a3583981a",
+      "SumType": "SHA256",
+      "Extra": ""
+    }
+  ],
+  "1.22.4": [
+    {
+      "Url": "https://go.dev/dl/go1.22.4.darwin-amd64.tar.gz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "c95967f50aa4ace34af0c236cbdb49a9a3e80ee2ad09d85775cb4462a5c19ed3",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.22.4.darwin-arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "242b78dc4c8f3d5435d28a0d2cec9b4c1aa999b601fb8aa59fb4e5a1364bf827",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.22.4.linux-386.tar.gz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "47a2a8d249a91eb8605c33bceec63aedda0441a43eac47b4721e3975ff916cec",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.22.4.linux-amd64.tar.gz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "ba79d4526102575196273416239cca418a651e049c2b099f3159db85e7bade7d",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.22.4.linux-arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "a8e177c354d2e4a1b61020aca3562e27ea3e8f8247eca3170e3fa1e0c2f9e771",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.22.4.linux-armv6l.tar.gz",
+      "Arch": "arm",
+      "Os": "linux",
+      "Sum": "e2b143fbacbc9cbd448e9ef41ac3981f0488ce849af1cf37e2341d09670661de",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.22.4.windows-386.zip",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "aca4e2c37278a10f1c70dd0df142f7d66b50334fcee48978d409202d308d6d25",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.22.4.windows-amd64.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "26321c4d945a0035d8a5bc4a1965b0df401ff8ceac66ce2daadabf9030419a98",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.22.4.aix-ppc64.tar.gz",
+      "Arch": "ppc64",
+      "Os": "aix",
+      "Sum": "b9647fa9fc83a0cc5d4f092a19eaeaecf45f063a5aa7d4962fde65aeb7ae6ce1",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.22.4.dragonfly-amd64.tar.gz",
+      "Arch": "amd64",
+      "Os": "dragonfly",
+      "Sum": "f2fbb51af4719d3616efb482d6ed2b96579b474156f85a7ddc6f126764feec4b",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.22.4.freebsd-386.tar.gz",
+      "Arch": "386",
+      "Os": "freebsd",
+      "Sum": "7c54884bb9f274884651d41e61d1bc12738863ad1497e97ea19ad0e9aa6bf7b5",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.22.4.freebsd-amd64.tar.gz",
+      "Arch": "amd64",
+      "Os": "freebsd",
+      "Sum": "88d44500e1701dd35797619774d6dd51bf60f45a8338b0a82ddc018e4e63fb78",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.22.4.freebsd-arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "freebsd",
+      "Sum": "726dc093cf020277be45debf03c3b02b43c2efb3e2a5d4fba8f52579d65327dc",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.22.4.freebsd-arm.tar.gz",
+      "Arch": "arm",
+      "Os": "freebsd",
+      "Sum": "3d9efe47db142a22679aba46b1772e3900b0d87ae13bd2b3bc80dbf2ac0b2cd6",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.22.4.freebsd-riscv64.tar.gz",
+      "Arch": "riscv64",
+      "Os": "freebsd",
+      "Sum": "5f6b67e5e32f1d6ccb2d4dcb44934a5e2e870a877ba7443d86ec43cfc28afa71",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.22.4.illumos-amd64.tar.gz",
+      "Arch": "amd64",
+      "Os": "illumos",
+      "Sum": "d56ecc2f85b6418a21ef83879594d0c42ab4f65391a676bb12254870e6690d63",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.22.4.linux-loong64.tar.gz",
+      "Arch": "loong64",
+      "Os": "linux",
+      "Sum": "e2ff9436e4b34bf6926b06d97916e26d67a909a2effec17967245900f0816f1d",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.22.4.linux-mips.tar.gz",
+      "Arch": "mips",
+      "Os": "linux",
+      "Sum": "73f0dcc60458c4770593b05a7bc01cc0d31fc98f948c0c2334812c7a1f2fc3f1",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.22.4.linux-mips64.tar.gz",
+      "Arch": "mips64",
+      "Os": "linux",
+      "Sum": "417af97fc2630a647052375768be4c38adcc5af946352ea5b28613ea81ca5d45",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.22.4.linux-mips64le.tar.gz",
+      "Arch": "mips64le",
+      "Os": "linux",
+      "Sum": "7486e2d7dd8c98eb44df815ace35a7fe7f30b7c02326e3741bd934077508139b",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.22.4.linux-mipsle.tar.gz",
+      "Arch": "mipsle",
+      "Os": "linux",
+      "Sum": "69479c8aad301e459a8365b40cad1074a0dbba5defb9291669f94809c4c4be6e",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.22.4.linux-ppc64.tar.gz",
+      "Arch": "ppc64",
+      "Os": "linux",
+      "Sum": "dd238847e65bc3e2745caca475a5db6522a2fcf85cf6c38fc36a06642b19efd7",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.22.4.linux-ppc64le.tar.gz",
+      "Arch": "ppc64le",
+      "Os": "linux",
+      "Sum": "a3e5834657ef92523f570f798fed42f1f87bc18222a16815ec76b84169649ec4",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.22.4.linux-riscv64.tar.gz",
+      "Arch": "riscv64",
+      "Os": "linux",
+      "Sum": "56a827ff7dc6245bcd7a1e9288dffaa1d8b0fd7468562264c1523daf3b4f1b4a",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.22.4.linux-s390x.tar.gz",
+      "Arch": "s390x",
+      "Os": "linux",
+      "Sum": "7590c3e278e2dc6040aae0a39da3ca1eb2e3921673a7304cc34d588c45889eec",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.22.4.netbsd-386.tar.gz",
+      "Arch": "386",
+      "Os": "netbsd",
+      "Sum": "ddd2eebe34471a2502de6c5dad04ab27c9fc80cbde7a9ad5b3c66ecec4504e1d",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.22.4.netbsd-amd64.tar.gz",
+      "Arch": "amd64",
+      "Os": "netbsd",
+      "Sum": "33af79f6f935f6fbacc5d23876450b3567b79348fc065beef8e64081127dd234",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.22.4.netbsd-arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "netbsd",
+      "Sum": "c9a2971dec9f6d320c6f2b049b2353c6d0a2d35e87b8a4b2d78a2f0d62545f8e",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.22.4.netbsd-arm.tar.gz",
+      "Arch": "arm",
+      "Os": "netbsd",
+      "Sum": "fa3550ebd5375a70b3bcd342b5a71f4bd271dcbbfaf4eabefa2144ab5d8924b6",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.22.4.openbsd-386.tar.gz",
+      "Arch": "386",
+      "Os": "openbsd",
+      "Sum": "d21af022331bfdc2b5b161d616c3a1a4573d33cf7a30416ee509a8f3641deb47",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.22.4.openbsd-amd64.tar.gz",
+      "Arch": "amd64",
+      "Os": "openbsd",
+      "Sum": "72c0094c43f7e5722ec49c2a3e9dfa7a1123ac43a5f3a63eecf3e3795d3ff0ae",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.22.4.openbsd-arm64.tar.gz",
+      "Arch": "arm64",
+      "Os": "openbsd",
+      "Sum": "a7ab8d4e0b02bf06ed144ba42c61c0e93ee00f2b433415dfd4ad4b6e79f31650",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.22.4.openbsd-arm.tar.gz",
+      "Arch": "arm",
+      "Os": "openbsd",
+      "Sum": "1096831ea3c5ea3ca57d14251d9eda3786889531eb40d7d6775dcaa324d4b065",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.22.4.openbsd-ppc64.tar.gz",
+      "Arch": "ppc64",
+      "Os": "openbsd",
+      "Sum": "9716327c8a628358798898dc5148c49dbbeb5196bf2cbf088e550721a6e4f60b",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.22.4.plan9-386.tar.gz",
+      "Arch": "386",
+      "Os": "plan9",
+      "Sum": "a8dd4503c95c32a502a616ab78870a19889c9325fe9bd31eb16dd69346e4bfa8",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.22.4.plan9-amd64.tar.gz",
+      "Arch": "amd64",
+      "Os": "plan9",
+      "Sum": "5423a25808d76fe5aca8607a2e5ac5673abf45446b168cb5e9d8519ee9fe39a1",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.22.4.plan9-arm.tar.gz",
+      "Arch": "arm",
+      "Os": "plan9",
+      "Sum": "6af939ad583f5c85c09c53728ab7d38c3cc2b39167562d6c18a07c5c6608b370",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.22.4.solaris-amd64.tar.gz",
+      "Arch": "amd64",
+      "Os": "solaris",
+      "Sum": "e8cabe69c03085725afdb32a6f9998191a3e55a747b270d835fd05000d56abba",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.22.4.windows-arm64.zip",
+      "Arch": "arm64",
+      "Os": "windows",
+      "Sum": "8a2daa9ea28cbdafddc6171aefed384f4e5b6e714fb52116fe9ed25a132f37ed",
+      "SumType": "SHA256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://go.dev/dl/go1.22.4.windows-arm.zip",
+      "Arch": "arm",
+      "Os": "windows",
+      "Sum": "5fcd0671a49cecf39b41021621ee1b6e7aa1370f37122b72e80d4fd4185833b6",
       "SumType": "SHA256",
       "Extra": ""
     }
