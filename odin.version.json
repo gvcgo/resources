@@ -1,30 +1,4 @@
 {
-  "dev-2021-11": [
-    {
-      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2021-11/odin-macos-amd64-dev-2021-11.zip",
-      "Arch": "amd64",
-      "Os": "darwin",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2021-11/odin-ubuntu-amd64-dev-2021-11.zip",
-      "Arch": "amd64",
-      "Os": "linux",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    },
-    {
-      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2021-11/odin-windows-amd64-dev-2021-11.zip",
-      "Arch": "amd64",
-      "Os": "windows",
-      "Sum": "",
-      "SumType": "",
-      "Extra": ""
-    }
-  ],
   "dev-2021-12": [
     {
       "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2021-12/odin-macos-amd64-dev-2021-12.zip",
@@ -804,6 +778,40 @@
     },
     {
       "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2024-05/odin-windows-amd64-dev-2024-05.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
+  "dev-2024-06": [
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2024-06/odin-macos-amd64-dev-2024-06.zip",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2024-06/odin-macos-arm64-dev-2024-06.zip",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2024-06/odin-ubuntu-amd64-dev-2024-06.zip",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/odin-lang/Odin/releases/download/dev-2024-06/odin-windows-amd64-dev-2024-06.zip",
       "Arch": "amd64",
       "Os": "windows",
       "Sum": "",
