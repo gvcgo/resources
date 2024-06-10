@@ -207,6 +207,64 @@
       "Extra": ""
     }
   ],
+  "0.13.0": [
+    {
+      "Url": "https://github.com/zigtools/zls/releases/download/0.13.0/zls-aarch64-linux.tar.xz",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/zigtools/zls/releases/download/0.13.0/zls-aarch64-macos.tar.xz",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/zigtools/zls/releases/download/0.13.0/zls-x86-linux.tar.xz",
+      "Arch": "386",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/zigtools/zls/releases/download/0.13.0/zls-x86-windows.zip",
+      "Arch": "386",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/zigtools/zls/releases/download/0.13.0/zls-x86_64-linux.tar.xz",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/zigtools/zls/releases/download/0.13.0/zls-x86_64-macos.tar.xz",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    },
+    {
+      "Url": "https://github.com/zigtools/zls/releases/download/0.13.0/zls-x86_64-windows.zip",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "",
+      "SumType": "",
+      "Extra": ""
+    }
+  ],
   "0.2.0": [
     {
       "Url": "https://github.com/zigtools/zls/releases/download/0.2.0/i386-linux.tar.xz",
