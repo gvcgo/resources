@@ -1167,6 +1167,48 @@
       "Extra": ""
     }
   ],
+  "1.27.15": [
+    {
+      "Url": "https://dl.k8s.io/release/v1.27.15/bin/darwin/amd64/kubectl",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "8ceb9c7e9c78bb367699ac3af08da2fd452c74273c29bc03fbb1b063ca39bbf7",
+      "SumType": "sha256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://dl.k8s.io/release/v1.27.15/bin/darwin/arm64/kubectl",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "7210b5538b87ffb6f38cb148c79c0a7824d5540553e598ac362be8c8bceed681",
+      "SumType": "sha256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://dl.k8s.io/release/v1.27.15/bin/linux/amd64/kubectl",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "c12cf17ec30fb162f8f5fb168e67d4e5b7d6826e08c7648a5f1c6b4e9ba23f39",
+      "SumType": "sha256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://dl.k8s.io/release/v1.27.15/bin/linux/arm64/kubectl",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "6bd6bd3092c0a8e536e8e5a56b22aaab87ab1e54a4556ce4d1bff2493180fb8c",
+      "SumType": "sha256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://dl.k8s.io/release/v1.27.15/bin/windows/amd64/kubectl.exe",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "802279bf7b58b7357987863ec3c63522f68cf29526b0a9906251cef0f7ed7528",
+      "SumType": "sha256",
+      "Extra": ""
+    }
+  ],
   "1.27.2": [
     {
       "Url": "https://dl.k8s.io/release/v1.27.2/bin/darwin/amd64/kubectl",
@@ -1625,6 +1667,48 @@
       "Arch": "amd64",
       "Os": "windows",
       "Sum": "eddfbb875a7458a474b3b9ed089369baa8a782b9921be01ecb8abd4e9f1097d9",
+      "SumType": "sha256",
+      "Extra": ""
+    }
+  ],
+  "1.28.11": [
+    {
+      "Url": "https://dl.k8s.io/release/v1.28.11/bin/darwin/amd64/kubectl",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "0eb7314ee18185d9e4782f70e79b1554e5d787d8e4a590532ab90b64b94384ac",
+      "SumType": "sha256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://dl.k8s.io/release/v1.28.11/bin/darwin/arm64/kubectl",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "85f752c0ac9e7a560da57e904ef0dee310fe53fc6ad39c2e301b1dda4a21cf96",
+      "SumType": "sha256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://dl.k8s.io/release/v1.28.11/bin/linux/amd64/kubectl",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "1dba63e1a5c9520fc516c6e817924d927b9b83b8e08254c8fe2a2edb65da7a9c",
+      "SumType": "sha256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://dl.k8s.io/release/v1.28.11/bin/linux/arm64/kubectl",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "7984a98d52365d190b6f56caa962339a7228b6f432e58ba5f1b1e60dbedac275",
+      "SumType": "sha256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://dl.k8s.io/release/v1.28.11/bin/windows/amd64/kubectl.exe",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "83c7867c133e895cf5c97314145cf4daa1dbe5ffa4b344bbbc8687100fbf500f",
       "SumType": "sha256",
       "Extra": ""
     }
@@ -2217,6 +2301,48 @@
       "Extra": ""
     }
   ],
+  "1.29.6": [
+    {
+      "Url": "https://dl.k8s.io/release/v1.29.6/bin/darwin/amd64/kubectl",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "d6a844991d3853d9928a7593f583157403ea322ff712d7659b16e621fca00d79",
+      "SumType": "sha256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://dl.k8s.io/release/v1.29.6/bin/darwin/arm64/kubectl",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "0b7a3cd78503faf45c6506d594b586f58b9904ad48452466834397641d58d6f5",
+      "SumType": "sha256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://dl.k8s.io/release/v1.29.6/bin/linux/amd64/kubectl",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "339553c919874ebe3b719e9e1fcd68b55bc8875f9b5a005cf4c028738d54d309",
+      "SumType": "sha256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://dl.k8s.io/release/v1.29.6/bin/linux/arm64/kubectl",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "21816488cf3af4cf2b956ee58f7afc5b4964c29488f63756f5ddcf09b0df5be9",
+      "SumType": "sha256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://dl.k8s.io/release/v1.29.6/bin/windows/amd64/kubectl.exe",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "4c9cb51b40598f97bf2506da76d9482fa55e57adadaa49279e21e0cf6168ec18",
+      "SumType": "sha256",
+      "Extra": ""
+    }
+  ],
   "1.30.0": [
     {
       "Url": "https://dl.k8s.io/release/v1.30.0/bin/darwin/amd64/kubectl",
@@ -2299,44 +2425,86 @@
       "Sum": "f7391a2de0491caadedb5178ac2485cbf104189b2e0f3d6c577bd6ea1892898f",
       "SumType": "sha256",
       "Extra": ""
-    },
+    }
+  ],
+  "1.30.2": [
     {
-      "Url": "https://dl.k8s.io/release/v1.30.1/bin/darwin/amd64/kubectl",
+      "Url": "https://dl.k8s.io/release/v1.30.2/bin/darwin/amd64/kubectl",
       "Arch": "amd64",
       "Os": "darwin",
-      "Sum": "eaefb69cf908b7473d2dce0ba894c956b7e1ad5a4987a96d68a279f5597bb22d",
+      "Sum": "0371b7bcc060f533170ac6fb99bc9aa13fdf3fa005276e3eb14eed162ed8a3a9",
       "SumType": "sha256",
       "Extra": ""
     },
     {
-      "Url": "https://dl.k8s.io/release/v1.30.1/bin/darwin/arm64/kubectl",
+      "Url": "https://dl.k8s.io/release/v1.30.2/bin/darwin/arm64/kubectl",
       "Arch": "arm64",
       "Os": "darwin",
-      "Sum": "55dec3c52702bd68488a5c1ab840b79ea9e73e4b9f597bcf75b201c55d0bd280",
+      "Sum": "ffcba19e77b9521f5779ab32cfcd4bfcc9d20cd42c2f075c7c5aef83f32754ae",
       "SumType": "sha256",
       "Extra": ""
     },
     {
-      "Url": "https://dl.k8s.io/release/v1.30.1/bin/linux/amd64/kubectl",
+      "Url": "https://dl.k8s.io/release/v1.30.2/bin/linux/amd64/kubectl",
       "Arch": "amd64",
       "Os": "linux",
-      "Sum": "5b86f0b06e1a5ba6f8f00e2b01e8ed39407729c4990aeda961f83a586f975e8a",
+      "Sum": "c6e9c45ce3f82c90663e3c30db3b27c167e8b19d83ed4048b61c1013f6a7c66e",
       "SumType": "sha256",
       "Extra": ""
     },
     {
-      "Url": "https://dl.k8s.io/release/v1.30.1/bin/linux/arm64/kubectl",
+      "Url": "https://dl.k8s.io/release/v1.30.2/bin/linux/arm64/kubectl",
       "Arch": "arm64",
       "Os": "linux",
-      "Sum": "d90446719b815e3abfe7b2c46ddf8b3fda17599f03ab370d6e47b1580c0e869e",
+      "Sum": "56becf07105fbacd2b70f87f3f696cfbed226cb48d6d89ed7f65ba4acae3f2f8",
       "SumType": "sha256",
       "Extra": ""
     },
     {
-      "Url": "https://dl.k8s.io/release/v1.30.1/bin/windows/amd64/kubectl.exe",
+      "Url": "https://dl.k8s.io/release/v1.30.2/bin/windows/amd64/kubectl.exe",
       "Arch": "amd64",
       "Os": "windows",
-      "Sum": "f7391a2de0491caadedb5178ac2485cbf104189b2e0f3d6c577bd6ea1892898f",
+      "Sum": "59a5b1028f6e3aea046b103f9a787cf4d70067d554053f713d691b14df3d9bb4",
+      "SumType": "sha256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://dl.k8s.io/release/v1.30.2/bin/darwin/amd64/kubectl",
+      "Arch": "amd64",
+      "Os": "darwin",
+      "Sum": "0371b7bcc060f533170ac6fb99bc9aa13fdf3fa005276e3eb14eed162ed8a3a9",
+      "SumType": "sha256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://dl.k8s.io/release/v1.30.2/bin/darwin/arm64/kubectl",
+      "Arch": "arm64",
+      "Os": "darwin",
+      "Sum": "ffcba19e77b9521f5779ab32cfcd4bfcc9d20cd42c2f075c7c5aef83f32754ae",
+      "SumType": "sha256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://dl.k8s.io/release/v1.30.2/bin/linux/amd64/kubectl",
+      "Arch": "amd64",
+      "Os": "linux",
+      "Sum": "c6e9c45ce3f82c90663e3c30db3b27c167e8b19d83ed4048b61c1013f6a7c66e",
+      "SumType": "sha256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://dl.k8s.io/release/v1.30.2/bin/linux/arm64/kubectl",
+      "Arch": "arm64",
+      "Os": "linux",
+      "Sum": "56becf07105fbacd2b70f87f3f696cfbed226cb48d6d89ed7f65ba4acae3f2f8",
+      "SumType": "sha256",
+      "Extra": ""
+    },
+    {
+      "Url": "https://dl.k8s.io/release/v1.30.2/bin/windows/amd64/kubectl.exe",
+      "Arch": "amd64",
+      "Os": "windows",
+      "Sum": "59a5b1028f6e3aea046b103f9a787cf4d70067d554053f713d691b14df3d9bb4",
       "SumType": "sha256",
       "Extra": ""
     }
